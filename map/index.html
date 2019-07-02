@@ -25,7 +25,7 @@
 <body>
 
   <!-- Display the map and title with HTML division tags  -->
-  <div id="map-title">Louisiana State Parks</div>
+  <div id="map-title">Roof Reset Cases</br>July 1, 2019</div>
   <div id="map"></div>
 
   <!-- Create the map content with JavaScript (.js) -->
@@ -33,7 +33,7 @@
 
   /* Set up the map with initial center and zoom level */
   var map = L.map('map', {
-    center: [31.28, -92.45], // EDIT latitude, longitude re-center map Alexandria LA
+    center: [30.449988, -91.165866], // EDIT latitude, longitude re-center map Alexandria LA
     zoom: 8,  // EDIT from 1 to 18 -- decrease to zoom out, increase to zoom in
     scrollWheelZoom: true
   });
@@ -48,13 +48,14 @@
   var light = L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attribution">CARTO</a>'
   }).addTo(map); // EDIT - insert or remove ".addTo(map)" before last semicolon to display by default
-   controlLayers.addBaseLayer(light, 'Carto Light basemap');
+   // controlLayers.addBaseLayer(light, 'Carto Light basemap');
 
   /* Stamen colored terrain basemap tiles with labels */
-  var terrain = L.tileLayer('https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png', {
-    attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.'
-  }); // EDIT - insert or remove ".addTo(map)" before last semicolon to display by default
-   controlLayers.addBaseLayer(terrain, 'Stamen Terrain basemap');
+ // var terrain = L.tileLayer('https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png', {
+ //   attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.'
+  }); 
+  // EDIT - insert or remove ".addTo(map)" before last semicolon to display by default
+   // controlLayers.addBaseLayer(terrain, 'Stamen Terrain basemap');
 
   /* Display a blue point marker with pop-up text */
  // L.marker([41.77, -72.69]).addTo(map) // EDIT latitude, longitude to re-position marker
@@ -73,6 +74,6 @@
    controlLayers.addOverlay(customLayer, 'Markers from data.csv');
 
   </script>
-  <script src="Leaflet.Sleep.js"></script>
+//  <script src="Leaflet.Sleep.js"></script>
 </body>
 </html>
