@@ -1,0 +1,66 @@
+<html>
+<head>
+</head>
+<body>
+<div id="app">
+            <h1>Cases</h1>
+            <ul>
+                <li v-for="item in items">
+                    <h3>{{ item['fields']['ID'] }}</h3>
+                    <p>{{ item['fields']['Owner'] }}</p>
+					<p>{{ item['fields']['Case_Status'] }}</p>
+					<p>{{ item['fields']['Owner'] }}</p>
+                    <p>{{ item['fields']['latitude'] }}</p>
+					<p>{{ item['fields']['longitude'] }}</p>
+					<p>{{ item['fields']['contractor_name'] }}</p>
+                    <img :src="item['fields']['Photo of front'][0]['thumbnails']['large']['url']" alt="" v-if="item['fields']['Photo of front']" width="150">
+                </li>
+            </ul>            
+        </div><!--app-->
+
+<!-- Include Dependancy Scripts -->
+<script type="text/javascript" src="https://unpkg.com/vue"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.16.2/axios.min.js"></script>
+<script type="text/javascript">
+            var app = new Vue({
+                el: '#app',
+                data: {
+                    items: []
+                },
+                mounted: function(){
+                   this.loadItems(); 
+                },
+                methods: {
+                    loadItems: function(){
+                        
+                        // Init variables
+                        var self = this
+                        var app_id = "apphDZ0u4mSBz72NH"; // base key
+                        var api_key = "keyEylNiFZt2G6HGa";
+                        this.items = []
+axios.get(
+                            "https://api.airtable.com/v0/"+app_id+"/Menu?view=out-to-map",
+                            { 
+                                headers: { Authorization: "Bearer "+api_key } 
+                            }
+                        ).then(function(response){
+                            self.items = response.data.records
+                        }).catch(function(error){
+                            console.log(error)
+                        })
+                    }
+                }
+            })
+        </script>
+</body>
+</html>
+
+Airtable Roof Cases fields:
+ID
+Owner
+Case_Status
+FullPropertyAddress (redundant)
+Photo of front
+latitude
+longitude
+contractor_name
