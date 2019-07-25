@@ -1,9 +1,9 @@
 // create map and add mapbox
 var map = L.map('map', {attributionControl: false})
-map.setView([30.4, -91.1], 10);
+map.setView([30.4, -91.1], 12);
 
-// var credits = L.control.attribution().addTo(map);
-// credits.addAttribution('© <a href="https://www.mapbox.com/about/maps/">Mapbox</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> <strong><a // href="https://www.mapbox.com/map-feedback/" target="_blank">Improve this map</a></strong>');
+var credits = L.control.attribution().addTo(map);
+credits.addAttribution('&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attribution">CARTO</a>');
 
 // make and add basemap layer from mapbox | Deactivated by James
 // var mapbox_api_key = "pk.eyJ1IjoiZnJhbmthZG1pbiIsImEiOiJjajhvbW51NHYwNWI2MzNyejV4Y2s0aDN4In0.FSOtZl6iInZhjDUiS6Xscg"
