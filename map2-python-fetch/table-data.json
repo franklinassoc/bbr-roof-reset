@@ -1,26 +1,1508 @@
 {
- "records": [
-  {
-   "createdTime": "2018-10-31T15:05:41.000Z", 
-   "fields": {
-    "latitude": 29.9219284, 
-    "hours": "Mon-Sun: 7:00am - 7:00pm", 
-    "name": "Cafe Luna", 
-    "longitude": -90.1195671, 
-    "address": "802 1/2 Nashville Ave New Orleans, LA 70115"
-   }, 
-   "id": "recFAeMev4jBOhw5F"
-  }, 
-  {
-   "createdTime": "2018-10-31T15:50:22.000Z", 
-   "fields": {
-    "hours": "Mon-Sat: 9:00 am - 11:00 pm Sun: 10:00 am - 8:00 pm", 
-    "latitude": 30.3889878, 
-    "name": "American Market", 
-    "longitude": -91.1739802, 
-    "address": "5251 Nicholson Dr. Baton Rouge, LA 70820"
-   }, 
-   "id": "recotjHIRZpA73CmT"
+  "Cases": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "rec1XT0BPWfuRmzj5",
+        "properties": {
+          "Applicant_LastName": "Burkhalter",
+          "PropertyAddress_Line1": "3822 N Acadian Thruway East",
+          "Case_Status": "Queued",
+          "Requested_By": [
+            "recfk8RZSGi5ZwMNW"
+          ],
+          "Program": "Roofing - Emergency Program",
+          "Description": "case 96 Rehab program",
+          "GeocodeCache": "🔵 eyJpIjoiMzgyMiBOIEFjYWRpYW4gVGhydXdheSBFYXN0LCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMzgyMiBOIEFjYWRpYW4gVGhydXdheSwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ4Mzc4MzMsImxuZyI6LTkxLjE1NjQyNzV9LCJlIjoxNTY2NDE3NzQxMTE3fQ==",
+          "longitude": "-91.1564275",
+          "Photo of front": [
+            {
+              "id": "attF7QesGRUoQqXxM",
+              "url": "https://dl.airtable.com/.attachments/10623570b01af58010f9c95ab03e0168/6096ea64/3822_N_Acadian_Thwy_East.jpg",
+              "filename": "3822_N_Acadian_Thwy_East.jpg",
+              "size": 165330,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/4ec5e9078fe32e75e18dc834d52a4959/45ce9638",
+                  "width": 52,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/32df2ba220c2086499006fecd8f40005/a7da5de6",
+                  "width": 734,
+                  "height": 512
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/526a1bbf7f202206f00cf58bb54363b2/e1f8f825",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "RequestedDueDate": "2019-07-31",
+          "DateOrdered": "2019-07-03",
+          "Applicant_FirstName": "Patricia",
+          "AutoNum": 3,
+          "Contractor Name": [
+            "recQUZVQRMaOXvAUg"
+          ],
+          "Property_ZipCode": "70805",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 397-0858",
+          "latitude": "30.4837833",
+          "ID": "3_3822 N Acadian Thruway East_BURKHALTER",
+          "email-of-staff": [
+            "james@franklinassoc.com"
+          ],
+          "Owner": "Patricia Burkhalter",
+          "FullPropertyAddress": "3822 N Acadian Thruway East, Baton Rouge LA 70805",
+          "Owner Phone (7 digit)": "397-0858",
+          "contractor_name": "EDR Contruction",
+          "Inspection": "Completed"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "rec8oLfznTVJWPOpz",
+        "properties": {
+          "Applicant_LastName": "Carter",
+          "PropertyAddress_Line1": "3423 Dalton St",
+          "Case_Status": "Intake",
+          "Requested_By": [
+            "recfk8RZSGi5ZwMNW"
+          ],
+          "Program": "Roofing - Emergency Program",
+          "GeocodeCache": "🔵 eyJpIjoiMzQyMyBEYWx0b24gU3QsIEJhdG9uIFJvdWdlIExBIDcwODA1IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNDIzIERhbHRvbiBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ3NDE2NTc5OTk5OTk5LCJsbmciOi05MS4xNTUzMDI1fSwiZSI6MTU2NjQxNzc1MjM0M30=",
+          "longitude": "-91.1553025",
+          "Date Initial Inspection": "2019-03-18",
+          "Photo of front": [
+            {
+              "id": "attURAgoX6WOOiXt3",
+              "url": "https://dl.airtable.com/.attachments/18634f0ebf3985792fd8aedaa535745a/01dc5687/125_3423-DALTON.jpg",
+              "filename": "125_3423-DALTON.jpg",
+              "size": 77377,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/98e9e0198260bd21a98bc6226f7ae7ce/eb966765",
+                  "width": 50,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/beded5b14b3b0ecc7dc78220a0669ba3/eb823d50",
+                  "width": 714,
+                  "height": 512
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/a6a4a3cf855cdcc0a507b55e8d59d8da/10e6a827",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "Applicant_FirstName": "Juanita",
+          "AutoNum": 17,
+          "Property_ZipCode": "70805",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 356-7203",
+          "latitude": "30.4741658",
+          "ID": "17_3423 Dalton St_CARTER",
+          "email-of-staff": [
+            "james@franklinassoc.com"
+          ],
+          "Owner": "Juanita Carter",
+          "FullPropertyAddress": "3423 Dalton St, Baton Rouge LA 70805",
+          "Owner Phone (7 digit)": "356-7203",
+          "Inspection": "Completed",
+          "DateOrdered": "2019-07-25"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "rec9BVRG6VijcOavh",
+        "properties": {
+          "Applicant_LastName": "Conelious",
+          "PropertyAddress_Line1": "2510 Laurel St ",
+          "Case_Status": "Intake",
+          "Requested_By": [
+            "recauLE1grMkv8LYi"
+          ],
+          "Program": "Roofing Initiative",
+          "longitude": "-91.1625317",
+          "DateOrdered": "2019-07-24",
+          "Applicant_FirstName": "Henry ",
+          "AutoNum": 28,
+          "Property_ZipCode": "70802",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 692-1604",
+          "latitude": "30.4509329",
+          "ID": "28_2510 Laurel St _CONELIOUS",
+          "email-of-staff": [
+            "bclark@ebrra.org"
+          ],
+          "Owner": "Henry  Conelious",
+          "FullPropertyAddress": "2510 Laurel St , Baton Rouge LA 70802",
+          "Owner Phone (7 digit)": "692-1604",
+          "Inspection": "Requested"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recAOoOXAxqpN3RKf",
+        "properties": {
+          "Applicant_LastName": "Robertson",
+          "PropertyAddress_Line1": "3869 Pontiac St",
+          "Case_Status": "Intake",
+          "Requested_By": [
+            "recfk8RZSGi5ZwMNW"
+          ],
+          "Program": "Roofing - Emergency Program",
+          "GeocodeCache": "🔵 eyJpIjoiMzg2OSBQb250aWFjIFN0LCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMzg2OSBQb250aWFjIFN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDgzOTIsImxuZyI6LTkxLjE2NzY1MDZ9LCJlIjoxNTY2NDE3NzQ3MTgyfQ==",
+          "longitude": "-91.1676506",
+          "Date Initial Inspection": "2019-03-18",
+          "Photo of front": [
+            {
+              "id": "attfBxNzGyGhcdOoN",
+              "url": "https://dl.airtable.com/.attachments/0155712aa6356bf5148654f27ad2ef84/1e93aa0f/088_3869-PONTIAC.jpg",
+              "filename": "088_3869-PONTIAC.jpg",
+              "size": 100119,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d6386a80a54e92bc291b7d51beb54d7d/fbbad93a",
+                  "width": 52,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/fe087ce7fba19489b58be6001c1560d1/81e21025",
+                  "width": 739,
+                  "height": 512
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/c1ceeaae7318b704656acad73e8b9296/75cbffac",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "Applicant_FirstName": "Martha",
+          "AutoNum": 15,
+          "Property_ZipCode": "70805",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 357-5436",
+          "latitude": "30.48392",
+          "ID": "15_3869 Pontiac St_ROBERTSON",
+          "email-of-staff": [
+            "james@franklinassoc.com"
+          ],
+          "Owner": "Martha Robertson",
+          "FullPropertyAddress": "3869 Pontiac St, Baton Rouge LA 70805",
+          "Owner Phone (7 digit)": "357-5436",
+          "Inspection": "Completed",
+          "DateOrdered": "2019-07-25"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recATbNHmqDBSA0ct",
+        "properties": {
+          "Applicant_LastName": "Thomas",
+          "PropertyAddress_Line1": "3425 Adams Ave",
+          "Case_Status": "Intake",
+          "Requested_By": [
+            "recfk8RZSGi5ZwMNW"
+          ],
+          "Program": "Roofing - Emergency Program",
+          "GeocodeCache": "🔵 eyJpIjoiMzQyNSBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNDI1IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODAyLCBVU0EiLCJsYXQiOjMwLjQ2ODg4ODIsImxuZyI6LTkxLjE1NDkxNzJ9LCJlIjoxNTY2NDE3NzUxMzMwfQ==",
+          "longitude": "-91.1549172",
+          "Date Initial Inspection": "2019-03-21",
+          "Photo of front": [
+            {
+              "id": "attC4RZNpI8TAjQWt",
+              "url": "https://dl.airtable.com/.attachments/e5c858b86a86be55d25ce68f3f9adb4e/fc42275d/126_3425-ADAMS.jpg",
+              "filename": "126_3425-ADAMS.jpg",
+              "size": 100866,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9656bbf9504e08c1736445b80f9f51ed/979e638e",
+                  "width": 58,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/c05d3fac9e48b5aa99da048eb94967e6/be6ae126",
+                  "width": 773,
+                  "height": 482
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/c49ca91ea68de6d1a5625504c6ea2818/27381e1a",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "Applicant_FirstName": "Wanda",
+          "AutoNum": 18,
+          "Property_ZipCode": "70802",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(504) 430-3525",
+          "latitude": "30.4688882",
+          "ID": "18_3425 Adams Ave_THOMAS",
+          "email-of-staff": [
+            "james@franklinassoc.com"
+          ],
+          "Owner": "Wanda Thomas",
+          "FullPropertyAddress": "3425 Adams Ave, Baton Rouge LA 70802",
+          "Owner Phone (7 digit)": "430-3525",
+          "Inspection": "Completed",
+          "DateOrdered": "2019-07-25"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recBkCwT8Xl0hw9M2",
+        "properties": {
+          "Applicant_LastName": "Valentine",
+          "PropertyAddress_Line1": "8379 McClelland Dr",
+          "Case_Status": "Queued",
+          "Requested_By": [
+            "recfk8RZSGi5ZwMNW"
+          ],
+          "Program": "Roofing - Emergency Program",
+          "Description": "case 102 Rehab program",
+          "GeocodeCache": "🔵 eyJpIjoiODM3OSBNY0NsZWxsYW5kIERyLCBCYXRvbiBSb3VnZSBMQSA3MDgxMSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiODM3OSBNY0NsZWxsYW5kIERyLCBCYXRvbiBSb3VnZSwgTEEgNzA4MTEsIFVTQSIsImxhdCI6MzAuNTI0NjU0MiwibG5nIjotOTEuMTM3NjQ0NTk5OTk5OTl9LCJlIjoxNTY2NDE3NzQwMTkyfQ==",
+          "longitude": "-91.1376446",
+          "Photo of front": [
+            {
+              "id": "attEE92gnInB4zo10",
+              "url": "https://dl.airtable.com/.attachments/9d4f15be28d5443dcfa7dd595f9ad10f/9e90b87e/8379_McClelland_Dr.jpg",
+              "filename": "8379_McClelland_Dr.jpg",
+              "size": 75738,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/373fa581c0c8d4841ee39a9c070d1ce8/9fec9ed8",
+                  "width": 56,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/508885b0bbacfb01475fd1850e0aa2ab/1914bf8c",
+                  "width": 719,
+                  "height": 460
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/bbecde481ec3fec5b6a083468931b3ee/07dd928d",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "RequestedDueDate": "2019-07-31",
+          "DateOrdered": "2019-07-03",
+          "Applicant_FirstName": "Charmaine",
+          "AutoNum": 5,
+          "Contractor Name": [
+            "recQUZVQRMaOXvAUg"
+          ],
+          "Property_ZipCode": "70811",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 200-6770",
+          "latitude": "30.5246542",
+          "ID": "5_8379 McClelland Dr_VALENTINE",
+          "email-of-staff": [
+            "james@franklinassoc.com"
+          ],
+          "Owner": "Charmaine Valentine",
+          "FullPropertyAddress": "8379 McClelland Dr, Baton Rouge LA 70811",
+          "Owner Phone (7 digit)": "200-6770",
+          "contractor_name": "EDR Contruction",
+          "Inspection": "Completed"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recDlWKKLCAnWAaAb",
+        "properties": {
+          "Applicant_LastName": "Bynum",
+          "PropertyAddress_Line1": "5852 St. Gerard Ave ",
+          "Case_Status": "Intake",
+          "Requested_By": [
+            "recauLE1grMkv8LYi"
+          ],
+          "Program": "Roofing Initiative",
+          "longitude": "-91.1319009",
+          "DateOrdered": "2019-07-24",
+          "Applicant_FirstName": "Angela",
+          "AutoNum": 22,
+          "Property_ZipCode": "70805",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 615-4947",
+          "latitude": "30.4958622",
+          "ID": "22_5852 St. Gerard Ave _BYNUM",
+          "email-of-staff": [
+            "bclark@ebrra.org"
+          ],
+          "Owner": "Angela Bynum",
+          "FullPropertyAddress": "5852 St. Gerard Ave , Baton Rouge LA 70805",
+          "Owner Phone (7 digit)": "615-4947",
+          "Inspection": "Requested"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recFg2oaJxVFsNPHW",
+        "properties": {
+          "Applicant_LastName": "Doyle",
+          "PropertyAddress_Line1": "2358 Valley St",
+          "Case_Status": "Intake",
+          "Requested_By": [
+            "recfk8RZSGi5ZwMNW"
+          ],
+          "Program": "Roofing - Emergency Program",
+          "GeocodeCache": "🔵 eyJpIjoiMjM1OCBWYWxsZXkgU3QsIEJhdG9uIFJvdWdlIExBIDcwODA4IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIyMzU4IFZhbGxleSBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA4LCBVU0EiLCJsYXQiOjMwLjQyNjk2NTEsImxuZyI6LTkxLjE0NDc2Njg5OTk5OTk4fSwiZSI6MTU2NjQxNzc0ODI0M30=",
+          "longitude": "-91.1447669",
+          "Date Initial Inspection": "2019-02-18",
+          "Photo of front": [
+            {
+              "id": "attZv88kPFNEE9t89",
+              "url": "https://dl.airtable.com/.attachments/179a99b4eb702e912992dafa4efba190/587bd7d6/075_2358-VALLEY-ST.jpg",
+              "filename": "075_2358-VALLEY-ST.jpg",
+              "size": 98985,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/13575dd9ca7fe3f8a7c24aea98f9fb0a/6350da46",
+                  "width": 49,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/55f71da2b85952641cca89b0ef94451c/39749150",
+                  "width": 704,
+                  "height": 512
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/238d545f8f0facbc0d11028e55138963/f16cc1ee",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "Applicant_FirstName": "Delouise",
+          "AutoNum": 12,
+          "Property_ZipCode": "70808",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 333-0547",
+          "latitude": "30.4269651",
+          "ID": "12_2358 Valley St_DOYLE",
+          "email-of-staff": [
+            "james@franklinassoc.com"
+          ],
+          "Owner": "Delouise Doyle",
+          "FullPropertyAddress": "2358 Valley St, Baton Rouge LA 70808",
+          "Owner Phone (7 digit)": "333-0547",
+          "Inspection": "Completed",
+          "DateOrdered": "2019-07-25"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recGRjuAJeYk0xgab",
+        "properties": {
+          "Applicant_LastName": "Hollins",
+          "PropertyAddress_Line1": "2843 72nd Ave",
+          "Case_Status": "Queued",
+          "Requested_By": [
+            "recfk8RZSGi5ZwMNW"
+          ],
+          "Program": "Roofing - Emergency Program",
+          "Description": "case 104 Rehab program",
+          "GeocodeCache": "🔵 eyJpIjoiMjg0MyA3Mm5kIEF2ZSwgQmF0b24gUm91Z2UgTEEgNzA4MDciLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjI4NDMgNzJuZCBBdmUsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNywgVVNBIiwibGF0IjozMC41MTQ5MDUsImxuZyI6LTkxLjE2MjA5MDE5OTk5OTk3fSwiZSI6MTU2NjQxNzc0OTIyNX0=",
+          "longitude": "-91.1620902",
+          "Photo of front": [
+            {
+              "id": "attTM5ClNKx2IuGxr",
+              "url": "https://dl.airtable.com/.attachments/1de613da695bb87c06dbfca738e3435a/0ce74ccd/2843_72nd_Ave.jpg",
+              "filename": "2843_72nd_Ave.jpg",
+              "size": 70041,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/839cdd6b54fce35d719eeeded1b734c6/898e6ecc",
+                  "width": 56,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/a60374845cf97fa0d0b1eb09f22433c0/311b8e4c",
+                  "width": 724,
+                  "height": 464
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3f9eeaa003485d16fcbf69bba6eead52/1532b6a2",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "RequestedDueDate": "2019-07-31",
+          "DateOrdered": "2019-07-03",
+          "Applicant_FirstName": "Maggie",
+          "AutoNum": 7,
+          "Contractor Name": [
+            "reck2e1ecRQQmOpn5"
+          ],
+          "Property_ZipCode": "70807",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 773-3404",
+          "latitude": "30.514905",
+          "ID": "7_2843 72nd Ave_HOLLINS",
+          "email-of-staff": [
+            "james@franklinassoc.com"
+          ],
+          "Owner": "Maggie Hollins",
+          "FullPropertyAddress": "2843 72nd Ave, Baton Rouge LA 70807",
+          "Owner Phone (7 digit)": "773-3404",
+          "contractor_name": "Redstick Remodeling",
+          "Inspection": "Completed"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recHGw800QjCMGyog",
+        "properties": {
+          "Applicant_LastName": "Anderson",
+          "PropertyAddress_Line1": "6655 Brownfields Dr",
+          "Case_Status": "Queued",
+          "Requested_By": [
+            "recfk8RZSGi5ZwMNW"
+          ],
+          "Program": "Roofing - Emergency Program",
+          "Description": "case 94 Rehab program",
+          "GeocodeCache": "🔵 eyJpIjoiNjY1NSBCcm93bmZpZWxkcyBEciwgQmF0b24gUm91Z2UgTEEgNzA4MTEiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjY2NTUgQnJvd25maWVsZHMgRHIsIEJhdG9uIFJvdWdlLCBMQSA3MDgxMSwgVVNBIiwibGF0IjozMC41NTYwMzgxLCJsbmciOi05MS4xMjIzNTQ3MDAwMDAwMn0sImUiOjE1NjY0MTc3NDMwMzV9",
+          "longitude": "-91.1223547",
+          "Photo of front": [
+            {
+              "id": "attFInGceqN3cogpa",
+              "url": "https://dl.airtable.com/.attachments/1d7ee2902b078af913383bc2041201cb/46b297a7/6655_Brownfields.jpg",
+              "filename": "6655_Brownfields.jpg",
+              "size": 78804,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/77207e32f38d738689473b2b911a95c7/f0582e97",
+                  "width": 48,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d5fcff58558863334c923875b28ff0c2/5fa1afdb",
+                  "width": 680,
+                  "height": 512
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3938aa1cf26d2e28f7aada51da77efc6/ca268550",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "RequestedDueDate": "2019-07-31",
+          "DateOrdered": "2019-07-03",
+          "Applicant_FirstName": "Lucille",
+          "AutoNum": 1,
+          "Contractor Name": [
+            "reck2e1ecRQQmOpn5"
+          ],
+          "Property_ZipCode": "70811",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 775-6272",
+          "latitude": "30.5560381",
+          "ID": "1_6655 Brownfields Dr_ANDERSON",
+          "email-of-staff": [
+            "james@franklinassoc.com"
+          ],
+          "Owner": "Lucille Anderson",
+          "FullPropertyAddress": "6655 Brownfields Dr, Baton Rouge LA 70811",
+          "Owner Phone (7 digit)": "775-6272",
+          "contractor_name": "Redstick Remodeling",
+          "Inspection": "Completed"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recIdLNKa3J8gYszy",
+        "properties": {
+          "Applicant_LastName": "Harris",
+          "PropertyAddress_Line1": "5336 Adams Ave",
+          "Case_Status": "Queued",
+          "Requested_By": [
+            "recfk8RZSGi5ZwMNW"
+          ],
+          "Program": "Roofing - Emergency Program",
+          "Description": "case 114 Rehab program",
+          "GeocodeCache": "🔵 eyJpIjoiNTMzNiBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODA2IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI1MzM2IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODA2LCBVU0EiLCJsYXQiOjMwLjQ2OTI5NTksImxuZyI6LTkxLjEzNTk1Nzl9LCJlIjoxNTY2NDE3NzU3OTc1fQ==",
+          "longitude": "-91.1359579",
+          "Photo of front": [
+            {
+              "id": "attkZtnrMUo497P1m",
+              "url": "https://dl.airtable.com/.attachments/fabb3be3c8ceb5b568f9514aaa7fa96e/43de9377/5336_Adams_Ave.jpg",
+              "filename": "5336_Adams_Ave.jpg",
+              "size": 44209,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/2c9677201e59ff59a2938bf7cc7375ca/78f9b359",
+                  "width": 61,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/bb68be1ac4b0021243ca9eb96a059447/821b9b2d",
+                  "width": 526,
+                  "height": 309
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/0896aa58b079fa82268ead8825f986d7/c777d40c",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "RequestedDueDate": "2019-07-31",
+          "DateOrdered": "2019-07-03",
+          "Applicant_FirstName": "Dianne",
+          "AutoNum": 10,
+          "Contractor Name": [
+            "recN6hhn7SFQIJ1XI"
+          ],
+          "Property_ZipCode": "70806",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 356-9008",
+          "latitude": "30.4692959",
+          "ID": "10_5336 Adams Ave_HARRIS",
+          "email-of-staff": [
+            "james@franklinassoc.com"
+          ],
+          "Owner": "Dianne Harris",
+          "FullPropertyAddress": "5336 Adams Ave, Baton Rouge LA 70806",
+          "Owner Phone (7 digit)": "356-9008",
+          "contractor_name": "Public Construction Inc.",
+          "Inspection": "Completed"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recOdRlxO7NWHjdS6",
+        "properties": {
+          "Applicant_LastName": "Tillman",
+          "PropertyAddress_Line1": "1745 N 18th Street",
+          "Case_Status": "Queued",
+          "Requested_By": [
+            "recfk8RZSGi5ZwMNW"
+          ],
+          "Program": "Roofing - Emergency Program",
+          "Description": "case 97 Rehab program",
+          "GeocodeCache": "🔵 eyJpIjoiMTc0NSBOIDE4dGggU3RyZWV0LCBCYXRvbiBSb3VnZSBMQSA3MDgwMiIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMTc0NSBOIDE4dGggU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NjM4OTkyLCJsbmciOi05MS4xNzE0NjczOTk5OTk5OH0sImUiOjE1NjY0MTc3NTkwOTF9",
+          "longitude": "-91.1714674",
+          "Photo of front": [
+            {
+              "id": "attWCxluZtTvtY3pr",
+              "url": "https://dl.airtable.com/.attachments/aa00e3f4b62eaddac5a64b3ddf5fc51d/1ca28359/1745_N_18th_St.jpg",
+              "filename": "1745_N_18th_St.jpg",
+              "size": 67333,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/2edb651a612a2179997ac6b20a711972/44988893",
+                  "width": 56,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/728f2cf475fd85ca13ecce05ba00a69a/0b0910e9",
+                  "width": 557,
+                  "height": 358
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/92c1f3908b376eac02705801c9c347ab/60045ee4",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "RequestedDueDate": "2019-07-31",
+          "DateOrdered": "2019-07-03",
+          "Applicant_FirstName": "Minnie Lee",
+          "AutoNum": 4,
+          "Contractor Name": [
+            "recT4RWARnMszNoI0"
+          ],
+          "Property_ZipCode": "70802",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 228-8989",
+          "latitude": "30.4638992",
+          "ID": "4_1745 N 18th Street_TILLMAN",
+          "email-of-staff": [
+            "james@franklinassoc.com"
+          ],
+          "Owner": "Minnie Lee Tillman",
+          "FullPropertyAddress": "1745 N 18th Street, Baton Rouge LA 70802",
+          "Owner Phone (7 digit)": "228-8989",
+          "contractor_name": "Go Day Enterprises",
+          "Inspection": "Completed"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recRQFxMl2sGlBSxj",
+        "properties": {
+          "Applicant_LastName": "Scott",
+          "PropertyAddress_Line1": "3027 Newton St ",
+          "Case_Status": "Intake",
+          "Requested_By": [
+            "recauLE1grMkv8LYi"
+          ],
+          "Program": "Roofing Initiative",
+          "longitude": "-91.158484",
+          "DateOrdered": "2019-07-24",
+          "Applicant_FirstName": "Geraldine",
+          "AutoNum": 29,
+          "Property_ZipCode": "70802",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 938-1738",
+          "latitude": "30.458692",
+          "ID": "29_3027 Newton St _SCOTT",
+          "email-of-staff": [
+            "bclark@ebrra.org"
+          ],
+          "Owner": "Geraldine Scott",
+          "FullPropertyAddress": "3027 Newton St , Baton Rouge LA 70802",
+          "Owner Phone (7 digit)": "938-1738",
+          "Inspection": "Requested"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recacOJvwVNL7miAy",
+        "properties": {
+          "Applicant_LastName": "Hayes",
+          "PropertyAddress_Line1": "3563 Wyandotte St",
+          "Case_Status": "Intake",
+          "Requested_By": [
+            "recfk8RZSGi5ZwMNW"
+          ],
+          "Program": "Roofing - Emergency Program",
+          "GeocodeCache": "🔵 eyJpIjoiMzU2MyBXeWFuZG90dGUgU3QsIEJhdG9uIFJvdWdlIExBIDcwODA1IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNTYzIFd5YW5kb3R0ZSBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ4MjYzNDUsImxuZyI6LTkxLjE1NDA2NTEwMDAwMDAzfSwiZSI6MTU2NjQxNzc0NDk4OX0=",
+          "longitude": "-91.1540651",
+          "Date Initial Inspection": "2019-03-08",
+          "Photo of front": [
+            {
+              "id": "att13323x9CZ8lOfL",
+              "url": "https://dl.airtable.com/.attachments/8085d9eda1c4c0e20dc4364c8e926933/25bfcda1/081_3563-WYANDOTTE.jpg",
+              "filename": "081_3563-WYANDOTTE.jpg",
+              "size": 112214,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/40dd713f256e19441c129bed0d40b603/d4d25e8a",
+                  "width": 56,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/1d26ae499ffef49e04c7c6ee64106dfc/f718eeb9",
+                  "width": 773,
+                  "height": 500
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3d82f03c5664d7e2d1e9b94f6887f62f/5a008dea",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "Applicant_FirstName": "Yolanda",
+          "AutoNum": 13,
+          "Property_ZipCode": "70805",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 746-3126",
+          "latitude": "30.4826345",
+          "ID": "13_3563 Wyandotte St_HAYES",
+          "email-of-staff": [
+            "james@franklinassoc.com"
+          ],
+          "Owner": "Yolanda Hayes",
+          "FullPropertyAddress": "3563 Wyandotte St, Baton Rouge LA 70805",
+          "Owner Phone (7 digit)": "746-3126",
+          "Inspection": "Completed",
+          "DateOrdered": "2019-07-25"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recerPolifk0lkivK",
+        "properties": {
+          "Applicant_LastName": "Beals ",
+          "PropertyAddress_Line1": "2980 Sherwood St. ",
+          "Case_Status": "Intake",
+          "Program": "Roofing Initiative",
+          "longitude": "-91.1598192",
+          "DateOrdered": "2019-07-17",
+          "Applicant_FirstName": "Lois ",
+          "AutoNum": 21,
+          "Property_ZipCode": "70805",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 444-7447",
+          "latitude": "30.4894903",
+          "ID": "21_2980 Sherwood St. _BEALS ",
+          "Owner": "Lois  Beals ",
+          "FullPropertyAddress": "2980 Sherwood St. , Baton Rouge LA 70805",
+          "Owner Phone (7 digit)": "444-7447",
+          "Inspection": "Requested"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recfqzk8oUE9xckmu",
+        "properties": {
+          "Applicant_LastName": "Christopher",
+          "PropertyAddress_Line1": "2950 Linwood St ",
+          "Case_Status": "Intake",
+          "Requested_By": [
+            "recauLE1grMkv8LYi"
+          ],
+          "Program": "Roofing Initiative",
+          "longitude": "-91.1729684",
+          "DateOrdered": "2019-07-24",
+          "Applicant_FirstName": "Willie ",
+          "AutoNum": 23,
+          "Property_ZipCode": "70805",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 614-0898",
+          "latitude": "30.4745057",
+          "ID": "23_2950 Linwood St _CHRISTOPHER",
+          "email-of-staff": [
+            "bclark@ebrra.org"
+          ],
+          "Owner": "Willie  Christopher",
+          "FullPropertyAddress": "2950 Linwood St , Baton Rouge LA 70805",
+          "Owner Phone (7 digit)": "614-0898",
+          "Inspection": "Requested"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recgvyny8TRn1Y7ie",
+        "properties": {
+          "Applicant_LastName": "Watson ",
+          "PropertyAddress_Line1": "2548 Hollywood St. ",
+          "Case_Status": "Intake",
+          "Requested_By": [
+            "recauLE1grMkv8LYi"
+          ],
+          "Program": "Roofing Initiative",
+          "longitude": "-91.1649032",
+          "DateOrdered": "2019-07-24",
+          "Applicant_FirstName": "Alfreda ",
+          "AutoNum": 25,
+          "Property_ZipCode": "70805",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 407-6638",
+          "latitude": "30.4991377",
+          "ID": "25_2548 Hollywood St. _WATSON ",
+          "email-of-staff": [
+            "bclark@ebrra.org"
+          ],
+          "Owner": "Alfreda  Watson ",
+          "FullPropertyAddress": "2548 Hollywood St. , Baton Rouge LA 70805",
+          "Owner Phone (7 digit)": "407-6638",
+          "Inspection": "Requested"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recl9IgXlCM4l2lxc",
+        "properties": {
+          "Applicant_LastName": "Ealem",
+          "PropertyAddress_Line1": "3940 Oswego St",
+          "Case_Status": "Intake",
+          "Requested_By": [
+            "recfk8RZSGi5ZwMNW"
+          ],
+          "Program": "Roofing - Emergency Program",
+          "GeocodeCache": "🔵 eyJpIjoiMzk0MCBPc3dlZ28gU3QsIEJhdG9uIFJvdWdlIExBIDcwODA1IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzOTQwIE9zd2VnbyBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ4MDQ2NDEsImxuZyI6LTkxLjE1MDIwMzF9LCJlIjoxNTY2NDE3NzU2ODQxfQ==",
+          "longitude": "-91.1502031",
+          "Date Initial Inspection": "2019-03-09",
+          "Photo of front": [
+            {
+              "id": "attllEuCxN89FKLl8",
+              "url": "https://dl.airtable.com/.attachments/860b0535bcd26e47be57f817ff662116/37a0fb62/086_3940-OSWEGO.jpg",
+              "filename": "086_3940-OSWEGO.jpg",
+              "size": 85680,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/c7251232283763f4710ea70f480310e5/534e6f40",
+                  "width": 61,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9d791a384326c6afd93036393a691eb4/4ee7294c",
+                  "width": 765,
+                  "height": 448
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3576c090045298d35f03a61e4bf1c1f7/7b82f5ec",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "Applicant_FirstName": "Elizabeth",
+          "AutoNum": 14,
+          "Property_ZipCode": "70805",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 746-3126",
+          "latitude": "30.4804641",
+          "ID": "14_3940 Oswego St_EALEM",
+          "email-of-staff": [
+            "james@franklinassoc.com"
+          ],
+          "Owner": "Elizabeth Ealem",
+          "FullPropertyAddress": "3940 Oswego St, Baton Rouge LA 70805",
+          "Owner Phone (7 digit)": "746-3126",
+          "Inspection": "Completed",
+          "DateOrdered": "2019-07-25"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recoCdVDZ6PjNQhnh",
+        "properties": {
+          "Applicant_LastName": "Gray",
+          "PropertyAddress_Line1": "2005 Nth 16th Street ",
+          "Case_Status": "Intake",
+          "Requested_By": [
+            "recauLE1grMkv8LYi"
+          ],
+          "Program": "Roofing Initiative",
+          "longitude": "-91.1736432",
+          "DateOrdered": "2019-07-24",
+          "Applicant_FirstName": "Theresa",
+          "AutoNum": 30,
+          "Property_ZipCode": "70802",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 772-4256",
+          "latitude": "30.4657694",
+          "ID": "30_2005 Nth 16th Street _GRAY",
+          "email-of-staff": [
+            "bclark@ebrra.org"
+          ],
+          "Owner": "Theresa Gray",
+          "FullPropertyAddress": "2005 Nth 16th Street , Baton Rouge LA 70802",
+          "Owner Phone (7 digit)": "772-4256",
+          "Inspection": "Requested"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recoqdOjSJgmpiobK",
+        "properties": {
+          "Applicant_LastName": "Davis",
+          "PropertyAddress_Line1": "2041 West Belfair Dr. ",
+          "Case_Status": "Intake",
+          "Requested_By": [
+            "recauLE1grMkv8LYi"
+          ],
+          "Program": "Roofing Initiative",
+          "longitude": "-91.1469413",
+          "DateOrdered": "2019-07-24",
+          "Applicant_FirstName": "Celestine",
+          "AutoNum": 24,
+          "Property_ZipCode": "70805",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 357-4498",
+          "latitude": "30.4667707",
+          "ID": "24_2041 West Belfair Dr. _DAVIS",
+          "email-of-staff": [
+            "bclark@ebrra.org"
+          ],
+          "Owner": "Celestine Davis",
+          "FullPropertyAddress": "2041 West Belfair Dr. , Baton Rouge LA 70805",
+          "Owner Phone (7 digit)": "357-4498",
+          "Inspection": "Requested"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recpV4AYc72BHNSoH",
+        "properties": {
+          "Applicant_LastName": "Salim",
+          "PropertyAddress_Line1": "315 Adams Ave",
+          "Case_Status": "Intake",
+          "Requested_By": [
+            "recauLE1grMkv8LYi"
+          ],
+          "Program": "Roofing Initiative",
+          "longitude": "-91.1501592",
+          "DateOrdered": "2019-07-24",
+          "Applicant_FirstName": "Helen",
+          "AutoNum": 27,
+          "Property_ZipCode": "70802",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 953-4322",
+          "latitude": "30.468843",
+          "ID": "27_315 Adams Ave_SALIM",
+          "email-of-staff": [
+            "bclark@ebrra.org"
+          ],
+          "Owner": "Helen Salim",
+          "FullPropertyAddress": "315 Adams Ave, Baton Rouge LA 70802",
+          "Owner Phone (7 digit)": "953-4322",
+          "Inspection": "None"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recpXrPhlpFDxjNx7",
+        "properties": {
+          "Applicant_LastName": "Ketchens",
+          "PropertyAddress_Line1": "3645 Evangeline St",
+          "Case_Status": "Queued",
+          "Requested_By": [
+            "recfk8RZSGi5ZwMNW"
+          ],
+          "Program": "Roofing - Emergency Program",
+          "Description": "case 103 Rehab program",
+          "GeocodeCache": "🔵 eyJpIjoiMzY0NSBFdmFuZ2VsaW5lIFN0LCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMzY0NSBFdmFuZ2VsaW5lIFN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDkyOTg3OTk5OTk5OTksImxuZyI6LTkxLjE1MzI3NzY5OTk5OTk5fSwiZSI6MTU2NjQxNzc1NTcxNn0=",
+          "longitude": "-91.1532777",
+          "Photo of front": [
+            {
+              "id": "atttF0yzlhBNb1wHa",
+              "url": "https://dl.airtable.com/.attachments/723e18357541d5a5aa929a701f0b88a5/22ded9b7/3645_Evangeline.jpg",
+              "filename": "3645_Evangeline.jpg",
+              "size": 70564,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/39421d052545980e507f403c909d855f/39c32ec6",
+                  "width": 63,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/7bed4332ee40782ee9508d6270c49c7f/ba69d6ef",
+                  "width": 718,
+                  "height": 413
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/c6ee7b5976d925685bb81282119e761f/058d17c0",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "RequestedDueDate": "2019-07-31",
+          "DateOrdered": "2019-07-03",
+          "Applicant_FirstName": "Peter",
+          "AutoNum": 6,
+          "Contractor Name": [
+            "recN6hhn7SFQIJ1XI"
+          ],
+          "Property_ZipCode": "70805",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 937-6093",
+          "latitude": "30.492988",
+          "ID": "6_3645 Evangeline St_KETCHENS",
+          "email-of-staff": [
+            "james@franklinassoc.com"
+          ],
+          "Owner": "Peter Ketchens",
+          "FullPropertyAddress": "3645 Evangeline St, Baton Rouge LA 70805",
+          "Owner Phone (7 digit)": "937-6093",
+          "contractor_name": "Public Construction Inc.",
+          "Inspection": "Completed"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recpfd2ZhPjtsNVdv",
+        "properties": {
+          "Applicant_LastName": "Harris",
+          "PropertyAddress_Line1": "3560 Dalton St",
+          "Case_Status": "Queued",
+          "Requested_By": [
+            "recfk8RZSGi5ZwMNW"
+          ],
+          "Program": "Roofing - Emergency Program",
+          "Description": "case 95 Rehab program",
+          "GeocodeCache": "🔵 eyJpIjoiMzU2MCBEYWx0b24gU3QsIEJhdG9uIFJvdWdlIExBIDcwODA1IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNTYwIERhbHRvbiBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ3MzgxNjc5OTk5OTk5LCJsbmciOi05MS4xNTQwNjUxMDAwMDAwM30sImUiOjE1NjY0MTc3NTAyODF9",
+          "longitude": "-91.1540651",
+          "Photo of front": [
+            {
+              "id": "attlFCwtF5MxVPyax",
+              "url": "https://dl.airtable.com/.attachments/037ffe6c73b57fa96815e7301e1c392c/42a6e1e4/3560_Dalton.jpg",
+              "filename": "3560_Dalton.jpg",
+              "size": 74789,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/c0871eef2c862f7420451d971814bcde/c325aa17",
+                  "width": 48,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/79c4785853de2cff9166ee6d3de5db0c/c15d4b77",
+                  "width": 564,
+                  "height": 424
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/290d5f61e74a91a09915ef3c8ffa597b/47d8baa7",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "RequestedDueDate": "2019-07-31",
+          "DateOrdered": "2019-07-03",
+          "Applicant_FirstName": "Janice",
+          "AutoNum": 2,
+          "Contractor Name": [
+            "recSiY21mfIlA9zfG"
+          ],
+          "Property_ZipCode": "70805",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 357-7930",
+          "latitude": "30.4738168",
+          "ID": "2_3560 Dalton St_HARRIS",
+          "email-of-staff": [
+            "james@franklinassoc.com"
+          ],
+          "Owner": "Janice Harris",
+          "FullPropertyAddress": "3560 Dalton St, Baton Rouge LA 70805",
+          "Owner Phone (7 digit)": "357-7930",
+          "contractor_name": "Affordable R",
+          "Inspection": "Completed"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recqiShNNkZZ6be5k",
+        "properties": {
+          "Applicant_LastName": "Russ",
+          "PropertyAddress_Line1": "831 Nth 40th St ",
+          "Case_Status": "Intake",
+          "Requested_By": [
+            "recauLE1grMkv8LYi"
+          ],
+          "Program": "Roofing Initiative",
+          "longitude": "-91.1504564",
+          "DateOrdered": "2019-07-24",
+          "Applicant_FirstName": "Julia",
+          "AutoNum": 26,
+          "Property_ZipCode": "70802",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 387-4648",
+          "latitude": "30.4590879",
+          "ID": "26_831 Nth 40th St _RUSS",
+          "email-of-staff": [
+            "bclark@ebrra.org"
+          ],
+          "Owner": "Julia Russ",
+          "FullPropertyAddress": "831 Nth 40th St , Baton Rouge LA 70802",
+          "Owner Phone (7 digit)": "387-4648",
+          "Inspection": "Requested"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recrNUhEaKOk5Hc0p",
+        "properties": {
+          "Applicant_LastName": "Jefferson",
+          "PropertyAddress_Line1": "336 McCastle Ave",
+          "Case_Status": "Intake",
+          "Requested_By": [
+            "recfk8RZSGi5ZwMNW"
+          ],
+          "Program": "Roofing - Emergency Program",
+          "GeocodeCache": "🔵 eyJpIjoiMzM2IE1jQ2FzdGxlIEF2ZSwgQmF0b24gUm91Z2UgTEEgNzA4MDciLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjMzNiBNY0Nhc3RsZSBBdmUsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNywgVVNBIiwibGF0IjozMC41NzY1MjksImxuZyI6LTkxLjIwMzk2NDk5OTk5OTk4fSwiZSI6MTU2NjQxNzc1NDY5MX0=",
+          "longitude": "-91.203965",
+          "Date Initial Inspection": "2019-03-04",
+          "Photo of front": [
+            {
+              "id": "attWnQWuUnMfbM30H",
+              "url": "https://dl.airtable.com/.attachments/0b2b2749599b2611e4489c0ac4d1fb02/a796f8b2/091_336-MCCASTLE.jpg",
+              "filename": "091_336-MCCASTLE.jpg",
+              "size": 143910,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/87259670dd01724d8da20c71fabfe1f6/dd6bcbff",
+                  "width": 56,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/2e7fd6b93eb0251a13d87c7d1081a691/b2c6f643",
+                  "width": 800,
+                  "height": 512
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/aa2bce67b53c79257a1ad0b239e618e5/67925a3c",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "Applicant_FirstName": "Bettie",
+          "AutoNum": 16,
+          "Property_ZipCode": "70807",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 964-3802",
+          "latitude": "30.576529",
+          "ID": "16_336 McCastle Ave_JEFFERSON",
+          "email-of-staff": [
+            "james@franklinassoc.com"
+          ],
+          "Owner": "Bettie Jefferson",
+          "FullPropertyAddress": "336 McCastle Ave, Baton Rouge LA 70807",
+          "Owner Phone (7 digit)": "964-3802",
+          "Inspection": "Completed",
+          "DateOrdered": "2019-07-25"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recsUxdoNkBvggtdF",
+        "properties": {
+          "Applicant_LastName": "Salim",
+          "PropertyAddress_Line1": "3415 Adams Ave",
+          "Case_Status": "Intake",
+          "Requested_By": [
+            "recfk8RZSGi5ZwMNW"
+          ],
+          "Program": "Roofing - Emergency Program",
+          "GeocodeCache": "🔵 eyJpIjoiMzQxNSBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNDE1IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODAyLCBVU0EiLCJsYXQiOjMwLjQ2ODkwMjcsImxuZyI6LTkxLjE1NTE2MTl9LCJlIjoxNTY2NDE3NzUzNjAyfQ==",
+          "longitude": "-91.1551619",
+          "Date Initial Inspection": "2019-02-14",
+          "Photo of front": [
+            {
+              "id": "attdmUAQ7Pm0LDumQ",
+              "url": "https://dl.airtable.com/.attachments/f45441eebb87e5635424ae75aed2184f/551f18cd/073_3415-ADAMS.jpg",
+              "filename": "073_3415-ADAMS.jpg",
+              "size": 156849,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9e97f7d0346d00720bf8fe8d476fc71f/85531e87",
+                  "width": 57,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/ee005fb492eb2526edfbd500f68d3583/fe15afb2",
+                  "width": 813,
+                  "height": 512
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/1e3b0777153736af878056210b50d127/a706d4f9",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "Applicant_FirstName": "Helen",
+          "AutoNum": 11,
+          "Property_ZipCode": "70802",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 953-4322",
+          "latitude": "30.4689027",
+          "ID": "11_3415 Adams Ave_SALIM",
+          "email-of-staff": [
+            "james@franklinassoc.com"
+          ],
+          "Owner": "Helen Salim",
+          "FullPropertyAddress": "3415 Adams Ave, Baton Rouge LA 70802",
+          "Owner Phone (7 digit)": "953-4322",
+          "Inspection": "Completed",
+          "DateOrdered": "2019-07-25"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "rectzGzLd6PxDra6W",
+        "properties": {
+          "Applicant_LastName": "Dunbar",
+          "PropertyAddress_Line1": "2937 Chippewa St",
+          "Case_Status": "Intake",
+          "Requested_By": [
+            "recfk8RZSGi5ZwMNW"
+          ],
+          "Program": "Roofing - Emergency Program",
+          "GeocodeCache": "🔵 eyJpIjoiMjkzNyBDaGlwcGV3YSBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjI5MzcgQ2hpcHBld2EgU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNSwgVVNBIiwibGF0IjozMC40NzMzMjE4LCJsbmciOi05MS4xNTkxNjUwMDAwMDAwM30sImUiOjE1NjY0MTc3NDIwNTd9",
+          "longitude": "-91.159165",
+          "Date Initial Inspection": "2019-04-09",
+          "Photo of front": [
+            {
+              "id": "atteMcqSaoGbs75c6",
+              "url": "https://dl.airtable.com/.attachments/5721815c09159af765774a16ded2e55f/6af41b7a/139_2937-CHIPPEWA.jpg",
+              "filename": "139_2937-CHIPPEWA.jpg",
+              "size": 127136,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/94a02611ce219973606f50562134a187/bf705007",
+                  "width": 59,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/da4a64bb7228e0aaf21e156fb4f0cd5d/52a646f3",
+                  "width": 773,
+                  "height": 468
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/4a9449d9fd908949ad444094bfbd4022/629aa6f0",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "Applicant_FirstName": "Bobby Ray",
+          "AutoNum": 20,
+          "Property_ZipCode": "70805",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 916-1788",
+          "latitude": "30.4733218",
+          "ID": "20_2937 Chippewa St_DUNBAR",
+          "email-of-staff": [
+            "james@franklinassoc.com"
+          ],
+          "Owner": "Bobby Ray Dunbar",
+          "FullPropertyAddress": "2937 Chippewa St, Baton Rouge LA 70805",
+          "Owner Phone (7 digit)": "916-1788",
+          "Inspection": "Completed",
+          "DateOrdered": "2019-07-25"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "recybgArO2oX781Mi",
+        "properties": {
+          "Applicant_LastName": "Lebeouf",
+          "PropertyAddress_Line1": "2840 Elgin St",
+          "Case_Status": "Cancelled",
+          "Requested_By": [
+            "recfk8RZSGi5ZwMNW"
+          ],
+          "Program": "Roofing - Emergency Program",
+          "Description": "case 107 Rehab program",
+          "GeocodeCache": "🔵 eyJpIjoiMjg0MCBFbGdpbiBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjI4NDAgRWxnaW4gU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNSwgVVNBIiwibGF0IjozMC40NzQ0NDE1LCJsbmciOi05MS4xMjM1OTExfSwiZSI6MTU2NjQxNzczOTIzMX0=",
+          "longitude": "-91.1235911",
+          "Photo of front": [
+            {
+              "id": "attzHaJRQ4axdxoYz",
+              "url": "https://dl.airtable.com/.attachments/59a8186736292352c9154571419ff3c1/dd6423bc/2840_Elgin_St.jpg",
+              "filename": "2840_Elgin_St.jpg",
+              "size": 95226,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/580c830d6ac715d10ede0dbce137bde7/7fffb83f",
+                  "width": 52,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/294a42b6c864e441f3fe2e59c605c0ef/62d5611c",
+                  "width": 693,
+                  "height": 476
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/2f801b390ccde3a097c0dd92d9ffcc6a/bbe6c6dc",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "RequestedDueDate": "2019-07-31",
+          "DateOrdered": "2019-07-03",
+          "Applicant_FirstName": "Ferma Lee",
+          "AutoNum": 8,
+          "Delay reason": "Question of ownership and residential address. Disqualified.",
+          "Property_ZipCode": "70805",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 359-6531",
+          "latitude": "30.4744415",
+          "ID": "8_2840 Elgin St_LEBEOUF",
+          "email-of-staff": [
+            "james@franklinassoc.com"
+          ],
+          "Owner": "Ferma Lee Lebeouf",
+          "FullPropertyAddress": "2840 Elgin St, Baton Rouge LA 70805",
+          "Owner Phone (7 digit)": "359-6531",
+          "Inspection": "Completed"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "reczJoh9bJWyfRwN4",
+        "properties": {
+          "Applicant_LastName": "Miller",
+          "PropertyAddress_Line1": "5165 Hermitage Dr",
+          "Case_Status": "Intake",
+          "Requested_By": [
+            "recfk8RZSGi5ZwMNW"
+          ],
+          "Program": "Roofing - Emergency Program",
+          "GeocodeCache": "🔵 eyJpIjoiNTE2NSBIZXJtaXRhZ2UgRHIsIEJhdG9uIFJvdWdlIExBIDcwODA2IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI1MTY1IEhlcm1pdGFnZSBEciwgQmF0b24gUm91Z2UsIExBIDcwODA2LCBVU0EiLCJsYXQiOjMwLjQ2MDg3MTcsImxuZyI6LTkxLjEzNzE1NzM5OTk5OTk4fSwiZSI6MTU2NjQxNzc0NDAwOX0=",
+          "longitude": "-91.1371574",
+          "Date Initial Inspection": "2019-03-25",
+          "Photo of front": [
+            {
+              "id": "attJ6eSrmLIr59ADo",
+              "url": "https://dl.airtable.com/.attachments/073292ecea9721e64f0b79e87e4e9831/c9f55aa2/134_5165-HERMITAGE.jpg",
+              "filename": "134_5165-HERMITAGE.jpg",
+              "size": 131815,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/996a4b573b7ecb16e37349fabee4164f/808ee2fb",
+                  "width": 57,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/59c9ff354a6da2f99478696d01940d2e/d3bdaa67",
+                  "width": 771,
+                  "height": 486
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9821e57f67a4dd57494ee908b3dcbdc0/42907c7b",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "Applicant_FirstName": "Dorothy",
+          "AutoNum": 19,
+          "Property_ZipCode": "70806",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 928-1198",
+          "latitude": "30.4608717",
+          "ID": "19_5165 Hermitage Dr_MILLER",
+          "email-of-staff": [
+            "james@franklinassoc.com"
+          ],
+          "Owner": "Dorothy Miller",
+          "FullPropertyAddress": "5165 Hermitage Dr, Baton Rouge LA 70806",
+          "Owner Phone (7 digit)": "928-1198",
+          "Inspection": "Completed",
+          "DateOrdered": "2019-07-25"
+        },
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "id": "reczKvGjE3RG5Ss4s",
+        "properties": {
+          "Applicant_LastName": "Montgomery",
+          "PropertyAddress_Line1": "1542 Kaufman Ave",
+          "Case_Status": "Queued",
+          "Requested_By": [
+            "recfk8RZSGi5ZwMNW"
+          ],
+          "Program": "Roofing - Emergency Program",
+          "Description": "case 113 Rehab program",
+          "GeocodeCache": "🔵 eyJpIjoiMTU0MiBLYXVmbWFuIEF2ZSwgQmF0b24gUm91Z2UgTEEgNzA4MDciLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjE1NDIgS2F1Zm1hbiBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA3LCBVU0EiLCJsYXQiOjMwLjUwOTUxNzksImxuZyI6LTkxLjE3NjA4MTd9LCJlIjoxNTY2NDE3NzQ2MTM2fQ==",
+          "longitude": "-91.1760817",
+          "Photo of front": [
+            {
+              "id": "attjurm4qJUVaApb4",
+              "url": "https://dl.airtable.com/.attachments/1220c3b65538ad77cd7bad1daaf7eb6c/3d956e97/1542_Kaufman_Ave.jpg",
+              "filename": "1542_Kaufman_Ave.jpg",
+              "size": 75034,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/ac6fed37ef33e0c456e89ba37f918067/07d65af3",
+                  "width": 58,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/ddf985afce673106edc53b4c09d5f1c5/00bb8107",
+                  "width": 558,
+                  "height": 345
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3c4c6c5b3ba18ca3b5b5b5510bd233a2/015a6c37",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "RequestedDueDate": "2019-07-31",
+          "DateOrdered": "2019-07-03",
+          "Applicant_FirstName": "Jessie",
+          "AutoNum": 9,
+          "Contractor Name": [
+            "reck2e1ecRQQmOpn5"
+          ],
+          "Property_ZipCode": "70807",
+          "Property_City": "Baton Rouge",
+          "ContactPhoneNumber": "(225) 448-2320",
+          "latitude": "30.5095179",
+          "ID": "9_1542 Kaufman Ave_MONTGOMERY",
+          "email-of-staff": [
+            "james@franklinassoc.com"
+          ],
+          "Owner": "Jessie Montgomery",
+          "FullPropertyAddress": "1542 Kaufman Ave, Baton Rouge LA 70807",
+          "Owner Phone (7 digit)": "448-2320",
+          "contractor_name": "Redstick Remodeling",
+          "Inspection": "Completed"
+        },
+        "geometry": null
+      }
+    ]
   }
- ]
 }
