@@ -86,9 +86,9 @@ $.getJSON(url, function(result) {
 
     onEachFeature: function(feature, layer) {
 
-      var popupText = "<b>Magnitude:</b> " + feature.properties.mag +
-        "<br><b>Location:</b> " + feature.properties.place +
-        "<br><a href='" + feature.properties.url + "'>More info</a>";
+      var popupText = "<b>Case:</b> " + feature.properties.ID +
+        "<br><b>Owner:</b> " + feature.properties.Owner +
+        "<br><b>Status:</b> " + feature.properties.Case_Status ;
 
       layer.bindPopup(popupText, {
         closeButton: true,
