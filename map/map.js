@@ -32,7 +32,8 @@ $.getJSON(url, function(result){
         var popupContent = `
         <div>
             <h3>${recordData['ID']}</h3>
-            <h4>Contractor: ${recordData['Contractor Name']}</h4>
+			<h4>Homeowner: ${recordData['Owner']}</h4>
+            <h4>Contractor: ${recordData['contractor_name']}</h4>
             <h4>Status: ${recordData['Case_Status']}</h4>
         </div>`;
         var marker = L.marker([recordData['latitude'], recordData['longitude']]);
@@ -42,67 +43,4 @@ $.getJSON(url, function(result){
         markers.addLayer(marker);
     });
     map.addLayer(markers);
-});
-
-$.getJSON(url, function(result) {
-  geoLayer = L.geoJson(url, {
-    style: function(feature) {
-      var status = feature.properties.Case_Status;
-      if (status >= 'Intake') {
-        return {
-          color: "white"
-        }; 
-      }
-      else if (status >= 'Queued') {
-        return {
-          color: "lightgrey"
-        };
-      } else if (status >= 'In Process') {
-        return {
-          color: "yellow"
-        };
-      } else if (status >= 'Completed') {
-        return {
-          color: "darkblue"
-        };
-      } else if (status >= 'Approved') {
-        return {
-          color: "lightgreen"
-        };
-      } else if (status >= 'Follow-up Required') {
-        return {
-          color: "orange"
-        };
-      } else if (status >= 'Delayed') {
-        return {
-          color: "red"
-        };
-		} else { //cancelled, black
-        return {
-          color: "black"
-        }
-      }
-    },
-
-    onEachFeature: function(feature, layer) {
-
-      var popupText = "<b>Case:</b> " + feature.properties.ID +
-        "<br><b>Owner:</b> " + feature.properties.Owner +
-        "<br><b>Status:</b> " + feature.properties.Case_Status ;
-
-      layer.bindPopup(popupText, {
-        closeButton: true,
-        offset: L.point(0, -20)
-      });
-      layer.on('click', function() {
-        layer.openPopup();
-      });
-    },
-
-    pointToLayer: function(feature, latlng) {
-      return L.circleMarker(latlng, {
-        radius: Math.round(feature.properties.mag) * 3,
-      });
-    },
-  }).addTo(map);
 });
