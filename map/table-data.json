@@ -17,7 +17,6 @@
           "Description": "case 96 Rehab program",
           "FullPropertyAddress": "3822 N Acadian Thruway East, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzgyMiBOIEFjYWRpYW4gVGhydXdheSBFYXN0LCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMzgyMiBOIEFjYWRpYW4gVGhydXdheSwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ4Mzc4MzMsImxuZyI6LTkxLjE1NjQyNzV9LCJlIjoxNTY2NDE3NzQxMTE3fQ==",
-          "ID": "3_3822 N Acadian Thruway East_BURKHALTER",
           "Inspection": "Completed",
           "Owner": "Patricia Burkhalter",
           "Owner Phone (7 digit)": "397-0858",
@@ -55,6 +54,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "caseID": "3_3822 N Acadian Thruway East_BURKHALTER",
           "contractor_name": "EDR Contruction",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -77,7 +77,6 @@
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "3423 Dalton St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzQyMyBEYWx0b24gU3QsIEJhdG9uIFJvdWdlIExBIDcwODA1IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNDIzIERhbHRvbiBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ3NDE2NTc5OTk5OTk5LCJsbmciOi05MS4xNTUzMDI1fSwiZSI6MTU2NjQxNzc1MjM0M30=",
-          "ID": "17_3423 Dalton St_CARTER",
           "Inspection": "Completed",
           "Owner": "Juanita Carter",
           "Owner Phone (7 digit)": "356-7203",
@@ -114,6 +113,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "caseID": "17_3423 Dalton St_CARTER",
           "email-of-staff": [
             "james@franklinassoc.com"
           ],
@@ -133,7 +133,6 @@
           "ContactPhoneNumber": "(225) 692-1604",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "2510 Laurel St , Baton Rouge LA 70802",
-          "ID": "28_2510 Laurel St _CONELIOUS",
           "Inspection": "Requested",
           "Owner": "Henry  Conelious",
           "Owner Phone (7 digit)": "692-1604",
@@ -144,6 +143,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
+          "caseID": "28_2510 Laurel St _CONELIOUS",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
@@ -165,7 +165,6 @@
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "3869 Pontiac St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzg2OSBQb250aWFjIFN0LCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMzg2OSBQb250aWFjIFN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDgzOTIsImxuZyI6LTkxLjE2NzY1MDZ9LCJlIjoxNTY2NDE3NzQ3MTgyfQ==",
-          "ID": "15_3869 Pontiac St_ROBERTSON",
           "Inspection": "Completed",
           "Owner": "Martha Robertson",
           "Owner Phone (7 digit)": "357-5436",
@@ -202,6 +201,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "caseID": "15_3869 Pontiac St_ROBERTSON",
           "email-of-staff": [
             "james@franklinassoc.com"
           ],
@@ -223,7 +223,6 @@
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "3425 Adams Ave, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMzQyNSBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNDI1IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODAyLCBVU0EiLCJsYXQiOjMwLjQ2ODg4ODIsImxuZyI6LTkxLjE1NDkxNzJ9LCJlIjoxNTY2NDE3NzUxMzMwfQ==",
-          "ID": "18_3425 Adams Ave_THOMAS",
           "Inspection": "Completed",
           "Owner": "Wanda Thomas",
           "Owner Phone (7 digit)": "430-3525",
@@ -260,6 +259,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "caseID": "18_3425 Adams Ave_THOMAS",
           "email-of-staff": [
             "james@franklinassoc.com"
           ],
@@ -284,7 +284,6 @@
           "Description": "case 102 Rehab program",
           "FullPropertyAddress": "8379 McClelland Dr, Baton Rouge LA 70811",
           "GeocodeCache": "🔵 eyJpIjoiODM3OSBNY0NsZWxsYW5kIERyLCBCYXRvbiBSb3VnZSBMQSA3MDgxMSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiODM3OSBNY0NsZWxsYW5kIERyLCBCYXRvbiBSb3VnZSwgTEEgNzA4MTEsIFVTQSIsImxhdCI6MzAuNTI0NjU0MiwibG5nIjotOTEuMTM3NjQ0NTk5OTk5OTl9LCJlIjoxNTY2NDE3NzQwMTkyfQ==",
-          "ID": "5_8379 McClelland Dr_VALENTINE",
           "Inspection": "Completed",
           "Owner": "Charmaine Valentine",
           "Owner Phone (7 digit)": "200-6770",
@@ -322,6 +321,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "caseID": "5_8379 McClelland Dr_VALENTINE",
           "contractor_name": "EDR Contruction",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -342,7 +342,6 @@
           "ContactPhoneNumber": "(225) 615-4947",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "5852 St. Gerard Ave , Baton Rouge LA 70805",
-          "ID": "22_5852 St. Gerard Ave _BYNUM",
           "Inspection": "Requested",
           "Owner": "Angela Bynum",
           "Owner Phone (7 digit)": "615-4947",
@@ -353,6 +352,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
+          "caseID": "22_5852 St. Gerard Ave _BYNUM",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
@@ -374,7 +374,6 @@
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "2358 Valley St, Baton Rouge LA 70808",
           "GeocodeCache": "🔵 eyJpIjoiMjM1OCBWYWxsZXkgU3QsIEJhdG9uIFJvdWdlIExBIDcwODA4IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIyMzU4IFZhbGxleSBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA4LCBVU0EiLCJsYXQiOjMwLjQyNjk2NTEsImxuZyI6LTkxLjE0NDc2Njg5OTk5OTk4fSwiZSI6MTU2NjQxNzc0ODI0M30=",
-          "ID": "12_2358 Valley St_DOYLE",
           "Inspection": "Completed",
           "Owner": "Delouise Doyle",
           "Owner Phone (7 digit)": "333-0547",
@@ -411,6 +410,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "caseID": "12_2358 Valley St_DOYLE",
           "email-of-staff": [
             "james@franklinassoc.com"
           ],
@@ -435,7 +435,6 @@
           "Description": "case 104 Rehab program",
           "FullPropertyAddress": "2843 72nd Ave, Baton Rouge LA 70807",
           "GeocodeCache": "🔵 eyJpIjoiMjg0MyA3Mm5kIEF2ZSwgQmF0b24gUm91Z2UgTEEgNzA4MDciLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjI4NDMgNzJuZCBBdmUsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNywgVVNBIiwibGF0IjozMC41MTQ5MDUsImxuZyI6LTkxLjE2MjA5MDE5OTk5OTk3fSwiZSI6MTU2NjQxNzc0OTIyNX0=",
-          "ID": "7_2843 72nd Ave_HOLLINS",
           "Inspection": "Completed",
           "Owner": "Maggie Hollins",
           "Owner Phone (7 digit)": "773-3404",
@@ -473,6 +472,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "caseID": "7_2843 72nd Ave_HOLLINS",
           "contractor_name": "Redstick Remodeling",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -498,7 +498,6 @@
           "Description": "case 94 Rehab program",
           "FullPropertyAddress": "6655 Brownfields Dr, Baton Rouge LA 70811",
           "GeocodeCache": "🔵 eyJpIjoiNjY1NSBCcm93bmZpZWxkcyBEciwgQmF0b24gUm91Z2UgTEEgNzA4MTEiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjY2NTUgQnJvd25maWVsZHMgRHIsIEJhdG9uIFJvdWdlLCBMQSA3MDgxMSwgVVNBIiwibGF0IjozMC41NTYwMzgxLCJsbmciOi05MS4xMjIzNTQ3MDAwMDAwMn0sImUiOjE1NjY0MTc3NDMwMzV9",
-          "ID": "1_6655 Brownfields Dr_ANDERSON",
           "Inspection": "Completed",
           "Owner": "Lucille Anderson",
           "Owner Phone (7 digit)": "775-6272",
@@ -536,6 +535,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "caseID": "1_6655 Brownfields Dr_ANDERSON",
           "contractor_name": "Redstick Remodeling",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -561,7 +561,6 @@
           "Description": "case 114 Rehab program",
           "FullPropertyAddress": "5336 Adams Ave, Baton Rouge LA 70806",
           "GeocodeCache": "🔵 eyJpIjoiNTMzNiBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODA2IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI1MzM2IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODA2LCBVU0EiLCJsYXQiOjMwLjQ2OTI5NTksImxuZyI6LTkxLjEzNTk1Nzl9LCJlIjoxNTY2NDE3NzU3OTc1fQ==",
-          "ID": "10_5336 Adams Ave_HARRIS",
           "Inspection": "Completed",
           "Owner": "Dianne Harris",
           "Owner Phone (7 digit)": "356-9008",
@@ -599,6 +598,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "caseID": "10_5336 Adams Ave_HARRIS",
           "contractor_name": "Public Construction Inc.",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -624,7 +624,6 @@
           "Description": "case 97 Rehab program",
           "FullPropertyAddress": "1745 N 18th Street, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMTc0NSBOIDE4dGggU3RyZWV0LCBCYXRvbiBSb3VnZSBMQSA3MDgwMiIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMTc0NSBOIDE4dGggU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NjM4OTkyLCJsbmciOi05MS4xNzE0NjczOTk5OTk5OH0sImUiOjE1NjY0MTc3NTkwOTF9",
-          "ID": "4_1745 N 18th Street_TILLMAN",
           "Inspection": "Completed",
           "Owner": "Minnie Lee Tillman",
           "Owner Phone (7 digit)": "228-8989",
@@ -662,6 +661,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "caseID": "4_1745 N 18th Street_TILLMAN",
           "contractor_name": "Go Day Enterprises",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -682,7 +682,6 @@
           "ContactPhoneNumber": "(225) 938-1738",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "3027 Newton St , Baton Rouge LA 70802",
-          "ID": "29_3027 Newton St _SCOTT",
           "Inspection": "Requested",
           "Owner": "Geraldine Scott",
           "Owner Phone (7 digit)": "938-1738",
@@ -693,6 +692,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
+          "caseID": "29_3027 Newton St _SCOTT",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
@@ -714,7 +714,6 @@
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "3563 Wyandotte St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzU2MyBXeWFuZG90dGUgU3QsIEJhdG9uIFJvdWdlIExBIDcwODA1IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNTYzIFd5YW5kb3R0ZSBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ4MjYzNDUsImxuZyI6LTkxLjE1NDA2NTEwMDAwMDAzfSwiZSI6MTU2NjQxNzc0NDk4OX0=",
-          "ID": "13_3563 Wyandotte St_HAYES",
           "Inspection": "Completed",
           "Owner": "Yolanda Hayes",
           "Owner Phone (7 digit)": "746-3126",
@@ -751,6 +750,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "caseID": "13_3563 Wyandotte St_HAYES",
           "email-of-staff": [
             "james@franklinassoc.com"
           ],
@@ -770,7 +770,6 @@
           "ContactPhoneNumber": "(225) 444-7447",
           "DateOrdered": "2019-07-17",
           "FullPropertyAddress": "2980 Sherwood St. , Baton Rouge LA 70805",
-          "ID": "21_2980 Sherwood St. _BEALS ",
           "Inspection": "Requested",
           "Owner": "Lois  Beals ",
           "Owner Phone (7 digit)": "444-7447",
@@ -778,6 +777,7 @@
           "PropertyAddress_Line1": "2980 Sherwood St. ",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
+          "caseID": "21_2980 Sherwood St. _BEALS ",
           "latitude": "30.4894903",
           "longitude": "-91.1598192"
         },
@@ -794,7 +794,6 @@
           "ContactPhoneNumber": "(225) 614-0898",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "2950 Linwood St , Baton Rouge LA 70805",
-          "ID": "23_2950 Linwood St _CHRISTOPHER",
           "Inspection": "Requested",
           "Owner": "Willie  Christopher",
           "Owner Phone (7 digit)": "614-0898",
@@ -805,6 +804,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
+          "caseID": "23_2950 Linwood St _CHRISTOPHER",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
@@ -824,7 +824,6 @@
           "ContactPhoneNumber": "(225) 407-6638",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "2548 Hollywood St. , Baton Rouge LA 70805",
-          "ID": "25_2548 Hollywood St. _WATSON ",
           "Inspection": "Requested",
           "Owner": "Alfreda  Watson ",
           "Owner Phone (7 digit)": "407-6638",
@@ -835,6 +834,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
+          "caseID": "25_2548 Hollywood St. _WATSON ",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
@@ -856,7 +856,6 @@
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "3940 Oswego St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzk0MCBPc3dlZ28gU3QsIEJhdG9uIFJvdWdlIExBIDcwODA1IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzOTQwIE9zd2VnbyBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ4MDQ2NDEsImxuZyI6LTkxLjE1MDIwMzF9LCJlIjoxNTY2NDE3NzU2ODQxfQ==",
-          "ID": "14_3940 Oswego St_EALEM",
           "Inspection": "Completed",
           "Owner": "Elizabeth Ealem",
           "Owner Phone (7 digit)": "746-3126",
@@ -893,6 +892,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "caseID": "14_3940 Oswego St_EALEM",
           "email-of-staff": [
             "james@franklinassoc.com"
           ],
@@ -912,7 +912,6 @@
           "ContactPhoneNumber": "(225) 772-4256",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "2005 Nth 16th Street , Baton Rouge LA 70802",
-          "ID": "30_2005 Nth 16th Street _GRAY",
           "Inspection": "Requested",
           "Owner": "Theresa Gray",
           "Owner Phone (7 digit)": "772-4256",
@@ -923,6 +922,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
+          "caseID": "30_2005 Nth 16th Street _GRAY",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
@@ -942,7 +942,6 @@
           "ContactPhoneNumber": "(225) 357-4498",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "2041 West Belfair Dr. , Baton Rouge LA 70805",
-          "ID": "24_2041 West Belfair Dr. _DAVIS",
           "Inspection": "Requested",
           "Owner": "Celestine Davis",
           "Owner Phone (7 digit)": "357-4498",
@@ -953,6 +952,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
+          "caseID": "24_2041 West Belfair Dr. _DAVIS",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
@@ -972,7 +972,6 @@
           "ContactPhoneNumber": "(225) 953-4322",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "3415 Adams Ave, Baton Rouge LA 70802",
-          "ID": "27_3415 Adams Ave_SALIM",
           "Inspection": "None",
           "Owner": "Helen Salim",
           "Owner Phone (7 digit)": "953-4322",
@@ -983,6 +982,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
+          "caseID": "27_3415 Adams Ave_SALIM",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
@@ -1007,7 +1007,6 @@
           "Description": "case 103 Rehab program",
           "FullPropertyAddress": "3645 Evangeline St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzY0NSBFdmFuZ2VsaW5lIFN0LCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMzY0NSBFdmFuZ2VsaW5lIFN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDkyOTg3OTk5OTk5OTksImxuZyI6LTkxLjE1MzI3NzY5OTk5OTk5fSwiZSI6MTU2NjQxNzc1NTcxNn0=",
-          "ID": "6_3645 Evangeline St_KETCHENS",
           "Inspection": "Completed",
           "Owner": "Peter Ketchens",
           "Owner Phone (7 digit)": "937-6093",
@@ -1045,6 +1044,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "caseID": "6_3645 Evangeline St_KETCHENS",
           "contractor_name": "Public Construction Inc.",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -1070,7 +1070,6 @@
           "Description": "case 95 Rehab program",
           "FullPropertyAddress": "3560 Dalton St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzU2MCBEYWx0b24gU3QsIEJhdG9uIFJvdWdlIExBIDcwODA1IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNTYwIERhbHRvbiBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ3MzgxNjc5OTk5OTk5LCJsbmciOi05MS4xNTQwNjUxMDAwMDAwM30sImUiOjE1NjY0MTc3NTAyODF9",
-          "ID": "2_3560 Dalton St_HARRIS",
           "Inspection": "Completed",
           "Owner": "Janice Harris",
           "Owner Phone (7 digit)": "357-7930",
@@ -1108,6 +1107,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "caseID": "2_3560 Dalton St_HARRIS",
           "contractor_name": "Affordable R",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -1128,7 +1128,6 @@
           "ContactPhoneNumber": "(225) 387-4648",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "831 Nth 40th St , Baton Rouge LA 70802",
-          "ID": "26_831 Nth 40th St _RUSS",
           "Inspection": "Requested",
           "Owner": "Julia Russ",
           "Owner Phone (7 digit)": "387-4648",
@@ -1139,6 +1138,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
+          "caseID": "26_831 Nth 40th St _RUSS",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
@@ -1160,7 +1160,6 @@
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "336 McCastle Ave, Baton Rouge LA 70807",
           "GeocodeCache": "🔵 eyJpIjoiMzM2IE1jQ2FzdGxlIEF2ZSwgQmF0b24gUm91Z2UgTEEgNzA4MDciLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjMzNiBNY0Nhc3RsZSBBdmUsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNywgVVNBIiwibGF0IjozMC41NzY1MjksImxuZyI6LTkxLjIwMzk2NDk5OTk5OTk4fSwiZSI6MTU2NjQxNzc1NDY5MX0=",
-          "ID": "16_336 McCastle Ave_JEFFERSON",
           "Inspection": "Completed",
           "Owner": "Bettie Jefferson",
           "Owner Phone (7 digit)": "964-3802",
@@ -1197,6 +1196,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "caseID": "16_336 McCastle Ave_JEFFERSON",
           "email-of-staff": [
             "james@franklinassoc.com"
           ],
@@ -1218,7 +1218,6 @@
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "3415 Adams Ave, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMzQxNSBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNDE1IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODAyLCBVU0EiLCJsYXQiOjMwLjQ2ODkwMjcsImxuZyI6LTkxLjE1NTE2MTl9LCJlIjoxNTY2NDE3NzUzNjAyfQ==",
-          "ID": "11_3415 Adams Ave_SALIM",
           "Inspection": "Completed",
           "Owner": "Helen Salim",
           "Owner Phone (7 digit)": "953-4322",
@@ -1255,6 +1254,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "caseID": "11_3415 Adams Ave_SALIM",
           "email-of-staff": [
             "james@franklinassoc.com"
           ],
@@ -1276,7 +1276,6 @@
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "2937 Chippewa St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjkzNyBDaGlwcGV3YSBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjI5MzcgQ2hpcHBld2EgU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNSwgVVNBIiwibGF0IjozMC40NzMzMjE4LCJsbmciOi05MS4xNTkxNjUwMDAwMDAwM30sImUiOjE1NjY0MTc3NDIwNTd9",
-          "ID": "20_2937 Chippewa St_DUNBAR",
           "Inspection": "Completed",
           "Owner": "Bobby Ray Dunbar",
           "Owner Phone (7 digit)": "916-1788",
@@ -1313,6 +1312,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "caseID": "20_2937 Chippewa St_DUNBAR",
           "email-of-staff": [
             "james@franklinassoc.com"
           ],
@@ -1335,7 +1335,6 @@
           "Description": "case 107 Rehab program",
           "FullPropertyAddress": "2840 Elgin St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjg0MCBFbGdpbiBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjI4NDAgRWxnaW4gU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNSwgVVNBIiwibGF0IjozMC40NzQ0NDE1LCJsbmciOi05MS4xMjM1OTExfSwiZSI6MTU2NjQxNzczOTIzMX0=",
-          "ID": "8_2840 Elgin St_LEBEOUF",
           "Inspection": "Completed",
           "Owner": "Ferma Lee Lebeouf",
           "Owner Phone (7 digit)": "359-6531",
@@ -1373,6 +1372,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "caseID": "8_2840 Elgin St_LEBEOUF",
           "email-of-staff": [
             "james@franklinassoc.com"
           ],
@@ -1394,7 +1394,6 @@
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "5165 Hermitage Dr, Baton Rouge LA 70806",
           "GeocodeCache": "🔵 eyJpIjoiNTE2NSBIZXJtaXRhZ2UgRHIsIEJhdG9uIFJvdWdlIExBIDcwODA2IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI1MTY1IEhlcm1pdGFnZSBEciwgQmF0b24gUm91Z2UsIExBIDcwODA2LCBVU0EiLCJsYXQiOjMwLjQ2MDg3MTcsImxuZyI6LTkxLjEzNzE1NzM5OTk5OTk4fSwiZSI6MTU2NjQxNzc0NDAwOX0=",
-          "ID": "19_5165 Hermitage Dr_MILLER",
           "Inspection": "Completed",
           "Owner": "Dorothy Miller",
           "Owner Phone (7 digit)": "928-1198",
@@ -1431,6 +1430,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "caseID": "19_5165 Hermitage Dr_MILLER",
           "email-of-staff": [
             "james@franklinassoc.com"
           ],
@@ -1455,7 +1455,6 @@
           "Description": "case 113 Rehab program",
           "FullPropertyAddress": "1542 Kaufman Ave, Baton Rouge LA 70807",
           "GeocodeCache": "🔵 eyJpIjoiMTU0MiBLYXVmbWFuIEF2ZSwgQmF0b24gUm91Z2UgTEEgNzA4MDciLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjE1NDIgS2F1Zm1hbiBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA3LCBVU0EiLCJsYXQiOjMwLjUwOTUxNzksImxuZyI6LTkxLjE3NjA4MTd9LCJlIjoxNTY2NDE3NzQ2MTM2fQ==",
-          "ID": "9_1542 Kaufman Ave_MONTGOMERY",
           "Inspection": "Completed",
           "Owner": "Jessie Montgomery",
           "Owner Phone (7 digit)": "448-2320",
@@ -1493,6 +1492,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "caseID": "9_1542 Kaufman Ave_MONTGOMERY",
           "contractor_name": "Redstick Remodeling",
           "email-of-staff": [
             "james@franklinassoc.com"
