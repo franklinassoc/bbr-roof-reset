@@ -27,16 +27,29 @@ var url = "table-data.json";
 // get table contents and create cluster layer from it
 var markers = L.markerClusterGroup();
 $.getJSON(url, function(result){
-    $.each(result.records, function(index){
-        var recordData = result.records[index]["fields"];
+//    $.each(result.records, function(index){
+//        var recordData = result.records[index]["fields"];
+//        var popupContent = `
+//        <div>
+//            <h3>${recordData['caseID']}</h3>
+//			<h4>Homeowner: ${recordData['Owner']}</h4>
+//            <h4>Contractor: ${recordData['contractor_name']}</h4>
+//            <h4>Status: ${recordData['Case_Status']}</h4>
+//        </div>`;
+
+// customize to pull from BBR roof reset json		
+    $.each(result.Cases, function(index){
+        var caseData = result.Cases[index]["fields"];
         var popupContent = `
         <div>
-            <h3>${recordData['ID']}</h3>
-			<h4>Homeowner: ${recordData['Owner']}</h4>
-            <h4>Contractor: ${recordData['contractor_name']}</h4>
-            <h4>Status: ${recordData['Case_Status']}</h4>
+            <h3>${caseData['caseID']}</h3>
+			<h4>Homeowner: ${caseData['Owner']}</h4>
+            <h4>Contractor: ${caseData['contractor_name']}</h4>
+            <h4>Status: ${caseData['Case_Status']}</h4>
         </div>`;
-        var marker = L.marker([recordData['latitude'], recordData['longitude']]);
+
+// locate the markers and 		
+        var marker = L.marker([caseData['latitude'], caseData['longitude']]);
         marker.bindPopup(popupContent, {
             width: "350px"
         });
