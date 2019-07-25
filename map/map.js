@@ -1,7 +1,8 @@
-// create map and add mapbox
+// create map and add basemap tile layer
 var map = L.map('map', {attributionControl: false})
 map.setView([30.4, -91.1], 12);
 
+// credits for basemap tile layer
 var credits = L.control.attribution().addTo(map);
 credits.addAttribution('&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attribution">CARTO</a>');
 
