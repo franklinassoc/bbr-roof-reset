@@ -60,13 +60,13 @@
  // L.marker([41.77, -72.69]).addTo(map) // EDIT latitude, longitude to re-position marker
   //.bindPopup("Insert pop-up text here"); // EDIT pop-up text message
 
-  /* Upload Latitude/Longitude markers from cases-out-to-map.csv file, show Title in pop-up, and override initial center and zoom to fit all in map */
+  /* Upload Latitude/Longitude markers from roof-cases.csv file, show Title in pop-up, and override initial center and zoom to fit all in map */
    var customLayer = L.geoJson(null, {
     onEachFeature: function(feature, layer) {
       layer.bindPopup(feature.properties.caseID);
     }
    });
-   var runLayer = omnivore.csv('data.csv', null, customLayer)
+   var runLayer = omnivore.csv('roof-cases.csv', null, customLayer)
    .on('ready', function() {
     map.fitBounds(runLayer.getBounds());
    }).addTo(map);
