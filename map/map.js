@@ -39,7 +39,7 @@ $.getJSON(url, function(result){
 
 // customize to pull from BBR roof reset json		
     $.each(result.Cases.features, function(index){
-        var caseData = result.Cases.features[index]["fields"];
+        var caseData = result.Cases.features[index]["properties"];
         var popupContent = `
         <div>
             <h3>${caseData['caseID']}</h3>
