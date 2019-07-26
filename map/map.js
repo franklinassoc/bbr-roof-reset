@@ -38,8 +38,8 @@ $.getJSON(url, function(result){
 //        </div>`;
 
 // customize to pull from BBR roof reset json		
-    $.each(result.Cases, function(index){
-        var caseData = result.Cases[index]["fields"];
+    $.each(result.features, function(index){
+        var caseData = result.features[index]["fields"];
         var popupContent = `
         <div>
             <h3>${caseData['caseID']}</h3>
@@ -48,7 +48,7 @@ $.getJSON(url, function(result){
             <h4>Status: ${caseData['Case_Status']}</h4>
         </div>`;
 
-// locate the markers and 		
+// locate the markers and place them	
         var marker = L.marker([caseData['latitude'], caseData['longitude']]);
         marker.bindPopup(popupContent, {
             width: "350px"
