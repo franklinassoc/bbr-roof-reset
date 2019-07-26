@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>leaflet-map-simple</title>
+  <title>Roof Reset Map</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
 
@@ -25,7 +25,7 @@
 <body>
 
   <!-- Display the map and title with HTML division tags  -->
-  <div id="map-title">Louisiana State Parks</div>
+  <div id="map-title">Roof Reset Cases</div>
   <div id="map"></div>
 
   <!-- Create the map content with JavaScript (.js) -->
@@ -63,7 +63,7 @@
   /* Upload Latitude/Longitude markers from cases-out-to-map.csv file, show Title in pop-up, and override initial center and zoom to fit all in map */
    var customLayer = L.geoJson(null, {
     onEachFeature: function(feature, layer) {
-      layer.bindPopup(feature.properties.Title);
+      layer.bindPopup(feature.properties.caseID);
     }
    });
    var runLayer = omnivore.csv('cases-out-to-map.csv', null, customLayer)
