@@ -1,6 +1,5 @@
 {
-  "Cases": {
-    "features": [
+      "features": [
       {
         "geometry": null,
         "id": "rec1XT0BPWfuRmzj5",
@@ -1505,4 +1504,3 @@
     ],
     "type": "FeatureCollection"
   }
-}
