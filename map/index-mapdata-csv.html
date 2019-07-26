@@ -66,11 +66,11 @@
       layer.bindPopup(feature.properties.caseID);
     }
    });
-   var runLayer = omnivore.csv('cases-out-to-map.csv', null, customLayer)
+   var runLayer = omnivore.csv('data.csv', null, customLayer)
    .on('ready', function() {
     map.fitBounds(runLayer.getBounds());
    }).addTo(map);
-   controlLayers.addOverlay(customLayer, 'Roof Reset Cases');
+   controlLayers.addOverlay(customLayer, 'State Parks');
 
   </script>
   <script src="Leaflet.Sleep.js"></script>
