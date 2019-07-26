@@ -1,22 +1,31 @@
-Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-Bayou Segnette State Park,"West Bank Expressway (US 90) @ Drake Avenue, Westwego, La",29.895737,-90.1605,"US-90 & Westbank Expy, Avondale, LA 70094, USA",Partial Match,Google
-Bogue Chitto State Park,"LA Hwy 25,  Franklinton, La",30.767981,-90.157451,"LA-25, Franklinton, LA, USA",Match,Google
-Caney Creek Lake State Park,"1209 State Park Rd, Chatham, LA",32.258505,-92.518287,"1209 State Park Rd, Chatham, LA 71226, USA",Match,Google
-Chemin A Haut State Park,"Rt 5 off Highway 139,  Bastrop, La",32.911405,-91.84992,"5 LA-139, Monroe, LA 71203, USA",Match,Google
-Chicot State Park,"Route 3, Box 494  La Hwy 3042,  Ville Platte, La",30.790216,-92.284138,"LA-3042, Ville Platte, LA, USA",Partial Match,Google
-Cypremort Point Boat Storage-Wlf,"Private Road off of La Hwy 319 at Cypremort Point, Franklin, La",29.718461,-91.8715454,"LA-319, 1, LA 70538, USA",Partial Match,Google
-Cypremort Point State Park-Wlf Field Office,"LA Hwy 319,  Cypremort Point, La",29.718461,-91.8715454,"LA-319, 1, LA 70538, USA",Match,Google
-Fairview Riverside State Park,"LA Hwy 22 at Fairview Drive, Madisonville, La",30.4072526,-90.1405843,"LA-22 & Fairview Dr, 4, LA 70447, USA",Match,Google
-Fontainebleau State Park,"US Hwy 190,  Mandeville, La",30.341315,-90.025114,"N Hwy 190, Louisiana 70433, USA",Match,Google
-Grand Isle State Park,"East end of Grand Isle, LA Hwy 1 (Adm Craik Drive), Grand Isle, La",29.2585446,-89.9539773,"Grand Isle State Park, 108 Admiral Craik Dr, Grand Isle, LA 70358, USA",Match,Google
-Lake Bistineau State Park,"East of LA Hwy 163,  Doyline, La",32.439984,-93.394414,"LA-163, Doyline, LA 71023, USA",Match,Google
-Lake Bruin State Park,"LA Hwy 604,  St. Joseph, La",31.958601,-91.198814,"LA-604, Louisiana, USA",Match,Google
-Lake Claiborne State Park,"LA Hwy 146,  Homer, La",32.721873,-92.92305,"LA-146, Homer, LA, USA",Match,Google
-Lake Fausse Pointe State Park,"5400 W. Atchafalaya Levee Road,  St. Martinville, La",30.0614475,-91.6084671,"Lake Fausse Pointe State Park, 5400 Levee Rd, St Martinville, LA 70582, USA",Partial Match,Google
-Lake D'Arbonne State Park,"Parish Road 4410, South of LA Hwy 2,  Farmerville, La",32.78166,-92.490852,"4410 LA-2, Farmerville, LA 71241, USA",Match,Google
-North Toledo Bend State Park,"LA Hwy 482,  Zwolle, La",31.6309351,-93.6441441,"LA-482, Zwolle, LA, USA",Match,Google
-Poverty Point Reservoir State Park,"1500 Poverty Point Pkwy,  Delhi, La",32.482759,-91.494054,"1500 Poverty Point Pkwy, Delhi, LA 71232, USA",Match,Google
-Sam Houston Jones State Park,"LA Hwy 378,  Lake Charles, La",30.300469,-93.255896,"LA-378, Lake Charles, LA, USA",Match,Google
-South Toledo Bend State Park,"LA Hwy 191,  Toro, La",31.280347,-93.5439194,"LA-191, Louisiana, USA",Match,Google
-St Bernard State Park,"LA Hwy 39 2, Violet, La",29.864131,-89.900402,"2 LA-39, St Bernard, LA 70085, USA",Match,Google
-Tickfaw State Park,"LA Hwy 1037,  Springfield, La",30.381129,-90.631237,"LA-1037, Springfield, LA 70462, USA",Match,Google
+﻿caseID,Owner,Case_Status,FullPropertyAddress,Photo of front,latitude,longitude,contractor_name,Inspection
+1_6655 Brownfields Dr_ANDERSON,Lucille Anderson,Queued,"6655 Brownfields Dr, Baton Rouge LA 70811",6655_Brownfields.jpg (https://dl.airtable.com/.attachments/1d7ee2902b078af913383bc2041201cb/46b297a7/6655_Brownfields.jpg),30.5560381,-91.1223547,Redstick Remodeling,Completed
+2_3560 Dalton St_HARRIS,Janice Harris,Queued,"3560 Dalton St, Baton Rouge LA 70805",3560_Dalton.jpg (https://dl.airtable.com/.attachments/037ffe6c73b57fa96815e7301e1c392c/42a6e1e4/3560_Dalton.jpg),30.4738168,-91.1540651,Affordable R,Completed
+3_3822 N Acadian Thruway East_BURKHALTER,Patricia Burkhalter,Queued,"3822 N Acadian Thruway East, Baton Rouge LA 70805",3822_N_Acadian_Thwy_East.jpg (https://dl.airtable.com/.attachments/10623570b01af58010f9c95ab03e0168/6096ea64/3822_N_Acadian_Thwy_East.jpg),30.4837833,-91.1564275,EDR Contruction,Completed
+4_1745 N 18th Street_TILLMAN,Minnie Lee Tillman,Queued,"1745 N 18th Street, Baton Rouge LA 70802",1745_N_18th_St.jpg (https://dl.airtable.com/.attachments/aa00e3f4b62eaddac5a64b3ddf5fc51d/1ca28359/1745_N_18th_St.jpg),30.4638992,-91.1714674,Go Day Enterprises,Completed
+5_8379 McClelland Dr_VALENTINE,Charmaine Valentine,Queued,"8379 McClelland Dr, Baton Rouge LA 70811",8379_McClelland_Dr.jpg (https://dl.airtable.com/.attachments/9d4f15be28d5443dcfa7dd595f9ad10f/9e90b87e/8379_McClelland_Dr.jpg),30.5246542,-91.1376446,EDR Contruction,Completed
+6_3645 Evangeline St_KETCHENS,Peter Ketchens,Queued,"3645 Evangeline St, Baton Rouge LA 70805",3645_Evangeline.jpg (https://dl.airtable.com/.attachments/723e18357541d5a5aa929a701f0b88a5/22ded9b7/3645_Evangeline.jpg),30.492988,-91.1532777,Public Construction Inc.,Completed
+7_2843 72nd Ave_HOLLINS,Maggie Hollins,Queued,"2843 72nd Ave, Baton Rouge LA 70807",2843_72nd_Ave.jpg (https://dl.airtable.com/.attachments/1de613da695bb87c06dbfca738e3435a/0ce74ccd/2843_72nd_Ave.jpg),30.514905,-91.1620902,Redstick Remodeling,Completed
+8_2840 Elgin St_LEBEOUF,Ferma Lee Lebeouf,Cancelled,"2840 Elgin St, Baton Rouge LA 70805",2840_Elgin_St.jpg (https://dl.airtable.com/.attachments/59a8186736292352c9154571419ff3c1/dd6423bc/2840_Elgin_St.jpg),30.4744415,-91.1235911,,Completed
+9_1542 Kaufman Ave_MONTGOMERY,Jessie Montgomery,Queued,"1542 Kaufman Ave, Baton Rouge LA 70807",1542_Kaufman_Ave.jpg (https://dl.airtable.com/.attachments/1220c3b65538ad77cd7bad1daaf7eb6c/3d956e97/1542_Kaufman_Ave.jpg),30.5095179,-91.1760817,Redstick Remodeling,Completed
+10_5336 Adams Ave_HARRIS,Dianne Harris,Queued,"5336 Adams Ave, Baton Rouge LA 70806",5336_Adams_Ave.jpg (https://dl.airtable.com/.attachments/fabb3be3c8ceb5b568f9514aaa7fa96e/43de9377/5336_Adams_Ave.jpg),30.4692959,-91.1359579,Public Construction Inc.,Completed
+11_3415 Adams Ave_SALIM,Helen Salim,Intake,"3415 Adams Ave, Baton Rouge LA 70802",073_3415-ADAMS.jpg (https://dl.airtable.com/.attachments/f45441eebb87e5635424ae75aed2184f/551f18cd/073_3415-ADAMS.jpg),30.4689027,-91.1551619,,Completed
+12_2358 Valley St_DOYLE,Delouise Doyle,Intake,"2358 Valley St, Baton Rouge LA 70808",075_2358-VALLEY-ST.jpg (https://dl.airtable.com/.attachments/179a99b4eb702e912992dafa4efba190/587bd7d6/075_2358-VALLEY-ST.jpg),30.4269651,-91.1447669,,Completed
+13_3563 Wyandotte St_HAYES,Yolanda Hayes,Intake,"3563 Wyandotte St, Baton Rouge LA 70805",081_3563-WYANDOTTE.jpg (https://dl.airtable.com/.attachments/8085d9eda1c4c0e20dc4364c8e926933/25bfcda1/081_3563-WYANDOTTE.jpg),30.4826345,-91.1540651,,Completed
+14_3940 Oswego St_EALEM,Elizabeth Ealem,Intake,"3940 Oswego St, Baton Rouge LA 70805",086_3940-OSWEGO.jpg (https://dl.airtable.com/.attachments/860b0535bcd26e47be57f817ff662116/37a0fb62/086_3940-OSWEGO.jpg),30.4804641,-91.1502031,,Completed
+15_3869 Pontiac St_ROBERTSON,Martha Robertson,Intake,"3869 Pontiac St, Baton Rouge LA 70805",088_3869-PONTIAC.jpg (https://dl.airtable.com/.attachments/0155712aa6356bf5148654f27ad2ef84/1e93aa0f/088_3869-PONTIAC.jpg),30.48392,-91.1676506,,Completed
+16_336 McCastle Ave_JEFFERSON,Bettie Jefferson,Intake,"336 McCastle Ave, Baton Rouge LA 70807",091_336-MCCASTLE.jpg (https://dl.airtable.com/.attachments/0b2b2749599b2611e4489c0ac4d1fb02/a796f8b2/091_336-MCCASTLE.jpg),30.576529,-91.203965,,Completed
+17_3423 Dalton St_CARTER,Juanita Carter,Intake,"3423 Dalton St, Baton Rouge LA 70805",125_3423-DALTON.jpg (https://dl.airtable.com/.attachments/18634f0ebf3985792fd8aedaa535745a/01dc5687/125_3423-DALTON.jpg),30.4741658,-91.1553025,,Completed
+18_3425 Adams Ave_THOMAS,Wanda Thomas,Intake,"3425 Adams Ave, Baton Rouge LA 70802",126_3425-ADAMS.jpg (https://dl.airtable.com/.attachments/e5c858b86a86be55d25ce68f3f9adb4e/fc42275d/126_3425-ADAMS.jpg),30.4688882,-91.1549172,,Completed
+19_5165 Hermitage Dr_MILLER,Dorothy Miller,Intake,"5165 Hermitage Dr, Baton Rouge LA 70806",134_5165-HERMITAGE.jpg (https://dl.airtable.com/.attachments/073292ecea9721e64f0b79e87e4e9831/c9f55aa2/134_5165-HERMITAGE.jpg),30.4608717,-91.1371574,,Completed
+20_2937 Chippewa St_DUNBAR,Bobby Ray Dunbar,Intake,"2937 Chippewa St, Baton Rouge LA 70805",139_2937-CHIPPEWA.jpg (https://dl.airtable.com/.attachments/5721815c09159af765774a16ded2e55f/6af41b7a/139_2937-CHIPPEWA.jpg),30.4733218,-91.159165,,Completed
+21_2980 Sherwood St. _BEALS ,Lois  Beals ,Intake,"2980 Sherwood St. , Baton Rouge LA 70805",,30.4894903,-91.1598192,,Requested
+22_5852 St. Gerard Ave _BYNUM,Angela Bynum,Intake,"5852 St. Gerard Ave , Baton Rouge LA 70805",,30.4958622,-91.1319009,,Requested
+23_2950 Linwood St _CHRISTOPHER,Willie  Christopher,Intake,"2950 Linwood St , Baton Rouge LA 70805",,30.4745057,-91.1729684,,Requested
+24_2041 West Belfair Dr. _DAVIS,Celestine Davis,Intake,"2041 West Belfair Dr. , Baton Rouge LA 70805",,30.4667707,-91.1469413,,Requested
+25_2548 Hollywood St. _WATSON ,Alfreda  Watson ,Intake,"2548 Hollywood St. , Baton Rouge LA 70805",,30.4991377,-91.1649032,,Requested
+26_831 Nth 40th St _RUSS,Julia Russ,Intake,"831 Nth 40th St , Baton Rouge LA 70802",,30.4590879,-91.1504564,,Requested
+27_3415 Adams Ave_SALIM,Helen Salim,Intake,"3415 Adams Ave, Baton Rouge LA 70802",,30.468843,-91.1501592,,None
+28_2510 Laurel St _CONELIOUS,Henry  Conelious,Intake,"2510 Laurel St , Baton Rouge LA 70802",,30.4509329,-91.1625317,,Requested
+29_3027 Newton St _SCOTT,Geraldine Scott,Intake,"3027 Newton St , Baton Rouge LA 70802",,30.458692,-91.158484,,Requested
+30_2005 Nth 16th Street _GRAY,Theresa Gray,Intake,"2005 Nth 16th Street , Baton Rouge LA 70802",,30.4657694,-91.1736432,,Requested
