@@ -3,6 +3,36 @@
     "features": [
       {
         "geometry": null,
+        "id": "rec1WGbzCVICbNRBh",
+        "properties": {
+          "Applicant_FirstName": "Alvaina ",
+          "Applicant_LastName": "Johnson",
+          "AutoNum": 41,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2257578014",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "FullPropertyAddress": "1619 Theron Dr, Baton Rouge LA 70810",
+          "Owner": "Alvaina  Johnson",
+          "Owner Phone (7 digit)": "757-8014",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "1619 Theron Dr",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70810",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "41_1619 Theron Dr_JOHNSON",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.386306",
+          "longitude": "-91.10943"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "rec1XT0BPWfuRmzj5",
         "properties": {
           "Applicant_FirstName": "Patricia",
@@ -10,6 +40,7 @@
           "AutoNum": 3,
           "Case_Status": "Queued",
           "ContactPhoneNumber": "(225) 397-0858",
+          "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recQUZVQRMaOXvAUg"
           ],
@@ -66,6 +97,253 @@
       },
       {
         "geometry": null,
+        "id": "rec2LsWjxBG1e4OZJ",
+        "properties": {
+          "Applicant_FirstName": "Fannietta",
+          "Applicant_LastName": "Anderson",
+          "AutoNum": 49,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2252728238",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2259753250",
+          "FullPropertyAddress": "4515 Thames Dr, Baton Rouge LA 70814",
+          "Owner": "Fannietta Anderson",
+          "Owner Phone (7 digit)": "272-8238",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "4515 Thames Dr",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70814",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "49_4515 Thames Dr_ANDERSON",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4916485",
+          "longitude": "-91.0448298"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "rec2qPnTNLN1U8Pd3",
+        "properties": {
+          "Applicant_FirstName": "Theresa ",
+          "Applicant_LastName": "Gray",
+          "AutoNum": 56,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2257724256",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "FullPropertyAddress": "200 N 16th St, Baton Rouge LA 70802",
+          "Owner": "Theresa  Gray",
+          "Owner Phone (7 digit)": "772-4256",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "200 N 16th St",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70802",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "56_200 N 16th St_GRAY",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4487638",
+          "longitude": "-91.1723969"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "rec42hOxvOq64O0i8",
+        "properties": {
+          "Applicant_FirstName": "Edna",
+          "Applicant_LastName": "London",
+          "AutoNum": 39,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2253558675",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2256364575",
+          "FullPropertyAddress": "4060 Topeka St, Baton Rouge LA 70805",
+          "Owner": "Edna London",
+          "Owner Phone (7 digit)": "355-8675",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "4060 Topeka St",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "39_4060 Topeka St_LONDON",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4864601",
+          "longitude": "-91.1609646"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "rec57KNkOoFpD1AVS",
+        "properties": {
+          "Applicant_FirstName": "Andrew",
+          "Applicant_LastName": "Scott, Sr",
+          "AutoNum": 69,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2252844148",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2253546326",
+          "FullPropertyAddress": "3836 Adams Ave, Baton Rouge LA 70802",
+          "Owner": "Andrew Scott, Sr",
+          "Owner Phone (7 digit)": "284-4148",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "3836 Adams Ave",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70802",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "69_3836 Adams Ave_SCOTT, SR",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4686642",
+          "longitude": "-91.1516279"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "rec70Tpu227i9SaY8",
+        "properties": {
+          "Applicant_FirstName": "Angela",
+          "Applicant_LastName": "Bynum",
+          "AutoNum": 63,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2256154947",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2256921604",
+          "FullPropertyAddress": "5852 St Gerard Ave, Baton Rouge LA 70805",
+          "Owner": "Angela Bynum",
+          "Owner Phone (7 digit)": "615-4947",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "5852 St Gerard Ave",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "63_5852 St Gerard Ave_BYNUM",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4958622",
+          "longitude": "-91.1319009"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "rec76v9z4f9GYCs35",
+        "properties": {
+          "Applicant_FirstName": "Sandra",
+          "Applicant_LastName": "Pearson",
+          "AutoNum": 71,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2257075404",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2259339732",
+          "FullPropertyAddress": "2215 Gen Cleburne Ave, Baton Rouge LA 70810",
+          "Owner": "Sandra Pearson",
+          "Owner Phone (7 digit)": "707-5404",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "2215 Gen Cleburne Ave",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70810",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "71_2215 Gen Cleburne Ave_PEARSON",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.34675",
+          "longitude": "-91.1278254"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "rec7GV4l0s4YYqi5A",
+        "properties": {
+          "Applicant_FirstName": "Thelma",
+          "Applicant_LastName": "Williams ",
+          "AutoNum": 48,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2259879048",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2259312996",
+          "FullPropertyAddress": "4247 Norwich Dr, Baton Rouge LA 70814",
+          "Owner": "Thelma Williams ",
+          "Owner Phone (7 digit)": "987-9048",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "4247 Norwich Dr",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70814",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "48_4247 Norwich Dr_WILLIAMS ",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4895941",
+          "longitude": "-91.0457835"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "rec7fxSAB4Ip4d24O",
+        "properties": {
+          "Applicant_FirstName": "Ezekiel ",
+          "Applicant_LastName": "Young Jr",
+          "AutoNum": 54,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2253540723",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2258061908",
+          "FullPropertyAddress": "2532 68th Ave, Baton Rouge LA 70807",
+          "Owner": "Ezekiel  Young Jr",
+          "Owner Phone (7 digit)": "354-0723",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "2532 68th Ave",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70807",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "54_2532 68th Ave_YOUNG JR",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.5115432",
+          "longitude": "-91.1658783"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "rec8oLfznTVJWPOpz",
         "properties": {
           "Applicant_FirstName": "Juanita",
@@ -73,6 +351,7 @@
           "AutoNum": 17,
           "Case_Status": "Intake",
           "ContactPhoneNumber": "(225) 356-7203",
+          "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-03-18",
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "3423 Dalton St, Baton Rouge LA 70805",
@@ -131,6 +410,7 @@
           "AutoNum": 28,
           "Case_Status": "Intake",
           "ContactPhoneNumber": "(225) 692-1604",
+          "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "2510 Laurel St , Baton Rouge LA 70802",
           "Inspection": "Requested",
@@ -161,6 +441,7 @@
           "AutoNum": 15,
           "Case_Status": "Intake",
           "ContactPhoneNumber": "(225) 357-5436",
+          "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-03-18",
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "3869 Pontiac St, Baton Rouge LA 70805",
@@ -219,6 +500,7 @@
           "AutoNum": 18,
           "Case_Status": "Intake",
           "ContactPhoneNumber": "(504) 430-3525",
+          "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-03-21",
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "3425 Adams Ave, Baton Rouge LA 70802",
@@ -277,6 +559,7 @@
           "AutoNum": 5,
           "Case_Status": "Queued",
           "ContactPhoneNumber": "(225) 200-6770",
+          "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recQUZVQRMaOXvAUg"
           ],
@@ -333,6 +616,98 @@
       },
       {
         "geometry": null,
+        "id": "recCbsNAQtDkrpCNu",
+        "properties": {
+          "Applicant_FirstName": "Audrey",
+          "Applicant_LastName": "Philson",
+          "AutoNum": 66,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "225357575",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2252678127",
+          "FullPropertyAddress": "4621 Bradley St, Baton Rouge LA 70805",
+          "Owner": "Audrey Philson",
+          "Owner Phone (7 digit)": "25357575",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "4621 Bradley St",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "66_4621 Bradley St_PHILSON",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4781594",
+          "longitude": "-91.143661"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recCsdyJXBoQJseJv",
+        "properties": {
+          "Applicant_FirstName": "Toni",
+          "Applicant_LastName": "Jones",
+          "AutoNum": 68,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2253675676",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2253546326",
+          "FullPropertyAddress": "5055 Clayton Dr, Baton Rouge LA 70805",
+          "Owner": "Toni Jones",
+          "Owner Phone (7 digit)": "367-5676",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "5055 Clayton Dr",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "68_5055 Clayton Dr_JONES",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4916115",
+          "longitude": "-91.1396593"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recDahex5csCGOJTK",
+        "properties": {
+          "Applicant_FirstName": "Joyce",
+          "Applicant_LastName": "McKay",
+          "AutoNum": 37,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2252393806",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "FullPropertyAddress": "4544 E Brookstown Dr, Baton Rouge LA 70805",
+          "Owner": "Joyce McKay",
+          "Owner Phone (7 digit)": "239-3806",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "4544 E Brookstown Dr",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "37_4544 E Brookstown Dr_MCKAY",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4922476",
+          "longitude": "-91.1279043"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recDlWKKLCAnWAaAb",
         "properties": {
           "Applicant_FirstName": "Angela",
@@ -340,6 +715,7 @@
           "AutoNum": 22,
           "Case_Status": "Intake",
           "ContactPhoneNumber": "(225) 615-4947",
+          "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "5852 St. Gerard Ave , Baton Rouge LA 70805",
           "Inspection": "Requested",
@@ -370,6 +746,7 @@
           "AutoNum": 12,
           "Case_Status": "Intake",
           "ContactPhoneNumber": "(225) 333-0547",
+          "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-02-18",
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "2358 Valley St, Baton Rouge LA 70808",
@@ -421,6 +798,36 @@
       },
       {
         "geometry": null,
+        "id": "recG179c3PIxgFnr7",
+        "properties": {
+          "Applicant_FirstName": "Lois ",
+          "Applicant_LastName": "Paul",
+          "AutoNum": 42,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2259214624",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "FullPropertyAddress": "8782 Sharon Hills , Baton Rouge LA 70811",
+          "Owner": "Lois  Paul",
+          "Owner Phone (7 digit)": "921-4624",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "8782 Sharon Hills ",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70811",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "42_8782 Sharon Hills _PAUL",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.5308046",
+          "longitude": "-91.1297835"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recGRjuAJeYk0xgab",
         "properties": {
           "Applicant_FirstName": "Maggie",
@@ -428,6 +835,7 @@
           "AutoNum": 7,
           "Case_Status": "Queued",
           "ContactPhoneNumber": "(225) 773-3404",
+          "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "reck2e1ecRQQmOpn5"
           ],
@@ -491,6 +899,7 @@
           "AutoNum": 1,
           "Case_Status": "Queued",
           "ContactPhoneNumber": "(225) 775-6272",
+          "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "reck2e1ecRQQmOpn5"
           ],
@@ -547,6 +956,37 @@
       },
       {
         "geometry": null,
+        "id": "recIC4v20lFsKhXaV",
+        "properties": {
+          "Applicant_FirstName": "Shirley",
+          "Applicant_LastName": "Jarrell",
+          "AutoNum": 44,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2252184410",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2253242404",
+          "FullPropertyAddress": "6822 E Upland Ave, Baton Rouge LA 70812",
+          "Owner": "Shirley Jarrell",
+          "Owner Phone (7 digit)": "218-4410",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "6822 E Upland Ave",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70812",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "44_6822 E Upland Ave_JARRELL",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.5154652",
+          "longitude": "-91.1236661"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recIdLNKa3J8gYszy",
         "properties": {
           "Applicant_FirstName": "Dianne",
@@ -554,6 +994,7 @@
           "AutoNum": 10,
           "Case_Status": "Queued",
           "ContactPhoneNumber": "(225) 356-9008",
+          "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recN6hhn7SFQIJ1XI"
           ],
@@ -610,6 +1051,157 @@
       },
       {
         "geometry": null,
+        "id": "recJg03ALAUzv5NLQ",
+        "properties": {
+          "Applicant_FirstName": "Evelyn",
+          "Applicant_LastName": "Mearidy",
+          "AutoNum": 35,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2255328873",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "FullPropertyAddress": "5624 Robertson Ave, Baton Rouge LA 70805",
+          "Owner": "Evelyn Mearidy",
+          "Owner Phone (7 digit)": "532-8873",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "5624 Robertson Ave",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "35_5624 Robertson Ave_MEARIDY",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.5010897",
+          "longitude": "-91.1424426"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recLOZanzzTnoBIOx",
+        "properties": {
+          "Applicant_FirstName": "Shantele ",
+          "Applicant_LastName": "Paul",
+          "AutoNum": 38,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2252842413",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "FullPropertyAddress": "5645 Shelley Ct, Baton Rouge LA 70805",
+          "Owner": "Shantele  Paul",
+          "Owner Phone (7 digit)": "284-2413",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "5645 Shelley Ct",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "38_5645 Shelley Ct_PAUL",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4921585",
+          "longitude": "-91.1336436"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recLQRNVzYDew5XaN",
+        "properties": {
+          "Applicant_FirstName": "Tezana ",
+          "Applicant_LastName": "Richard",
+          "AutoNum": 43,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2253577837",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "FullPropertyAddress": "5455 Sumrall Dr, Baton Rouge LA 70811",
+          "Owner": "Tezana  Richard",
+          "Owner Phone (7 digit)": "357-7837",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "5455 Sumrall Dr",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70811",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "43_5455 Sumrall Dr_RICHARD",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.5136029",
+          "longitude": "-91.1362203"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recNKD4xwTBc8SgpM",
+        "properties": {
+          "Applicant_FirstName": "Mary ",
+          "Applicant_LastName": "Bowman",
+          "AutoNum": 67,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2259298910",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2253546326",
+          "FullPropertyAddress": "970 N. 47th St, Baton Rouge LA 70802",
+          "Owner": "Mary  Bowman",
+          "Owner Phone (7 digit)": "929-8910",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "970 N. 47th St",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70802",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "67_970 N. 47th St_BOWMAN",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4571961",
+          "longitude": "-91.1424071"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recNxzrp8GY6cMVrL",
+        "properties": {
+          "Applicant_FirstName": "Mary",
+          "Applicant_LastName": "Christopher ",
+          "AutoNum": 65,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2259608741",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "FullPropertyAddress": "5431 Washington Ave, Baton Rouge LA 70806",
+          "Owner": "Mary Christopher ",
+          "Owner Phone (7 digit)": "960-8741",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "5431 Washington Ave",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70806",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "65_5431 Washington Ave_CHRISTOPHER ",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4664248",
+          "longitude": "-91.1349835"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recOdRlxO7NWHjdS6",
         "properties": {
           "Applicant_FirstName": "Minnie Lee",
@@ -617,6 +1209,7 @@
           "AutoNum": 4,
           "Case_Status": "Queued",
           "ContactPhoneNumber": "(225) 228-8989",
+          "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recT4RWARnMszNoI0"
           ],
@@ -673,6 +1266,97 @@
       },
       {
         "geometry": null,
+        "id": "recQ5QCwnEF44qqdB",
+        "properties": {
+          "Applicant_FirstName": "Lawrence ",
+          "Applicant_LastName": "Smith",
+          "AutoNum": 34,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2253573227",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "FullPropertyAddress": "1974 Mission Dr, Baton Rouge LA 70802",
+          "Owner": "Lawrence  Smith",
+          "Owner Phone (7 digit)": "357-3227",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "1974 Mission Dr",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70802",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "34_1974 Mission Dr_SMITH",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4664885",
+          "longitude": "-91.1444763"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recQ6745gc4KE9BwG",
+        "properties": {
+          "Applicant_FirstName": "Zenetta",
+          "Applicant_LastName": "Thompson",
+          "AutoNum": 53,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2253550223",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2252059588",
+          "FullPropertyAddress": "5556 Adams Ave, Baton Rouge LA 70806",
+          "Owner": "Zenetta Thompson",
+          "Owner Phone (7 digit)": "355-0223",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "5556 Adams Ave",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70806",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "53_5556 Adams Ave_THOMPSON",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.469333",
+          "longitude": "-91.133754"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recQzGiNCaNnErh1a",
+        "properties": {
+          "Applicant_FirstName": "Joannah",
+          "Applicant_LastName": "Mason",
+          "AutoNum": 73,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2253566427",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "FullPropertyAddress": "3961 Monroe Ave, Baton Rouge LA 70802",
+          "Owner": "Joannah Mason",
+          "Owner Phone (7 digit)": "356-6427",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "3961 Monroe Ave",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70802",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "73_3961 Monroe Ave_MASON",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4697849",
+          "longitude": "-91.1508124"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recRQFxMl2sGlBSxj",
         "properties": {
           "Applicant_FirstName": "Geraldine",
@@ -680,6 +1364,7 @@
           "AutoNum": 29,
           "Case_Status": "Intake",
           "ContactPhoneNumber": "(225) 938-1738",
+          "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "3027 Newton St , Baton Rouge LA 70802",
           "Inspection": "Requested",
@@ -703,6 +1388,308 @@
       },
       {
         "geometry": null,
+        "id": "recS6od7Dzszu3iu5",
+        "properties": {
+          "Applicant_FirstName": "Annie",
+          "Applicant_LastName": "Wright",
+          "AutoNum": 79,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2253370813",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "FullPropertyAddress": "3563 Osceola Ave, Baton Rouge LA 70805",
+          "Owner": "Annie Wright",
+          "Owner Phone (7 digit)": "337-0813",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "3563 Osceola Ave",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "79_3563 Osceola Ave_WRIGHT",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4806451",
+          "longitude": "-91.1653532"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recTmYIT93WuGxldP",
+        "properties": {
+          "Applicant_FirstName": "Lois Marie",
+          "Applicant_LastName": "Beals",
+          "AutoNum": 64,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2254447447",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2259609442",
+          "FullPropertyAddress": "2908 Sherwood St, Baton Rouge LA 70805",
+          "Owner": "Lois Marie Beals",
+          "Owner Phone (7 digit)": "444-7447",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "2908 Sherwood St",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "64_2908 Sherwood St_BEALS",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4892571",
+          "longitude": "-91.1606088"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recTvq0Tzjy6iUOPW",
+        "properties": {
+          "Applicant_FirstName": "Lois",
+          "Applicant_LastName": "Sims",
+          "AutoNum": 77,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "9856651566",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "FullPropertyAddress": "2703 Michelli Dr, Baton Rouge LA 70805",
+          "Owner": "Lois Sims",
+          "Owner Phone (7 digit)": "665-1566",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "2703 Michelli Dr",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "77_2703 Michelli Dr_SIMS",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4732195",
+          "longitude": "-91.1273841"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recUmDAemttDkgXGt",
+        "properties": {
+          "Applicant_FirstName": "Sheryl",
+          "Applicant_LastName": "Ray",
+          "AutoNum": 33,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2252722173",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "FullPropertyAddress": "10562 Big Bend Ave, Baton Rouge LA 70814",
+          "Owner": "Sheryl Ray",
+          "Owner Phone (7 digit)": "272-2173",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "10562 Big Bend Ave",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70814",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "33_10562 Big Bend Ave_RAY",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4800483",
+          "longitude": "-91.066377"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recWIyOSJVFSKleIW",
+        "properties": {
+          "Applicant_FirstName": "Angela",
+          "Applicant_LastName": "Williams",
+          "AutoNum": 31,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2254396382",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "FullPropertyAddress": "2251 Plantation Dr, Baton Rouge LA 70807",
+          "Owner": "Angela Williams",
+          "Owner Phone (7 digit)": "439-6382",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "2251 Plantation Dr",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70807",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "31_2251 Plantation Dr_WILLIAMS",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.5552758",
+          "longitude": "-91.1683539"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recXZlJIAQhnmgMYB",
+        "properties": {
+          "Applicant_FirstName": "John",
+          "Applicant_LastName": "Jones",
+          "AutoNum": 74,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "7138756512",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "FullPropertyAddress": "2936 Adams Ave, Baton Rouge LA 70802",
+          "Owner": "John Jones",
+          "Owner Phone (7 digit)": "875-6512",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "2936 Adams Ave",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70802",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "74_2936 Adams Ave_JONES",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4683725",
+          "longitude": "-91.1592025"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recXqcQq9QeiDwPrt",
+        "properties": {
+          "Applicant_FirstName": "Elvira",
+          "Applicant_LastName": "Davis",
+          "AutoNum": 46,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2253498508",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2253427698",
+          "FullPropertyAddress": "7182 Aspen Pl, Baton Rouge LA 70812",
+          "Owner": "Elvira Davis",
+          "Owner Phone (7 digit)": "349-8508",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "7182 Aspen Pl",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70812",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "46_7182 Aspen Pl_DAVIS",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.5084953",
+          "longitude": "-91.1182333"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recXqn2K80QUrt0dQ",
+        "properties": {
+          "Applicant_FirstName": "April",
+          "Applicant_LastName": "Wolsefer",
+          "AutoNum": 76,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2252748806",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "FullPropertyAddress": "14222 Florida Blvd, Baton Rouge LA 70819",
+          "Owner": "April Wolsefer",
+          "Owner Phone (7 digit)": "274-8806",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "14222 Florida Blvd",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70819",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "76_14222 Florida Blvd_WOLSEFER",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.463328",
+          "longitude": "-91.0270759"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recYcwPr5mqoF7lIO",
+        "properties": {
+          "Applicant_FirstName": "Rose",
+          "Applicant_LastName": "Stevens",
+          "AutoNum": 78,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2254216988",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "FullPropertyAddress": "4935 Beech St, Baton Rouge LA 70805",
+          "Owner": "Rose Stevens",
+          "Owner Phone (7 digit)": "421-6988",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "4935 Beech St",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "78_4935 Beech St_STEVENS",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.495994",
+          "longitude": "-91.1413368"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recZiN2o6YnKsyweW",
+        "properties": {
+          "Applicant_FirstName": "Myra Lou",
+          "Applicant_LastName": "Engram",
+          "AutoNum": 75,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "3379625558",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "FullPropertyAddress": "4279 Acacia St, Baton Rouge LA 70819",
+          "Owner": "Myra Lou Engram",
+          "Owner Phone (7 digit)": "962-5558",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "4279 Acacia St",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70819",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "75_4279 Acacia St_ENGRAM",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4589296",
+          "longitude": "-91.0273918"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recacOJvwVNL7miAy",
         "properties": {
           "Applicant_FirstName": "Yolanda",
@@ -710,6 +1697,7 @@
           "AutoNum": 13,
           "Case_Status": "Intake",
           "ContactPhoneNumber": "(225) 746-3126",
+          "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-03-08",
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "3563 Wyandotte St, Baton Rouge LA 70805",
@@ -761,6 +1749,68 @@
       },
       {
         "geometry": null,
+        "id": "recb1rhRQGuWg45hS",
+        "properties": {
+          "Applicant_FirstName": "Helen",
+          "Applicant_LastName": "Salim",
+          "AutoNum": 58,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2259534322",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2256921604",
+          "FullPropertyAddress": "3415 Adams Ave, Baton Rouge LA 70802",
+          "Owner": "Helen Salim",
+          "Owner Phone (7 digit)": "953-4322",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "3415 Adams Ave",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70802",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "58_3415 Adams Ave_SALIM",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4689027",
+          "longitude": "-91.1551619"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "reccgqkrO99dlrVQF",
+        "properties": {
+          "Applicant_FirstName": "Juanita ",
+          "Applicant_LastName": "Allen",
+          "AutoNum": 52,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2253528532",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2259386681",
+          "FullPropertyAddress": "6660 Cambridge St, Baton Rouge LA 70807",
+          "Owner": "Juanita  Allen",
+          "Owner Phone (7 digit)": "352-8532",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "6660 Cambridge St",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70807",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "52_6660 Cambridge St_ALLEN",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.5109921",
+          "longitude": "-91.1620902"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recerPolifk0lkivK",
         "properties": {
           "Applicant_FirstName": "Lois ",
@@ -768,6 +1818,7 @@
           "AutoNum": 21,
           "Case_Status": "Intake",
           "ContactPhoneNumber": "(225) 444-7447",
+          "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-17",
           "FullPropertyAddress": "2980 Sherwood St. , Baton Rouge LA 70805",
           "Inspection": "Requested",
@@ -785,6 +1836,67 @@
       },
       {
         "geometry": null,
+        "id": "recewuFulPgAOegqH",
+        "properties": {
+          "Applicant_FirstName": "Ernest ",
+          "Applicant_LastName": "Jones",
+          "AutoNum": 36,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2253580962",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "FullPropertyAddress": "6125 Byron St, Baton Rouge LA 70805",
+          "Owner": "Ernest  Jones",
+          "Owner Phone (7 digit)": "358-0962",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "6125 Byron St",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "36_6125 Byron St_JONES",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4947864",
+          "longitude": "-91.1288466"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recfJmjftLoy9PKpi",
+        "properties": {
+          "Applicant_FirstName": "Shirley",
+          "Applicant_LastName": "Williams",
+          "AutoNum": 51,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2252468971",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2259753250",
+          "FullPropertyAddress": "224 Evergreen Dr, Baton Rouge LA 70806",
+          "Owner": "Shirley Williams",
+          "Owner Phone (7 digit)": "246-8971",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "224 Evergreen Dr",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70806",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "51_224 Evergreen Dr_WILLIAMS",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4460438",
+          "longitude": "-91.1632645"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recfqzk8oUE9xckmu",
         "properties": {
           "Applicant_FirstName": "Willie ",
@@ -792,6 +1904,7 @@
           "AutoNum": 23,
           "Case_Status": "Intake",
           "ContactPhoneNumber": "(225) 614-0898",
+          "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "2950 Linwood St , Baton Rouge LA 70805",
           "Inspection": "Requested",
@@ -822,6 +1935,7 @@
           "AutoNum": 25,
           "Case_Status": "Intake",
           "ContactPhoneNumber": "(225) 407-6638",
+          "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "2548 Hollywood St. , Baton Rouge LA 70805",
           "Inspection": "Requested",
@@ -845,6 +1959,36 @@
       },
       {
         "geometry": null,
+        "id": "rechQWJikRtYSMWMY",
+        "properties": {
+          "Applicant_FirstName": "Emile",
+          "Applicant_LastName": "Chauvin",
+          "AutoNum": 40,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2253621280",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "FullPropertyAddress": "9929 Groner Ave, Baton Rouge LA 70809",
+          "Owner": "Emile Chauvin",
+          "Owner Phone (7 digit)": "362-1280",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "9929 Groner Ave",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70809",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "40_9929 Groner Ave_CHAUVIN",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.3951334",
+          "longitude": "-91.0765559"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recl9IgXlCM4l2lxc",
         "properties": {
           "Applicant_FirstName": "Elizabeth",
@@ -852,6 +1996,7 @@
           "AutoNum": 14,
           "Case_Status": "Intake",
           "ContactPhoneNumber": "(225) 746-3126",
+          "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-03-09",
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "3940 Oswego St, Baton Rouge LA 70805",
@@ -903,6 +2048,37 @@
       },
       {
         "geometry": null,
+        "id": "recnCAkqsDGqn7hSC",
+        "properties": {
+          "Applicant_FirstName": "Alfreda ",
+          "Applicant_LastName": "Watson",
+          "AutoNum": 60,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2254076638",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2256921604",
+          "FullPropertyAddress": "2548 Hollywood St, Baton Rouge LA 70805",
+          "Owner": "Alfreda  Watson",
+          "Owner Phone (7 digit)": "407-6638",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "2548 Hollywood St",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "60_2548 Hollywood St_WATSON",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4991377",
+          "longitude": "-91.1649032"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recoCdVDZ6PjNQhnh",
         "properties": {
           "Applicant_FirstName": "Theresa",
@@ -910,6 +2086,7 @@
           "AutoNum": 30,
           "Case_Status": "Intake",
           "ContactPhoneNumber": "(225) 772-4256",
+          "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "2005 Nth 16th Street , Baton Rouge LA 70802",
           "Inspection": "Requested",
@@ -940,6 +2117,7 @@
           "AutoNum": 24,
           "Case_Status": "Intake",
           "ContactPhoneNumber": "(225) 357-4498",
+          "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "2041 West Belfair Dr. , Baton Rouge LA 70805",
           "Inspection": "Requested",
@@ -963,6 +2141,68 @@
       },
       {
         "geometry": null,
+        "id": "recp54zB2zrhGC50c",
+        "properties": {
+          "Applicant_FirstName": "Julia",
+          "Applicant_LastName": "Russ",
+          "AutoNum": 59,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2253874648",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2256921604",
+          "FullPropertyAddress": "831 N 40th St, Baton Rouge LA 70802",
+          "Owner": "Julia Russ",
+          "Owner Phone (7 digit)": "387-4648",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "831 N 40th St",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70802",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "59_831 N 40th St_RUSS",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4561544",
+          "longitude": "-91.1505124"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recpQy2aGZzM7QcvE",
+        "properties": {
+          "Applicant_FirstName": "Marilyn",
+          "Applicant_LastName": "Dugas",
+          "AutoNum": 50,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2254244544",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2259753250",
+          "FullPropertyAddress": "11564 Pamela Dr, Baton Rouge LA 70815",
+          "Owner": "Marilyn Dugas",
+          "Owner Phone (7 digit)": "424-4544",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "11564 Pamela Dr",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70815",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "50_11564 Pamela Dr_DUGAS",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4610183",
+          "longitude": "-91.0550409"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recpV4AYc72BHNSoH",
         "properties": {
           "Applicant_FirstName": "Helen",
@@ -970,6 +2210,7 @@
           "AutoNum": 27,
           "Case_Status": "Intake",
           "ContactPhoneNumber": "(225) 953-4322",
+          "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "3415 Adams Ave, Baton Rouge LA 70802",
           "Inspection": "None",
@@ -1000,6 +2241,7 @@
           "AutoNum": 6,
           "Case_Status": "Queued",
           "ContactPhoneNumber": "(225) 937-6093",
+          "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recN6hhn7SFQIJ1XI"
           ],
@@ -1063,6 +2305,7 @@
           "AutoNum": 2,
           "Case_Status": "Queued",
           "ContactPhoneNumber": "(225) 357-7930",
+          "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recSiY21mfIlA9zfG"
           ],
@@ -1119,6 +2362,98 @@
       },
       {
         "geometry": null,
+        "id": "recpiT0ZvcigyXksB",
+        "properties": {
+          "Applicant_FirstName": "Carol ",
+          "Applicant_LastName": "Miller",
+          "AutoNum": 55,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2256145987",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2258061908",
+          "FullPropertyAddress": "4943 Bardwell Dr , Baton Rouge LA 70808",
+          "Owner": "Carol  Miller",
+          "Owner Phone (7 digit)": "614-5987",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "4943 Bardwell Dr ",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70808",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "55_4943 Bardwell Dr _MILLER",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4293483",
+          "longitude": "-91.1377273"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recpn4gCbhH8gEax2",
+        "properties": {
+          "Applicant_FirstName": "Patricia",
+          "Applicant_LastName": "Bird",
+          "AutoNum": 70,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2253445191",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "FullPropertyAddress": "1826 Arkansas St, Baton Rouge LA 70802",
+          "Owner": "Patricia Bird",
+          "Owner Phone (7 digit)": "344-5191",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "1826 Arkansas St",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70802",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "70_1826 Arkansas St_BIRD",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4308742",
+          "longitude": "-91.1709797"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recqhCpyZ4ofziQgy",
+        "properties": {
+          "Applicant_FirstName": "Celestine",
+          "Applicant_LastName": "Davis",
+          "AutoNum": 61,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2253574498",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2256921604",
+          "FullPropertyAddress": "2041 W Bellfair Dr, Baton Rouge LA 70805",
+          "Owner": "Celestine Davis",
+          "Owner Phone (7 digit)": "357-4498",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "2041 W Bellfair Dr",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "61_2041 W Bellfair Dr_DAVIS",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4667707",
+          "longitude": "-91.1469413"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recqiShNNkZZ6be5k",
         "properties": {
           "Applicant_FirstName": "Julia",
@@ -1126,6 +2461,7 @@
           "AutoNum": 26,
           "Case_Status": "Intake",
           "ContactPhoneNumber": "(225) 387-4648",
+          "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "831 Nth 40th St , Baton Rouge LA 70802",
           "Inspection": "Requested",
@@ -1156,6 +2492,7 @@
           "AutoNum": 16,
           "Case_Status": "Intake",
           "ContactPhoneNumber": "(225) 964-3802",
+          "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-03-04",
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "336 McCastle Ave, Baton Rouge LA 70807",
@@ -1214,6 +2551,7 @@
           "AutoNum": 11,
           "Case_Status": "Intake",
           "ContactPhoneNumber": "(225) 953-4322",
+          "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-02-14",
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "3415 Adams Ave, Baton Rouge LA 70802",
@@ -1265,6 +2603,37 @@
       },
       {
         "geometry": null,
+        "id": "rectcYM3GBgQr3y5C",
+        "properties": {
+          "Applicant_FirstName": "Rosa Lee",
+          "Applicant_LastName": "Davis",
+          "AutoNum": 80,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2257754283",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2253280721",
+          "FullPropertyAddress": "2640 Jay St, Baton Rouge LA 70807",
+          "Owner": "Rosa Lee Davis",
+          "Owner Phone (7 digit)": "775-4283",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "2640 Jay St",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70807",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "80_2640 Jay St_DAVIS",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.5258536",
+          "longitude": "-91.1662162"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "rectzGzLd6PxDra6W",
         "properties": {
           "Applicant_FirstName": "Bobby Ray",
@@ -1272,6 +2641,7 @@
           "AutoNum": 20,
           "Case_Status": "Intake",
           "ContactPhoneNumber": "(225) 916-1788",
+          "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-04-09",
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "2937 Chippewa St, Baton Rouge LA 70805",
@@ -1323,6 +2693,159 @@
       },
       {
         "geometry": null,
+        "id": "recu69pxCKiXHG3zP",
+        "properties": {
+          "Applicant_FirstName": "Henry",
+          "Applicant_LastName": "Devold",
+          "AutoNum": 57,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2254481034",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2256921604",
+          "FullPropertyAddress": "2510 Laurel St, Baton Rouge LA 70802",
+          "Owner": "Henry Devold",
+          "Owner Phone (7 digit)": "448-1034",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "2510 Laurel St",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70802",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "57_2510 Laurel St_DEVOLD",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4509329",
+          "longitude": "-91.1625317"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recvtjwck1spx2SFU",
+        "properties": {
+          "Applicant_FirstName": "Veronica",
+          "Applicant_LastName": "Magee",
+          "AutoNum": 32,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2252506725",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "FullPropertyAddress": "640 Arlington Ave, Baton Rouge LA 70806",
+          "Owner": "Veronica Magee",
+          "Owner Phone (7 digit)": "250-6725",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "640 Arlington Ave",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70806",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "32_640 Arlington Ave_MAGEE",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4426566",
+          "longitude": "-91.1592588"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recxNZpTJXYHtDpmv",
+        "properties": {
+          "Applicant_FirstName": "Willie ",
+          "Applicant_LastName": "Christopher ",
+          "AutoNum": 62,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2253550605",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2256921604",
+          "FullPropertyAddress": "2950 Linwood St, Baton Rouge LA 70805",
+          "Owner": "Willie  Christopher ",
+          "Owner Phone (7 digit)": "355-0605",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "2950 Linwood St",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "62_2950 Linwood St_CHRISTOPHER ",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4745057",
+          "longitude": "-91.1729684"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recxd06nSmw54k43r",
+        "properties": {
+          "Applicant_FirstName": "Newman",
+          "Applicant_LastName": "Snell Jr",
+          "AutoNum": 45,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2256141488",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "FullPropertyAddress": "6869 Monarch St, Baton Rouge LA 70812",
+          "Owner": "Newman Snell Jr",
+          "Owner Phone (7 digit)": "614-1488",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "6869 Monarch St",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70812",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "45_6869 Monarch St_SNELL JR",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.5167358",
+          "longitude": "-91.1231287"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recy60JoGCiIXhFqe",
+        "properties": {
+          "Applicant_FirstName": "Kenneth ",
+          "Applicant_LastName": "Austin",
+          "AutoNum": 72,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2253555520",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2253242238",
+          "FullPropertyAddress": "7295 Prescott Rd, Baton Rouge LA 70812",
+          "Owner": "Kenneth  Austin",
+          "Owner Phone (7 digit)": "355-5520",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "7295 Prescott Rd",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70812",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "72_7295 Prescott Rd_AUSTIN",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4889408",
+          "longitude": "-91.1167722"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recybgArO2oX781Mi",
         "properties": {
           "Applicant_FirstName": "Ferma Lee",
@@ -1330,6 +2853,7 @@
           "AutoNum": 8,
           "Case_Status": "Cancelled",
           "ContactPhoneNumber": "(225) 359-6531",
+          "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-03",
           "Delay reason": "Question of ownership and residential address. Disqualified.",
           "Description": "case 107 Rehab program",
@@ -1383,6 +2907,37 @@
       },
       {
         "geometry": null,
+        "id": "reczBSNgqbUJZHBor",
+        "properties": {
+          "Applicant_FirstName": "Marie",
+          "Applicant_LastName": "Simmons",
+          "AutoNum": 47,
+          "Case_Status": "Intake",
+          "ContactPhoneNumber": "2254544589",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-07-31",
+          "Description": "2253427698",
+          "FullPropertyAddress": "3844 W Wendover Dr, Baton Rouge LA 70814",
+          "Owner": "Marie Simmons",
+          "Owner Phone (7 digit)": "454-4589",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "3844 W Wendover Dr",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70814",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
+          "caseID": "47_3844 W Wendover Dr_SIMMONS",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
+          "latitude": "30.4858325",
+          "longitude": "-91.046438"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "reczJoh9bJWyfRwN4",
         "properties": {
           "Applicant_FirstName": "Dorothy",
@@ -1390,6 +2945,7 @@
           "AutoNum": 19,
           "Case_Status": "Intake",
           "ContactPhoneNumber": "(225) 928-1198",
+          "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-03-25",
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "5165 Hermitage Dr, Baton Rouge LA 70806",
@@ -1448,6 +3004,7 @@
           "AutoNum": 9,
           "Case_Status": "Queued",
           "ContactPhoneNumber": "(225) 448-2320",
+          "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "reck2e1ecRQQmOpn5"
           ],
