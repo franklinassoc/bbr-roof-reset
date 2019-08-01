@@ -23,6 +23,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "41_1619 Theron Dr_JOHNSON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -86,6 +87,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "Status": "Queued",
           "caseID": "3_3822 N Acadian Thruway East_BURKHALTER",
           "contractor_name": "EDR Contruction",
           "email-of-staff": [
@@ -119,6 +121,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "49_4515 Thames Dr_ANDERSON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -150,6 +153,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "56_200 N 16th St_GRAY",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -182,6 +186,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "39_4060 Topeka St_LONDON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -214,6 +219,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "69_3836 Adams Ave_SCOTT, SR",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -246,6 +252,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "63_5852 St Gerard Ave_BYNUM",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -278,6 +285,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "71_2215 Gen Cleburne Ave_PEARSON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -310,6 +318,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "48_4247 Norwich Dr_WILLIAMS ",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -342,6 +351,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "54_2532 68th Ave_YOUNG JR",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -401,6 +411,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "Status": "Intake",
           "caseID": "17_3423 Dalton St_CARTER",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -433,6 +444,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
+          "Status": "Intake",
           "caseID": "28_2510 Laurel St _CONELIOUS",
           "email-of-staff": [
             "bclark@ebrra.org"
@@ -492,6 +504,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "Status": "Intake",
           "caseID": "15_3869 Pontiac St_ROBERTSON",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -551,6 +564,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "Status": "Intake",
           "caseID": "18_3425 Adams Ave_THOMAS",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -614,6 +628,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "Status": "Queued",
           "caseID": "5_8379 McClelland Dr_VALENTINE",
           "contractor_name": "EDR Contruction",
           "email-of-staff": [
@@ -647,6 +662,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "66_4621 Bradley St_PHILSON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -679,6 +695,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "68_5055 Clayton Dr_JONES",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -710,6 +727,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "37_4544 E Brookstown Dr_MCKAY",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -742,6 +760,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
+          "Status": "Intake",
           "caseID": "22_5852 St. Gerard Ave _BYNUM",
           "email-of-staff": [
             "bclark@ebrra.org"
@@ -801,6 +820,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "Status": "Intake",
           "caseID": "12_2358 Valley St_DOYLE",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -832,6 +852,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "42_8782 Sharon Hills _PAUL",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -895,6 +916,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "Status": "Queued",
           "caseID": "7_2843 72nd Ave_HOLLINS",
           "contractor_name": "Redstick Remodeling",
           "email-of-staff": [
@@ -959,6 +981,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "Status": "Queued",
           "caseID": "1_6655 Brownfields Dr_ANDERSON",
           "contractor_name": "Redstick Remodeling",
           "email-of-staff": [
@@ -992,6 +1015,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "44_6822 E Upland Ave_JARRELL",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1055,6 +1079,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "Status": "Queued",
           "caseID": "10_5336 Adams Ave_HARRIS",
           "contractor_name": "Public Construction Inc.",
           "email-of-staff": [
@@ -1087,6 +1112,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "35_5624 Robertson Ave_MEARIDY",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1118,6 +1144,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "38_5645 Shelley Ct_PAUL",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1149,6 +1176,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "43_5455 Sumrall Dr_RICHARD",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1181,6 +1209,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "67_970 N. 47th St_BOWMAN",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1212,6 +1241,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "65_5431 Washington Ave_CHRISTOPHER ",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1275,6 +1305,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "Status": "Queued",
           "caseID": "4_1745 N 18th Street_TILLMAN",
           "contractor_name": "Go Day Enterprises",
           "email-of-staff": [
@@ -1307,6 +1338,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "34_1974 Mission Dr_SMITH",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1339,6 +1371,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "53_5556 Adams Ave_THOMPSON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1370,6 +1403,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "73_3961 Monroe Ave_MASON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1402,6 +1436,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
+          "Status": "Intake",
           "caseID": "29_3027 Newton St _SCOTT",
           "email-of-staff": [
             "bclark@ebrra.org"
@@ -1433,6 +1468,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "79_3563 Osceola Ave_WRIGHT",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1465,6 +1501,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "64_2908 Sherwood St_BEALS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1496,6 +1533,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "77_2703 Michelli Dr_SIMS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1527,6 +1565,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "33_10562 Big Bend Ave_RAY",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1558,6 +1597,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "31_2251 Plantation Dr_WILLIAMS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1589,6 +1629,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "74_2936 Adams Ave_JONES",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1621,6 +1662,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "46_7182 Aspen Pl_DAVIS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1652,6 +1694,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "76_14222 Florida Blvd_WOLSEFER",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1683,6 +1726,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "78_4935 Beech St_STEVENS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1714,6 +1758,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "75_4279 Acacia St_ENGRAM",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1773,6 +1818,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "Status": "Intake",
           "caseID": "13_3563 Wyandotte St_HAYES",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -1805,6 +1851,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "58_3415 Adams Ave_SALIM",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1837,6 +1884,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "52_6660 Cambridge St_ALLEN",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1866,6 +1914,7 @@
           "PropertyAddress_Line1": "2980 Sherwood St. ",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
+          "Status": "Intake",
           "caseID": "21_2980 Sherwood St. _BEALS ",
           "latitude": "30.4894903",
           "longitude": "-91.1598192"
@@ -1894,6 +1943,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "36_6125 Byron St_JONES",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1926,6 +1976,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "51_224 Evergreen Dr_WILLIAMS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1958,6 +2009,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
+          "Status": "Intake",
           "caseID": "23_2950 Linwood St _CHRISTOPHER",
           "email-of-staff": [
             "bclark@ebrra.org"
@@ -1990,6 +2042,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
+          "Status": "Intake",
           "caseID": "25_2548 Hollywood St. _WATSON ",
           "email-of-staff": [
             "bclark@ebrra.org"
@@ -2021,6 +2074,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "40_9929 Groner Ave_CHAUVIN",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2080,6 +2134,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "Status": "Intake",
           "caseID": "14_3940 Oswego St_EALEM",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -2112,6 +2167,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "60_2548 Hollywood St_WATSON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2144,6 +2200,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
+          "Status": "Intake",
           "caseID": "30_2005 Nth 16th Street _GRAY",
           "email-of-staff": [
             "bclark@ebrra.org"
@@ -2176,6 +2233,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
+          "Status": "Intake",
           "caseID": "24_2041 West Belfair Dr. _DAVIS",
           "email-of-staff": [
             "bclark@ebrra.org"
@@ -2208,6 +2266,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "59_831 N 40th St_RUSS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2240,6 +2299,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "50_11564 Pamela Dr_DUGAS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2272,6 +2332,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
+          "Status": "Intake",
           "caseID": "27_3415 Adams Ave_SALIM",
           "email-of-staff": [
             "bclark@ebrra.org"
@@ -2335,6 +2396,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "Status": "Queued",
           "caseID": "6_3645 Evangeline St_KETCHENS",
           "contractor_name": "Public Construction Inc.",
           "email-of-staff": [
@@ -2399,6 +2461,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "Status": "Queued",
           "caseID": "2_3560 Dalton St_HARRIS",
           "contractor_name": "Affordable R",
           "email-of-staff": [
@@ -2432,6 +2495,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "55_4943 Bardwell Dr _MILLER",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2463,6 +2527,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "70_1826 Arkansas St_BIRD",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2495,6 +2560,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "61_2041 W Bellfair Dr_DAVIS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2527,6 +2593,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
+          "Status": "Intake",
           "caseID": "26_831 Nth 40th St _RUSS",
           "email-of-staff": [
             "bclark@ebrra.org"
@@ -2586,6 +2653,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "Status": "Intake",
           "caseID": "16_336 McCastle Ave_JEFFERSON",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -2645,6 +2713,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "Status": "Intake",
           "caseID": "11_3415 Adams Ave_SALIM",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -2677,6 +2746,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "80_2640 Jay St_DAVIS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2736,6 +2806,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "Status": "Intake",
           "caseID": "20_2937 Chippewa St_DUNBAR",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -2768,6 +2839,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "57_2510 Laurel St_DEVOLD",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2799,6 +2871,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "32_640 Arlington Ave_MAGEE",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2831,6 +2904,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "62_2950 Linwood St_CHRISTOPHER ",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2862,6 +2936,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "45_6869 Monarch St_SNELL JR",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2894,6 +2969,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "72_7295 Prescott Rd_AUSTIN",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2955,6 +3031,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "Status": "Cancelled",
           "caseID": "8_2840 Elgin St_LEBEOUF",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -2987,6 +3064,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
+          "Status": "Intake",
           "caseID": "47_3844 W Wendover Dr_SIMMONS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -3046,6 +3124,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "Status": "Intake",
           "caseID": "19_5165 Hermitage Dr_MILLER",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -3109,6 +3188,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
+          "Status": "Queued",
           "caseID": "9_1542 Kaufman Ave_MONTGOMERY",
           "contractor_name": "Redstick Remodeling",
           "email-of-staff": [
