@@ -138,10 +138,11 @@
           "Applicant_FirstName": "Theresa ",
           "Applicant_LastName": "Gray",
           "AutoNum": 56,
-          "Case_Status": "Intake",
+          "Case_Status": "Cancelled",
           "ContactPhoneNumber": "2257724256",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
+          "Description": " - cancelled because duplicate entry",
           "FullPropertyAddress": "200 N 16th St, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMjAwIE4gMTZ0aCBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDIiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjIwMCBOIDE2dGggU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NDg3NjM4LCJsbmciOi05MS4xNzIzOTY4OTk5OTk5N30sImUiOjE1NjcxOTIxOTU3MjV9",
           "Owner": "Theresa  Gray",
@@ -153,7 +154,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Cancelled",
           "caseID": "56_200 N 16th St_GRAY",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -236,11 +237,11 @@
           "Applicant_FirstName": "Angela",
           "Applicant_LastName": "Bynum",
           "AutoNum": 63,
-          "Case_Status": "Intake",
+          "Case_Status": "Cancelled",
           "ContactPhoneNumber": "2256154947",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
-          "Description": "2256921604",
+          "Description": "2256921604 - cancelled because duplicate entry",
           "FullPropertyAddress": "5852 St Gerard Ave, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiNTg1MiBTdCBHZXJhcmQgQXZlLCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiNTg1MiBTdCBHZXJhcmQgQXZlLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDk1ODYyMiwibG5nIjotOTEuMTMxOTAwOX0sImUiOjE1NjcxOTIxNTg2Njd9",
           "Owner": "Angela Bynum",
@@ -252,7 +253,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Cancelled",
           "caseID": "63_5852 St Gerard Ave_BYNUM",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1485,11 +1486,11 @@
           "Applicant_FirstName": "Lois Marie",
           "Applicant_LastName": "Beals",
           "AutoNum": 64,
-          "Case_Status": "Intake",
+          "Case_Status": "Cancelled",
           "ContactPhoneNumber": "2254447447",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
-          "Description": "2259609442",
+          "Description": "2259609442 - cancelled because duplicate entry",
           "FullPropertyAddress": "2908 Sherwood St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjkwOCBTaGVyd29vZCBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjI5MDggU2hlcndvb2QgU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNSwgVVNBIiwibGF0IjozMC40ODkyNTcxLCJsbmciOi05MS4xNjA2MDg3OTk5OTk5OH0sImUiOjE1NjcxOTIxNzI4Mzh9",
           "Owner": "Lois Marie Beals",
@@ -1501,7 +1502,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Cancelled",
           "caseID": "64_2908 Sherwood St_BEALS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1835,11 +1836,11 @@
           "Applicant_FirstName": "Helen",
           "Applicant_LastName": "Salim",
           "AutoNum": 58,
-          "Case_Status": "Intake",
+          "Case_Status": "Cancelled",
           "ContactPhoneNumber": "2259534322",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
-          "Description": "2256921604",
+          "Description": "- cancelled because duplicate entry",
           "FullPropertyAddress": "3415 Adams Ave, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMzQxNSBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNDE1IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODAyLCBVU0EiLCJsYXQiOjMwLjQ2ODkwMjcsImxuZyI6LTkxLjE1NTE2MTl9LCJlIjoxNTY3MTkyMTc1Mzg3fQ==",
           "Owner": "Helen Salim",
@@ -1851,7 +1852,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Cancelled",
           "caseID": "58_3415 Adams Ave_SALIM",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1898,7 +1899,7 @@
         "geometry": null,
         "id": "recerPolifk0lkivK",
         "properties": {
-          "Applicant_FirstName": "Lois ",
+          "Applicant_FirstName": "Lois Marie",
           "Applicant_LastName": "Beals ",
           "AutoNum": 21,
           "Case_Status": "Intake",
@@ -1908,7 +1909,7 @@
           "FullPropertyAddress": "2980 Sherwood St. , Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjk4MCBTaGVyd29vZCBTdC4gLCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMjk4MCBTaGVyd29vZCBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ4OTQ5MDMsImxuZyI6LTkxLjE1OTgxOTIwMDAwMDAyfSwiZSI6MTU2NzE5MjE1NDQxN30=",
           "Inspection": "Requested",
-          "Owner": "Lois  Beals ",
+          "Owner": "Lois Marie Beals ",
           "Owner Phone (7 digit)": "444-7447",
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "2980 Sherwood St. ",
@@ -2030,6 +2031,7 @@
           "ContactPhoneNumber": "(225) 407-6638",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
+          "Description": "2256921604",
           "FullPropertyAddress": "2548 Hollywood St. , Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjU0OCBIb2xseXdvb2QgU3QuICwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjI1NDggSG9sbHl3b29kIFN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDk5MTM3NywibG5nIjotOTEuMTY0OTAzMjAwMDAwMDN9LCJlIjoxNTY3MTkyMTc3MTU0fQ==",
           "Inspection": "Requested",
@@ -2151,11 +2153,11 @@
           "Applicant_FirstName": "Alfreda ",
           "Applicant_LastName": "Watson",
           "AutoNum": 60,
-          "Case_Status": "Intake",
+          "Case_Status": "Cancelled",
           "ContactPhoneNumber": "2254076638",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
-          "Description": "2256921604",
+          "Description": "2256921604 - cancelled because duplicate entry",
           "FullPropertyAddress": "2548 Hollywood St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjU0OCBIb2xseXdvb2QgU3QsIEJhdG9uIFJvdWdlIExBIDcwODA1IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIyNTQ4IEhvbGx5d29vZCBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ5OTEzNzcsImxuZyI6LTkxLjE2NDkwMzIwMDAwMDAzfSwiZSI6MTU2NzE5MjE2MDYyN30=",
           "Owner": "Alfreda  Watson",
@@ -2167,7 +2169,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Cancelled",
           "caseID": "60_2548 Hollywood St_WATSON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2221,6 +2223,7 @@
           "ContactPhoneNumber": "(225) 357-4498",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
+          "Description": "225-692-1604",
           "FullPropertyAddress": "2041 West Belfair Dr. , Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjA0MSBXZXN0IEJlbGZhaXIgRHIuICwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjIwNDEgVyBCZWxmYWlyIERyLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDIsIFVTQSIsImxhdCI6MzAuNDY2NzcwNywibG5nIjotOTEuMTQ2OTQxMjk5OTk5OTh9LCJlIjoxNTY3MTkyMTc2NTcwfQ==",
           "Inspection": "Requested",
@@ -2250,11 +2253,11 @@
           "Applicant_FirstName": "Julia",
           "Applicant_LastName": "Russ",
           "AutoNum": 59,
-          "Case_Status": "Intake",
+          "Case_Status": "Cancelled",
           "ContactPhoneNumber": "2253874648",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
-          "Description": "2256921604",
+          "Description": "2256921604 - cancelled because duplicate entry",
           "FullPropertyAddress": "831 N 40th St, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiODMxIE4gNDB0aCBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDIiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjgzMSBOIDQwdGggU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NTYxNTQ0LCJsbmciOi05MS4xNTA1MTI0MDAwMDAwM30sImUiOjE1NjcxOTIxNDgwMzZ9",
           "Owner": "Julia Russ",
@@ -2266,7 +2269,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Cancelled",
           "caseID": "59_831 N 40th St_RUSS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2316,10 +2319,11 @@
           "Applicant_FirstName": "Helen",
           "Applicant_LastName": "Salim",
           "AutoNum": 27,
-          "Case_Status": "Intake",
+          "Case_Status": "Cancelled",
           "ContactPhoneNumber": "(225) 953-4322",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
+          "Description": "- cancelled because duplicate entry",
           "FullPropertyAddress": "3415 Adams Ave, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMzQxNSBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNDE1IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODAyLCBVU0EiLCJsYXQiOjMwLjQ2ODkwMjcsImxuZyI6LTkxLjE1NTE2MTl9LCJlIjoxNTY3MTkyMTUwNDg5fQ==",
           "Inspection": "None",
@@ -2332,7 +2336,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Intake",
+          "Status": "Cancelled",
           "caseID": "27_3415 Adams Ave_SALIM",
           "email-of-staff": [
             "bclark@ebrra.org"
@@ -2544,11 +2548,11 @@
           "Applicant_FirstName": "Celestine",
           "Applicant_LastName": "Davis",
           "AutoNum": 61,
-          "Case_Status": "Intake",
+          "Case_Status": "Cancelled",
           "ContactPhoneNumber": "2253574498",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
-          "Description": "2256921604",
+          "Description": "2256921604 - cancelled because duplicate entry",
           "FullPropertyAddress": "2041 W Bellfair Dr, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjA0MSBXIEJlbGxmYWlyIERyLCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMjA0MSBXIEJlbGZhaXIgRHIsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NjY3NzA3LCJsbmciOi05MS4xNDY5NDEyOTk5OTk5OH0sImUiOjE1NjcxOTIxNDczODl9",
           "Owner": "Celestine Davis",
@@ -2560,7 +2564,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Cancelled",
           "caseID": "61_2041 W Bellfair Dr_DAVIS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2581,6 +2585,7 @@
           "ContactPhoneNumber": "(225) 387-4648",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
+          "Description": "225-692-1604",
           "FullPropertyAddress": "831 Nth 40th St , Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiODMxIE50aCA0MHRoIFN0ICwgQmF0b24gUm91Z2UgTEEgNzA4MDIiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjgzMSBOIDQwdGggU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NTYxNTQ0LCJsbmciOi05MS4xNTA1MTI0MDAwMDAwM30sImUiOjE1NjcxOTIxNzkzMjJ9",
           "Inspection": "Requested",
@@ -2675,6 +2680,7 @@
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-02-14",
           "DateOrdered": "2019-07-25",
+          "Description": "2256921604",
           "FullPropertyAddress": "3415 Adams Ave, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMzQxNSBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNDE1IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODAyLCBVU0EiLCJsYXQiOjMwLjQ2ODkwMjcsImxuZyI6LTkxLjE1NTE2MTl9LCJlIjoxNTY2NDE3NzUzNjAyfQ==",
           "Inspection": "Completed",
@@ -2888,11 +2894,11 @@
           "Applicant_FirstName": "Willie ",
           "Applicant_LastName": "Christopher ",
           "AutoNum": 62,
-          "Case_Status": "Intake",
+          "Case_Status": "Cancelled",
           "ContactPhoneNumber": "2253550605",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
-          "Description": "2256921604",
+          "Description": "2256921604 - cancelled because duplicate entry",
           "FullPropertyAddress": "2950 Linwood St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjk1MCBMaW53b29kIFN0LCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMjk1MCBMaW53b29kIFN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDc0NTA1NywibG5nIjotOTEuMTcyOTY4NH0sImUiOjE1NjcxOTIxOTE5NDB9",
           "Owner": "Willie  Christopher ",
@@ -2904,7 +2910,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Cancelled",
           "caseID": "62_2950 Linwood St_CHRISTOPHER ",
           "email-of-staff": [
             "tsaunders@ebrra.org"
