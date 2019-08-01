@@ -31,13 +31,12 @@
             <ul>
                 <li v-for="item in items">
                     <h3>{{ item['fields']['caseID'] }}</h3>
+					<img :src="item['fields']['Photo of front'][0]['thumbnails']['large']['url']" alt="" v-if="item['fields']['Photo of front']" width="150">
                     <p>{{ item['fields']['FullPropertyAddress'] }}</p>
-					<p>{{ item['fields']['Status'] }}</p>
 					<p>{{ item['fields']['Owner'] }}</p>
-                    <p>{{ item['fields']['latitude'] }}</p>
-					<p>{{ item['fields']['longitude'] }}</p>
-					<p>{{ item['fields']['contractor_name'] }}</p>
-                    <img :src="item['fields']['Photo of front'][0]['thumbnails']['large']['url']" alt="" v-if="item['fields']['Photo of front']" width="150">
+					<p>Status:{{ item['fields']['Status'] }}</p>
+					<p>Lat/Lon {{ item['fields']['latitude'] }} / {{ item['fields']['longitude'] }}</p>
+					<p>Contractor: {{ item['fields']['contractor_name'] }}</p>
                 </li>
             </ul>            
         </div><!--app-->
