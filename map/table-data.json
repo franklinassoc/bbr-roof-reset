@@ -2190,20 +2190,20 @@
           "ContactPhoneNumber": "(225) 772-4256",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
-          "FullPropertyAddress": "2005 Nth 16th Street , Baton Rouge LA 70802",
+          "FullPropertyAddress": "200 N 16th Street, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMjAwNSBOdGggMTZ0aCBTdHJlZXQgLCBCYXRvbiBSb3VnZSBMQSA3MDgwMiIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMjAwNSBOIDE2dGggU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NjU3Njk0LCJsbmciOi05MS4xNzM2NDMyMDAwMDAwMX0sImUiOjE1NjcxOTIxOTMzMDF9",
           "Inspection": "Requested",
           "Owner": "Theresa Gray",
           "Owner Phone (7 digit)": "772-4256",
           "Program": "Roofing Initiative",
-          "PropertyAddress_Line1": "2005 Nth 16th Street ",
+          "PropertyAddress_Line1": "200 N 16th Street",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70802",
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
           "Status": "Intake",
-          "caseID": "30_2005 Nth 16th Street _GRAY",
+          "caseID": "30_200 N 16th Street_GRAY",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
@@ -2586,20 +2586,20 @@
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
           "Description": "225-692-1604",
-          "FullPropertyAddress": "831 Nth 40th St , Baton Rouge LA 70802",
+          "FullPropertyAddress": "831 N 40th St, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiODMxIE50aCA0MHRoIFN0ICwgQmF0b24gUm91Z2UgTEEgNzA4MDIiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjgzMSBOIDQwdGggU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NTYxNTQ0LCJsbmciOi05MS4xNTA1MTI0MDAwMDAwM30sImUiOjE1NjcxOTIxNzkzMjJ9",
           "Inspection": "Requested",
           "Owner": "Julia Russ",
           "Owner Phone (7 digit)": "387-4648",
           "Program": "Roofing Initiative",
-          "PropertyAddress_Line1": "831 Nth 40th St ",
+          "PropertyAddress_Line1": "831 N 40th St",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70802",
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
           "Status": "Intake",
-          "caseID": "26_831 Nth 40th St _RUSS",
+          "caseID": "26_831 N 40th St_RUSS",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
