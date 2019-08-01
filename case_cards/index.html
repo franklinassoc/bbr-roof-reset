@@ -16,27 +16,27 @@
             flex-wrap: wrap;
         }
         li {
-            width: 250px;
+            width: 275px;
             background: #e6e6e6;
             border-radius: 15px;
             padding: 15px;
             text-align: center;
-            margin: 50px;
+            margin: 30px;
         }
     </style>
 
 <!-- Identify the data to be pulled from Airtable -->
 <div id="app">
-            <h1>Cases</h1>
+            <h1>Roof Reset Cases</h1>
             <ul>
                 <li v-for="item in items">
                     <h3>{{ item['fields']['caseID'] }}</h3>
 					<img :src="item['fields']['Photo of front'][0]['thumbnails']['large']['url']" alt="" v-if="item['fields']['Photo of front']" width="150">
                     <p>{{ item['fields']['FullPropertyAddress'] }}</p>
 					<p>{{ item['fields']['Owner'] }}</p>
-					<p>Status: {{ item['fields']['Status'] }}</p>
-					<p>Lat/Lon: {{ item['fields']['latitude'] }} / {{ item['fields']['longitude'] }}</p>
+					<p>Status: <b>{{ item['fields']['Status'] }}</b></p>
 					<p>Contractor: {{ item['fields']['contractor_name'] }}</p>
+					<p>Lat/Lon: {{ item['fields']['latitude'] }} / {{ item['fields']['longitude'] }}</p>
                 </li>
             </ul>            
         </div><!--app-->
