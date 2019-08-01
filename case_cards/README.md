@@ -7,3 +7,4 @@ https://github.com/taxjar/vue-airtable-demo
 
 uses the Axios HTTP client for javascript.
 This displays a page of "card" style records showing basic information about each case, including thumbnain photo, live from Airtable.
+This only works to display the first 100 records.

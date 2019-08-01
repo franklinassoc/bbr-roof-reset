@@ -34,8 +34,8 @@
 					<img :src="item['fields']['Photo of front'][0]['thumbnails']['large']['url']" alt="" v-if="item['fields']['Photo of front']" width="150">
                     <p>{{ item['fields']['FullPropertyAddress'] }}</p>
 					<p>{{ item['fields']['Owner'] }}</p>
-					<p>Status:{{ item['fields']['Status'] }}</p>
-					<p>Lat/Lon {{ item['fields']['latitude'] }} / {{ item['fields']['longitude'] }}</p>
+					<p>Status: {{ item['fields']['Status'] }}</p>
+					<p>Lat/Lon: {{ item['fields']['latitude'] }} / {{ item['fields']['longitude'] }}</p>
 					<p>Contractor: {{ item['fields']['contractor_name'] }}</p>
                 </li>
             </ul>            
