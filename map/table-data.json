@@ -40,7 +40,7 @@
           "Applicant_FirstName": "Patricia",
           "Applicant_LastName": "Burkhalter",
           "AutoNum": 3,
-          "Case_Status": "Queued",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "(225) 397-0858",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -87,7 +87,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Queued",
+          "Status": "Inspection",
           "caseID": "3_3822 N Acadian Thruway East_BURKHALTER",
           "contractor_name": "EDR Contruction",
           "email-of-staff": [
@@ -582,7 +582,7 @@
           "Applicant_FirstName": "Charmaine",
           "Applicant_LastName": "Valentine",
           "AutoNum": 5,
-          "Case_Status": "Queued",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "(225) 200-6770",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -629,7 +629,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Queued",
+          "Status": "Inspection",
           "caseID": "5_8379 McClelland Dr_VALENTINE",
           "contractor_name": "EDR Contruction",
           "email-of-staff": [
@@ -870,7 +870,7 @@
           "Applicant_FirstName": "Maggie",
           "Applicant_LastName": "Hollins",
           "AutoNum": 7,
-          "Case_Status": "Queued",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "(225) 773-3404",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -917,7 +917,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Queued",
+          "Status": "Inspection",
           "caseID": "7_2843 72nd Ave_HOLLINS",
           "contractor_name": "Redstick Remodeling",
           "email-of-staff": [
@@ -935,7 +935,7 @@
           "Applicant_FirstName": "Lucille",
           "Applicant_LastName": "Anderson",
           "AutoNum": 1,
-          "Case_Status": "Queued",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "(225) 775-6272",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -982,7 +982,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Queued",
+          "Status": "Inspection",
           "caseID": "1_6655 Brownfields Dr_ANDERSON",
           "contractor_name": "Redstick Remodeling",
           "email-of-staff": [
@@ -1033,7 +1033,7 @@
           "Applicant_FirstName": "Dianne",
           "Applicant_LastName": "Harris",
           "AutoNum": 10,
-          "Case_Status": "Queued",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "(225) 356-9008",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -1080,7 +1080,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Queued",
+          "Status": "Inspection",
           "caseID": "10_5336 Adams Ave_HARRIS",
           "contractor_name": "Public Construction Inc.",
           "email-of-staff": [
@@ -1259,7 +1259,7 @@
           "Applicant_FirstName": "Minnie Lee",
           "Applicant_LastName": "Tillman",
           "AutoNum": 4,
-          "Case_Status": "Queued",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "(225) 228-8989",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -1306,7 +1306,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Queued",
+          "Status": "Inspection",
           "caseID": "4_1745 N 18th Street_TILLMAN",
           "contractor_name": "Go Day Enterprises",
           "email-of-staff": [
@@ -2353,7 +2353,7 @@
           "Applicant_FirstName": "Peter",
           "Applicant_LastName": "Ketchens",
           "AutoNum": 6,
-          "Case_Status": "Queued",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "(225) 937-6093",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -2400,7 +2400,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Queued",
+          "Status": "Inspection",
           "caseID": "6_3645 Evangeline St_KETCHENS",
           "contractor_name": "Public Construction Inc.",
           "email-of-staff": [
@@ -2418,7 +2418,7 @@
           "Applicant_FirstName": "Janice",
           "Applicant_LastName": "Harris",
           "AutoNum": 2,
-          "Case_Status": "Queued",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "(225) 357-7930",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -2465,7 +2465,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Queued",
+          "Status": "Inspection",
           "caseID": "2_3560 Dalton St_HARRIS",
           "contractor_name": "Affordable R",
           "email-of-staff": [
@@ -3147,7 +3147,7 @@
           "Applicant_FirstName": "Jessie",
           "Applicant_LastName": "Montgomery",
           "AutoNum": 9,
-          "Case_Status": "Queued",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "(225) 448-2320",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -3194,7 +3194,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Queued",
+          "Status": "Inspection",
           "caseID": "9_1542 Kaufman Ave_MONTGOMERY",
           "contractor_name": "Redstick Remodeling",
           "email-of-staff": [
