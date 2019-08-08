@@ -1,0 +1,1 @@
+it runs roof-cases.csv through the omnivore to produce working geojson points.
