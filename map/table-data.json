@@ -8,7 +8,7 @@
           "Applicant_FirstName": "Alvaina ",
           "Applicant_LastName": "Johnson",
           "AutoNum": 41,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2257578014",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -24,7 +24,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "41_1619 Theron Dr_JOHNSON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -41,7 +41,7 @@
           "Applicant_FirstName": "Patricia",
           "Applicant_LastName": "Burkhalter",
           "AutoNum": 3,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 397-0858",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -88,7 +88,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "3_3822 N Acadian Thruway East_BURKHALTER",
           "contractor_name": "EDR Contruction",
           "email-of-staff": [
@@ -106,7 +106,7 @@
           "Applicant_FirstName": "Fannietta",
           "Applicant_LastName": "Anderson",
           "AutoNum": 49,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2252728238",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -123,7 +123,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "49_4515 Thames Dr_ANDERSON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -144,6 +144,7 @@
           "ContactPhoneNumber": "2257724256",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
+          "Delay reason": "duplicate of case #30",
           "Description": " - cancelled because duplicate entry",
           "FullPropertyAddress": "200 N 16th St, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMjAwIE4gMTZ0aCBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDIiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjIwMCBOIDE2dGggU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NDg3NjM4LCJsbmciOi05MS4xNzIzOTY4OTk5OTk5N30sImUiOjE1NjcxOTIxOTU3MjV9",
@@ -174,7 +175,7 @@
           "Applicant_FirstName": "Edna",
           "Applicant_LastName": "London",
           "AutoNum": 39,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2253558675",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -191,7 +192,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "39_4060 Topeka St_LONDON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -208,7 +209,7 @@
           "Applicant_FirstName": "Andrew",
           "Applicant_LastName": "Scott, Sr",
           "AutoNum": 69,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2252844148",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -225,7 +226,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "69_3836 Adams Ave_SCOTT, SR",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -246,6 +247,7 @@
           "ContactPhoneNumber": "2256154947",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
+          "Delay reason": "duplicate of case #22",
           "Description": "2256921604 - cancelled because duplicate entry",
           "FullPropertyAddress": "5852 St Gerard Ave, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiNTg1MiBTdCBHZXJhcmQgQXZlLCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiNTg1MiBTdCBHZXJhcmQgQXZlLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDk1ODYyMiwibG5nIjotOTEuMTMxOTAwOX0sImUiOjE1NjcxOTIxNTg2Njd9",
@@ -276,7 +278,7 @@
           "Applicant_FirstName": "Sandra",
           "Applicant_LastName": "Pearson",
           "AutoNum": 71,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2257075404",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -293,7 +295,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "71_2215 Gen Cleburne Ave_PEARSON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -310,7 +312,7 @@
           "Applicant_FirstName": "Thelma",
           "Applicant_LastName": "Williams ",
           "AutoNum": 48,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2259879048",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -327,7 +329,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "48_4247 Norwich Dr_WILLIAMS ",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -344,7 +346,7 @@
           "Applicant_FirstName": "Ezekiel ",
           "Applicant_LastName": "Young Jr",
           "AutoNum": 54,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2253540723",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -361,7 +363,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "54_2532 68th Ave_YOUNG JR",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -378,7 +380,7 @@
           "Applicant_FirstName": "Juanita",
           "Applicant_LastName": "Carter",
           "AutoNum": 17,
-          "Case_Status": "Intake",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 356-7203",
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-03-18",
@@ -421,7 +423,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Intake",
+          "Status": "Contracting",
           "caseID": "17_3423 Dalton St_CARTER",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -438,7 +440,7 @@
           "Applicant_FirstName": "Henry ",
           "Applicant_LastName": "Conelious",
           "AutoNum": 28,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "(225) 692-1604",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
@@ -454,7 +456,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "28_2510 Laurel St _CONELIOUS",
           "email-of-staff": [
             "bclark@ebrra.org"
@@ -471,7 +473,7 @@
           "Applicant_FirstName": "Martha",
           "Applicant_LastName": "Robertson",
           "AutoNum": 15,
-          "Case_Status": "Intake",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 357-5436",
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-03-18",
@@ -514,7 +516,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Intake",
+          "Status": "Contracting",
           "caseID": "15_3869 Pontiac St_ROBERTSON",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -531,7 +533,7 @@
           "Applicant_FirstName": "Wanda",
           "Applicant_LastName": "Thomas",
           "AutoNum": 18,
-          "Case_Status": "Intake",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "(504) 430-3525",
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-03-21",
@@ -574,7 +576,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Intake",
+          "Status": "Contracting",
           "caseID": "18_3425 Adams Ave_THOMAS",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -591,7 +593,7 @@
           "Applicant_FirstName": "Charmaine",
           "Applicant_LastName": "Valentine",
           "AutoNum": 5,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 200-6770",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -638,7 +640,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "5_8379 McClelland Dr_VALENTINE",
           "contractor_name": "EDR Contruction",
           "email-of-staff": [
@@ -656,7 +658,7 @@
           "Applicant_FirstName": "Audrey",
           "Applicant_LastName": "Philson",
           "AutoNum": 66,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "225357575",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -673,7 +675,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "66_4621 Bradley St_PHILSON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -690,7 +692,7 @@
           "Applicant_FirstName": "Toni",
           "Applicant_LastName": "Jones",
           "AutoNum": 68,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2253675676",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -707,7 +709,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "68_5055 Clayton Dr_JONES",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -724,7 +726,7 @@
           "Applicant_FirstName": "Joyce",
           "Applicant_LastName": "McKay",
           "AutoNum": 37,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2252393806",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -740,7 +742,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "37_4544 E Brookstown Dr_MCKAY",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -757,7 +759,7 @@
           "Applicant_FirstName": "Angela",
           "Applicant_LastName": "Bynum",
           "AutoNum": 22,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "(225) 615-4947",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
@@ -773,7 +775,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "22_5852 St. Gerard Ave _BYNUM",
           "email-of-staff": [
             "bclark@ebrra.org"
@@ -790,7 +792,7 @@
           "Applicant_FirstName": "Delouise",
           "Applicant_LastName": "Doyle",
           "AutoNum": 12,
-          "Case_Status": "Intake",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 333-0547",
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-02-18",
@@ -833,7 +835,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Intake",
+          "Status": "Contracting",
           "caseID": "12_2358 Valley St_DOYLE",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -850,7 +852,7 @@
           "Applicant_FirstName": "Lois ",
           "Applicant_LastName": "Paul",
           "AutoNum": 42,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2259214624",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -866,7 +868,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "42_8782 Sharon Hills _PAUL",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -883,7 +885,7 @@
           "Applicant_FirstName": "Maggie",
           "Applicant_LastName": "Hollins",
           "AutoNum": 7,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 773-3404",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -930,7 +932,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "7_2843 72nd Ave_HOLLINS",
           "contractor_name": "Redstick Remodeling",
           "email-of-staff": [
@@ -948,7 +950,7 @@
           "Applicant_FirstName": "Lucille",
           "Applicant_LastName": "Anderson",
           "AutoNum": 1,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 775-6272",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -995,7 +997,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "1_6655 Brownfields Dr_ANDERSON",
           "contractor_name": "Redstick Remodeling",
           "email-of-staff": [
@@ -1013,7 +1015,7 @@
           "Applicant_FirstName": "Shirley",
           "Applicant_LastName": "Jarrell",
           "AutoNum": 44,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2252184410",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -1030,7 +1032,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "44_6822 E Upland Ave_JARRELL",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1047,7 +1049,7 @@
           "Applicant_FirstName": "Dianne",
           "Applicant_LastName": "Harris",
           "AutoNum": 10,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 356-9008",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -1094,7 +1096,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "10_5336 Adams Ave_HARRIS",
           "contractor_name": "Public Construction Inc.",
           "email-of-staff": [
@@ -1112,7 +1114,7 @@
           "Applicant_FirstName": "Evelyn",
           "Applicant_LastName": "Mearidy",
           "AutoNum": 35,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2255328873",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -1128,7 +1130,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "35_5624 Robertson Ave_MEARIDY",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1145,7 +1147,7 @@
           "Applicant_FirstName": "Shantele ",
           "Applicant_LastName": "Paul",
           "AutoNum": 38,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2252842413",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -1161,7 +1163,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "38_5645 Shelley Ct_PAUL",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1178,7 +1180,7 @@
           "Applicant_FirstName": "Tezana ",
           "Applicant_LastName": "Richard",
           "AutoNum": 43,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2253577837",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -1194,7 +1196,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "43_5455 Sumrall Dr_RICHARD",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1211,7 +1213,7 @@
           "Applicant_FirstName": "Mary ",
           "Applicant_LastName": "Bowman",
           "AutoNum": 67,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2259298910",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -1228,7 +1230,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "67_970 N. 47th St_BOWMAN",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1245,7 +1247,7 @@
           "Applicant_FirstName": "Mary",
           "Applicant_LastName": "Christopher ",
           "AutoNum": 65,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2259608741",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -1261,7 +1263,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "65_5431 Washington Ave_CHRISTOPHER ",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1278,7 +1280,7 @@
           "Applicant_FirstName": "Minnie Lee",
           "Applicant_LastName": "Tillman",
           "AutoNum": 4,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 228-8989",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -1325,7 +1327,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "4_1745 N 18th Street_TILLMAN",
           "contractor_name": "Go Day Enterprises",
           "email-of-staff": [
@@ -1343,7 +1345,7 @@
           "Applicant_FirstName": "Lawrence ",
           "Applicant_LastName": "Smith",
           "AutoNum": 34,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2253573227",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -1359,7 +1361,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "34_1974 Mission Dr_SMITH",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1376,7 +1378,7 @@
           "Applicant_FirstName": "Zenetta",
           "Applicant_LastName": "Thompson",
           "AutoNum": 53,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2253550223",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -1393,7 +1395,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "53_5556 Adams Ave_THOMPSON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1410,7 +1412,7 @@
           "Applicant_FirstName": "Joannah",
           "Applicant_LastName": "Mason",
           "AutoNum": 73,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2253566427",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -1426,7 +1428,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "73_3961 Monroe Ave_MASON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1443,7 +1445,7 @@
           "Applicant_FirstName": "Geraldine",
           "Applicant_LastName": "Scott",
           "AutoNum": 29,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "(225) 938-1738",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
@@ -1459,7 +1461,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "29_3027 Newton St _SCOTT",
           "email-of-staff": [
             "bclark@ebrra.org"
@@ -1476,7 +1478,7 @@
           "Applicant_FirstName": "Annie",
           "Applicant_LastName": "Wright",
           "AutoNum": 79,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2253370813",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -1492,7 +1494,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "79_3563 Osceola Ave_WRIGHT",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1513,6 +1515,7 @@
           "ContactPhoneNumber": "2254447447",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
+          "Delay reason": "duplicate of case #21",
           "Description": "2259609442 - cancelled because duplicate entry",
           "FullPropertyAddress": "2908 Sherwood St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjkwOCBTaGVyd29vZCBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjI5MDggU2hlcndvb2QgU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNSwgVVNBIiwibGF0IjozMC40ODkyNTcxLCJsbmciOi05MS4xNjA2MDg3OTk5OTk5OH0sImUiOjE1NjcxOTIxNzI4Mzh9",
@@ -1543,7 +1546,7 @@
           "Applicant_FirstName": "Lois",
           "Applicant_LastName": "Sims",
           "AutoNum": 77,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "9856651566",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -1559,7 +1562,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "77_2703 Michelli Dr_SIMS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1576,7 +1579,7 @@
           "Applicant_FirstName": "Sheryl",
           "Applicant_LastName": "Ray",
           "AutoNum": 33,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2252722173",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -1592,7 +1595,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "33_10562 Big Bend Ave_RAY",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1609,7 +1612,7 @@
           "Applicant_FirstName": "Angela",
           "Applicant_LastName": "Williams",
           "AutoNum": 31,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2254396382",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -1625,7 +1628,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "31_2251 Plantation Dr_WILLIAMS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1642,7 +1645,7 @@
           "Applicant_FirstName": "John",
           "Applicant_LastName": "Jones",
           "AutoNum": 74,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "7138756512",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -1658,7 +1661,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "74_2936 Adams Ave_JONES",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1675,7 +1678,7 @@
           "Applicant_FirstName": "Elvira",
           "Applicant_LastName": "Davis",
           "AutoNum": 46,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2253498508",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -1692,7 +1695,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "46_7182 Aspen Pl_DAVIS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1709,7 +1712,7 @@
           "Applicant_FirstName": "April",
           "Applicant_LastName": "Wolsefer",
           "AutoNum": 76,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2252748806",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -1725,7 +1728,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "76_14222 Florida Blvd_WOLSEFER",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1742,7 +1745,7 @@
           "Applicant_FirstName": "Rose",
           "Applicant_LastName": "Stevens",
           "AutoNum": 78,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2254216988",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -1758,7 +1761,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "78_4935 Beech St_STEVENS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1775,7 +1778,7 @@
           "Applicant_FirstName": "Myra Lou",
           "Applicant_LastName": "Engram",
           "AutoNum": 75,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "3379625558",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -1791,7 +1794,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "75_4279 Acacia St_ENGRAM",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1808,7 +1811,7 @@
           "Applicant_FirstName": "Yolanda",
           "Applicant_LastName": "Hayes",
           "AutoNum": 13,
-          "Case_Status": "Intake",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 746-3126",
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-03-08",
@@ -1851,7 +1854,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Intake",
+          "Status": "Contracting",
           "caseID": "13_3563 Wyandotte St_HAYES",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -1872,6 +1875,7 @@
           "ContactPhoneNumber": "2259534322",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
+          "Delay reason": "duplicate of case #11",
           "Description": "- cancelled because duplicate entry",
           "FullPropertyAddress": "3415 Adams Ave, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMzQxNSBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNDE1IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODAyLCBVU0EiLCJsYXQiOjMwLjQ2ODkwMjcsImxuZyI6LTkxLjE1NTE2MTl9LCJlIjoxNTY3MTkyMTc1Mzg3fQ==",
@@ -1902,7 +1906,7 @@
           "Applicant_FirstName": "Juanita ",
           "Applicant_LastName": "Allen",
           "AutoNum": 52,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2253528532",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -1919,7 +1923,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "52_6660 Cambridge St_ALLEN",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1936,7 +1940,7 @@
           "Applicant_FirstName": "Lois Marie",
           "Applicant_LastName": "Beals ",
           "AutoNum": 21,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "(225) 444-7447",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-17",
@@ -1949,7 +1953,7 @@
           "PropertyAddress_Line1": "2980 Sherwood St. ",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "21_2980 Sherwood St. _BEALS ",
           "latitude": "30.4894903",
           "longitude": "-91.1598192"
@@ -1963,7 +1967,7 @@
           "Applicant_FirstName": "Ernest ",
           "Applicant_LastName": "Jones",
           "AutoNum": 36,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2253580962",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -1979,7 +1983,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "36_6125 Byron St_JONES",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1996,7 +2000,7 @@
           "Applicant_FirstName": "Shirley",
           "Applicant_LastName": "Williams",
           "AutoNum": 51,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2252468971",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -2013,7 +2017,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "51_224 Evergreen Dr_WILLIAMS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2030,7 +2034,7 @@
           "Applicant_FirstName": "Willie ",
           "Applicant_LastName": "Christopher",
           "AutoNum": 23,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "(225) 614-0898",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
@@ -2046,7 +2050,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "23_2950 Linwood St _CHRISTOPHER",
           "email-of-staff": [
             "bclark@ebrra.org"
@@ -2063,7 +2067,7 @@
           "Applicant_FirstName": "Alfreda ",
           "Applicant_LastName": "Watson ",
           "AutoNum": 25,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "(225) 407-6638",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
@@ -2080,7 +2084,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "25_2548 Hollywood St. _WATSON ",
           "email-of-staff": [
             "bclark@ebrra.org"
@@ -2097,7 +2101,7 @@
           "Applicant_FirstName": "Emile",
           "Applicant_LastName": "Chauvin",
           "AutoNum": 40,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2253621280",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -2113,7 +2117,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "40_9929 Groner Ave_CHAUVIN",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2130,7 +2134,7 @@
           "Applicant_FirstName": "Elizabeth",
           "Applicant_LastName": "Ealem",
           "AutoNum": 14,
-          "Case_Status": "Intake",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 746-3126",
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-03-09",
@@ -2173,7 +2177,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Intake",
+          "Status": "Contracting",
           "caseID": "14_3940 Oswego St_EALEM",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -2194,6 +2198,7 @@
           "ContactPhoneNumber": "2254076638",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
+          "Delay reason": "duplicate of case #25",
           "Description": "2256921604 - cancelled because duplicate entry",
           "FullPropertyAddress": "2548 Hollywood St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjU0OCBIb2xseXdvb2QgU3QsIEJhdG9uIFJvdWdlIExBIDcwODA1IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIyNTQ4IEhvbGx5d29vZCBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ5OTEzNzcsImxuZyI6LTkxLjE2NDkwMzIwMDAwMDAzfSwiZSI6MTU2NzE5MjE2MDYyN30=",
@@ -2224,7 +2229,7 @@
           "Applicant_FirstName": "Theresa",
           "Applicant_LastName": "Gray",
           "AutoNum": 30,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "(225) 772-4256",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
@@ -2240,7 +2245,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "30_200 N 16th Street_GRAY",
           "email-of-staff": [
             "bclark@ebrra.org"
@@ -2257,7 +2262,7 @@
           "Applicant_FirstName": "Celestine",
           "Applicant_LastName": "Davis",
           "AutoNum": 24,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "(225) 357-4498",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
@@ -2274,7 +2279,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "24_2041 West Belfair Dr. _DAVIS",
           "email-of-staff": [
             "bclark@ebrra.org"
@@ -2295,6 +2300,7 @@
           "ContactPhoneNumber": "2253874648",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
+          "Delay reason": "duplicate of case #26",
           "Description": "2256921604 - cancelled because duplicate entry",
           "FullPropertyAddress": "831 N 40th St, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiODMxIE4gNDB0aCBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDIiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjgzMSBOIDQwdGggU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NTYxNTQ0LCJsbmciOi05MS4xNTA1MTI0MDAwMDAwM30sImUiOjE1NjcxOTIxNDgwMzZ9",
@@ -2325,7 +2331,7 @@
           "Applicant_FirstName": "Marilyn",
           "Applicant_LastName": "Dugas",
           "AutoNum": 50,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2254244544",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -2342,7 +2348,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "50_11564 Pamela Dr_DUGAS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2363,6 +2369,7 @@
           "ContactPhoneNumber": "(225) 953-4322",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
+          "Delay reason": "duplicate of case #11",
           "Description": "- cancelled because duplicate entry",
           "FullPropertyAddress": "3415 Adams Ave, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMzQxNSBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNDE1IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODAyLCBVU0EiLCJsYXQiOjMwLjQ2ODkwMjcsImxuZyI6LTkxLjE1NTE2MTl9LCJlIjoxNTY3MTkyMTUwNDg5fQ==",
@@ -2393,7 +2400,7 @@
           "Applicant_FirstName": "Peter",
           "Applicant_LastName": "Ketchens",
           "AutoNum": 6,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 937-6093",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -2440,7 +2447,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "6_3645 Evangeline St_KETCHENS",
           "contractor_name": "Public Construction Inc.",
           "email-of-staff": [
@@ -2458,7 +2465,7 @@
           "Applicant_FirstName": "Janice",
           "Applicant_LastName": "Harris",
           "AutoNum": 2,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 357-7930",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -2505,7 +2512,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "2_3560 Dalton St_HARRIS",
           "contractor_name": "Affordable R",
           "email-of-staff": [
@@ -2523,7 +2530,7 @@
           "Applicant_FirstName": "Carol ",
           "Applicant_LastName": "Miller",
           "AutoNum": 55,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2256145987",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -2540,7 +2547,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "55_4943 Bardwell Dr _MILLER",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2557,7 +2564,7 @@
           "Applicant_FirstName": "Patricia",
           "Applicant_LastName": "Bird",
           "AutoNum": 70,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2253445191",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -2573,7 +2580,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "70_1826 Arkansas St_BIRD",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2594,6 +2601,7 @@
           "ContactPhoneNumber": "2253574498",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
+          "Delay reason": "duplicate of case #24",
           "Description": "2256921604 - cancelled because duplicate entry",
           "FullPropertyAddress": "2041 W Bellfair Dr, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjA0MSBXIEJlbGxmYWlyIERyLCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMjA0MSBXIEJlbGZhaXIgRHIsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NjY3NzA3LCJsbmciOi05MS4xNDY5NDEyOTk5OTk5OH0sImUiOjE1NjcxOTIxNDczODl9",
@@ -2624,7 +2632,7 @@
           "Applicant_FirstName": "Julia",
           "Applicant_LastName": "Russ",
           "AutoNum": 26,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "(225) 387-4648",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
@@ -2641,7 +2649,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "26_831 N 40th St_RUSS",
           "email-of-staff": [
             "bclark@ebrra.org"
@@ -2658,7 +2666,7 @@
           "Applicant_FirstName": "Bettie",
           "Applicant_LastName": "Jefferson",
           "AutoNum": 16,
-          "Case_Status": "Intake",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 964-3802",
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-03-04",
@@ -2701,7 +2709,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Intake",
+          "Status": "Contracting",
           "caseID": "16_336 McCastle Ave_JEFFERSON",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -2718,7 +2726,7 @@
           "Applicant_FirstName": "Helen",
           "Applicant_LastName": "Salim",
           "AutoNum": 11,
-          "Case_Status": "Intake",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 953-4322",
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-02-14",
@@ -2762,7 +2770,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Intake",
+          "Status": "Contracting",
           "caseID": "11_3415 Adams Ave_SALIM",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -2779,7 +2787,7 @@
           "Applicant_FirstName": "Rosa Lee",
           "Applicant_LastName": "Davis",
           "AutoNum": 80,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2257754283",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -2796,7 +2804,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "80_2640 Jay St_DAVIS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2813,7 +2821,7 @@
           "Applicant_FirstName": "Bobby Ray",
           "Applicant_LastName": "Dunbar",
           "AutoNum": 20,
-          "Case_Status": "Intake",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 916-1788",
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-04-09",
@@ -2856,7 +2864,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Intake",
+          "Status": "Contracting",
           "caseID": "20_2937 Chippewa St_DUNBAR",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -2873,7 +2881,7 @@
           "Applicant_FirstName": "Henry",
           "Applicant_LastName": "Devold",
           "AutoNum": 57,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2254481034",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -2890,7 +2898,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "57_2510 Laurel St_DEVOLD",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2907,7 +2915,7 @@
           "Applicant_FirstName": "Veronica",
           "Applicant_LastName": "Magee",
           "AutoNum": 32,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2252506725",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -2923,7 +2931,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "32_640 Arlington Ave_MAGEE",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2944,6 +2952,7 @@
           "ContactPhoneNumber": "2253550605",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
+          "Delay reason": "duplicate of case #23",
           "Description": "2256921604 - cancelled because duplicate entry",
           "FullPropertyAddress": "2950 Linwood St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjk1MCBMaW53b29kIFN0LCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMjk1MCBMaW53b29kIFN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDc0NTA1NywibG5nIjotOTEuMTcyOTY4NH0sImUiOjE1NjcxOTIxOTE5NDB9",
@@ -2974,7 +2983,7 @@
           "Applicant_FirstName": "Newman",
           "Applicant_LastName": "Snell Jr",
           "AutoNum": 45,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2256141488",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -2990,7 +2999,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "45_6869 Monarch St_SNELL JR",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -3007,7 +3016,7 @@
           "Applicant_FirstName": "Kenneth ",
           "Applicant_LastName": "Austin",
           "AutoNum": 72,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2253555520",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -3024,7 +3033,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "72_7295 Prescott Rd_AUSTIN",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -3103,7 +3112,7 @@
           "Applicant_FirstName": "Marie",
           "Applicant_LastName": "Simmons",
           "AutoNum": 47,
-          "Case_Status": "Intake",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2254544589",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
@@ -3120,7 +3129,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Intake",
+          "Status": "Inspection",
           "caseID": "47_3844 W Wendover Dr_SIMMONS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -3137,7 +3146,7 @@
           "Applicant_FirstName": "Dorothy",
           "Applicant_LastName": "Miller",
           "AutoNum": 19,
-          "Case_Status": "Intake",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 928-1198",
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-03-25",
@@ -3180,7 +3189,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Intake",
+          "Status": "Contracting",
           "caseID": "19_5165 Hermitage Dr_MILLER",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -3197,7 +3206,7 @@
           "Applicant_FirstName": "Jessie",
           "Applicant_LastName": "Montgomery",
           "AutoNum": 9,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 448-2320",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -3244,7 +3253,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "9_1542 Kaufman Ave_MONTGOMERY",
           "contractor_name": "Redstick Remodeling",
           "email-of-staff": [
