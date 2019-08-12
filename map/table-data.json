@@ -440,13 +440,14 @@
           "Applicant_FirstName": "Henry ",
           "Applicant_LastName": "Conelious",
           "AutoNum": 28,
-          "Case_Status": "Inspection",
+          "Case_Status": "Cancelled",
           "ContactPhoneNumber": "(225) 692-1604",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-24",
+          "Description": "duplicate of case 57_2510 Laurel St_DEVOLD",
           "FullPropertyAddress": "2510 Laurel St , Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMjUxMCBMYXVyZWwgU3QgLCBCYXRvbiBSb3VnZSBMQSA3MDgwMiIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMjUxMCBMYXVyZWwgU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NTA5MzI5LCJsbmciOi05MS4xNjI1MzE2OTk5OTk5OX0sImUiOjE1NjcxOTIxNTYyMDN9",
-          "Inspection": "Requested",
+          "Inspection": "None",
           "Owner": "Henry  Conelious",
           "Owner Phone (7 digit)": "692-1604",
           "Program": "Roofing Initiative",
@@ -456,7 +457,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Inspection",
+          "Status": "Cancelled",
           "caseID": "28_2510 Laurel St _CONELIOUS",
           "email-of-staff": [
             "bclark@ebrra.org"
@@ -2105,6 +2106,7 @@
           "ContactPhoneNumber": "2253621280",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-07-31",
+          "Delay reason": "This is a townhome. Applicant resides in half of it. Ownership isn't confirmed.",
           "FullPropertyAddress": "9929 Groner Ave, Baton Rouge LA 70809",
           "GeocodeCache": "🔵 eyJpIjoiOTkyOSBHcm9uZXIgQXZlLCBCYXRvbiBSb3VnZSBMQSA3MDgwOSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiOTkyOSBHcm9uZXIgQXZlLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDksIFVTQSIsImxhdCI6MzAuMzk1MTMzNCwibG5nIjotOTEuMDc2NTU1OTAwMDAwMDJ9LCJlIjoxNTY3MTkyMTU0OTU3fQ==",
           "Inspection": "Requested",
