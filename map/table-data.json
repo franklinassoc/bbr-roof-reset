@@ -3215,7 +3215,7 @@
             "reck2e1ecRQQmOpn5"
           ],
           "DateOrdered": "2019-07-03",
-          "Description": "case 113 Rehab program",
+          "Description": "case 113 Rehab program\nConstruction to begin 8/14/2019",
           "FullPropertyAddress": "1542 Kaufman Ave, Baton Rouge LA 70807",
           "GeocodeCache": "🔵 eyJpIjoiMTU0MiBLYXVmbWFuIEF2ZSwgQmF0b24gUm91Z2UgTEEgNzA4MDciLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjE1NDIgS2F1Zm1hbiBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA3LCBVU0EiLCJsYXQiOjMwLjUwOTUxNzksImxuZyI6LTkxLjE3NjA4MTd9LCJlIjoxNTY2NDE3NzQ2MTM2fQ==",
           "Inspection": "Completed",
@@ -3251,7 +3251,7 @@
           "PropertyAddress_Line1": "1542 Kaufman Ave",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70807",
-          "RequestedDueDate": "2019-07-31",
+          "RequestedDueDate": "2019-08-14",
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
