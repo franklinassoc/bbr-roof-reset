@@ -212,7 +212,7 @@
           "Applicant_FirstName": "Andrew",
           "Applicant_LastName": "Scott, Sr",
           "AutoNum": 69,
-          "Case_Status": "Contracting",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "2252844148",
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-08-07",
@@ -230,7 +230,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Inspection",
           "caseID": "R69_3836 Adams Ave_SCOTT, SR",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2268,7 +2268,7 @@
           "Applicant_FirstName": "Theresa",
           "Applicant_LastName": "Gray",
           "AutoNum": 30,
-          "Case_Status": "Contracting",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "(225) 772-4256",
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-08-05",
@@ -2285,7 +2285,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Contracting",
+          "Status": "Inspection",
           "caseID": "R30_200 N 16th Street_GRAY",
           "email-of-staff": [
             "bclark@ebrra.org"
