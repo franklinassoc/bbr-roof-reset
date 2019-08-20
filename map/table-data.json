@@ -290,7 +290,7 @@
           "Applicant_FirstName": "Andrew",
           "Applicant_LastName": "Scott, Sr",
           "AutoNum": 69,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2252844148",
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-08-07",
@@ -301,6 +301,32 @@
           "Inspection": "Requested",
           "Owner": "Andrew Scott, Sr",
           "Owner Phone (7 digit)": "284-4148",
+          "Photo of front": [
+            {
+              "filename": "R069.jpg",
+              "id": "attS6BEX7vJtzqtp4",
+              "size": 65434,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/f1ab97403869d44af9a68feb967d752e/7d46266b",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 393,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d6a7d1267a442f7a9d54f847697db563/948d0cb7",
+                  "width": 634
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3284507a54f4f8c5bcf99ccdfba1dc52/25c3e7c1",
+                  "width": 58
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/34976c30f9d68bfb7fa956e80ea3ac83/0a1b6b1b/R069.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "3836 Adams Ave",
           "Property_City": "Baton Rouge",
@@ -308,7 +334,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R69_3836 Adams Ave_SCOTT, SR",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -3230,7 +3256,7 @@
           "Applicant_FirstName": "Theresa",
           "Applicant_LastName": "Gray",
           "AutoNum": 30,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 772-4256",
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-08-05",
@@ -3240,6 +3266,32 @@
           "Inspection": "Requested",
           "Owner": "Theresa Gray",
           "Owner Phone (7 digit)": "772-4256",
+          "Photo of front": [
+            {
+              "filename": "R030.jpg",
+              "id": "attOdbU8YzeRNCPWx",
+              "size": 45991,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/71eaf287b15421d0375e05ddab25a15c/bb820077",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 348,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/7c0ec63c1ce4778758a6fad2070c9781/3036ee15",
+                  "width": 463
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/4e099e031e4f759f2f21a6511a447c32/277584ee",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/4c5e0f65a3d9617aba06cbbf87ac8527/d4609f59/R030.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "200 N 16th Street",
           "Property_City": "Baton Rouge",
@@ -3247,7 +3299,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R30_200 N 16th Street_GRAY",
           "email-of-staff": [
             "bclark@ebrra.org"
