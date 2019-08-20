@@ -4557,14 +4557,14 @@
           "Applicant_FirstName": "Jessie",
           "Applicant_LastName": "Montgomery",
           "AutoNum": 9,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "(225) 448-2320",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "reck2e1ecRQQmOpn5"
           ],
           "DateOrdered": "2019-07-03",
-          "Description": "case 113 Rehab program\nConstruction to begin 8/14/2019",
+          "Description": "case 113 Rehab program\nConstruction to begin 8/14/2019\nRoof completed 8/16; but work caused water damaged drywall ceiling to collapse inside the home. Contractor is making sheet rock repairs.",
           "FullPropertyAddress": "1542 Kaufman Ave, Baton Rouge LA 70807",
           "GeocodeCache": "🔵 eyJpIjoiMTU0MiBLYXVmbWFuIEF2ZSwgQmF0b24gUm91Z2UgTEEgNzA4MDciLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjE1NDIgS2F1Zm1hbiBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA3LCBVU0EiLCJsYXQiOjMwLjUwOTUxNzksImxuZyI6LTkxLjE3NjA4MTd9LCJlIjoxNTY2NDE3NzQ2MTM2fQ==",
           "Inspection": "Completed",
@@ -4604,7 +4604,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R9_1542 Kaufman Ave_MONTGOMERY",
           "contractor_name": "Redstick Remodeling",
           "email-of-staff": [
