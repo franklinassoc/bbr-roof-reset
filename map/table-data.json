@@ -18,6 +18,32 @@
           "Inspection": "Requested",
           "Owner": "Alvaina  Johnson",
           "Owner Phone (7 digit)": "757-8014",
+          "Photo of front": [
+            {
+              "filename": "R041.jpg",
+              "id": "attRuc8HSDyiumDRP",
+              "size": 68615,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d6cf9c1d474c12f34782333c9d2f6168/eac3decf",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 362,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/f1c8d6604b3839ad04f07b1168172f6d/cd836709",
+                  "width": 628
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/8379218cf9782d1f56157e362416f416/206966dc",
+                  "width": 62
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/ec935d82ae6f2168502043880b325941/c749574e/R041.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "1619 Theron Dr",
           "Property_City": "Baton Rouge",
@@ -118,6 +144,32 @@
           "Inspection": "Requested",
           "Owner": "Fannietta Anderson",
           "Owner Phone (7 digit)": "272-8238",
+          "Photo of front": [
+            {
+              "filename": "R049.jpg",
+              "id": "attDu12lWPsVmAJG8",
+              "size": 63999,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/ec1dfbb97664a4f1b03db3b5ace4752c/0f98030e",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 347,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/778e8ab73880b78412bef7d895f36d4e/94194f03",
+                  "width": 575
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/195ef3fe7d5672df09febe34db722fe9/9b5ca49c",
+                  "width": 60
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/d08a84fd9406a295e72844a399e09235/5f82b153/R049.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "4515 Thames Dr",
           "Property_City": "Baton Rouge",
@@ -188,6 +240,32 @@
           "Inspection": "Requested",
           "Owner": "Edna London",
           "Owner Phone (7 digit)": "355-8675",
+          "Photo of front": [
+            {
+              "filename": "R039.jpg",
+              "id": "att6xufmcxEA9xAW7",
+              "size": 53091,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/41f015a88d7d1c39cb4386edcfad57c8/a8a4c243",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 387,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/503d3eab487d31b9468b173bce1b6f7c/cf0fdda4",
+                  "width": 528
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9a802dd43e7aac087c5b19c3ed0b3477/1493f603",
+                  "width": 49
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/de1d49314728706c15e2514054d882f8/94d2fb9f/R039.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "4060 Topeka St",
           "Property_City": "Baton Rouge",
@@ -293,6 +371,32 @@
           "Inspection": "Requested",
           "Owner": "Sandra Pearson",
           "Owner Phone (7 digit)": "707-5404",
+          "Photo of front": [
+            {
+              "filename": "R071.jpg",
+              "id": "attjcmqQrPYGBJiyf",
+              "size": 50159,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/e4926aa9504ecf1af0563e191323c00a/1b36304a",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 361,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/b2df7503df5540a0d1f338c80848af66/c082b71a",
+                  "width": 621
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/e80789b91318f4f24fe9dd56b47eb3cd/67d8c11e",
+                  "width": 62
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/3363ea9c6e033692093eb8d98509d01c/f785c872/R071.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "2215 Gen Cleburne Ave",
           "Property_City": "Baton Rouge",
@@ -328,6 +432,32 @@
           "Inspection": "Requested",
           "Owner": "Thelma Williams ",
           "Owner Phone (7 digit)": "987-9048",
+          "Photo of front": [
+            {
+              "filename": "R048.jpg",
+              "id": "attIIeU2EmYuRApjz",
+              "size": 65954,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/aaa312f50ed7bd84f79b87834e80aa13/5a421348",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 392,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9b71037728a89624d65468026d51f6f4/e8d0b448",
+                  "width": 636
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/8ae92a398f16950e536fe2e468137b4d/44cd82e8",
+                  "width": 58
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/e90f270bda0c0d38758e60177bde2500/2e9c3559/R048.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "4247 Norwich Dr",
           "Property_City": "Baton Rouge",
@@ -363,6 +493,32 @@
           "Inspection": "Requested",
           "Owner": "Ezekiel  Young Jr",
           "Owner Phone (7 digit)": "354-0723",
+          "Photo of front": [
+            {
+              "filename": "R054.jpg",
+              "id": "att5bSQXJlBgQx9l0",
+              "size": 76737,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d11765793f5507ddaa7f3848646c3f7c/a0a20e28",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 382,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/8cd09648f98d7a502b97e21819110f81/db9931c6",
+                  "width": 569
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/6c3382e77a0be03a3e2807d3ce03302a/975bd256",
+                  "width": 54
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/4504359578ade3fcce71103f86daab5f/1791a6ce/R054.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "2532 68th Ave",
           "Property_City": "Baton Rouge",
@@ -677,6 +833,32 @@
           "Inspection": "Requested",
           "Owner": "Audrey Philson",
           "Owner Phone (7 digit)": "25357575",
+          "Photo of front": [
+            {
+              "filename": "R066.jpg",
+              "id": "attxvHTnES8YS1i8p",
+              "size": 51160,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/8e53fa6cf1ae349ad259cd93082c80ee/0e49a0ed",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 337,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/c59e0bd374a76797e49e17a2567b7b80/eebe027a",
+                  "width": 585
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/2bf8ea8c106bc040bf7fe771224e10fe/77d18204",
+                  "width": 62
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/e8e1471bb9b44901d9e0eacd1384cb52/1c93863d/R066.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "4621 Bradley St",
           "Property_City": "Baton Rouge",
@@ -712,6 +894,32 @@
           "Inspection": "Requested",
           "Owner": "Toni Jones",
           "Owner Phone (7 digit)": "367-5676",
+          "Photo of front": [
+            {
+              "filename": "R068.jpg",
+              "id": "atttLrOeK9dyMpwwB",
+              "size": 57690,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/6bdd7d62b982015e8b5c3d37841787f0/400baa63",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 343,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/dd1a28db8cf44e09b546ffc42092ceac/1ed43e06",
+                  "width": 489
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/b7b7bee17a47623f54bc9fcea5a3dab9/acffb4cf",
+                  "width": 51
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/f3c12f68cf0e7a48653a04dcec2330d1/deb5ac42/R068.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "5055 Clayton Dr",
           "Property_City": "Baton Rouge",
@@ -746,6 +954,32 @@
           "Inspection": "Requested",
           "Owner": "Joyce McKay",
           "Owner Phone (7 digit)": "239-3806",
+          "Photo of front": [
+            {
+              "filename": "R037.jpg",
+              "id": "att614adc39TzhoPb",
+              "size": 86657,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/33e07ae78dff379a9d0a22fb17c30d85/eeb9c14a",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 402,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/6570be76275b0e4dc76e2449064e92b8/17d2e727",
+                  "width": 644
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/dafe3326553b75908ce1a53cea970bd1/4d8f32ec",
+                  "width": 58
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/f3c8d91fe0a1cff1e6f2bb359e5f2e17/59f2fc2c/R037.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "4544 E Brookstown Dr",
           "Property_City": "Baton Rouge",
@@ -780,6 +1014,32 @@
           "Inspection": "Requested",
           "Owner": "Angela Bynum",
           "Owner Phone (7 digit)": "615-4947",
+          "Photo of front": [
+            {
+              "filename": "R022.jpg",
+              "id": "attR1QrX1M1raIaZf",
+              "size": 47985,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/af585b308cb358a13d590be0ec0aa8fb/a6544e01",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 376,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d102b76950cdab3bca55f5e1d520d744/163cd696",
+                  "width": 569
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/f248eab09c32345048ef821cfd254464/eaeefd3c",
+                  "width": 54
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/c1cf33d0c76243e212da11d557661d67/d0a14caf/R022.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "5852 St. Gerard Ave ",
           "Property_City": "Baton Rouge",
@@ -874,6 +1134,32 @@
           "Inspection": "Requested",
           "Owner": "Lois  Paul",
           "Owner Phone (7 digit)": "921-4624",
+          "Photo of front": [
+            {
+              "filename": "R042.jpg",
+              "id": "attvLoiEqP6hvHEbv",
+              "size": 56022,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9fd2d4a700a7d6934d3913bad2e37ee1/9c969474",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 352,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/89fd514fa6e0b094ef3c8600340c5f63/c32495ea",
+                  "width": 630
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/4c5c1095f80ae6bda43e92bee226ee96/5402e3dd",
+                  "width": 64
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/0d7fc180b7df6c474b7bb46d2d591ed3/afeb16b7/R042.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "8782 Sharon Hills ",
           "Property_City": "Baton Rouge",
@@ -1039,6 +1325,32 @@
           "Inspection": "Requested",
           "Owner": "Shirley Jarrell",
           "Owner Phone (7 digit)": "218-4410",
+          "Photo of front": [
+            {
+              "filename": "R044.jpg",
+              "id": "attXiJenBrEpjzyKm",
+              "size": 74795,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/fc98dae9f102c829093a3b3a35d297b4/8a31c416",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 359,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/a2ea5ba8075c56c12ec41a4cda17f57d/14def4f9",
+                  "width": 644
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d2882f93b728d0807a57876b5648dc5f/36f7d79b",
+                  "width": 65
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/78515c12dacb648e8a5c3baa1fa3227d/baa472b5/R044.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "6822 E Upland Ave",
           "Property_City": "Baton Rouge",
@@ -1138,6 +1450,32 @@
           "Inspection": "Requested",
           "Owner": "Evelyn Mearidy",
           "Owner Phone (7 digit)": "532-8873",
+          "Photo of front": [
+            {
+              "filename": "R035.jpg",
+              "id": "attXBUEthsyEufS69",
+              "size": 73055,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/b9dd877c69372e9ad84a95de2e6b9a04/980858eb",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 350,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9e25f53078930170558f1fa886f4ff73/efc40dae",
+                  "width": 637
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/76611fd0afe470dea00a748fede0a26f/cc7eba07",
+                  "width": 66
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/5a92a8d05a8ba5378ce17326b0679929/b7aa9d15/R035.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "5624 Robertson Ave",
           "Property_City": "Baton Rouge",
@@ -1172,6 +1510,32 @@
           "Inspection": "Requested",
           "Owner": "Shantele  Paul",
           "Owner Phone (7 digit)": "284-2413",
+          "Photo of front": [
+            {
+              "filename": "R038.jpg",
+              "id": "attEHVMN8zpJkgFCC",
+              "size": 43699,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/a11c6b0247d799332f5ff471bd489c30/fbb434e3",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 296,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/7fdddc6d2ce43dfc12ec0694b0b25044/814d6058",
+                  "width": 647
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/b0e912dab7193c521b668cf5da446520/0b6ce9b2",
+                  "width": 79
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/c2b2b7173de1c470cf7ab2ee5ec4be9c/0fb2a094/R038.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "5645 Shelley Ct",
           "Property_City": "Baton Rouge",
@@ -1206,6 +1570,32 @@
           "Inspection": "Requested",
           "Owner": "Tezana  Richard",
           "Owner Phone (7 digit)": "357-7837",
+          "Photo of front": [
+            {
+              "filename": "R043.jpg",
+              "id": "attc4VLgiwHzv4UuS",
+              "size": 77412,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/07c0c73d32e5afa0a7f96a21745fe454/0024965d",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 379,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9500a76ca7d6ec39d17294cc4f167e73/ae6c103a",
+                  "width": 633
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/ee14dc97349f9194dd0d57b148f25329/b07f58e0",
+                  "width": 60
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/77e0c1bed85aff46d9e0ae5ea94cac13/d6583491/R043.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "5455 Sumrall Dr",
           "Property_City": "Baton Rouge",
@@ -1241,6 +1631,32 @@
           "Inspection": "Requested",
           "Owner": "Mary  Bowman",
           "Owner Phone (7 digit)": "929-8910",
+          "Photo of front": [
+            {
+              "filename": "R067.jpg",
+              "id": "attg4x14W7uhJg7CK",
+              "size": 63479,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/acbc296c11777d221262cafbe4961498/5f435614",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 401,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d3e7e8a12d4b68219e78a02b61ae4313/dfcfbb08",
+                  "width": 499
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/7f18210e15d7aa10c33187c95348ada4/b6a2f038",
+                  "width": 45
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/bbdd34d12819b638476a784ab7647d6e/ade47e25/R067.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "970 N. 47th St",
           "Property_City": "Baton Rouge",
@@ -1275,6 +1691,32 @@
           "Inspection": "Requested",
           "Owner": "Mary Christopher ",
           "Owner Phone (7 digit)": "960-8741",
+          "Photo of front": [
+            {
+              "filename": "R065.jpg",
+              "id": "attBJO0tHlTRqhChl",
+              "size": 70325,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d21d5d16723fc6aed5cd366fa8cb7c16/df846e51",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 425,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/a8ffc290022cfe7d6d44e0a5ab61e039/4bf02f50",
+                  "width": 624
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/fe07f50341227dc6e2ac107bb604e2c5/619890c6",
+                  "width": 53
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/8b8a08843d83453d01c6c822c7a03477/5d884f8b/R065.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "5431 Washington Ave",
           "Property_City": "Baton Rouge",
@@ -1374,6 +1816,32 @@
           "Inspection": "Requested",
           "Owner": "Lawrence  Smith",
           "Owner Phone (7 digit)": "357-3227",
+          "Photo of front": [
+            {
+              "filename": "R034.jpg",
+              "id": "attQd0T9xwFqafsuA",
+              "size": 75471,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/0e316dada0e4e14dd8a7461fbad2951b/340f44d3",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 378,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/5e059f59e465de5cc92d8ee5a8d216a4/08e5d813",
+                  "width": 636
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/7d45fbee6ea95da57d48d9d9b4aa7692/81519a16",
+                  "width": 61
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/fdf4cc6b67b2875820774bc87ca878a1/d27253bb/R034.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "1974 Mission Dr",
           "Property_City": "Baton Rouge",
@@ -1409,6 +1877,32 @@
           "Inspection": "Requested",
           "Owner": "Zenetta Thompson",
           "Owner Phone (7 digit)": "355-0223",
+          "Photo of front": [
+            {
+              "filename": "R053.jpg",
+              "id": "attT8xhKvQ2Da6GZ4",
+              "size": 57316,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/7dec89f3e24d67b71365138738307d4a/1e72d455",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 335,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/53138bdc1823f614671ad8a1431804be/422e0e98",
+                  "width": 536
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/99a202e15aaf1b991a4cb3b7c657017e/c201758d",
+                  "width": 58
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/ae7aea0778b82f4ea6fa60082c5c5536/02154f3c/R053.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "5556 Adams Ave",
           "Property_City": "Baton Rouge",
@@ -1443,6 +1937,32 @@
           "Inspection": "Requested",
           "Owner": "Joannah Mason",
           "Owner Phone (7 digit)": "356-6427",
+          "Photo of front": [
+            {
+              "filename": "R073.jpg",
+              "id": "atte3myccZ9cWdvBO",
+              "size": 73508,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/f902ed8d1ea7c7bc65d117ea676d404b/6320f43f",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 361,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/167c1fd8d777d8354ff8eda51431ebb6/2f9f0d9d",
+                  "width": 592
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/ca674630faccf3d83d3bd0cfb25a5006/a6edff6f",
+                  "width": 59
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/18627d3aa6e45022c08588ef24710d6f/f2b6728a/R073.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "3961 Monroe Ave",
           "Property_City": "Baton Rouge",
@@ -1477,6 +1997,32 @@
           "Inspection": "Requested",
           "Owner": "Geraldine Scott",
           "Owner Phone (7 digit)": "938-1738",
+          "Photo of front": [
+            {
+              "filename": "R029.jpg",
+              "id": "attmE4fYeO5tEJ5Pi",
+              "size": 48872,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/166471b54d23f30dca101f1b2676272f/3cc22168",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 327,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9161dfe98f97ece1b12ac65414dcac3f/f4b24b67",
+                  "width": 454
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/831321287520e80e1cd511bba221229c/63091d24",
+                  "width": 50
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/ab0d1dd851e075a3d53c397dc3f19359/fee30f0e/R029.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "3027 Newton St ",
           "Property_City": "Baton Rouge",
@@ -1511,6 +2057,32 @@
           "Inspection": "Requested",
           "Owner": "Annie Wright",
           "Owner Phone (7 digit)": "337-0813",
+          "Photo of front": [
+            {
+              "filename": "R079.jpg",
+              "id": "atthKowScc4tvWqhy",
+              "size": 63706,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/05e7e96da29dad01e1a4c92121dba974/9a8dcc12",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 372,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/c0bc7f2e28ce6f07c436b72fe4290af1/99e4cbe5",
+                  "width": 566
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9e96c72ea62b69566ef2837598f20c1f/63cc3560",
+                  "width": 55
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/d6db7328a7cffc0003d525ffa0932ecc/51945238/R079.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "3563 Osceola Ave",
           "Property_City": "Baton Rouge",
@@ -1580,6 +2152,32 @@
           "Inspection": "Requested",
           "Owner": "Lois Sims",
           "Owner Phone (7 digit)": "665-1566",
+          "Photo of front": [
+            {
+              "filename": "R077.jpg",
+              "id": "attqUgmBK9rgkE4rn",
+              "size": 54149,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/4625c8a8c84d99dfd20db9ccc04a31f1/ead709d8",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 353,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/13ccbc0fe053cf228f1234616428c95c/c57eaac6",
+                  "width": 453
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/e91e1e2d5d2b69e125594155eb05beac/52a45767",
+                  "width": 46
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/f208a1f5217fde593c6d70501843a894/0c774aac/R077.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "2703 Michelli Dr",
           "Property_City": "Baton Rouge",
@@ -1614,6 +2212,32 @@
           "Inspection": "Requested",
           "Owner": "Sheryl Ray",
           "Owner Phone (7 digit)": "272-2173",
+          "Photo of front": [
+            {
+              "filename": "R033.jpg",
+              "id": "attAdczYcKbeJ3y9d",
+              "size": 55788,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/5ac366a3359755238171884e16f1c61d/6f411dfe",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 368,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3cebfbe7e1486d31ac565d2dd4596240/002755f7",
+                  "width": 582
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/ab03bb686eacc5abec989718e9509b38/9fbb1ce8",
+                  "width": 57
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/0cfde5fa317482de9656a8f5defda4f5/fe5b1606/R033.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "10562 Big Bend Ave",
           "Property_City": "Baton Rouge",
@@ -1648,6 +2272,32 @@
           "Inspection": "Requested",
           "Owner": "Angela Williams",
           "Owner Phone (7 digit)": "439-6382",
+          "Photo of front": [
+            {
+              "filename": "R031.jpg",
+              "id": "att2nr3UQRntVm8s4",
+              "size": 37359,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9e371ad0c56cc1ca3dc9632e460f0fb3/ed02bc2a",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 267,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3c3dbf2f671e13754a9ad0f0c1cdeae8/5c77f483",
+                  "width": 456
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d554e949fc765889b1907e131978c9df/9f6f2c55",
+                  "width": 61
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/cbc1a8970ab21b42346571b891a57b56/8c2ee2d8/R031.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "2251 Plantation Dr",
           "Property_City": "Baton Rouge",
@@ -1682,6 +2332,32 @@
           "Inspection": "Requested",
           "Owner": "John Jones",
           "Owner Phone (7 digit)": "875-6512",
+          "Photo of front": [
+            {
+              "filename": "R074.jpg",
+              "id": "attYY5AUc2Uly6BwK",
+              "size": 64079,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/153bfacc1ca4a55f390632d0fa6013f3/459ff678",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 406,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/cdd48c054e69bd0e4c1db9ae9c566f87/092f805f",
+                  "width": 583
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/512f2d92ac6c25fb4dad5c1935ddd895/508b3766",
+                  "width": 52
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/fccf8f6f0c51fd8a4231553fe2758d4e/dac78949/R074.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "2936 Adams Ave",
           "Property_City": "Baton Rouge",
@@ -1717,6 +2393,32 @@
           "Inspection": "Requested",
           "Owner": "Elvira Davis",
           "Owner Phone (7 digit)": "349-8508",
+          "Photo of front": [
+            {
+              "filename": "R046.jpg",
+              "id": "attXdbFPHeqCNGN9V",
+              "size": 74935,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/78a88371f2db408f266d315412d20da3/a31ffe01",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 406,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9032b499e45a4d491a194c9346c32429/5502ade4",
+                  "width": 624
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/2579ff824d341e24aec3397c77c2380f/0b4ecbe6",
+                  "width": 55
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/8ab918ac660d993bf2f6076fa2017845/01eb59dc/R046.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "7182 Aspen Pl",
           "Property_City": "Baton Rouge",
@@ -1751,6 +2453,32 @@
           "Inspection": "Requested",
           "Owner": "April Wolsefer",
           "Owner Phone (7 digit)": "274-8806",
+          "Photo of front": [
+            {
+              "filename": "R076.jpg",
+              "id": "attYjjNBqvwOennJz",
+              "size": 70624,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/0fbad1682db394ed609fcfdd5bb2c05e/26dbf0a5",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 318,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/28d2e1cda4d7fb2c4600fdf8c833ec2c/558127eb",
+                  "width": 647
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d9390eecd1673472f276f16bf5f22112/f992086b",
+                  "width": 73
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/b1030562bdeaef1dac938dd140be74e6/6998bdb2/R076.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "14222 Florida Blvd",
           "Property_City": "Baton Rouge",
@@ -1785,6 +2513,32 @@
           "Inspection": "Requested",
           "Owner": "Rose Stevens",
           "Owner Phone (7 digit)": "421-6988",
+          "Photo of front": [
+            {
+              "filename": "R078.jpg",
+              "id": "attk3CXa4IpJZ8APi",
+              "size": 72340,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/24d69d779550c8e0844aafd60991d67c/952bc575",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 351,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d647394fefc224dba76e70c09f425636/25481ed8",
+                  "width": 625
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/1f2731a18b6b17226f0e7b5f986274d2/5a6e4a93",
+                  "width": 64
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/0f71803cc40590f0610b248b0e3d8587/0ecd25c6/R078.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "4935 Beech St",
           "Property_City": "Baton Rouge",
@@ -1819,6 +2573,32 @@
           "Inspection": "Requested",
           "Owner": "Myra Lou Engram",
           "Owner Phone (7 digit)": "962-5558",
+          "Photo of front": [
+            {
+              "filename": "R075.jpg",
+              "id": "attx3D95QX7EYALwR",
+              "size": 69870,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/fadca8483911c66eb9cf9e9a81c77bdf/0d1dbd74",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 354,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/832c9fb1642e2e3eba74dfc921704ed8/a353134b",
+                  "width": 648
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/618d9f5953004feb61b8d695ccac590d/a113dadf",
+                  "width": 66
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/ae4f66003e508401c1b617c33353806e/b6d9ec11/R075.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "4279 Acacia St",
           "Property_City": "Baton Rouge",
@@ -1949,6 +2729,32 @@
           "Inspection": "Requested",
           "Owner": "Juanita  Allen",
           "Owner Phone (7 digit)": "352-8532",
+          "Photo of front": [
+            {
+              "filename": "R051.jpg",
+              "id": "attefc75GxAbXbDEw",
+              "size": 60661,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/b82aaa0675a1008474caab55b9abe265/11906f46",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 421,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/356a18e3b36546ffc4f61094b0cccd47/1b3adcaa",
+                  "width": 531
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/0fe61a92ff7cf7b9fc372f0df31feeb7/206f1bce",
+                  "width": 45
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/b9ce3329cc2bb98516ac0609f26c678f/8ec74f40/R051.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "6660 Cambridge St",
           "Property_City": "Baton Rouge",
@@ -1983,6 +2789,32 @@
           "Inspection": "Requested",
           "Owner": "Lois Marie Beals ",
           "Owner Phone (7 digit)": "444-7447",
+          "Photo of front": [
+            {
+              "filename": "R021.jpg",
+              "id": "att03XNrDa7nfExx2",
+              "size": 82112,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/180f394a4afc4f8a6319ec90b2f73a20/20d8de93",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 400,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/811900012aa6c9dd156892c2f0d541ad/ea8361b9",
+                  "width": 582
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/5c9a04ddf4b6f39129ab2652d08bed4b/c149ba98",
+                  "width": 52
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/34b15ddfebb5f59b7a7b7be72d627320/3535fa36/R021.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "2980 Sherwood St. ",
           "Property_City": "Baton Rouge",
@@ -2011,6 +2843,32 @@
           "Inspection": "Requested",
           "Owner": "Ernest  Jones",
           "Owner Phone (7 digit)": "358-0962",
+          "Photo of front": [
+            {
+              "filename": "R036.jpg",
+              "id": "attV8GrvGekcVB7mp",
+              "size": 65374,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/ca5d40da6d45edf97e6ad73ad4a0e0ed/97c8ab4b",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 372,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/95efbc2d6293005e464ad45ae0cb1d1e/2600e618",
+                  "width": 561
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/4fe308ef18bc3ba2fcf7d8e771f5be4e/ef20a32d",
+                  "width": 54
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/7888b67247b6b13c710c3ee89dd4416b/83314c0c/R036.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "6125 Byron St",
           "Property_City": "Baton Rouge",
@@ -2046,6 +2904,32 @@
           "Inspection": "Requested",
           "Owner": "Shirley Williams",
           "Owner Phone (7 digit)": "246-8971",
+          "Photo of front": [
+            {
+              "filename": "R052.jpg",
+              "id": "att6c4anfrCwljO7T",
+              "size": 64645,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/6b4d5027731c00779aff80386e9918fb/98ceae7e",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 335,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/5c2580efa091da98af3036f420faf8a1/042fe67b",
+                  "width": 588
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9a0b6f3b8394510371d2540e9a524425/21d363bf",
+                  "width": 63
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/012740ddb659befccf62d8c53fa6626f/b2e54449/R052.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "224 Evergreen Dr",
           "Property_City": "Baton Rouge",
@@ -2080,6 +2964,32 @@
           "Inspection": "Requested",
           "Owner": "Willie  Christopher",
           "Owner Phone (7 digit)": "614-0898",
+          "Photo of front": [
+            {
+              "filename": "R023.jpg",
+              "id": "att2UhdfIStULSwm1",
+              "size": 43494,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d087be52ee19c1ee9794c5e30060c841/7cac4df8",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 319,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/60d8ee2631f2ab6dede6694c67a53941/982d1aab",
+                  "width": 470
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/2d728a3ff083b01f2aa1cd3c7a214779/2f81d1a5",
+                  "width": 53
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/5d8712aa3c2c3a10480586a25d8b1753/f8d389b0/R023.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "2950 Linwood St ",
           "Property_City": "Baton Rouge",
@@ -2115,6 +3025,32 @@
           "Inspection": "Requested",
           "Owner": "Alfreda  Watson ",
           "Owner Phone (7 digit)": "407-6638",
+          "Photo of front": [
+            {
+              "filename": "R025.jpg",
+              "id": "attOASSqLqH0OiwPa",
+              "size": 38552,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/5137a5189e2825c886d74d5052c5296e/e753723a",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 333,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/5592129f63c8256a42a57352de809da3/408877ca",
+                  "width": 593
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/2279b8a743ac3018e9a4fa2395d02886/468c78b1",
+                  "width": 64
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/3136a46f95b705d1bb74f037384d419b/a6b2e739/R025.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "2548 Hollywood St. ",
           "Property_City": "Baton Rouge",
@@ -2244,6 +3180,32 @@
           "Inspection": "Requested",
           "Owner": "Alfreda  Watson",
           "Owner Phone (7 digit)": "407-6638",
+          "Photo of front": [
+            {
+              "filename": "R060.jpg",
+              "id": "attDhLqzAPREzNlfE",
+              "size": 35662,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/f77ab73d819f1678d3d4b0c65cd090a0/6030ba0d",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 353,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/656ec5124990ebb04ed4165001c66ecf/ee5bf290",
+                  "width": 523
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/1fb39edfb925f4537574bfbc10cfdeb7/6e30293e",
+                  "width": 53
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/db12473d8451bb911692f1058052a074/1d241a09/R060.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "2548 Hollywood St",
           "Property_City": "Baton Rouge",
@@ -2274,7 +3236,7 @@
           "Date Initial Inspection": "2019-08-05",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "200 N 16th Street, Baton Rouge LA 70802",
-          "GeocodeCache": "🔵 eyJpIjoiMjAwNSBOdGggMTZ0aCBTdHJlZXQgLCBCYXRvbiBSb3VnZSBMQSA3MDgwMiIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMjAwNSBOIDE2dGggU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NjU3Njk0LCJsbmciOi05MS4xNzM2NDMyMDAwMDAwMX0sImUiOjE1NjcxOTIxOTMzMDF9",
+          "GeocodeCache": "🔵 eyJpIjoiMjAwIE4gMTZ0aCBTdHJlZXQsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIyMDAgTiAxNnRoIFN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDIsIFVTQSIsImxhdCI6MzAuNDQ4NzYzOCwibG5nIjotOTEuMTcyMzk2ODk5OTk5OTd9LCJlIjoxNTY4OTA4NTIwODA5fQ==",
           "Inspection": "Requested",
           "Owner": "Theresa Gray",
           "Owner Phone (7 digit)": "772-4256",
@@ -2313,6 +3275,32 @@
           "Inspection": "Requested",
           "Owner": "Celestine Davis",
           "Owner Phone (7 digit)": "357-4498",
+          "Photo of front": [
+            {
+              "filename": "R024.jpg",
+              "id": "attPjay10XBmvEUYB",
+              "size": 50821,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/1982d4ac3e88adbf7580b335bc7500b8/424ca2da",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 338,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/bfebe7b7699ce32beec18e3e0a6c20de/04d3eea5",
+                  "width": 591
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d4dc152e71302bc089995b60cb7dcae6/9886c1f8",
+                  "width": 63
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/c169e3b23bfd4ed8e854c4824fe1769a/1c1cd6dd/R024.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "2041 West Belfair Dr. ",
           "Property_City": "Baton Rouge",
@@ -2383,6 +3371,32 @@
           "Inspection": "Requested",
           "Owner": "Marilyn Dugas",
           "Owner Phone (7 digit)": "424-4544",
+          "Photo of front": [
+            {
+              "filename": "R050.jpg",
+              "id": "att4tC1MdFhr4aaXN",
+              "size": 48172,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/b89d77c2b1254c0a04c50ae18faf3120/b8de9685",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 371,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/72da027c3411e4698d79fe23344c6c7a/7ac0c757",
+                  "width": 607
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/ee48b2aec035c2403d69be47b1c164ab/483e9d0d",
+                  "width": 59
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/e613fabde18b7e0c8317de45f9b4b3f5/edf2d25f/R050.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "11564 Pamela Dr",
           "Property_City": "Baton Rouge",
@@ -2583,6 +3597,32 @@
           "Inspection": "Requested",
           "Owner": "Carol  Miller",
           "Owner Phone (7 digit)": "614-5987",
+          "Photo of front": [
+            {
+              "filename": "R055.jpg",
+              "id": "attOet4v4izl4LeYV",
+              "size": 70066,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3717dcd19d4ef2b15af03f751170482e/7940a685",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 326,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3046802b094e1368ec08bc6f8d51377f/34cb8096",
+                  "width": 623
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/a52d310f0527fee1d2f25d70e542543e/e37a2f87",
+                  "width": 69
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/4c41e32eda030f889e77ae34b7255d18/be6eb160/R055.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "4943 Bardwell Dr ",
           "Property_City": "Baton Rouge",
@@ -2617,6 +3657,32 @@
           "Inspection": "Requested",
           "Owner": "Patricia Bird",
           "Owner Phone (7 digit)": "344-5191",
+          "Photo of front": [
+            {
+              "filename": "R070.jpg",
+              "id": "attS8o0NyBCuap4eB",
+              "size": 59310,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9edd604b26a8b17e78f7a022ce4dffaa/625532a2",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 423,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/038c70f20b7b23081891e556a8631173/b59bf34a",
+                  "width": 611
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/b5a062206733e581aa75f62c5dc5ec1a/d1e99bcc",
+                  "width": 52
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/652b6ae2ab9a1a6d2bccd3ba0cbff7ea/6cb4fe75/R070.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "1826 Arkansas St",
           "Property_City": "Baton Rouge",
@@ -2683,10 +3749,36 @@
           "DateOrdered": "2019-07-24",
           "Description": "225-692-1604",
           "FullPropertyAddress": "831 N 40th St, Baton Rouge LA 70802",
-          "GeocodeCache": "🔵 eyJpIjoiODMxIE50aCA0MHRoIFN0ICwgQmF0b24gUm91Z2UgTEEgNzA4MDIiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjgzMSBOIDQwdGggU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NTYxNTQ0LCJsbmciOi05MS4xNTA1MTI0MDAwMDAwM30sImUiOjE1NjcxOTIxNzkzMjJ9",
+          "GeocodeCache": "🔵 eyJpIjoiODMxIE4gNDB0aCBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDIiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjgzMSBOIDQwdGggU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NTYxNTQ0LCJsbmciOi05MS4xNTA1MTI0MDAwMDAwM30sImUiOjE1Njg5MDg1MjAxNjR9",
           "Inspection": "Requested",
           "Owner": "Julia Russ",
           "Owner Phone (7 digit)": "387-4648",
+          "Photo of front": [
+            {
+              "filename": "R026.jpg",
+              "id": "attcYor4BKmbM8Evz",
+              "size": 60551,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/b00e2f1acb3888a9768afe5ceb3f8c1d/8cd0c4d7",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 403,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/424c93ead4950df811bedd012d53ff35/5bbf26fa",
+                  "width": 446
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/78c347785fd711d4a9b756b1771e4d71/7d4dd785",
+                  "width": 40
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/672de49aeee244177ec6b06d562817ea/51f4c39e/R026.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "831 N 40th St",
           "Property_City": "Baton Rouge",
@@ -2843,6 +3935,32 @@
           "Inspection": "Requested",
           "Owner": "Rosa Lee Davis",
           "Owner Phone (7 digit)": "775-4283",
+          "Photo of front": [
+            {
+              "filename": "R080.jpg",
+              "id": "attHJrm9hDRW6IdeR",
+              "size": 68005,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3001fe7f2448ab52b0a545e18ffa5200/3e3b18eb",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 398,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3cff940a3b3285501574c7e6c858fee2/751477d0",
+                  "width": 510
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/b603c2120f682bd5f6199d41f79d9e23/8a25b3e4",
+                  "width": 46
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/413b26194c38297ed652f2e2fe91b97a/c621cdb8/R080.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "2640 Jay St",
           "Property_City": "Baton Rouge",
@@ -2938,6 +4056,32 @@
           "Inspection": "Requested",
           "Owner": "Henry Devold",
           "Owner Phone (7 digit)": "448-1034",
+          "Photo of front": [
+            {
+              "filename": "R057.jpg",
+              "id": "attQcIW1YoRTWL1vA",
+              "size": 66363,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/332f3a1db492ab38cd265d2ae5dcfdb5/a39f0725",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 388,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/985433cc3afe25b7ed5ff76430e3aaa6/e0ff27e2",
+                  "width": 509
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d768a7a35ef2eca3be2f40c1bd4baf5c/d003b62d",
+                  "width": 47
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/839cb2fd7cd84f59ece886f942e0c1b8/cd5f800d/R057.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "2510 Laurel St",
           "Property_City": "Baton Rouge",
@@ -2972,6 +4116,32 @@
           "Inspection": "Requested",
           "Owner": "Veronica Magee",
           "Owner Phone (7 digit)": "250-6725",
+          "Photo of front": [
+            {
+              "filename": "R032.jpg",
+              "id": "att0aBTY7sWa7P2x7",
+              "size": 45241,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/a573a29f865ffeb4c2836b84c8227d3e/66b32a55",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 328,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/805f4dc6558666a6a0951a18584c1e42/db77d7fb",
+                  "width": 480
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/52955df742572e051f483699cb79594e/1c4f87ae",
+                  "width": 53
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/74f809271dd3a184c8b7bda9969329ae/190c30c1/R032.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "640 Arlington Ave",
           "Property_City": "Baton Rouge",
@@ -3041,6 +4211,32 @@
           "Inspection": "Requested",
           "Owner": "Newman Snell Jr",
           "Owner Phone (7 digit)": "614-1488",
+          "Photo of front": [
+            {
+              "filename": "R045.jpg",
+              "id": "atttfxCOTh1l5pV5o",
+              "size": 88613,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/834c569b724436e72d6d6577fa105394/1721a1cd",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 423,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/242e8bb2cab583b4fc881c49e7b229e8/ddb8394c",
+                  "width": 634
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3b97e4b02e45bf6c0c6883cbfa37ce74/ddf63c78",
+                  "width": 54
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/bdf0fd2f32d97001f35386f47c2a211c/a1535de5/R045.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "6869 Monarch St",
           "Property_City": "Baton Rouge",
@@ -3076,6 +4272,32 @@
           "Inspection": "Requested",
           "Owner": "Kenneth  Austin",
           "Owner Phone (7 digit)": "355-5520",
+          "Photo of front": [
+            {
+              "filename": "R072.jpg",
+              "id": "attC3VMDHwTJrbkmW",
+              "size": 39897,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/815729676ceba03f69fb90e14673e446/bd386cf9",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 332,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/2b0fdf27fc816d555baf7038b6f23a55/2f3ca34b",
+                  "width": 422
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3ee77bfabcc35bdbee0bb27a32a960bc/0ad8d411",
+                  "width": 46
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/108354bff4d964675635974df1cbbabb/79e23c40/R072.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "7295 Prescott Rd",
           "Property_City": "Baton Rouge",
@@ -3173,6 +4395,32 @@
           "Inspection": "Requested",
           "Owner": "Marie Simmons",
           "Owner Phone (7 digit)": "454-4589",
+          "Photo of front": [
+            {
+              "filename": "R047.jpg",
+              "id": "attUsGTjFh7TZyUib",
+              "size": 31481,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/28e02ff65d388c3a653ec267f60baa59/fe94242f",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 275,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/00dc43a8f30e551fb991d6b45f596067/ee6bb9f0",
+                  "width": 454
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/82e3e21c9ba9b463fd5236d99e2904b3/92f4cc09",
+                  "width": 59
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/9218104dd3f401e49ecd856abfa7c33c/930e983f/R047.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "3844 W Wendover Dr",
           "Property_City": "Baton Rouge",
