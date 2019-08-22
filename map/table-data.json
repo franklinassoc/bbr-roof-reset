@@ -15,7 +15,7 @@
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "1619 Theron Dr, Baton Rouge LA 70810",
           "GeocodeCache": "🔵 eyJpIjoiMTYxOSBUaGVyb24gRHIsIEJhdG9uIFJvdWdlIExBIDcwODEwIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIxNjE5IFRoZXJvbiBEciwgQmF0b24gUm91Z2UsIExBIDcwODEwLCBVU0EiLCJsYXQiOjMwLjM4NjMwNiwibG5nIjotOTEuMTA5NDI5OTk5OTk5OTd9LCJlIjoxNTY3MTkyMTcxMDUxfQ==",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Alvaina  Johnson",
           "Owner Phone (7 digit)": "757-8014",
           "Photo of front": [
@@ -78,7 +78,7 @@
           "Description": "case 96 Rehab program",
           "FullPropertyAddress": "3822 N Acadian Thruway East, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzgyMiBOIEFjYWRpYW4gVGhydXdheSBFYXN0LCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMzgyMiBOIEFjYWRpYW4gVGhydXdheSwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ4Mzc4MzMsImxuZyI6LTkxLjE1NjQyNzV9LCJlIjoxNTY2NDE3NzQxMTE3fQ==",
-          "Inspection": "Completed",
+          "Inspection (initial)": "Completed",
           "Owner": "Patricia Burkhalter",
           "Owner Phone (7 digit)": "397-0858",
           "Photo of front": [
@@ -141,7 +141,7 @@
           "Description": "2259753250",
           "FullPropertyAddress": "4515 Thames Dr, Baton Rouge LA 70814",
           "GeocodeCache": "🔵 eyJpIjoiNDUxNSBUaGFtZXMgRHIsIEJhdG9uIFJvdWdlIExBIDcwODE0IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI0NTE1IFRoYW1lcyBEciwgQmF0b24gUm91Z2UsIExBIDcwODE0LCBVU0EiLCJsYXQiOjMwLjQ5MTY0ODUsImxuZyI6LTkxLjA0NDgyOTh9LCJlIjoxNTY3MTkyMTcyMjgxfQ==",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Fannietta Anderson",
           "Owner Phone (7 digit)": "272-8238",
           "Photo of front": [
@@ -202,7 +202,7 @@
           "Description": " - cancelled because duplicate entry",
           "FullPropertyAddress": "200 N 16th St, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMjAwIE4gMTZ0aCBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDIiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjIwMCBOIDE2dGggU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NDg3NjM4LCJsbmciOi05MS4xNzIzOTY4OTk5OTk5N30sImUiOjE1NjcxOTIxOTU3MjV9",
-          "Inspection": "Requested",
+          "Inspection (initial)": "None",
           "Owner": "Theresa  Gray",
           "Owner Phone (7 digit)": "772-4256",
           "Program": "Roofing Initiative",
@@ -234,14 +234,22 @@
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
           "Description": "2252522865",
-          "FullPropertyAddress": "1713 N 49th St, Baton Rouge  LA 70802",
+          "FullPropertyAddress": "1713 N 49th St, Baton Rouge LA 70802",
+          "Inspection (initial)": "Requested",
           "Owner": "Arthur Antwine",
           "Owner Phone (7 digit)": "926-1516",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "1713 N 49th St",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70802",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R90_1713 N 49th St_ANTWINE",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4642522",
           "longitude": "-91.1416554"
         },
@@ -258,14 +266,22 @@
           "ContactPhoneNumber": "2256032869",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "2834 Iberia St, Baton Rouge  LA 70805",
+          "FullPropertyAddress": "2834 Iberia St, Baton Rouge LA 70805",
+          "Inspection (initial)": "Requested",
           "Owner": "Erika Allen",
           "Owner Phone (7 digit)": "603-2869",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "2834 Iberia St",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R85_2834 Iberia St_ALLEN",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.495554",
           "longitude": "-91.16219"
         },
@@ -286,7 +302,7 @@
           "Description": "2256364575",
           "FullPropertyAddress": "4060 Topeka St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiNDA2MCBUb3Bla2EgU3QsIEJhdG9uIFJvdWdlIExBIDcwODA1IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI0MDYwIFRvcGVrYSBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ4NjQ2MDEsImxuZyI6LTkxLjE2MDk2NDZ9LCJlIjoxNTY3MTkyMTk0NDQyfQ==",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Edna London",
           "Owner Phone (7 digit)": "355-8675",
           "Photo of front": [
@@ -343,14 +359,22 @@
           "ContactPhoneNumber": "2252795895",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "2860 Eaton St, Baton Rouge  LA 70805",
+          "FullPropertyAddress": "2860 Eaton St, Baton Rouge LA 70805",
+          "Inspection (initial)": "Requested",
           "Owner": "Michelle Bell",
           "Owner Phone (7 digit)": "279-5895",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "2860 Eaton St",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R131_2860 Eaton St_BELL",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4743507",
           "longitude": "-91.1456802"
         },
@@ -371,7 +395,7 @@
           "Description": "2253546326",
           "FullPropertyAddress": "3836 Adams Ave, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMzgzNiBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzODM2IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODAyLCBVU0EiLCJsYXQiOjMwLjQ2ODY2NDIsImxuZyI6LTkxLjE1MTYyNzl9LCJlIjoxNTY3MTkyMTUzMTE2fQ==",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Andrew Scott, Sr",
           "Owner Phone (7 digit)": "284-4148",
           "Photo of front": [
@@ -428,14 +452,22 @@
           "ContactPhoneNumber": "2253711318",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "7035 N Buttonwood Dr, Baton Rouge  LA 70812",
+          "FullPropertyAddress": "7035 N Buttonwood Dr, Baton Rouge LA 70812",
+          "Inspection (initial)": "Requested",
           "Owner": "Anthony Singleton",
           "Owner Phone (7 digit)": "371-1318",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "7035 N Buttonwood Dr",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70812",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R95_7035 N Buttonwood Dr_SINGLETON",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.5154353",
           "longitude": "-91.1271509"
         },
@@ -453,14 +485,22 @@
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
           "Description": "2254005009",
-          "FullPropertyAddress": "3055 Juban Ave, Baton Rouge  LA 70805",
+          "FullPropertyAddress": "3055 Juban Ave, Baton Rouge LA 70805",
+          "Inspection (initial)": "Requested",
           "Owner": "Gloria Collins",
           "Owner Phone (7 digit)": "356-5813",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "3055 Juban Ave",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R109_3055 Juban Ave_COLLINS",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4772676",
           "longitude": "-91.1219238"
         },
@@ -481,7 +521,7 @@
           "Description": "2256921604 - cancelled because duplicate entry",
           "FullPropertyAddress": "5852 St Gerard Ave, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiNTg1MiBTdCBHZXJhcmQgQXZlLCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiNTg1MiBTdCBHZXJhcmQgQXZlLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDk1ODYyMiwibG5nIjotOTEuMTMxOTAwOX0sImUiOjE1NjcxOTIxNTg2Njd9",
-          "Inspection": "Requested",
+          "Inspection (initial)": "None",
           "Owner": "Angela Bynum",
           "Owner Phone (7 digit)": "615-4947",
           "Program": "Roofing Initiative",
@@ -516,7 +556,7 @@
           "Description": "2259339732",
           "FullPropertyAddress": "2215 Gen Cleburne Ave, Baton Rouge LA 70810",
           "GeocodeCache": "🔵 eyJpIjoiMjIxNSBHZW4gQ2xlYnVybmUgQXZlLCBCYXRvbiBSb3VnZSBMQSA3MDgxMCIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMjIxNSBHZW5lcmFsIENsZWJ1cm5lIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODEwLCBVU0EiLCJsYXQiOjMwLjM0Njc1LCJsbmciOi05MS4xMjc4MjU0fSwiZSI6MTU2NzE5MjE3MDQzMX0=",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Sandra Pearson",
           "Owner Phone (7 digit)": "707-5404",
           "Photo of front": [
@@ -577,7 +617,7 @@
           "Description": "2259312996",
           "FullPropertyAddress": "4247 Norwich Dr, Baton Rouge LA 70814",
           "GeocodeCache": "🔵 eyJpIjoiNDI0NyBOb3J3aWNoIERyLCBCYXRvbiBSb3VnZSBMQSA3MDgxNCIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiNDI0NyBOb3J3aWNoIERyLCBCYXRvbiBSb3VnZSwgTEEgNzA4MTQsIFVTQSIsImxhdCI6MzAuNDg5NTk0MSwibG5nIjotOTEuMDQ1NzgzNDk5OTk5OTd9LCJlIjoxNTY3MTkyMTQ4NjM5fQ==",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Thelma Williams ",
           "Owner Phone (7 digit)": "987-9048",
           "Photo of front": [
@@ -638,7 +678,7 @@
           "Description": "2258061908",
           "FullPropertyAddress": "2532 68th Ave, Baton Rouge LA 70807",
           "GeocodeCache": "🔵 eyJpIjoiMjUzMiA2OHRoIEF2ZSwgQmF0b24gUm91Z2UgTEEgNzA4MDciLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjI1MzIgNjh0aCBBdmUsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNywgVVNBIiwibGF0IjozMC41MTE1NDMyLCJsbmciOi05MS4xNjU4NzgzMDAwMDAwM30sImUiOjE1NjcxOTIxOTUxNjJ9",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Ezekiel  Young Jr",
           "Owner Phone (7 digit)": "354-0723",
           "Photo of front": [
@@ -698,7 +738,7 @@
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "3423 Dalton St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzQyMyBEYWx0b24gU3QsIEJhdG9uIFJvdWdlIExBIDcwODA1IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNDIzIERhbHRvbiBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ3NDE2NTc5OTk5OTk5LCJsbmciOi05MS4xNTUzMDI1fSwiZSI6MTU2NjQxNzc1MjM0M30=",
-          "Inspection": "Completed",
+          "Inspection (initial)": "Completed",
           "Owner": "Juanita Carter",
           "Owner Phone (7 digit)": "356-7203",
           "Photo of front": [
@@ -755,14 +795,22 @@
           "ContactPhoneNumber": "2252353427",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "11866 Baylor St, Baton Rouge  LA 70816",
+          "FullPropertyAddress": "11866 Baylor St, Baton Rouge LA 70816",
+          "Inspection (initial)": "Requested",
           "Owner": "Christine  Hart",
           "Owner Phone (7 digit)": "235-3427",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "11866 Baylor St",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70816",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R116_11866 Baylor St_HART",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.429377",
           "longitude": "-91.0507286"
         },
@@ -782,7 +830,7 @@
           "Description": "duplicate of case 57_2510 Laurel St_DEVOLD",
           "FullPropertyAddress": "2510 Laurel St , Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMjUxMCBMYXVyZWwgU3QgLCBCYXRvbiBSb3VnZSBMQSA3MDgwMiIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMjUxMCBMYXVyZWwgU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NTA5MzI5LCJsbmciOi05MS4xNjI1MzE2OTk5OTk5OX0sImUiOjE1NjcxOTIxNTYyMDN9",
-          "Inspection": "None",
+          "Inspection (initial)": "None",
           "Owner": "Henry  Conelious",
           "Owner Phone (7 digit)": "692-1604",
           "Program": "Roofing Initiative",
@@ -813,14 +861,22 @@
           "ContactPhoneNumber": "2253831659",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "3156 Washington Ave, Baton Rouge  LA 70802",
+          "FullPropertyAddress": "3156 Washington Ave, Baton Rouge LA 70802",
+          "Inspection (initial)": "Requested",
           "Owner": "Marner  Lewis",
           "Owner Phone (7 digit)": "383-1659",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "3156 Washington Ave",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70802",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R88_3156 Washington Ave_LEWIS",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4651996",
           "longitude": "-91.156765"
         },
@@ -840,7 +896,7 @@
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "3869 Pontiac St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzg2OSBQb250aWFjIFN0LCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMzg2OSBQb250aWFjIFN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDgzOTIsImxuZyI6LTkxLjE2NzY1MDZ9LCJlIjoxNTY2NDE3NzQ3MTgyfQ==",
-          "Inspection": "Completed",
+          "Inspection (initial)": "Completed",
           "Owner": "Martha Robertson",
           "Owner Phone (7 digit)": "357-5436",
           "Photo of front": [
@@ -900,7 +956,7 @@
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "3425 Adams Ave, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMzQyNSBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNDI1IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODAyLCBVU0EiLCJsYXQiOjMwLjQ2ODg4ODIsImxuZyI6LTkxLjE1NDkxNzJ9LCJlIjoxNTY2NDE3NzUxMzMwfQ==",
-          "Inspection": "Completed",
+          "Inspection (initial)": "Completed",
           "Owner": "Wanda Thomas",
           "Owner Phone (7 digit)": "430-3525",
           "Photo of front": [
@@ -963,7 +1019,7 @@
           "Description": "case 102 Rehab program",
           "FullPropertyAddress": "8379 McClelland Dr, Baton Rouge LA 70811",
           "GeocodeCache": "🔵 eyJpIjoiODM3OSBNY0NsZWxsYW5kIERyLCBCYXRvbiBSb3VnZSBMQSA3MDgxMSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiODM3OSBNY0NsZWxsYW5kIERyLCBCYXRvbiBSb3VnZSwgTEEgNzA4MTEsIFVTQSIsImxhdCI6MzAuNTI0NjU0MiwibG5nIjotOTEuMTM3NjQ0NTk5OTk5OTl9LCJlIjoxNTY2NDE3NzQwMTkyfQ==",
-          "Inspection": "Completed",
+          "Inspection (initial)": "Completed",
           "Owner": "Charmaine Valentine",
           "Owner Phone (7 digit)": "200-6770",
           "Photo of front": [
@@ -1022,14 +1078,22 @@
           "ContactPhoneNumber": "2252350319",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "4151 Joseph St, Baton Rouge  LA 70805",
+          "FullPropertyAddress": "4151 Joseph St, Baton Rouge LA 70805",
+          "Inspection (initial)": "Requested",
           "Owner": "Toye Davis",
           "Owner Phone (7 digit)": "235-0319",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "4151 Joseph St",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R108_4151 Joseph St_DAVIS",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4883281",
           "longitude": "-91.1421896"
         },
@@ -1047,14 +1111,22 @@
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
           "Description": "2259310894",
-          "FullPropertyAddress": "404 Elmer Ave, Baton Rouge  LA 70807",
+          "FullPropertyAddress": "404 Elmer Ave, Baton Rouge LA 70807",
+          "Inspection (initial)": "Requested",
           "Owner": "Gustina  Carter",
           "Owner Phone (7 digit)": "775-0687",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "404 Elmer Ave",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70807",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R124_404 Elmer Ave_CARTER",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.537476",
           "longitude": "-91.1949379"
         },
@@ -1075,7 +1147,7 @@
           "Description": "2252678127",
           "FullPropertyAddress": "4621 Bradley St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiNDYyMSBCcmFkbGV5IFN0LCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiNDYyMSBCcmFkbGV5IFN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDc4MTU5NCwibG5nIjotOTEuMTQzNjYxMDAwMDAwMDF9LCJlIjoxNTY3MTkyMTgxMjIzfQ==",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Audrey Philson",
           "Owner Phone (7 digit)": "25357575",
           "Photo of front": [
@@ -1133,13 +1205,22 @@
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
           "Description": "2256032549",
-          "FullPropertyAddress": "5562 Adams Ave,  LA 70806",
+          "FullPropertyAddress": "5562 Adams Ave, Baton Rouge LA 70806",
+          "Inspection (initial)": "Requested",
           "Owner": "Charlean  Reed",
           "Owner Phone (7 digit)": "355-0953",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "5562 Adams Ave",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70806",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R102_5562 Adams Ave_REED",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4693613",
           "longitude": "-91.1335967"
         },
@@ -1157,14 +1238,22 @@
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
           "Description": "2252299768",
-          "FullPropertyAddress": "11227 Flamingo Dr, Baton Rouge  LA 70814",
+          "FullPropertyAddress": "11227 Flamingo Dr, Baton Rouge LA 70814",
+          "Inspection (initial)": "Requested",
           "Owner": "Joseph  Taylor",
           "Owner Phone (7 digit)": "726-7901",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "11227 Flamingo Dr",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70814",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R93_11227 Flamingo Dr_TAYLOR",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4858399",
           "longitude": "-91.0567525"
         },
@@ -1185,7 +1274,7 @@
           "Description": "2253546326",
           "FullPropertyAddress": "5055 Clayton Dr, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiNTA1NSBDbGF5dG9uIERyLCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiNTA1NSBDbGF5dG9uIERyLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDkxNjExNSwibG5nIjotOTEuMTM5NjU5M30sImUiOjE1NjcxOTIxODA1OTB9",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Toni Jones",
           "Owner Phone (7 digit)": "367-5676",
           "Photo of front": [
@@ -1245,7 +1334,7 @@
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "4544 E Brookstown Dr, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiNDU0NCBFIEJyb29rc3Rvd24gRHIsIEJhdG9uIFJvdWdlIExBIDcwODA1IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI0NTQ0IEUgQnJvb2tzdG93biBEciwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ5MjI0NzYsImxuZyI6LTkxLjEyNzkwNDMwMDAwMDAxfSwiZSI6MTU2NzE5MjE1NTU5MX0=",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Joyce McKay",
           "Owner Phone (7 digit)": "239-3806",
           "Photo of front": [
@@ -1302,14 +1391,22 @@
           "ContactPhoneNumber": "2252468074",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "5755 Dutton Ave, Baton Rouge  LA 70805",
+          "FullPropertyAddress": "5755 Dutton Ave, Baton Rouge LA 70805",
+          "Inspection (initial)": "Requested",
           "Owner": "Gloria Breckenridge",
           "Owner Phone (7 digit)": "246-8074",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "5755 Dutton Ave",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R125_5755 Dutton Ave_BRECKENRIDGE",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.502506",
           "longitude": "-91.146147"
         },
@@ -1329,7 +1426,7 @@
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "5852 St. Gerard Ave , Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiNTg1MiBTdC4gR2VyYXJkIEF2ZSAsIEJhdG9uIFJvdWdlIExBIDcwODA1IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI1ODUyIFN0IEdlcmFyZCBBdmUsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNSwgVVNBIiwibGF0IjozMC40OTU4NjIyLCJsbmciOi05MS4xMzE5MDA5fSwiZSI6MTU2NzE5MjE1NjkwNH0=",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Angela Bynum",
           "Owner Phone (7 digit)": "615-4947",
           "Photo of front": [
@@ -1386,14 +1483,22 @@
           "ContactPhoneNumber": "2252781179",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "13952 Alsen Heights  Pkwy, Baton Rouge  LA 70807",
+          "FullPropertyAddress": "13952 Alsen Heights  Pkwy, Baton Rouge LA 70807",
+          "Inspection (initial)": "Requested",
           "Owner": "Adele Reed",
           "Owner Phone (7 digit)": "278-1179",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "13952 Alsen Heights  Pkwy",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70807",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R100_13952 Alsen Heights  Pkwy_REED",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.5726974",
           "longitude": "-91.204257"
         },
@@ -1411,14 +1516,22 @@
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
           "Description": "2259363398",
-          "FullPropertyAddress": "5309 Jackson Ave, Baton Rouge  LA 70806",
+          "FullPropertyAddress": "5309 Jackson Ave, Baton Rouge LA 70806",
+          "Inspection (initial)": "Requested",
           "Owner": "Ida Banks",
           "Owner Phone (7 digit)": "357-1522",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "5309 Jackson Ave",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70806",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R107_5309 Jackson Ave_BANKS",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4669056",
           "longitude": "-91.1360314"
         },
@@ -1438,7 +1551,7 @@
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "2358 Valley St, Baton Rouge LA 70808",
           "GeocodeCache": "🔵 eyJpIjoiMjM1OCBWYWxsZXkgU3QsIEJhdG9uIFJvdWdlIExBIDcwODA4IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIyMzU4IFZhbGxleSBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA4LCBVU0EiLCJsYXQiOjMwLjQyNjk2NTEsImxuZyI6LTkxLjE0NDc2Njg5OTk5OTk4fSwiZSI6MTU2NjQxNzc0ODI0M30=",
-          "Inspection": "Completed",
+          "Inspection (initial)": "Completed",
           "Owner": "Delouise Doyle",
           "Owner Phone (7 digit)": "333-0547",
           "Photo of front": [
@@ -1498,7 +1611,7 @@
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "8782 Sharon Hills , Baton Rouge LA 70811",
           "GeocodeCache": "🔵 eyJpIjoiODc4MiBTaGFyb24gSGlsbHMgLCBCYXRvbiBSb3VnZSBMQSA3MDgxMSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiODc4MiBTaGFyb24gSGlsbHMgQmx2ZCwgQmF0b24gUm91Z2UsIExBIDcwODExLCBVU0EiLCJsYXQiOjMwLjUzMDgwNDYsImxuZyI6LTkxLjEyOTc4MzUwMDAwMDAzfSwiZSI6MTU2NzE5MjE5MTMzOH0=",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Lois  Paul",
           "Owner Phone (7 digit)": "921-4624",
           "Photo of front": [
@@ -1561,7 +1674,7 @@
           "Description": "case 104 Rehab program",
           "FullPropertyAddress": "2843 72nd Ave, Baton Rouge LA 70807",
           "GeocodeCache": "🔵 eyJpIjoiMjg0MyA3Mm5kIEF2ZSwgQmF0b24gUm91Z2UgTEEgNzA4MDciLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjI4NDMgNzJuZCBBdmUsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNywgVVNBIiwibGF0IjozMC41MTQ5MDUsImxuZyI6LTkxLjE2MjA5MDE5OTk5OTk3fSwiZSI6MTU2NjQxNzc0OTIyNX0=",
-          "Inspection": "Completed",
+          "Inspection (initial)": "Completed",
           "Owner": "Maggie Hollins",
           "Owner Phone (7 digit)": "773-3404",
           "Photo of front": [
@@ -1620,14 +1733,22 @@
           "ContactPhoneNumber": "2258924236",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "517 N 17th St, Baton Rouge  LA 70802",
+          "FullPropertyAddress": "517 N 17th St, Baton Rouge LA 70802",
+          "Inspection (initial)": "Requested",
           "Owner": "Loretta Brown ",
           "Owner Phone (7 digit)": "892-4236",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "517 N 17th St",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70802",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R126_517 N 17th St_BROWN ",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.452465",
           "longitude": "-91.1720676"
         },
@@ -1650,7 +1771,7 @@
           "Description": "case 94 Rehab program",
           "FullPropertyAddress": "6655 Brownfields Dr, Baton Rouge LA 70811",
           "GeocodeCache": "🔵 eyJpIjoiNjY1NSBCcm93bmZpZWxkcyBEciwgQmF0b24gUm91Z2UgTEEgNzA4MTEiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjY2NTUgQnJvd25maWVsZHMgRHIsIEJhdG9uIFJvdWdlLCBMQSA3MDgxMSwgVVNBIiwibGF0IjozMC41NTYwMzgxLCJsbmciOi05MS4xMjIzNTQ3MDAwMDAwMn0sImUiOjE1NjY0MTc3NDMwMzV9",
-          "Inspection": "Completed",
+          "Inspection (initial)": "Completed",
           "Owner": "Lucille Anderson",
           "Owner Phone (7 digit)": "775-6272",
           "Photo of front": [
@@ -1709,14 +1830,22 @@
           "ContactPhoneNumber": "2252700045",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "8727 Thelma St, Baton Rouge  LA 70807",
+          "FullPropertyAddress": "8727 Thelma St, Baton Rouge LA 70807",
+          "Inspection (initial)": "Requested",
           "Owner": "Mable Jackson",
           "Owner Phone (7 digit)": "270-0045",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "8727 Thelma St",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70807",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R129_8727 Thelma St_JACKSON",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.5264443",
           "longitude": "-91.1755454"
         },
@@ -1737,7 +1866,7 @@
           "Description": "2253242404",
           "FullPropertyAddress": "6822 E Upland Ave, Baton Rouge LA 70812",
           "GeocodeCache": "🔵 eyJpIjoiNjgyMiBFIFVwbGFuZCBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODEyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI2ODIyIEUgVXBsYW5kIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODEyLCBVU0EiLCJsYXQiOjMwLjUxNTQ2NTIsImxuZyI6LTkxLjEyMzY2NjA5OTk5OTk4fSwiZSI6MTU2NzE5MjE3MTYzOH0=",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Shirley Jarrell",
           "Owner Phone (7 digit)": "218-4410",
           "Photo of front": [
@@ -1800,7 +1929,7 @@
           "Description": "case 114 Rehab program",
           "FullPropertyAddress": "5336 Adams Ave, Baton Rouge LA 70806",
           "GeocodeCache": "🔵 eyJpIjoiNTMzNiBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODA2IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI1MzM2IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODA2LCBVU0EiLCJsYXQiOjMwLjQ2OTI5NTksImxuZyI6LTkxLjEzNTk1Nzl9LCJlIjoxNTY2NDE3NzU3OTc1fQ==",
-          "Inspection": "Completed",
+          "Inspection (initial)": "Completed",
           "Owner": "Dianne Harris",
           "Owner Phone (7 digit)": "356-9008",
           "Photo of front": [
@@ -1862,7 +1991,7 @@
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "5624 Robertson Ave, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiNTYyNCBSb2JlcnRzb24gQXZlLCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiNTYyNCBSb2JlcnRzb24gQXZlLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNTAxMDg5Njk5OTk5OTksImxuZyI6LTkxLjE0MjQ0MjU5OTk5OTk4fSwiZSI6MTU2NzE5MjE3NTEyNn0=",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Evelyn Mearidy",
           "Owner Phone (7 digit)": "532-8873",
           "Photo of front": [
@@ -1922,7 +2051,7 @@
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "5645 Shelley Ct, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiNTY0NSBTaGVsbGV5IEN0LCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiNTY0NSBTaGVsbGV5IEN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDkyMTU4NSwibG5nIjotOTEuMTMzNjQzNjAwMDAwMDN9LCJlIjoxNTY3MTkyMTU4MDY0fQ==",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Shantele  Paul",
           "Owner Phone (7 digit)": "284-2413",
           "Photo of front": [
@@ -1982,7 +2111,7 @@
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "5455 Sumrall Dr, Baton Rouge LA 70811",
           "GeocodeCache": "🔵 eyJpIjoiNTQ1NSBTdW1yYWxsIERyLCBCYXRvbiBSb3VnZSBMQSA3MDgxMSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiNTQ1NSBTdW1yYWxsIERyLCBCYXRvbiBSb3VnZSwgTEEgNzA4MTEsIFVTQSIsImxhdCI6MzAuNTEzNjAyOSwibG5nIjotOTEuMTM2MjIwMjk5OTk5OTl9LCJlIjoxNTY3MTkyMTc5OTYwfQ==",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Tezana  Richard",
           "Owner Phone (7 digit)": "357-7837",
           "Photo of front": [
@@ -2039,14 +2168,22 @@
           "ContactPhoneNumber": "2259363370",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "3142 Chippewa Street , Baton Rouge  LA 70805",
+          "FullPropertyAddress": "3142 Chippewa Street , Baton Rouge LA 70805",
+          "Inspection (initial)": "Requested",
           "Owner": "Linda Johnson ",
           "Owner Phone (7 digit)": "936-3370",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "3142 Chippewa Street ",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R132_3142 Chippewa Street _JOHNSON ",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4730332",
           "longitude": "-91.1574928"
         },
@@ -2064,14 +2201,22 @@
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
           "Description": "2259782585",
-          "FullPropertyAddress": "743 N 37th St, Baton Rouge  LA 70802",
+          "FullPropertyAddress": "743 N 37th St, Baton Rouge LA 70802",
+          "Inspection (initial)": "Requested",
           "Owner": "Lynda Allen",
           "Owner Phone (7 digit)": "343-3922",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "743 N 37th St",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70802",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R106_743 N 37th St_ALLEN",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4552231",
           "longitude": "-91.152809"
         },
@@ -2088,14 +2233,22 @@
           "ContactPhoneNumber": "2255886461",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "147 Van Buren St. , Baton Rouge  LA 70802",
+          "FullPropertyAddress": "147 Van Buren St. , Baton Rouge LA 70802",
+          "Inspection (initial)": "Requested",
           "Owner": "Lionel and Earlean  Early",
           "Owner Phone (7 digit)": "588-6461",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "147 Van Buren St. ",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70802",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R83_147 Van Buren St. _EARLY",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4296758",
           "longitude": "-91.1827525"
         },
@@ -2116,7 +2269,7 @@
           "Description": "2253546326",
           "FullPropertyAddress": "970 N. 47th St, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiOTcwIE4uIDQ3dGggU3QsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI5NzAgTiA0N3RoIFN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDIsIFVTQSIsImxhdCI6MzAuNDU3MTk2MSwibG5nIjotOTEuMTQyNDA3MTAwMDAwMDF9LCJlIjoxNTY3MTkyMTkyNTE3fQ==",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Mary  Bowman",
           "Owner Phone (7 digit)": "929-8910",
           "Photo of front": [
@@ -2176,7 +2329,7 @@
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "5431 Washington Ave, Baton Rouge LA 70806",
           "GeocodeCache": "🔵 eyJpIjoiNTQzMSBXYXNoaW5ndG9uIEF2ZSwgQmF0b24gUm91Z2UgTEEgNzA4MDYiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjU0MzEgV2FzaGluZ3RvbiBBdmUsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNiwgVVNBIiwibGF0IjozMC40NjY0MjQ4LCJsbmciOi05MS4xMzQ5ODM0OTk5OTk5OH0sImUiOjE1NjcxOTIxNDkxOTh9",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Mary Christopher ",
           "Owner Phone (7 digit)": "960-8741",
           "Photo of front": [
@@ -2239,7 +2392,7 @@
           "Description": "case 97 Rehab program",
           "FullPropertyAddress": "1745 N 18th Street, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMTc0NSBOIDE4dGggU3RyZWV0LCBCYXRvbiBSb3VnZSBMQSA3MDgwMiIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMTc0NSBOIDE4dGggU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NjM4OTkyLCJsbmciOi05MS4xNzE0NjczOTk5OTk5OH0sImUiOjE1NjY0MTc3NTkwOTF9",
-          "Inspection": "Completed",
+          "Inspection (initial)": "Completed",
           "Owner": "Minnie Lee Tillman",
           "Owner Phone (7 digit)": "228-8989",
           "Photo of front": [
@@ -2298,14 +2451,22 @@
           "ContactPhoneNumber": "2254392339",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "6168 Calion Dr, Baton Rouge  LA 70812",
+          "FullPropertyAddress": "6168 Calion Dr, Baton Rouge LA 70812",
+          "Inspection (initial)": "Requested",
           "Owner": "Mary Lee Johnson",
           "Owner Phone (7 digit)": "439-2339",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "6168 Calion Dr",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70812",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R119_6168 Calion Dr_JOHNSON",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.5082357",
           "longitude": "-91.1128623"
         },
@@ -2325,7 +2486,7 @@
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "1974 Mission Dr, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMTk3NCBNaXNzaW9uIERyLCBCYXRvbiBSb3VnZSBMQSA3MDgwMiIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMTk3NCBNaXNzaW9uIERyLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDIsIFVTQSIsImxhdCI6MzAuNDY2NDg4NSwibG5nIjotOTEuMTQ0NDc2MzAwMDAwMDF9LCJlIjoxNTY3MTkyMTUzODQ2fQ==",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Lawrence  Smith",
           "Owner Phone (7 digit)": "357-3227",
           "Photo of front": [
@@ -2386,7 +2547,7 @@
           "Description": "2252059588",
           "FullPropertyAddress": "5556 Adams Ave, Baton Rouge LA 70806",
           "GeocodeCache": "🔵 eyJpIjoiNTU1NiBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODA2IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI1NTU2IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODA2LCBVU0EiLCJsYXQiOjMwLjQ2OTMzMywibG5nIjotOTEuMTMzNzU0MDAwMDAwMDF9LCJlIjoxNTY3MTkyMTc3OTY4fQ==",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Zenetta Thompson",
           "Owner Phone (7 digit)": "355-0223",
           "Photo of front": [
@@ -2446,7 +2607,7 @@
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "3961 Monroe Ave, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMzk2MSBNb25yb2UgQXZlLCBCYXRvbiBSb3VnZSBMQSA3MDgwMiIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMzk2MSBNb25yb2UgQXZlLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDIsIFVTQSIsImxhdCI6MzAuNDY5Nzg0OSwibG5nIjotOTEuMTUwODEyNH0sImUiOjE1NjcxOTIxNTc0Njl9",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Joannah Mason",
           "Owner Phone (7 digit)": "356-6427",
           "Photo of front": [
@@ -2503,14 +2664,22 @@
           "ContactPhoneNumber": "2253717939",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "3000 Slate St, Baton Rouge  LA 70802",
+          "FullPropertyAddress": "3000 Slate St, Baton Rouge LA 70802",
+          "Inspection (initial)": "Requested",
           "Owner": "Margaret  Sterling",
           "Owner Phone (7 digit)": "371-7939",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "3000 Slate St",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70802",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R94_3000 Slate St_STERLING",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4600936",
           "longitude": "-91.1573277"
         },
@@ -2530,7 +2699,7 @@
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "3027 Newton St , Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMzAyNyBOZXd0b24gU3QgLCBCYXRvbiBSb3VnZSBMQSA3MDgwMiIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMzAyNyBOZXd0b24gU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NTg2OTIsImxuZyI6LTkxLjE1ODQ4Mzk5OTk5OTk5fSwiZSI6MTU2NzE5MjE3NjAzNn0=",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Geraldine Scott",
           "Owner Phone (7 digit)": "938-1738",
           "Photo of front": [
@@ -2588,14 +2757,22 @@
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
           "Description": "2252271615",
-          "FullPropertyAddress": "4866 Oaklan Dr, Baton Rouge  LA 70811",
+          "FullPropertyAddress": "4866 Oaklan Dr, Baton Rouge LA 70811",
+          "Inspection (initial)": "Requested",
           "Owner": "Johnnie  Cage",
           "Owner Phone (7 digit)": "279-0562",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "4866 Oaklan Dr",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70811",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R92_4866 Oaklan Dr_CAGE",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.5119563",
           "longitude": "-91.1422565"
         },
@@ -2612,14 +2789,22 @@
           "ContactPhoneNumber": "2253558063",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "2100 N 39th St, Baton Rouge  LA 70802",
+          "FullPropertyAddress": "2100 N 39th St, Baton Rouge LA 70802",
+          "Inspection (initial)": "Requested",
           "Owner": "Lizzie Jackson",
           "Owner Phone (7 digit)": "355-8063",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "2100 N 39th St",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70802",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R121_2100 N 39th St_JACKSON",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4674534",
           "longitude": "-91.1511779"
         },
@@ -2639,7 +2824,7 @@
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "3563 Osceola Ave, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzU2MyBPc2Nlb2xhIEF2ZSwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjM1NjMgT3NjZW9sYSBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ4MDY0NTEsImxuZyI6LTkxLjE2NTM1MzIwMDAwMDAzfSwiZSI6MTU2NzE5MjE1OTQwNH0=",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Annie Wright",
           "Owner Phone (7 digit)": "337-0813",
           "Photo of front": [
@@ -2697,14 +2882,22 @@
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
           "Description": "2252298684",
-          "FullPropertyAddress": "2550 Chaney Dr, Baton Rouge  LA 70805",
+          "FullPropertyAddress": "2550 Chaney Dr, Baton Rouge LA 70805",
+          "Inspection (initial)": "Requested",
           "Owner": "Sarah  Price",
           "Owner Phone (7 digit)": "357-6049",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "2550 Chaney Dr",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R97_2550 Chaney Dr_PRICE",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.5024584",
           "longitude": "-91.1651576"
         },
@@ -2722,14 +2915,22 @@
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
           "Description": "2256501121",
-          "FullPropertyAddress": "5927 St Katherine Ave, Baton Rouge  LA 70805",
+          "FullPropertyAddress": "5927 St Katherine Ave, Baton Rouge LA 70805",
+          "Inspection (initial)": "Requested",
           "Owner": "Lynda Carter",
           "Owner Phone (7 digit)": "357-8181",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "5927 St Katherine Ave",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R118_5927 St Katherine Ave_CARTER",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.499157",
           "longitude": "-91.131561"
         },
@@ -2750,7 +2951,7 @@
           "Description": "2259609442 - cancelled because duplicate entry",
           "FullPropertyAddress": "2908 Sherwood St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjkwOCBTaGVyd29vZCBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjI5MDggU2hlcndvb2QgU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNSwgVVNBIiwibGF0IjozMC40ODkyNTcxLCJsbmciOi05MS4xNjA2MDg3OTk5OTk5OH0sImUiOjE1NjcxOTIxNzI4Mzh9",
-          "Inspection": "Requested",
+          "Inspection (initial)": "None",
           "Owner": "Lois Marie Beals",
           "Owner Phone (7 digit)": "444-7447",
           "Program": "Roofing Initiative",
@@ -2784,7 +2985,7 @@
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "2703 Michelli Dr, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjcwMyBNaWNoZWxsaSBEciwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjI3MDMgTWljaGVsbGkgRHIsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNSwgVVNBIiwibGF0IjozMC40NzMyMTk1LCJsbmciOi05MS4xMjczODQwOTk5OTk5N30sImUiOjE1NjcxOTIxODI4OTh9",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Lois Sims",
           "Owner Phone (7 digit)": "665-1566",
           "Photo of front": [
@@ -2844,7 +3045,7 @@
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "10562 Big Bend Ave, Baton Rouge LA 70814",
           "GeocodeCache": "🔵 eyJpIjoiMTA1NjIgQmlnIEJlbmQgQXZlLCBCYXRvbiBSb3VnZSBMQSA3MDgxNCIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMTA1NjIgQmlnIEJlbmQgQXZlLCBCYXRvbiBSb3VnZSwgTEEgNzA4MTQsIFVTQSIsImxhdCI6MzAuNDgwMDQ4MywibG5nIjotOTEuMDY2Mzc2OTk5OTk5OTl9LCJlIjoxNTY3MTkyMTgyMTQ2fQ==",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Sheryl Ray",
           "Owner Phone (7 digit)": "272-2173",
           "Photo of front": [
@@ -2901,14 +3102,22 @@
           "ContactPhoneNumber": "2259381636",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "2015 N Acadian Thwy E, Baton Rouge  LA 70802",
+          "FullPropertyAddress": "2015 N Acadian Thwy E, Baton Rouge LA 70802",
+          "Inspection (initial)": "Requested",
           "Owner": "Eric Brown",
           "Owner Phone (7 digit)": "938-1636",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "2015 N Acadian Thwy E",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70802",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R91_2015 N Acadian Thwy E_BROWN",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4665921",
           "longitude": "-91.1555791"
         },
@@ -2928,7 +3137,7 @@
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "2251 Plantation Dr, Baton Rouge LA 70807",
           "GeocodeCache": "🔵 eyJpIjoiMjI1MSBQbGFudGF0aW9uIERyLCBCYXRvbiBSb3VnZSBMQSA3MDgwNyIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMjI1MSBQbGFudGF0aW9uIERyLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDcsIFVTQSIsImxhdCI6MzAuNTU1Mjc1OCwibG5nIjotOTEuMTY4MzUzOX0sImUiOjE1NjcxOTIxNTIzODl9",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Angela Williams",
           "Owner Phone (7 digit)": "439-6382",
           "Photo of front": [
@@ -2982,17 +3191,25 @@
           "Applicant_LastName": "Moton",
           "AutoNum": 99,
           "Case_Status": "Inspection",
-          "ContactPhoneNumber": "224394922",
+          "ContactPhoneNumber": "(225) 439-4922",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "6208 Casper St, Baton Rouge  LA 70805",
+          "FullPropertyAddress": "6208 Casper St, Baton Rouge LA 70805",
+          "Inspection (initial)": "Requested",
           "Owner": "Andre Moton",
-          "Owner Phone (7 digit)": "24394922",
+          "Owner Phone (7 digit)": "439-4922",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "6208 Casper St",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R99_6208 Casper St_MOTON",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.5057065",
           "longitude": "-91.1659627"
         },
@@ -3010,14 +3227,22 @@
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
           "Description": "2254394012",
-          "FullPropertyAddress": "214 S Eugene St, Baton Rouge  LA 70806",
+          "FullPropertyAddress": "214 S Eugene St, Baton Rouge LA 70806",
+          "Inspection (initial)": "Requested",
           "Owner": "Rose Betz",
           "Owner Phone (7 digit)": "343-5866",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "214 S Eugene St",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70806",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R120_214 S Eugene St_BETZ",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4467613",
           "longitude": "-91.1607026"
         },
@@ -3037,7 +3262,7 @@
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "2936 Adams Ave, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMjkzNiBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIyOTM2IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODAyLCBVU0EiLCJsYXQiOjMwLjQ2ODM3MjUsImxuZyI6LTkxLjE1OTIwMjQ5OTk5OTk5fSwiZSI6MTU2NzE5MjE5Mzg3NH0=",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "John Jones",
           "Owner Phone (7 digit)": "875-6512",
           "Photo of front": [
@@ -3098,7 +3323,7 @@
           "Description": "2253427698",
           "FullPropertyAddress": "7182 Aspen Pl, Baton Rouge LA 70812",
           "GeocodeCache": "🔵 eyJpIjoiNzE4MiBBc3BlbiBQbCwgQmF0b24gUm91Z2UgTEEgNzA4MTIiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjcxODIgQXNwZW4gUGwsIEJhdG9uIFJvdWdlLCBMQSA3MDgxMiwgVVNBIiwibGF0IjozMC41MDg0OTUzLCJsbmciOi05MS4xMTgyMzMyOTk5OTk5OX0sImUiOjE1NjcxOTIxNzg1MzB9",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Elvira Davis",
           "Owner Phone (7 digit)": "349-8508",
           "Photo of front": [
@@ -3158,7 +3383,7 @@
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "14222 Florida Blvd, Baton Rouge LA 70819",
           "GeocodeCache": "🔵 eyJpIjoiMTQyMjIgRmxvcmlkYSBCbHZkLCBCYXRvbiBSb3VnZSBMQSA3MDgxOSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMTQyMjIgRmxvcmlkYSBCbHZkLCBCYXRvbiBSb3VnZSwgTEEgNzA4MTksIFVTQSIsImxhdCI6MzAuNDYzMzI4LCJsbmciOi05MS4wMjcwNzU5fSwiZSI6MTU2NzE5MjE5NjQzMH0=",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "April Wolsefer",
           "Owner Phone (7 digit)": "274-8806",
           "Photo of front": [
@@ -3218,7 +3443,7 @@
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "4935 Beech St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiNDkzNSBCZWVjaCBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjQ5MzUgQmVlY2ggU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNSwgVVNBIiwibGF0IjozMC40OTU5OTQsImxuZyI6LTkxLjE0MTMzNjc5OTk5OTk4fSwiZSI6MTU2NzE5MjE1OTk3MH0=",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Rose Stevens",
           "Owner Phone (7 digit)": "421-6988",
           "Photo of front": [
@@ -3278,7 +3503,7 @@
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "4279 Acacia St, Baton Rouge LA 70819",
           "GeocodeCache": "🔵 eyJpIjoiNDI3OSBBY2FjaWEgU3QsIEJhdG9uIFJvdWdlIExBIDcwODE5IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiJBY2FjaWEgU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgxOSwgVVNBIiwibGF0IjozMC40NTg5Mjk2LCJsbmciOi05MS4wMjczOTE3OTk5OTk5OH0sImUiOjE1NjcxOTIxNzM0Mzd9",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Myra Lou Engram",
           "Owner Phone (7 digit)": "962-5558",
           "Photo of front": [
@@ -3338,7 +3563,7 @@
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "3563 Wyandotte St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzU2MyBXeWFuZG90dGUgU3QsIEJhdG9uIFJvdWdlIExBIDcwODA1IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNTYzIFd5YW5kb3R0ZSBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ4MjYzNDUsImxuZyI6LTkxLjE1NDA2NTEwMDAwMDAzfSwiZSI6MTU2NjQxNzc0NDk4OX0=",
-          "Inspection": "Completed",
+          "Inspection (initial)": "Completed",
           "Owner": "Yolanda Hayes",
           "Owner Phone (7 digit)": "746-3126",
           "Photo of front": [
@@ -3399,7 +3624,7 @@
           "Description": "- cancelled because duplicate entry",
           "FullPropertyAddress": "3415 Adams Ave, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMzQxNSBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNDE1IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODAyLCBVU0EiLCJsYXQiOjMwLjQ2ODkwMjcsImxuZyI6LTkxLjE1NTE2MTl9LCJlIjoxNTY3MTkyMTc1Mzg3fQ==",
-          "Inspection": "Requested",
+          "Inspection (initial)": "None",
           "Owner": "Helen Salim",
           "Owner Phone (7 digit)": "953-4322",
           "Program": "Roofing Initiative",
@@ -3434,7 +3659,7 @@
           "Description": "2259386681",
           "FullPropertyAddress": "6660 Cambridge St, Baton Rouge LA 70807",
           "GeocodeCache": "🔵 eyJpIjoiNjY2MCBDYW1icmlkZ2UgU3QsIEJhdG9uIFJvdWdlIExBIDcwODA3IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI2NjYwIENhbWJyaWRnZSBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA3LCBVU0EiLCJsYXQiOjMwLjUxMDk5MjEsImxuZyI6LTkxLjE2MjA5MDE5OTk5OTk3fSwiZSI6MTU2NzE5MjE1MTY1OH0=",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Juanita  Allen",
           "Owner Phone (7 digit)": "352-8532",
           "Photo of front": [
@@ -3491,14 +3716,22 @@
           "ContactPhoneNumber": "2259609348",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "2544 Elvin Dr, Baton Rouge  LA 70810",
+          "FullPropertyAddress": "2544 Elvin Dr, Baton Rouge LA 70810",
+          "Inspection (initial)": "Requested",
           "Owner": "Estella Ezebunwo",
           "Owner Phone (7 digit)": "960-9348",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "2544 Elvin Dr",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70810",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R127_2544 Elvin Dr_EZEBUNWO",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.3443821",
           "longitude": "-91.1308609"
         },
@@ -3515,14 +3748,22 @@
           "ContactPhoneNumber": "2252740170",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "4235 Thames Dr, Baton Rouge  LA 70814",
+          "FullPropertyAddress": "4235 Thames Dr, Baton Rouge LA 70814",
+          "Inspection (initial)": "Requested",
           "Owner": "Bernadine  Collins",
           "Owner Phone (7 digit)": "274-0170",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "4235 Thames Dr",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70814",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R113_4235 Thames Dr_COLLINS",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4898494",
           "longitude": "-91.0447924"
         },
@@ -3539,14 +3780,22 @@
           "ContactPhoneNumber": "2255887654",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "3345 Gerlando Dr, Baton Rouge  LA 70814",
+          "FullPropertyAddress": "3345 Gerlando Dr, Baton Rouge LA 70814",
+          "Inspection (initial)": "Requested",
           "Owner": "Vanessa Hamilton",
           "Owner Phone (7 digit)": "588-7654",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "3345 Gerlando Dr",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70814",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R103_3345 Gerlando Dr_HAMILTON",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4804262",
           "longitude": "-91.1075947"
         },
@@ -3563,14 +3812,22 @@
           "ContactPhoneNumber": "2253022507",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "13465 Briar Hollow Ave, Baton Rouge  LA 70810",
+          "FullPropertyAddress": "13465 Briar Hollow Ave, Baton Rouge LA 70810",
+          "Inspection (initial)": "Requested",
           "Owner": "Leola  Herbert",
           "Owner Phone (7 digit)": "302-2507",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "13465 Briar Hollow Ave",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70810",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R123_13465 Briar Hollow Ave_HERBERT",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.358949",
           "longitude": "-91.0746846"
         },
@@ -3590,7 +3847,7 @@
           "DateOrdered": "2019-07-17",
           "FullPropertyAddress": "2980 Sherwood St. , Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjk4MCBTaGVyd29vZCBTdC4gLCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMjk4MCBTaGVyd29vZCBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ4OTQ5MDMsImxuZyI6LTkxLjE1OTgxOTIwMDAwMDAyfSwiZSI6MTU2NzE5MjE1NDQxN30=",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Lois Marie Beals ",
           "Owner Phone (7 digit)": "444-7447",
           "Photo of front": [
@@ -3644,7 +3901,7 @@
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "6125 Byron St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiNjEyNSBCeXJvbiBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjYxMjUgQnlyb24gQXZlLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDk0Nzg2NCwibG5nIjotOTEuMTI4ODQ2NTk5OTk5OTd9LCJlIjoxNTY3MTkyMTQ5OTMyfQ==",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Ernest  Jones",
           "Owner Phone (7 digit)": "358-0962",
           "Photo of front": [
@@ -3705,7 +3962,7 @@
           "Description": "2259753250",
           "FullPropertyAddress": "224 Evergreen Dr, Baton Rouge LA 70806",
           "GeocodeCache": "🔵 eyJpIjoiMjI0IEV2ZXJncmVlbiBEciwgQmF0b24gUm91Z2UgTEEgNzA4MDYiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjIyNCBFdmVyZ3JlZW4gRHIsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNiwgVVNBIiwibGF0IjozMC40NDYwNDM4LCJsbmciOi05MS4xNjMyNjQ0OTk5OTk5N30sImUiOjE1NjcxOTIxNDUyNjd9",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Shirley Williams",
           "Owner Phone (7 digit)": "246-8971",
           "Photo of front": [
@@ -3765,7 +4022,7 @@
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "2950 Linwood St , Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjk1MCBMaW53b29kIFN0ICwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjI5NTAgTGlud29vZCBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ3NDUwNTcsImxuZyI6LTkxLjE3Mjk2ODR9LCJlIjoxNTY3MTkyMTQ0NjU5fQ==",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Willie  Christopher",
           "Owner Phone (7 digit)": "614-0898",
           "Photo of front": [
@@ -3822,14 +4079,22 @@
           "ContactPhoneNumber": "2255082509",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "8380 S Essen Heights, Baton Rouge  LA 70809",
+          "FullPropertyAddress": "8380 S Essen Heights, Baton Rouge LA 70809",
+          "Inspection (initial)": "Requested",
           "Owner": "Verna  Turner",
           "Owner Phone (7 digit)": "508-2509",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "8380 S Essen Heights",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70809",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R101_8380 S Essen Heights_TURNER",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4070116",
           "longitude": "-91.0990183"
         },
@@ -3846,14 +4111,22 @@
           "ContactPhoneNumber": "2252883902",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "2569 74th Ave, Baton Rouge  LA 70807",
+          "FullPropertyAddress": "2569 74th Ave, Baton Rouge LA 70807",
+          "Inspection (initial)": "Requested",
           "Owner": "Rosie Wyre",
           "Owner Phone (7 digit)": "288-3902",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "2569 74th Ave",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70807",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R105_2569 74th Ave_WYRE",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.5162669",
           "longitude": "-91.1658543"
         },
@@ -3871,13 +4144,21 @@
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "5122 Fullerton Ave, Baker LA 70714",
+          "Inspection (initial)": "Requested",
           "Owner": "Dena Owens",
           "Owner Phone (7 digit)": "376-1144",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "5122 Fullerton Ave",
           "Property_City": "Baker",
           "Property_ZipCode": "70714",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R96_5122 Fullerton Ave_OWENS",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.5832736",
           "longitude": "-91.1440546"
         },
@@ -3898,7 +4179,7 @@
           "Description": "2256921604",
           "FullPropertyAddress": "2548 Hollywood St. , Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjU0OCBIb2xseXdvb2QgU3QuICwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjI1NDggSG9sbHl3b29kIFN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDk5MTM3NywibG5nIjotOTEuMTY0OTAzMjAwMDAwMDN9LCJlIjoxNTY3MTkyMTc3MTU0fQ==",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Alfreda  Watson ",
           "Owner Phone (7 digit)": "407-6638",
           "Photo of front": [
@@ -3958,7 +4239,7 @@
           "Delay reason": "This is a townhome. Applicant resides in half of it. Ownership isn't confirmed.",
           "FullPropertyAddress": "9929 Groner Ave, Baton Rouge LA 70809",
           "GeocodeCache": "🔵 eyJpIjoiOTkyOSBHcm9uZXIgQXZlLCBCYXRvbiBSb3VnZSBMQSA3MDgwOSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiOTkyOSBHcm9uZXIgQXZlLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDksIFVTQSIsImxhdCI6MzAuMzk1MTMzNCwibG5nIjotOTEuMDc2NTU1OTAwMDAwMDJ9LCJlIjoxNTY3MTkyMTU0OTU3fQ==",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Requested",
           "Owner": "Emile Chauvin",
           "Owner Phone (7 digit)": "362-1280",
           "Program": "Roofing Initiative",
@@ -3989,14 +4270,22 @@
           "ContactPhoneNumber": "2259534220",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "5025 Hermitage Dr, Baton Rouge  LA 70806",
+          "FullPropertyAddress": "5025 Hermitage Dr, Baton Rouge LA 70806",
+          "Inspection (initial)": "Requested",
           "Owner": "Mandy Fields",
           "Owner Phone (7 digit)": "953-4220",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "5025 Hermitage Dr",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70806",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R89_5025 Hermitage Dr_FIELDS",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4608092",
           "longitude": "-91.1391814"
         },
@@ -4013,14 +4302,22 @@
           "ContactPhoneNumber": "2254075639",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "3714 Beech St, Baton Rouge  LA 70805",
+          "FullPropertyAddress": "3714 Beech St, Baton Rouge LA 70805",
+          "Inspection (initial)": "Requested",
           "Owner": "Rosa Blonia",
           "Owner Phone (7 digit)": "407-5639",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "3714 Beech St",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R114_3714 Beech St_BLONIA",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.495247",
           "longitude": "-91.1521528"
         },
@@ -4037,14 +4334,22 @@
           "ContactPhoneNumber": "9098384313",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "6821 Sumrall Dr, Baton Rouge  LA 70812",
+          "FullPropertyAddress": "6821 Sumrall Dr, Baton Rouge LA 70812",
+          "Inspection (initial)": "Requested",
           "Owner": "Artie Sylvan",
           "Owner Phone (7 digit)": "838-4313",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "6821 Sumrall Dr",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70812",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R86_6821 Sumrall Dr_SYLVAN",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.5140765",
           "longitude": "-91.1230291"
         },
@@ -4062,14 +4367,22 @@
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
           "Description": "2253644440",
-          "FullPropertyAddress": "724 N. 47th Street, Baton Rouge  LA 70802",
+          "FullPropertyAddress": "724 N. 47th Street, Baton Rouge LA 70802",
+          "Inspection (initial)": "Requested",
           "Owner": "Vanessa  Archille",
           "Owner Phone (7 digit)": "364-4422",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "724 N. 47th Street",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70802",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R81_724 N. 47th Street_ARCHILLE",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4549776",
           "longitude": "-91.1422927"
         },
@@ -4089,7 +4402,7 @@
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "3940 Oswego St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzk0MCBPc3dlZ28gU3QsIEJhdG9uIFJvdWdlIExBIDcwODA1IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzOTQwIE9zd2VnbyBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ4MDQ2NDEsImxuZyI6LTkxLjE1MDIwMzF9LCJlIjoxNTY2NDE3NzU2ODQxfQ==",
-          "Inspection": "Completed",
+          "Inspection (initial)": "Completed",
           "Owner": "Elizabeth Ealem",
           "Owner Phone (7 digit)": "746-3126",
           "Photo of front": [
@@ -4147,14 +4460,22 @@
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
           "Description": "2259360065",
-          "FullPropertyAddress": "6136 Glen Oaks Dr, Baton Rouge  LA 70811",
+          "FullPropertyAddress": "6136 Glen Oaks Dr, Baton Rouge LA 70811",
+          "Inspection (initial)": "Requested",
           "Owner": "Qunitha Scott",
           "Owner Phone (7 digit)": "357-9808",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "6136 Glen Oaks Dr",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70811",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R115_6136 Glen Oaks Dr_SCOTT",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.51082",
           "longitude": "-91.128885"
         },
@@ -4172,14 +4493,22 @@
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
           "Description": "2259781449",
-          "FullPropertyAddress": "7724 Wimbeldon Ave, Baton Rouge  LA 70810",
+          "FullPropertyAddress": "7724 Wimbeldon Ave, Baton Rouge LA 70810",
+          "Inspection (initial)": "Requested",
           "Owner": "Estelle Walker",
           "Owner Phone (7 digit)": "766-4078",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "7724 Wimbeldon Ave",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70810",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R117_7724 Wimbeldon Ave_WALKER",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.379508",
           "longitude": "-91.0878605"
         },
@@ -4200,7 +4529,7 @@
           "Description": "2256921604 - cancelled because duplicate entry",
           "FullPropertyAddress": "2548 Hollywood St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjU0OCBIb2xseXdvb2QgU3QsIEJhdG9uIFJvdWdlIExBIDcwODA1IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIyNTQ4IEhvbGx5d29vZCBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ5OTEzNzcsImxuZyI6LTkxLjE2NDkwMzIwMDAwMDAzfSwiZSI6MTU2NzE5MjE2MDYyN30=",
-          "Inspection": "Requested",
+          "Inspection (initial)": "None",
           "Owner": "Alfreda  Watson",
           "Owner Phone (7 digit)": "407-6638",
           "Photo of front": [
@@ -4257,14 +4586,22 @@
           "ContactPhoneNumber": "2258881427",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "1412 N 31st St, Baton Rouge  LA 70802",
+          "FullPropertyAddress": "1412 N 31st St, Baton Rouge LA 70802",
+          "Inspection (initial)": "Requested",
           "Owner": "Virginia Sterling",
           "Owner Phone (7 digit)": "888-1427",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "1412 N 31st St",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70802",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R111_1412 N 31st St_STERLING",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4617981",
           "longitude": "-91.1574662"
         },
@@ -4281,14 +4618,22 @@
           "ContactPhoneNumber": "2252845861",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "1950 Stafford Dr, Baton Rouge  LA 70810",
+          "FullPropertyAddress": "1950 Stafford Dr, Baton Rouge LA 70810",
+          "Inspection (initial)": "Requested",
           "Owner": "Jan Varnado",
           "Owner Phone (7 digit)": "284-5861",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "1950 Stafford Dr",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70810",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R110_1950 Stafford Dr_VARNADO",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.3644589",
           "longitude": "-91.0693465"
         },
@@ -4308,7 +4653,7 @@
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "200 N 16th Street, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMjAwIE4gMTZ0aCBTdHJlZXQsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIyMDAgTiAxNnRoIFN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDIsIFVTQSIsImxhdCI6MzAuNDQ4NzYzOCwibG5nIjotOTEuMTcyMzk2ODk5OTk5OTd9LCJlIjoxNTY4OTA4NTIwODA5fQ==",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Theresa Gray",
           "Owner Phone (7 digit)": "772-4256",
           "Photo of front": [
@@ -4369,7 +4714,7 @@
           "Description": "225-692-1604",
           "FullPropertyAddress": "2041 West Belfair Dr. , Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjA0MSBXZXN0IEJlbGZhaXIgRHIuICwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjIwNDEgVyBCZWxmYWlyIERyLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDIsIFVTQSIsImxhdCI6MzAuNDY2NzcwNywibG5nIjotOTEuMTQ2OTQxMjk5OTk5OTh9LCJlIjoxNTY3MTkyMTc2NTcwfQ==",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Celestine Davis",
           "Owner Phone (7 digit)": "357-4498",
           "Photo of front": [
@@ -4430,7 +4775,7 @@
           "Description": "2256921604 - cancelled because duplicate entry",
           "FullPropertyAddress": "831 N 40th St, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiODMxIE4gNDB0aCBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDIiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjgzMSBOIDQwdGggU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NTYxNTQ0LCJsbmciOi05MS4xNTA1MTI0MDAwMDAwM30sImUiOjE1NjcxOTIxNDgwMzZ9",
-          "Inspection": "Requested",
+          "Inspection (initial)": "None",
           "Owner": "Julia Russ",
           "Owner Phone (7 digit)": "387-4648",
           "Program": "Roofing Initiative",
@@ -4465,7 +4810,7 @@
           "Description": "2259753250",
           "FullPropertyAddress": "11564 Pamela Dr, Baton Rouge LA 70815",
           "GeocodeCache": "🔵 eyJpIjoiMTE1NjQgUGFtZWxhIERyLCBCYXRvbiBSb3VnZSBMQSA3MDgxNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMTE1NjQgUGFtZWxhIERyLCBCYXRvbiBSb3VnZSwgTEEgNzA4MTUsIFVTQSIsImxhdCI6MzAuNDYxMDE4MywibG5nIjotOTEuMDU1MDQwOX0sImUiOjE1NjcxOTIxNzM5OTh9",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Marilyn Dugas",
           "Owner Phone (7 digit)": "424-4544",
           "Photo of front": [
@@ -4522,14 +4867,22 @@
           "ContactPhoneNumber": "2259331726",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "3809 Dalton St. , Baton Rouge  LA 70805",
+          "FullPropertyAddress": "3809 Dalton St. , Baton Rouge LA 70805",
+          "Inspection (initial)": "Requested",
           "Owner": "Sheena Dunbar",
           "Owner Phone (7 digit)": "933-1726",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "3809 Dalton St. ",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R82_3809 Dalton St. _DUNBAR",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4742019",
           "longitude": "-91.1524809"
         },
@@ -4550,7 +4903,7 @@
           "Description": "- cancelled because duplicate entry",
           "FullPropertyAddress": "3415 Adams Ave, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMzQxNSBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNDE1IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODAyLCBVU0EiLCJsYXQiOjMwLjQ2ODkwMjcsImxuZyI6LTkxLjE1NTE2MTl9LCJlIjoxNTY3MTkyMTUwNDg5fQ==",
-          "Inspection": "None",
+          "Inspection (initial)": "None",
           "Owner": "Helen Salim",
           "Owner Phone (7 digit)": "953-4322",
           "Program": "Roofing Initiative",
@@ -4587,7 +4940,7 @@
           "Description": "case 103 Rehab program",
           "FullPropertyAddress": "3645 Evangeline St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzY0NSBFdmFuZ2VsaW5lIFN0LCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMzY0NSBFdmFuZ2VsaW5lIFN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDkyOTg3OTk5OTk5OTksImxuZyI6LTkxLjE1MzI3NzY5OTk5OTk5fSwiZSI6MTU2NjQxNzc1NTcxNn0=",
-          "Inspection": "Completed",
+          "Inspection (initial)": "Completed",
           "Owner": "Peter Ketchens",
           "Owner Phone (7 digit)": "937-6093",
           "Photo of front": [
@@ -4652,7 +5005,7 @@
           "Description": "case 95 Rehab program",
           "FullPropertyAddress": "3560 Dalton St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzU2MCBEYWx0b24gU3QsIEJhdG9uIFJvdWdlIExBIDcwODA1IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNTYwIERhbHRvbiBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ3MzgxNjc5OTk5OTk5LCJsbmciOi05MS4xNTQwNjUxMDAwMDAwM30sImUiOjE1NjY0MTc3NTAyODF9",
-          "Inspection": "Completed",
+          "Inspection (initial)": "Completed",
           "Owner": "Janice Harris",
           "Owner Phone (7 digit)": "357-7930",
           "Photo of front": [
@@ -4715,7 +5068,7 @@
           "Description": "2258061908",
           "FullPropertyAddress": "4943 Bardwell Dr , Baton Rouge LA 70808",
           "GeocodeCache": "🔵 eyJpIjoiNDk0MyBCYXJkd2VsbCBEciAsIEJhdG9uIFJvdWdlIExBIDcwODA4IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI0OTQzIEJhcmR3ZWxsIERyLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDgsIFVTQSIsImxhdCI6MzAuNDI5MzQ4MywibG5nIjotOTEuMTM3NzI3M30sImUiOjE1NjcxOTIxNDQwMjZ9",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Carol  Miller",
           "Owner Phone (7 digit)": "614-5987",
           "Photo of front": [
@@ -4775,7 +5128,7 @@
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "1826 Arkansas St, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMTgyNiBBcmthbnNhcyBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDIiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjE4MjYgQXJrYW5zYXMgU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40MzA4NzQyLCJsbmciOi05MS4xNzA5Nzk2OTk5OTk5OH0sImUiOjE1NjcxOTIxNDY2NDB9",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Patricia Bird",
           "Owner Phone (7 digit)": "344-5191",
           "Photo of front": [
@@ -4836,7 +5189,7 @@
           "Description": "2256921604 - cancelled because duplicate entry",
           "FullPropertyAddress": "2041 W Bellfair Dr, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjA0MSBXIEJlbGxmYWlyIERyLCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMjA0MSBXIEJlbGZhaXIgRHIsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NjY3NzA3LCJsbmciOi05MS4xNDY5NDEyOTk5OTk5OH0sImUiOjE1NjcxOTIxNDczODl9",
-          "Inspection": "Requested",
+          "Inspection (initial)": "None",
           "Owner": "Celestine Davis",
           "Owner Phone (7 digit)": "357-4498",
           "Program": "Roofing Initiative",
@@ -4871,7 +5224,7 @@
           "Description": "225-692-1604",
           "FullPropertyAddress": "831 N 40th St, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiODMxIE4gNDB0aCBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDIiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjgzMSBOIDQwdGggU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NTYxNTQ0LCJsbmciOi05MS4xNTA1MTI0MDAwMDAwM30sImUiOjE1Njg5MDg1MjAxNjR9",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Julia Russ",
           "Owner Phone (7 digit)": "387-4648",
           "Photo of front": [
@@ -4928,14 +5281,22 @@
           "ContactPhoneNumber": "2252477640",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "5821 Tarrytown Avenue, Baton Rouge  LA 70808",
+          "FullPropertyAddress": "5821 Tarrytown Avenue, Baton Rouge LA 70808",
+          "Inspection (initial)": "Requested",
           "Owner": "Margot Ann Fleet",
           "Owner Phone (7 digit)": "247-7640",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "5821 Tarrytown Avenue",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70808",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R84_5821 Tarrytown Avenue_FLEET",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4161309",
           "longitude": "-91.1250712"
         },
@@ -4955,7 +5316,7 @@
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "336 McCastle Ave, Baton Rouge LA 70807",
           "GeocodeCache": "🔵 eyJpIjoiMzM2IE1jQ2FzdGxlIEF2ZSwgQmF0b24gUm91Z2UgTEEgNzA4MDciLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjMzNiBNY0Nhc3RsZSBBdmUsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNywgVVNBIiwibGF0IjozMC41NzY1MjksImxuZyI6LTkxLjIwMzk2NDk5OTk5OTk4fSwiZSI6MTU2NjQxNzc1NDY5MX0=",
-          "Inspection": "Completed",
+          "Inspection (initial)": "Completed",
           "Owner": "Bettie Jefferson",
           "Owner Phone (7 digit)": "964-3802",
           "Photo of front": [
@@ -5013,14 +5374,22 @@
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
           "Description": "5044526076",
-          "FullPropertyAddress": "2277 Spain St, Baton Rouge  LA 70806",
+          "FullPropertyAddress": "2277 Spain St, Baton Rouge LA 70806",
+          "Inspection (initial)": "Requested",
           "Owner": "Lois  Washington",
           "Owner Phone (7 digit)": "421-1436",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "2277 Spain St",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70806",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R98_2277 Spain St_WASHINGTON",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.445326",
           "longitude": "-91.16449"
         },
@@ -5041,7 +5410,7 @@
           "Description": "2256921604",
           "FullPropertyAddress": "3415 Adams Ave, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMzQxNSBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNDE1IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODAyLCBVU0EiLCJsYXQiOjMwLjQ2ODkwMjcsImxuZyI6LTkxLjE1NTE2MTl9LCJlIjoxNTY2NDE3NzUzNjAyfQ==",
-          "Inspection": "Completed",
+          "Inspection (initial)": "Completed",
           "Owner": "Helen Salim",
           "Owner Phone (7 digit)": "953-4322",
           "Photo of front": [
@@ -5102,7 +5471,7 @@
           "Description": "2253280721",
           "FullPropertyAddress": "2640 Jay St, Baton Rouge LA 70807",
           "GeocodeCache": "🔵 eyJpIjoiMjY0MCBKYXkgU3QsIEJhdG9uIFJvdWdlIExBIDcwODA3IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIyNjQwIEpheSBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA3LCBVU0EiLCJsYXQiOjMwLjUyNTg1MzYsImxuZyI6LTkxLjE2NjIxNjIwMDAwMDAxfSwiZSI6MTU2NzE5MjE0MzM2Mn0=",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Rosa Lee Davis",
           "Owner Phone (7 digit)": "775-4283",
           "Photo of front": [
@@ -5160,14 +5529,22 @@
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
           "Description": "2257730439",
-          "FullPropertyAddress": "4849 Paige St, Baton Rouge  LA 70811",
+          "FullPropertyAddress": "4849 Paige St, Baton Rouge LA 70811",
+          "Inspection (initial)": "Requested",
           "Owner": "Cherlyn Jackson",
           "Owner Phone (7 digit)": "357-1941",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "4849 Paige St",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70811",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R130_4849 Paige St_JACKSON",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.51721",
           "longitude": "-91.142737"
         },
@@ -5187,7 +5564,7 @@
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "2937 Chippewa St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjkzNyBDaGlwcGV3YSBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjI5MzcgQ2hpcHBld2EgU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNSwgVVNBIiwibGF0IjozMC40NzMzMjE4LCJsbmciOi05MS4xNTkxNjUwMDAwMDAwM30sImUiOjE1NjY0MTc3NDIwNTd9",
-          "Inspection": "Completed",
+          "Inspection (initial)": "Completed",
           "Owner": "Bobby Ray Dunbar",
           "Owner Phone (7 digit)": "916-1788",
           "Photo of front": [
@@ -5248,7 +5625,7 @@
           "Description": "2256921604",
           "FullPropertyAddress": "2510 Laurel St, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMjUxMCBMYXVyZWwgU3QsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIyNTEwIExhdXJlbCBTdCwgQmF0b24gUm91Z2UsIExBIDcwODAyLCBVU0EiLCJsYXQiOjMwLjQ1MDkzMjksImxuZyI6LTkxLjE2MjUzMTY5OTk5OTk5fSwiZSI6MTU2NzE5MjE3NDU1MX0=",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Henry Devold",
           "Owner Phone (7 digit)": "448-1034",
           "Photo of front": [
@@ -5305,14 +5682,22 @@
           "ContactPhoneNumber": "2258034025",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "6836 Oakwood Dr, Baton Rouge  LA 70811",
+          "FullPropertyAddress": "6836 Oakwood Dr, Baton Rouge LA 70811",
+          "Inspection (initial)": "Requested",
           "Owner": "Gloria Brumskill",
           "Owner Phone (7 digit)": "803-4025",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "6836 Oakwood Dr",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70811",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R128_6836 Oakwood Dr_BRUMSKILL",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.5130282",
           "longitude": "-91.1350584"
         },
@@ -5332,7 +5717,7 @@
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "640 Arlington Ave, Baton Rouge LA 70806",
           "GeocodeCache": "🔵 eyJpIjoiNjQwIEFybGluZ3RvbiBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODA2IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI2NDAgQXJsaW5ndG9uIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODA2LCBVU0EiLCJsYXQiOjMwLjQ0MjY1NjYsImxuZyI6LTkxLjE1OTI1ODc5OTk5OTk4fSwiZSI6MTU2NzE5MjE0NTk3NH0=",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Veronica Magee",
           "Owner Phone (7 digit)": "250-6725",
           "Photo of front": [
@@ -5389,14 +5774,22 @@
           "ContactPhoneNumber": "2253835108",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "3956 Provost St, Baton Rouge  LA 70802",
+          "FullPropertyAddress": "3956 Provost St, Baton Rouge LA 70802",
+          "Inspection (initial)": "Requested",
           "Owner": "Olevia Albert",
           "Owner Phone (7 digit)": "383-5108",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "3956 Provost St",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70802",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R122_3956 Provost St_ALBERT",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.459954",
           "longitude": "-91.150758"
         },
@@ -5417,7 +5810,7 @@
           "Description": "2256921604 - cancelled because duplicate entry",
           "FullPropertyAddress": "2950 Linwood St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjk1MCBMaW53b29kIFN0LCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMjk1MCBMaW53b29kIFN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDc0NTA1NywibG5nIjotOTEuMTcyOTY4NH0sImUiOjE1NjcxOTIxOTE5NDB9",
-          "Inspection": "Requested",
+          "Inspection (initial)": "None",
           "Owner": "Willie  Christopher ",
           "Owner Phone (7 digit)": "355-0605",
           "Program": "Roofing Initiative",
@@ -5451,7 +5844,7 @@
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "6869 Monarch St, Baton Rouge LA 70812",
           "GeocodeCache": "🔵 eyJpIjoiNjg2OSBNb25hcmNoIFN0LCBCYXRvbiBSb3VnZSBMQSA3MDgxMiIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiNjg2OSBFIE1vbmFyY2ggQXZlLCBCYXRvbiBSb3VnZSwgTEEgNzA4MTIsIFVTQSIsImxhdCI6MzAuNTE2NzM1OCwibG5nIjotOTEuMTIzMTI4N30sImUiOjE1NjcxOTIxNDI3ODh9",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Newman Snell Jr",
           "Owner Phone (7 digit)": "614-1488",
           "Photo of front": [
@@ -5512,7 +5905,7 @@
           "Description": "2253242238",
           "FullPropertyAddress": "7295 Prescott Rd, Baton Rouge LA 70812",
           "GeocodeCache": "🔵 eyJpIjoiNzI5NSBQcmVzY290dCBSZCwgQmF0b24gUm91Z2UgTEEgNzA4MTIiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjcyOTUgUHJlc2NvdHQgUmQsIEJhdG9uIFJvdWdlLCBMQSA3MDgxMiwgVVNBIiwibGF0IjozMC40ODg5NDA4LCJsbmciOi05MS4xMTY3NzIyMDAwMDAwMX0sImUiOjE1NjcxOTIxNjk3NDF9",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Kenneth  Austin",
           "Owner Phone (7 digit)": "355-5520",
           "Photo of front": [
@@ -5570,14 +5963,22 @@
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
           "Description": "2253265542",
-          "FullPropertyAddress": "4075 Noah St, Baton Rouge  LA 70802",
+          "FullPropertyAddress": "4075 Noah St, Baton Rouge LA 70802",
+          "Inspection (initial)": "Requested",
           "Owner": "Barbara Picot",
           "Owner Phone (7 digit)": "478-4910",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "4075 Noah St",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70802",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R104_4075 Noah St_PICOT",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.462881",
           "longitude": "-91.149796"
         },
@@ -5598,7 +5999,7 @@
           "Description": "case 107 Rehab program",
           "FullPropertyAddress": "2840 Elgin St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjg0MCBFbGdpbiBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjI4NDAgRWxnaW4gU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNSwgVVNBIiwibGF0IjozMC40NzQ0NDE1LCJsbmciOi05MS4xMjM1OTExfSwiZSI6MTU2NjQxNzczOTIzMX0=",
-          "Inspection": "Completed",
+          "Inspection (initial)": "Completed",
           "Owner": "Ferma Lee Lebeouf",
           "Owner Phone (7 digit)": "359-6531",
           "Photo of front": [
@@ -5657,14 +6058,22 @@
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
           "Description": "2252780356",
-          "FullPropertyAddress": "2725 Michelli Dr , Baton Rouge  LA 70805",
+          "FullPropertyAddress": "2725 Michelli Dr , Baton Rouge LA 70805",
+          "Inspection (initial)": "Requested",
           "Owner": "William Early",
           "Owner Phone (7 digit)": "357-9924",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "2725 Michelli Dr ",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R87_2725 Michelli Dr _EARLY",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4735545",
           "longitude": "-91.1273383"
         },
@@ -5685,7 +6094,7 @@
           "Description": "2253427698",
           "FullPropertyAddress": "3844 W Wendover Dr, Baton Rouge LA 70814",
           "GeocodeCache": "🔵 eyJpIjoiMzg0NCBXIFdlbmRvdmVyIERyLCBCYXRvbiBSb3VnZSBMQSA3MDgxNCIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMzg0NCBXIFdlbmRvdmVyIERyLCBCYXRvbiBSb3VnZSwgTEEgNzA4MTQsIFVTQSIsImxhdCI6MzAuNDg1ODMyNSwibG5nIjotOTEuMDQ2NDM3OTk5OTk5OTd9LCJlIjoxNTY3MTkyMTUxMDkxfQ==",
-          "Inspection": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Marie Simmons",
           "Owner Phone (7 digit)": "454-4589",
           "Photo of front": [
@@ -5745,7 +6154,7 @@
           "DateOrdered": "2019-07-25",
           "FullPropertyAddress": "5165 Hermitage Dr, Baton Rouge LA 70806",
           "GeocodeCache": "🔵 eyJpIjoiNTE2NSBIZXJtaXRhZ2UgRHIsIEJhdG9uIFJvdWdlIExBIDcwODA2IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI1MTY1IEhlcm1pdGFnZSBEciwgQmF0b24gUm91Z2UsIExBIDcwODA2LCBVU0EiLCJsYXQiOjMwLjQ2MDg3MTcsImxuZyI6LTkxLjEzNzE1NzM5OTk5OTk4fSwiZSI6MTU2NjQxNzc0NDAwOX0=",
-          "Inspection": "Completed",
+          "Inspection (initial)": "Completed",
           "Owner": "Dorothy Miller",
           "Owner Phone (7 digit)": "928-1198",
           "Photo of front": [
@@ -5808,7 +6217,7 @@
           "Description": "case 113 Rehab program\nConstruction to begin 8/14/2019\nRoof completed 8/16; but work caused water damaged drywall ceiling to collapse inside the home. Contractor is making sheet rock repairs.",
           "FullPropertyAddress": "1542 Kaufman Ave, Baton Rouge LA 70807",
           "GeocodeCache": "🔵 eyJpIjoiMTU0MiBLYXVmbWFuIEF2ZSwgQmF0b24gUm91Z2UgTEEgNzA4MDciLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjE1NDIgS2F1Zm1hbiBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA3LCBVU0EiLCJsYXQiOjMwLjUwOTUxNzksImxuZyI6LTkxLjE3NjA4MTd9LCJlIjoxNTY2NDE3NzQ2MTM2fQ==",
-          "Inspection": "Completed",
+          "Inspection (initial)": "Completed",
           "Owner": "Jessie Montgomery",
           "Owner Phone (7 digit)": "448-2320",
           "Photo of front": [
@@ -5867,14 +6276,22 @@
           "ContactPhoneNumber": "2253447942",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
-          "FullPropertyAddress": "309 Ingleside Dr, Baton Rouge  LA 70806",
+          "FullPropertyAddress": "309 Ingleside Dr, Baton Rouge LA 70806",
+          "Inspection (initial)": "Requested",
           "Owner": "Warren  Scott",
           "Owner Phone (7 digit)": "344-7942",
+          "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "309 Ingleside Dr",
-          "Property_City": "Baton Rouge ",
+          "Property_City": "Baton Rouge",
           "Property_ZipCode": "70806",
+          "Requested_By": [
+            "recVCx96GTaDBiBwC"
+          ],
           "Status": "Inspection",
           "caseID": "R112_309 Ingleside Dr_SCOTT",
+          "email-of-staff": [
+            "tsaunders@ebrra.org"
+          ],
           "latitude": "30.4463913",
           "longitude": "-91.1452074"
         },
