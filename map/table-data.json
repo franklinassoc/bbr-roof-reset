@@ -224,6 +224,55 @@
       },
       {
         "geometry": null,
+        "id": "rec373q6KwZDrrSTV",
+        "properties": {
+          "Applicant_FirstName": "Arthur",
+          "Applicant_LastName": "Antwine",
+          "AutoNum": 90,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2259261516",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "Description": "2252522865",
+          "FullPropertyAddress": "1713 N 49th St, Baton Rouge  LA 70802",
+          "Owner": "Arthur Antwine",
+          "Owner Phone (7 digit)": "926-1516",
+          "PropertyAddress_Line1": "1713 N 49th St",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70802",
+          "Status": "Inspection",
+          "caseID": "R90_1713 N 49th St_ANTWINE",
+          "latitude": "30.4642522",
+          "longitude": "-91.1416554"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "rec3varS9WbTeTp1J",
+        "properties": {
+          "Applicant_FirstName": "Erika",
+          "Applicant_LastName": "Allen",
+          "AutoNum": 85,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2256032869",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "2834 Iberia St, Baton Rouge  LA 70805",
+          "Owner": "Erika Allen",
+          "Owner Phone (7 digit)": "603-2869",
+          "PropertyAddress_Line1": "2834 Iberia St",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70805",
+          "Status": "Inspection",
+          "caseID": "R85_2834 Iberia St_ALLEN",
+          "latitude": "30.495554",
+          "longitude": "-91.16219"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "rec42hOxvOq64O0i8",
         "properties": {
           "Applicant_FirstName": "Edna",
@@ -285,6 +334,30 @@
       },
       {
         "geometry": null,
+        "id": "rec4ZL0aYTyaVqlXJ",
+        "properties": {
+          "Applicant_FirstName": "Michelle",
+          "Applicant_LastName": "Bell",
+          "AutoNum": 131,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2252795895",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "2860 Eaton St, Baton Rouge  LA 70805",
+          "Owner": "Michelle Bell",
+          "Owner Phone (7 digit)": "279-5895",
+          "PropertyAddress_Line1": "2860 Eaton St",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70805",
+          "Status": "Inspection",
+          "caseID": "R131_2860 Eaton St_BELL",
+          "latitude": "30.4743507",
+          "longitude": "-91.1456802"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "rec57KNkOoFpD1AVS",
         "properties": {
           "Applicant_FirstName": "Andrew",
@@ -341,6 +414,55 @@
           ],
           "latitude": "30.4686642",
           "longitude": "-91.1516279"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "rec5sT4soimGAr52R",
+        "properties": {
+          "Applicant_FirstName": "Anthony",
+          "Applicant_LastName": "Singleton",
+          "AutoNum": 95,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2253711318",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "7035 N Buttonwood Dr, Baton Rouge  LA 70812",
+          "Owner": "Anthony Singleton",
+          "Owner Phone (7 digit)": "371-1318",
+          "PropertyAddress_Line1": "7035 N Buttonwood Dr",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70812",
+          "Status": "Inspection",
+          "caseID": "R95_7035 N Buttonwood Dr_SINGLETON",
+          "latitude": "30.5154353",
+          "longitude": "-91.1271509"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "rec6BgXnzx46KCqU3",
+        "properties": {
+          "Applicant_FirstName": "Gloria",
+          "Applicant_LastName": "Collins",
+          "AutoNum": 109,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2253565813",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "Description": "2254005009",
+          "FullPropertyAddress": "3055 Juban Ave, Baton Rouge  LA 70805",
+          "Owner": "Gloria Collins",
+          "Owner Phone (7 digit)": "356-5813",
+          "PropertyAddress_Line1": "3055 Juban Ave",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70805",
+          "Status": "Inspection",
+          "caseID": "R109_3055 Juban Ave_COLLINS",
+          "latitude": "30.4772676",
+          "longitude": "-91.1219238"
         },
         "type": "Feature"
       },
@@ -624,6 +746,30 @@
       },
       {
         "geometry": null,
+        "id": "rec9BJuhPvx41iyer",
+        "properties": {
+          "Applicant_FirstName": "Christine ",
+          "Applicant_LastName": "Hart",
+          "AutoNum": 116,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2252353427",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "11866 Baylor St, Baton Rouge  LA 70816",
+          "Owner": "Christine  Hart",
+          "Owner Phone (7 digit)": "235-3427",
+          "PropertyAddress_Line1": "11866 Baylor St",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70816",
+          "Status": "Inspection",
+          "caseID": "R116_11866 Baylor St_HART",
+          "latitude": "30.429377",
+          "longitude": "-91.0507286"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "rec9BVRG6VijcOavh",
         "properties": {
           "Applicant_FirstName": "Henry ",
@@ -653,6 +799,30 @@
           ],
           "latitude": "30.4509329",
           "longitude": "-91.1625317"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "rec9Q92MX7Y2Sm3k0",
+        "properties": {
+          "Applicant_FirstName": "Marner ",
+          "Applicant_LastName": "Lewis",
+          "AutoNum": 88,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2253831659",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "3156 Washington Ave, Baton Rouge  LA 70802",
+          "Owner": "Marner  Lewis",
+          "Owner Phone (7 digit)": "383-1659",
+          "PropertyAddress_Line1": "3156 Washington Ave",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70802",
+          "Status": "Inspection",
+          "caseID": "R88_3156 Washington Ave_LEWIS",
+          "latitude": "30.4651996",
+          "longitude": "-91.156765"
         },
         "type": "Feature"
       },
@@ -843,6 +1013,55 @@
       },
       {
         "geometry": null,
+        "id": "recBnFFGlbJWDYJHB",
+        "properties": {
+          "Applicant_FirstName": "Toye",
+          "Applicant_LastName": "Davis",
+          "AutoNum": 108,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2252350319",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "4151 Joseph St, Baton Rouge  LA 70805",
+          "Owner": "Toye Davis",
+          "Owner Phone (7 digit)": "235-0319",
+          "PropertyAddress_Line1": "4151 Joseph St",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70805",
+          "Status": "Inspection",
+          "caseID": "R108_4151 Joseph St_DAVIS",
+          "latitude": "30.4883281",
+          "longitude": "-91.1421896"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recBqYP2nUSIfJsKx",
+        "properties": {
+          "Applicant_FirstName": "Gustina ",
+          "Applicant_LastName": "Carter",
+          "AutoNum": 124,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2257750687",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "Description": "2259310894",
+          "FullPropertyAddress": "404 Elmer Ave, Baton Rouge  LA 70807",
+          "Owner": "Gustina  Carter",
+          "Owner Phone (7 digit)": "775-0687",
+          "PropertyAddress_Line1": "404 Elmer Ave",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70807",
+          "Status": "Inspection",
+          "caseID": "R124_404 Elmer Ave_CARTER",
+          "latitude": "30.537476",
+          "longitude": "-91.1949379"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recCbsNAQtDkrpCNu",
         "properties": {
           "Applicant_FirstName": "Audrey",
@@ -899,6 +1118,55 @@
           ],
           "latitude": "30.4781594",
           "longitude": "-91.143661"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recCdpccau8AZro6V",
+        "properties": {
+          "Applicant_FirstName": "Charlean ",
+          "Applicant_LastName": "Reed",
+          "AutoNum": 102,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2253550953",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "Description": "2256032549",
+          "FullPropertyAddress": "5562 Adams Ave,  LA 70806",
+          "Owner": "Charlean  Reed",
+          "Owner Phone (7 digit)": "355-0953",
+          "PropertyAddress_Line1": "5562 Adams Ave",
+          "Property_ZipCode": "70806",
+          "Status": "Inspection",
+          "caseID": "R102_5562 Adams Ave_REED",
+          "latitude": "30.4693613",
+          "longitude": "-91.1335967"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recCnJxtEPuyQ4W7u",
+        "properties": {
+          "Applicant_FirstName": "Joseph ",
+          "Applicant_LastName": "Taylor",
+          "AutoNum": 93,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2257267901",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "Description": "2252299768",
+          "FullPropertyAddress": "11227 Flamingo Dr, Baton Rouge  LA 70814",
+          "Owner": "Joseph  Taylor",
+          "Owner Phone (7 digit)": "726-7901",
+          "PropertyAddress_Line1": "11227 Flamingo Dr",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70814",
+          "Status": "Inspection",
+          "caseID": "R93_11227 Flamingo Dr_TAYLOR",
+          "latitude": "30.4858399",
+          "longitude": "-91.0567525"
         },
         "type": "Feature"
       },
@@ -1025,6 +1293,30 @@
       },
       {
         "geometry": null,
+        "id": "recDgskuptnJVVC4Q",
+        "properties": {
+          "Applicant_FirstName": "Gloria",
+          "Applicant_LastName": "Breckenridge",
+          "AutoNum": 125,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2252468074",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "5755 Dutton Ave, Baton Rouge  LA 70805",
+          "Owner": "Gloria Breckenridge",
+          "Owner Phone (7 digit)": "246-8074",
+          "PropertyAddress_Line1": "5755 Dutton Ave",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70805",
+          "Status": "Inspection",
+          "caseID": "R125_5755 Dutton Ave_BRECKENRIDGE",
+          "latitude": "30.502506",
+          "longitude": "-91.146147"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recDlWKKLCAnWAaAb",
         "properties": {
           "Applicant_FirstName": "Angela",
@@ -1080,6 +1372,55 @@
           ],
           "latitude": "30.4958622",
           "longitude": "-91.1319009"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recF3JYaWi6uZ7WBh",
+        "properties": {
+          "Applicant_FirstName": "Adele",
+          "Applicant_LastName": "Reed",
+          "AutoNum": 100,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2252781179",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "13952 Alsen Heights  Pkwy, Baton Rouge  LA 70807",
+          "Owner": "Adele Reed",
+          "Owner Phone (7 digit)": "278-1179",
+          "PropertyAddress_Line1": "13952 Alsen Heights  Pkwy",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70807",
+          "Status": "Inspection",
+          "caseID": "R100_13952 Alsen Heights  Pkwy_REED",
+          "latitude": "30.5726974",
+          "longitude": "-91.204257"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recFZ6apkxxtNjdCT",
+        "properties": {
+          "Applicant_FirstName": "Ida",
+          "Applicant_LastName": "Banks",
+          "AutoNum": 107,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2253571522",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "Description": "2259363398",
+          "FullPropertyAddress": "5309 Jackson Ave, Baton Rouge  LA 70806",
+          "Owner": "Ida Banks",
+          "Owner Phone (7 digit)": "357-1522",
+          "PropertyAddress_Line1": "5309 Jackson Ave",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70806",
+          "Status": "Inspection",
+          "caseID": "R107_5309 Jackson Ave_BANKS",
+          "latitude": "30.4669056",
+          "longitude": "-91.1360314"
         },
         "type": "Feature"
       },
@@ -1270,6 +1611,30 @@
       },
       {
         "geometry": null,
+        "id": "recGjMMJOANlLBMpc",
+        "properties": {
+          "Applicant_FirstName": "Loretta",
+          "Applicant_LastName": "Brown ",
+          "AutoNum": 126,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2258924236",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "517 N 17th St, Baton Rouge  LA 70802",
+          "Owner": "Loretta Brown ",
+          "Owner Phone (7 digit)": "892-4236",
+          "PropertyAddress_Line1": "517 N 17th St",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70802",
+          "Status": "Inspection",
+          "caseID": "R126_517 N 17th St_BROWN ",
+          "latitude": "30.452465",
+          "longitude": "-91.1720676"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recHGw800QjCMGyog",
         "properties": {
           "Applicant_FirstName": "Lucille",
@@ -1330,6 +1695,30 @@
           ],
           "latitude": "30.5560381",
           "longitude": "-91.1223547"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recHjGeX2A526ppgb",
+        "properties": {
+          "Applicant_FirstName": "Mable",
+          "Applicant_LastName": "Jackson",
+          "AutoNum": 129,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2252700045",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "8727 Thelma St, Baton Rouge  LA 70807",
+          "Owner": "Mable Jackson",
+          "Owner Phone (7 digit)": "270-0045",
+          "PropertyAddress_Line1": "8727 Thelma St",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70807",
+          "Status": "Inspection",
+          "caseID": "R129_8727 Thelma St_JACKSON",
+          "latitude": "30.5264443",
+          "longitude": "-91.1755454"
         },
         "type": "Feature"
       },
@@ -1641,6 +2030,79 @@
       },
       {
         "geometry": null,
+        "id": "recLQz5wO1xulQQlR",
+        "properties": {
+          "Applicant_FirstName": "Linda",
+          "Applicant_LastName": "Johnson ",
+          "AutoNum": 132,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2259363370",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "3142 Chippewa Street , Baton Rouge  LA 70805",
+          "Owner": "Linda Johnson ",
+          "Owner Phone (7 digit)": "936-3370",
+          "PropertyAddress_Line1": "3142 Chippewa Street ",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70805",
+          "Status": "Inspection",
+          "caseID": "R132_3142 Chippewa Street _JOHNSON ",
+          "latitude": "30.4730332",
+          "longitude": "-91.1574928"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recLTpm48EiJHiHTh",
+        "properties": {
+          "Applicant_FirstName": "Lynda",
+          "Applicant_LastName": "Allen",
+          "AutoNum": 106,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2253433922",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "Description": "2259782585",
+          "FullPropertyAddress": "743 N 37th St, Baton Rouge  LA 70802",
+          "Owner": "Lynda Allen",
+          "Owner Phone (7 digit)": "343-3922",
+          "PropertyAddress_Line1": "743 N 37th St",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70802",
+          "Status": "Inspection",
+          "caseID": "R106_743 N 37th St_ALLEN",
+          "latitude": "30.4552231",
+          "longitude": "-91.152809"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recM9nH1GOKd5N5Jz",
+        "properties": {
+          "Applicant_FirstName": "Lionel and Earlean ",
+          "Applicant_LastName": "Early",
+          "AutoNum": 83,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2255886461",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "147 Van Buren St. , Baton Rouge  LA 70802",
+          "Owner": "Lionel and Earlean  Early",
+          "Owner Phone (7 digit)": "588-6461",
+          "PropertyAddress_Line1": "147 Van Buren St. ",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70802",
+          "Status": "Inspection",
+          "caseID": "R83_147 Van Buren St. _EARLY",
+          "latitude": "30.4296758",
+          "longitude": "-91.1827525"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recNKD4xwTBc8SgpM",
         "properties": {
           "Applicant_FirstName": "Mary ",
@@ -1827,6 +2289,30 @@
       },
       {
         "geometry": null,
+        "id": "recPMKigmAMal7GkS",
+        "properties": {
+          "Applicant_FirstName": "Mary Lee",
+          "Applicant_LastName": "Johnson",
+          "AutoNum": 119,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2254392339",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "6168 Calion Dr, Baton Rouge  LA 70812",
+          "Owner": "Mary Lee Johnson",
+          "Owner Phone (7 digit)": "439-2339",
+          "PropertyAddress_Line1": "6168 Calion Dr",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70812",
+          "Status": "Inspection",
+          "caseID": "R119_6168 Calion Dr_JOHNSON",
+          "latitude": "30.5082357",
+          "longitude": "-91.1128623"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recQ5QCwnEF44qqdB",
         "properties": {
           "Applicant_FirstName": "Lawrence ",
@@ -2008,6 +2494,30 @@
       },
       {
         "geometry": null,
+        "id": "recR20xXxo9bzwZNH",
+        "properties": {
+          "Applicant_FirstName": "Margaret ",
+          "Applicant_LastName": "Sterling",
+          "AutoNum": 94,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2253717939",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "3000 Slate St, Baton Rouge  LA 70802",
+          "Owner": "Margaret  Sterling",
+          "Owner Phone (7 digit)": "371-7939",
+          "PropertyAddress_Line1": "3000 Slate St",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70802",
+          "Status": "Inspection",
+          "caseID": "R94_3000 Slate St_STERLING",
+          "latitude": "30.4600936",
+          "longitude": "-91.1573277"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recRQFxMl2sGlBSxj",
         "properties": {
           "Applicant_FirstName": "Geraldine",
@@ -2068,6 +2578,55 @@
       },
       {
         "geometry": null,
+        "id": "recRgwRIOAgpD8jB2",
+        "properties": {
+          "Applicant_FirstName": "Johnnie ",
+          "Applicant_LastName": "Cage",
+          "AutoNum": 92,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2252790562",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "Description": "2252271615",
+          "FullPropertyAddress": "4866 Oaklan Dr, Baton Rouge  LA 70811",
+          "Owner": "Johnnie  Cage",
+          "Owner Phone (7 digit)": "279-0562",
+          "PropertyAddress_Line1": "4866 Oaklan Dr",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70811",
+          "Status": "Inspection",
+          "caseID": "R92_4866 Oaklan Dr_CAGE",
+          "latitude": "30.5119563",
+          "longitude": "-91.1422565"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recRyZBP20HsRpx3f",
+        "properties": {
+          "Applicant_FirstName": "Lizzie",
+          "Applicant_LastName": "Jackson",
+          "AutoNum": 121,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2253558063",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "2100 N 39th St, Baton Rouge  LA 70802",
+          "Owner": "Lizzie Jackson",
+          "Owner Phone (7 digit)": "355-8063",
+          "PropertyAddress_Line1": "2100 N 39th St",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70802",
+          "Status": "Inspection",
+          "caseID": "R121_2100 N 39th St_JACKSON",
+          "latitude": "30.4674534",
+          "longitude": "-91.1511779"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recS6od7Dzszu3iu5",
         "properties": {
           "Applicant_FirstName": "Annie",
@@ -2123,6 +2682,56 @@
           ],
           "latitude": "30.4806451",
           "longitude": "-91.1653532"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recSoCr7EydKAcZYU",
+        "properties": {
+          "Applicant_FirstName": "Sarah ",
+          "Applicant_LastName": "Price",
+          "AutoNum": 97,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2253576049",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "Description": "2252298684",
+          "FullPropertyAddress": "2550 Chaney Dr, Baton Rouge  LA 70805",
+          "Owner": "Sarah  Price",
+          "Owner Phone (7 digit)": "357-6049",
+          "PropertyAddress_Line1": "2550 Chaney Dr",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70805",
+          "Status": "Inspection",
+          "caseID": "R97_2550 Chaney Dr_PRICE",
+          "latitude": "30.5024584",
+          "longitude": "-91.1651576"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recTFTdPTIEFq81x4",
+        "properties": {
+          "Applicant_FirstName": "Lynda",
+          "Applicant_LastName": "Carter",
+          "AutoNum": 118,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2253578181",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "Description": "2256501121",
+          "FullPropertyAddress": "5927 St Katherine Ave, Baton Rouge  LA 70805",
+          "Owner": "Lynda Carter",
+          "Owner Phone (7 digit)": "357-8181",
+          "PropertyAddress_Line1": "5927 St Katherine Ave",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70805",
+          "Status": "Inspection",
+          "caseID": "R118_5927 St Katherine Ave_CARTER",
+          "latitude": "30.499157",
+          "longitude": "-91.131561"
         },
         "type": "Feature"
       },
@@ -2283,6 +2892,30 @@
       },
       {
         "geometry": null,
+        "id": "recVDzH6TQzjMwuz3",
+        "properties": {
+          "Applicant_FirstName": "Eric",
+          "Applicant_LastName": "Brown",
+          "AutoNum": 91,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2259381636",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "2015 N Acadian Thwy E, Baton Rouge  LA 70802",
+          "Owner": "Eric Brown",
+          "Owner Phone (7 digit)": "938-1636",
+          "PropertyAddress_Line1": "2015 N Acadian Thwy E",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70802",
+          "Status": "Inspection",
+          "caseID": "R91_2015 N Acadian Thwy E_BROWN",
+          "latitude": "30.4665921",
+          "longitude": "-91.1555791"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recWIyOSJVFSKleIW",
         "properties": {
           "Applicant_FirstName": "Angela",
@@ -2338,6 +2971,55 @@
           ],
           "latitude": "30.5552758",
           "longitude": "-91.1683539"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recWqELMeIeZ6uGkk",
+        "properties": {
+          "Applicant_FirstName": "Andre",
+          "Applicant_LastName": "Moton",
+          "AutoNum": 99,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "224394922",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "6208 Casper St, Baton Rouge  LA 70805",
+          "Owner": "Andre Moton",
+          "Owner Phone (7 digit)": "24394922",
+          "PropertyAddress_Line1": "6208 Casper St",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70805",
+          "Status": "Inspection",
+          "caseID": "R99_6208 Casper St_MOTON",
+          "latitude": "30.5057065",
+          "longitude": "-91.1659627"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recWtPmksI8QQuivF",
+        "properties": {
+          "Applicant_FirstName": "Rose",
+          "Applicant_LastName": "Betz",
+          "AutoNum": 120,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2253435866",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "Description": "2254394012",
+          "FullPropertyAddress": "214 S Eugene St, Baton Rouge  LA 70806",
+          "Owner": "Rose Betz",
+          "Owner Phone (7 digit)": "343-5866",
+          "PropertyAddress_Line1": "214 S Eugene St",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70806",
+          "Status": "Inspection",
+          "caseID": "R120_214 S Eugene St_BETZ",
+          "latitude": "30.4467613",
+          "longitude": "-91.1607026"
         },
         "type": "Feature"
       },
@@ -2800,6 +3482,102 @@
       },
       {
         "geometry": null,
+        "id": "recdIT9zOBEtasUXj",
+        "properties": {
+          "Applicant_FirstName": "Estella",
+          "Applicant_LastName": "Ezebunwo",
+          "AutoNum": 127,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2259609348",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "2544 Elvin Dr, Baton Rouge  LA 70810",
+          "Owner": "Estella Ezebunwo",
+          "Owner Phone (7 digit)": "960-9348",
+          "PropertyAddress_Line1": "2544 Elvin Dr",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70810",
+          "Status": "Inspection",
+          "caseID": "R127_2544 Elvin Dr_EZEBUNWO",
+          "latitude": "30.3443821",
+          "longitude": "-91.1308609"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recdMOayPk5YLUR5R",
+        "properties": {
+          "Applicant_FirstName": "Bernadine ",
+          "Applicant_LastName": "Collins",
+          "AutoNum": 113,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2252740170",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "4235 Thames Dr, Baton Rouge  LA 70814",
+          "Owner": "Bernadine  Collins",
+          "Owner Phone (7 digit)": "274-0170",
+          "PropertyAddress_Line1": "4235 Thames Dr",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70814",
+          "Status": "Inspection",
+          "caseID": "R113_4235 Thames Dr_COLLINS",
+          "latitude": "30.4898494",
+          "longitude": "-91.0447924"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recdbqThPnvqMfze3",
+        "properties": {
+          "Applicant_FirstName": "Vanessa",
+          "Applicant_LastName": "Hamilton",
+          "AutoNum": 103,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2255887654",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "3345 Gerlando Dr, Baton Rouge  LA 70814",
+          "Owner": "Vanessa Hamilton",
+          "Owner Phone (7 digit)": "588-7654",
+          "PropertyAddress_Line1": "3345 Gerlando Dr",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70814",
+          "Status": "Inspection",
+          "caseID": "R103_3345 Gerlando Dr_HAMILTON",
+          "latitude": "30.4804262",
+          "longitude": "-91.1075947"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recdmN9Ifw0B2kfk7",
+        "properties": {
+          "Applicant_FirstName": "Leola ",
+          "Applicant_LastName": "Herbert",
+          "AutoNum": 123,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2253022507",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "13465 Briar Hollow Ave, Baton Rouge  LA 70810",
+          "Owner": "Leola  Herbert",
+          "Owner Phone (7 digit)": "302-2507",
+          "PropertyAddress_Line1": "13465 Briar Hollow Ave",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70810",
+          "Status": "Inspection",
+          "caseID": "R123_13465 Briar Hollow Ave_HERBERT",
+          "latitude": "30.358949",
+          "longitude": "-91.0746846"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recerPolifk0lkivK",
         "properties": {
           "Applicant_FirstName": "Lois Marie",
@@ -3035,6 +3813,78 @@
       },
       {
         "geometry": null,
+        "id": "recfyiSOrPjPExFMl",
+        "properties": {
+          "Applicant_FirstName": "Verna ",
+          "Applicant_LastName": "Turner",
+          "AutoNum": 101,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2255082509",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "8380 S Essen Heights, Baton Rouge  LA 70809",
+          "Owner": "Verna  Turner",
+          "Owner Phone (7 digit)": "508-2509",
+          "PropertyAddress_Line1": "8380 S Essen Heights",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70809",
+          "Status": "Inspection",
+          "caseID": "R101_8380 S Essen Heights_TURNER",
+          "latitude": "30.4070116",
+          "longitude": "-91.0990183"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recgkuqXARCsNh1Kr",
+        "properties": {
+          "Applicant_FirstName": "Rosie",
+          "Applicant_LastName": "Wyre",
+          "AutoNum": 105,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2252883902",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "2569 74th Ave, Baton Rouge  LA 70807",
+          "Owner": "Rosie Wyre",
+          "Owner Phone (7 digit)": "288-3902",
+          "PropertyAddress_Line1": "2569 74th Ave",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70807",
+          "Status": "Inspection",
+          "caseID": "R105_2569 74th Ave_WYRE",
+          "latitude": "30.5162669",
+          "longitude": "-91.1658543"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recgn0bokV0ePw3H4",
+        "properties": {
+          "Applicant_FirstName": "Dena",
+          "Applicant_LastName": "Owens",
+          "AutoNum": 96,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "3183761144",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "5122 Fullerton Ave, Baker LA 70714",
+          "Owner": "Dena Owens",
+          "Owner Phone (7 digit)": "376-1144",
+          "PropertyAddress_Line1": "5122 Fullerton Ave",
+          "Property_City": "Baker",
+          "Property_ZipCode": "70714",
+          "Status": "Inspection",
+          "caseID": "R96_5122 Fullerton Ave_OWENS",
+          "latitude": "30.5832736",
+          "longitude": "-91.1440546"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recgvyny8TRn1Y7ie",
         "properties": {
           "Applicant_FirstName": "Alfreda ",
@@ -3130,6 +3980,103 @@
       },
       {
         "geometry": null,
+        "id": "reci25FJfsDZqbBQP",
+        "properties": {
+          "Applicant_FirstName": "Mandy",
+          "Applicant_LastName": "Fields",
+          "AutoNum": 89,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2259534220",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "5025 Hermitage Dr, Baton Rouge  LA 70806",
+          "Owner": "Mandy Fields",
+          "Owner Phone (7 digit)": "953-4220",
+          "PropertyAddress_Line1": "5025 Hermitage Dr",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70806",
+          "Status": "Inspection",
+          "caseID": "R89_5025 Hermitage Dr_FIELDS",
+          "latitude": "30.4608092",
+          "longitude": "-91.1391814"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recjLkc6LsNt2atKB",
+        "properties": {
+          "Applicant_FirstName": "Rosa",
+          "Applicant_LastName": "Blonia",
+          "AutoNum": 114,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2254075639",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "3714 Beech St, Baton Rouge  LA 70805",
+          "Owner": "Rosa Blonia",
+          "Owner Phone (7 digit)": "407-5639",
+          "PropertyAddress_Line1": "3714 Beech St",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70805",
+          "Status": "Inspection",
+          "caseID": "R114_3714 Beech St_BLONIA",
+          "latitude": "30.495247",
+          "longitude": "-91.1521528"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "reck0yiWfiIByJosC",
+        "properties": {
+          "Applicant_FirstName": "Artie",
+          "Applicant_LastName": "Sylvan",
+          "AutoNum": 86,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "9098384313",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "6821 Sumrall Dr, Baton Rouge  LA 70812",
+          "Owner": "Artie Sylvan",
+          "Owner Phone (7 digit)": "838-4313",
+          "PropertyAddress_Line1": "6821 Sumrall Dr",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70812",
+          "Status": "Inspection",
+          "caseID": "R86_6821 Sumrall Dr_SYLVAN",
+          "latitude": "30.5140765",
+          "longitude": "-91.1230291"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "reck13Bn16zaviEdh",
+        "properties": {
+          "Applicant_FirstName": "Vanessa ",
+          "Applicant_LastName": "Archille",
+          "AutoNum": 81,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2253644422",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "Description": "2253644440",
+          "FullPropertyAddress": "724 N. 47th Street, Baton Rouge  LA 70802",
+          "Owner": "Vanessa  Archille",
+          "Owner Phone (7 digit)": "364-4422",
+          "PropertyAddress_Line1": "724 N. 47th Street",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70802",
+          "Status": "Inspection",
+          "caseID": "R81_724 N. 47th Street_ARCHILLE",
+          "latitude": "30.4549776",
+          "longitude": "-91.1422927"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recl9IgXlCM4l2lxc",
         "properties": {
           "Applicant_FirstName": "Elizabeth",
@@ -3185,6 +4132,56 @@
           ],
           "latitude": "30.4804641",
           "longitude": "-91.1502031"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "reclyvDcR4iajC0gx",
+        "properties": {
+          "Applicant_FirstName": "Qunitha",
+          "Applicant_LastName": "Scott",
+          "AutoNum": 115,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2253579808",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "Description": "2259360065",
+          "FullPropertyAddress": "6136 Glen Oaks Dr, Baton Rouge  LA 70811",
+          "Owner": "Qunitha Scott",
+          "Owner Phone (7 digit)": "357-9808",
+          "PropertyAddress_Line1": "6136 Glen Oaks Dr",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70811",
+          "Status": "Inspection",
+          "caseID": "R115_6136 Glen Oaks Dr_SCOTT",
+          "latitude": "30.51082",
+          "longitude": "-91.128885"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recm12x8qVNc13h9S",
+        "properties": {
+          "Applicant_FirstName": "Estelle",
+          "Applicant_LastName": "Walker",
+          "AutoNum": 117,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2257664078",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "Description": "2259781449",
+          "FullPropertyAddress": "7724 Wimbeldon Ave, Baton Rouge  LA 70810",
+          "Owner": "Estelle Walker",
+          "Owner Phone (7 digit)": "766-4078",
+          "PropertyAddress_Line1": "7724 Wimbeldon Ave",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70810",
+          "Status": "Inspection",
+          "caseID": "R117_7724 Wimbeldon Ave_WALKER",
+          "latitude": "30.379508",
+          "longitude": "-91.0878605"
         },
         "type": "Feature"
       },
@@ -3246,6 +4243,54 @@
           ],
           "latitude": "30.4991377",
           "longitude": "-91.1649032"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recnZRNnsWLU5wEtv",
+        "properties": {
+          "Applicant_FirstName": "Virginia",
+          "Applicant_LastName": "Sterling",
+          "AutoNum": 111,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2258881427",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "1412 N 31st St, Baton Rouge  LA 70802",
+          "Owner": "Virginia Sterling",
+          "Owner Phone (7 digit)": "888-1427",
+          "PropertyAddress_Line1": "1412 N 31st St",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70802",
+          "Status": "Inspection",
+          "caseID": "R111_1412 N 31st St_STERLING",
+          "latitude": "30.4617981",
+          "longitude": "-91.1574662"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "reco2We5W793D72VK",
+        "properties": {
+          "Applicant_FirstName": "Jan",
+          "Applicant_LastName": "Varnado",
+          "AutoNum": 110,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2252845861",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "1950 Stafford Dr, Baton Rouge  LA 70810",
+          "Owner": "Jan Varnado",
+          "Owner Phone (7 digit)": "284-5861",
+          "PropertyAddress_Line1": "1950 Stafford Dr",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70810",
+          "Status": "Inspection",
+          "caseID": "R110_1950 Stafford Dr_VARNADO",
+          "latitude": "30.3644589",
+          "longitude": "-91.0693465"
         },
         "type": "Feature"
       },
@@ -3463,6 +4508,30 @@
           ],
           "latitude": "30.4610183",
           "longitude": "-91.0550409"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recpRD56qqCUsw6Ro",
+        "properties": {
+          "Applicant_FirstName": "Sheena",
+          "Applicant_LastName": "Dunbar",
+          "AutoNum": 82,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2259331726",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "3809 Dalton St. , Baton Rouge  LA 70805",
+          "Owner": "Sheena Dunbar",
+          "Owner Phone (7 digit)": "933-1726",
+          "PropertyAddress_Line1": "3809 Dalton St. ",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70805",
+          "Status": "Inspection",
+          "caseID": "R82_3809 Dalton St. _DUNBAR",
+          "latitude": "30.4742019",
+          "longitude": "-91.1524809"
         },
         "type": "Feature"
       },
@@ -3850,6 +4919,30 @@
       },
       {
         "geometry": null,
+        "id": "recrEjToEsl9CjrE2",
+        "properties": {
+          "Applicant_FirstName": "Margot Ann",
+          "Applicant_LastName": "Fleet",
+          "AutoNum": 84,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2252477640",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "5821 Tarrytown Avenue, Baton Rouge  LA 70808",
+          "Owner": "Margot Ann Fleet",
+          "Owner Phone (7 digit)": "247-7640",
+          "PropertyAddress_Line1": "5821 Tarrytown Avenue",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70808",
+          "Status": "Inspection",
+          "caseID": "R84_5821 Tarrytown Avenue_FLEET",
+          "latitude": "30.4161309",
+          "longitude": "-91.1250712"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recrNUhEaKOk5Hc0p",
         "properties": {
           "Applicant_FirstName": "Bettie",
@@ -3905,6 +4998,31 @@
           ],
           "latitude": "30.576529",
           "longitude": "-91.203965"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recrUf9Bo7yOAqAmn",
+        "properties": {
+          "Applicant_FirstName": "Lois ",
+          "Applicant_LastName": "Washington",
+          "AutoNum": 98,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2254211436",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "Description": "5044526076",
+          "FullPropertyAddress": "2277 Spain St, Baton Rouge  LA 70806",
+          "Owner": "Lois  Washington",
+          "Owner Phone (7 digit)": "421-1436",
+          "PropertyAddress_Line1": "2277 Spain St",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70806",
+          "Status": "Inspection",
+          "caseID": "R98_2277 Spain St_WASHINGTON",
+          "latitude": "30.445326",
+          "longitude": "-91.16449"
         },
         "type": "Feature"
       },
@@ -4032,6 +5150,31 @@
       },
       {
         "geometry": null,
+        "id": "rectm0cL2decFImfc",
+        "properties": {
+          "Applicant_FirstName": "Cherlyn",
+          "Applicant_LastName": "Jackson",
+          "AutoNum": 130,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2253571941",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "Description": "2257730439",
+          "FullPropertyAddress": "4849 Paige St, Baton Rouge  LA 70811",
+          "Owner": "Cherlyn Jackson",
+          "Owner Phone (7 digit)": "357-1941",
+          "PropertyAddress_Line1": "4849 Paige St",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70811",
+          "Status": "Inspection",
+          "caseID": "R130_4849 Paige St_JACKSON",
+          "latitude": "30.51721",
+          "longitude": "-91.142737"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "rectzGzLd6PxDra6W",
         "properties": {
           "Applicant_FirstName": "Bobby Ray",
@@ -4153,6 +5296,30 @@
       },
       {
         "geometry": null,
+        "id": "recvYV5qwYmmFQeNJ",
+        "properties": {
+          "Applicant_FirstName": "Gloria",
+          "Applicant_LastName": "Brumskill",
+          "AutoNum": 128,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2258034025",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "6836 Oakwood Dr, Baton Rouge  LA 70811",
+          "Owner": "Gloria Brumskill",
+          "Owner Phone (7 digit)": "803-4025",
+          "PropertyAddress_Line1": "6836 Oakwood Dr",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70811",
+          "Status": "Inspection",
+          "caseID": "R128_6836 Oakwood Dr_BRUMSKILL",
+          "latitude": "30.5130282",
+          "longitude": "-91.1350584"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recvtjwck1spx2SFU",
         "properties": {
           "Applicant_FirstName": "Veronica",
@@ -4208,6 +5375,30 @@
           ],
           "latitude": "30.4426566",
           "longitude": "-91.1592588"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recw80mV3BKWTNTKM",
+        "properties": {
+          "Applicant_FirstName": "Olevia",
+          "Applicant_LastName": "Albert",
+          "AutoNum": 122,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2253835108",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "3956 Provost St, Baton Rouge  LA 70802",
+          "Owner": "Olevia Albert",
+          "Owner Phone (7 digit)": "383-5108",
+          "PropertyAddress_Line1": "3956 Provost St",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70802",
+          "Status": "Inspection",
+          "caseID": "R122_3956 Provost St_ALBERT",
+          "latitude": "30.459954",
+          "longitude": "-91.150758"
         },
         "type": "Feature"
       },
@@ -4369,6 +5560,31 @@
       },
       {
         "geometry": null,
+        "id": "recyPMHt0of2OlU4N",
+        "properties": {
+          "Applicant_FirstName": "Barbara",
+          "Applicant_LastName": "Picot",
+          "AutoNum": 104,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2254784910",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "Description": "2253265542",
+          "FullPropertyAddress": "4075 Noah St, Baton Rouge  LA 70802",
+          "Owner": "Barbara Picot",
+          "Owner Phone (7 digit)": "478-4910",
+          "PropertyAddress_Line1": "4075 Noah St",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70802",
+          "Status": "Inspection",
+          "caseID": "R104_4075 Noah St_PICOT",
+          "latitude": "30.462881",
+          "longitude": "-91.149796"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recybgArO2oX781Mi",
         "properties": {
           "Applicant_FirstName": "Ferma Lee",
@@ -4426,6 +5642,31 @@
           ],
           "latitude": "30.4744415",
           "longitude": "-91.1235911"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recz92xi0JWYU82Ll",
+        "properties": {
+          "Applicant_FirstName": "William",
+          "Applicant_LastName": "Early",
+          "AutoNum": 87,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2253579924",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "Description": "2252780356",
+          "FullPropertyAddress": "2725 Michelli Dr , Baton Rouge  LA 70805",
+          "Owner": "William Early",
+          "Owner Phone (7 digit)": "357-9924",
+          "PropertyAddress_Line1": "2725 Michelli Dr ",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70805",
+          "Status": "Inspection",
+          "caseID": "R87_2725 Michelli Dr _EARLY",
+          "latitude": "30.4735545",
+          "longitude": "-91.1273383"
         },
         "type": "Feature"
       },
@@ -4612,6 +5853,30 @@
           ],
           "latitude": "30.5095179",
           "longitude": "-91.1760817"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "reczeNy9qaHKG77IB",
+        "properties": {
+          "Applicant_FirstName": "Warren ",
+          "Applicant_LastName": "Scott",
+          "AutoNum": 112,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "2253447942",
+          "Contact_MailingAddress_State": "LA",
+          "DateOrdered": "2019-08-21",
+          "FullPropertyAddress": "309 Ingleside Dr, Baton Rouge  LA 70806",
+          "Owner": "Warren  Scott",
+          "Owner Phone (7 digit)": "344-7942",
+          "PropertyAddress_Line1": "309 Ingleside Dr",
+          "Property_City": "Baton Rouge ",
+          "Property_ZipCode": "70806",
+          "Status": "Inspection",
+          "caseID": "R112_309 Ingleside Dr_SCOTT",
+          "latitude": "30.4463913",
+          "longitude": "-91.1452074"
         },
         "type": "Feature"
       }
