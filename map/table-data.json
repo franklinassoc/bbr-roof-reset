@@ -6227,6 +6227,512 @@
           "FullPropertyAddress": "1542 Kaufman Ave, Baton Rouge LA 70807",
           "GeocodeCache": "🔵 eyJpIjoiMTU0MiBLYXVmbWFuIEF2ZSwgQmF0b24gUm91Z2UgTEEgNzA4MDciLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjE1NDIgS2F1Zm1hbiBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA3LCBVU0EiLCJsYXQiOjMwLjUwOTUxNzksImxuZyI6LTkxLjE3NjA4MTd9LCJlIjoxNTY2NDE3NzQ2MTM2fQ==",
           "Inspection (initial)": "Completed",
+          "Inspection Photos": [
+            {
+              "filename": "ceiling-damage03.jpg",
+              "id": "att5bEoHRGccOtIKz",
+              "size": 54231,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d54407cbb4d87305b8f6202c47a03111/65378bea",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 480,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/7f2b6e0fd5a27b9b9ed323a7fdd291cf/16d97d33",
+                  "width": 640
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/0c50345ea6e70aaef2e01bb430c7a81c/5c06b0b8",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/57003dbd8b3c1e5b1a8f99b0aafa26c0/2bf6781d/ceiling-damage03.jpg"
+            },
+            {
+              "filename": "ceiling-damage07.jpg",
+              "id": "attiY6oNIAauy0RSQ",
+              "size": 108834,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9c22f5c25817132693d51cfb67e9fe33/d43e54d5",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 480,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/687eecfec869d006be26dd43bea482b1/10425834",
+                  "width": 640
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/8577a812eb475da34cb1e379f980413e/2aca4023",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/bd61c814ab40b9d2e8ca4441ba2b298d/148a158a/ceiling-damage07.jpg"
+            },
+            {
+              "filename": "ceiling-damage06.jpg",
+              "id": "attl1gTJn0gEbdtWy",
+              "size": 98932,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/63a016d0ef59775eb6f05f29f408dd28/c560c9fc",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 480,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/b67e9bba820b885b5ae54d4425e087be/6ce7fb4f",
+                  "width": 640
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/a3956139c231d44eaffdb1e9044a7f30/17abae5f",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/b7b0842eee64ef467a4c27f643fc3d89/8b2abbe2/ceiling-damage06.jpg"
+            },
+            {
+              "filename": "ceiling-damage04.jpg",
+              "id": "attuauKzRkcjPcTkm",
+              "size": 61256,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/7fb33177d4a3b83995da2e963608dc31/667bec27",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 480,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9ab45efd4c2b486edf27d9e817a68bbc/0a369b87",
+                  "width": 640
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/df70726585b39b5655590d4787e5156a/144de273",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/185ec909feecfc600966867a29895651/b57c0e49/ceiling-damage04.jpg"
+            },
+            {
+              "filename": "ceiling-damage01.jpg",
+              "id": "attWUp5qeMaDL8jBG",
+              "size": 90179,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/f087cb804c533dd5683f052198fa36f5/8c75ce42",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 480,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/14712d98ba36e2962e425c100fcabc1f/b21a9e4a",
+                  "width": 640
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/23b3e98626d6d09a79489dc2a21a56de/4bcfbca6",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/96beb9194681125f174f32dd8a21e845/49ef32f3/ceiling-damage01.jpg"
+            },
+            {
+              "filename": "ceiling-damage02.jpg",
+              "id": "attyhLySv7FTkDRBM",
+              "size": 101729,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/025d4fcb1f63ae72b02fe08acef96da0/025f1223",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 480,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/6e82b328a9deae6355ccf4ee575b3813/e850ad1e",
+                  "width": 640
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/f6a394c361adc2f4ec668da1bb22b8d2/1f12f98a",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/ec6fe624b4039ef23d3ec8b8c8a1713a/f234ff0d/ceiling-damage02.jpg"
+            },
+            {
+              "filename": "ceiling-damage10.jpg",
+              "id": "attKCfFqdU6LL6vah",
+              "size": 48026,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/aaf9576f869892d866d3fa83f96e8132/27bee944",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 480,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/533673a1443136bf7bee6ab8fcffab27/e4371032",
+                  "width": 640
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/c1ef5f8c604bc3e562b936b450a64311/535aa0ac",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/161567854e683d82a0e13722697d727a/9adc14e1/ceiling-damage10.jpg"
+            },
+            {
+              "filename": "ceiling-damage05.jpg",
+              "id": "attmV7JpMBTa0NdM2",
+              "size": 93986,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/e4d1c409f9038b77dad1c6be702bf9d3/0cb649c2",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 480,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/85e8d02f2838e375ffde61d698d795e7/98d15cae",
+                  "width": 640
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/32b705553ba5643956abb9529b1edbb2/cc953223",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/0653bb2be2c97533042a70d2bd599a5d/42eaa3ab/ceiling-damage05.jpg"
+            },
+            {
+              "filename": "ceiling-damage11.jpg",
+              "id": "attguwzP7OzsIcMxD",
+              "size": 48449,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/c84d36933b8a3ae34cc0ddfd72c348aa/a38e5ab2",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 480,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3317ac0cbef8623c55084cb1ad834eee/f9334a3c",
+                  "width": 640
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/e45d59e4e0a2d7c55412a45f3c26d19c/fb46933e",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/bf0dfda30c0835797917a5fc3110f7d5/5f221afb/ceiling-damage11.jpg"
+            },
+            {
+              "filename": "ceiling-damage13.jpg",
+              "id": "attetr3Vmg1QAAx6k",
+              "size": 56585,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/a1335fdf4c7740e56630fe383e9c8b70/f13a748f",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 480,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/176dec595ea04d31ee8a801588304a68/b5631c8b",
+                  "width": 640
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/fbc191b363dd079ed5a721223ffeca28/145c338d",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/e496c4e32cb05f8d57d37c37bf0b60c3/ee76a5e8/ceiling-damage13.jpg"
+            },
+            {
+              "filename": "ceiling-damage08.jpg",
+              "id": "attavisH6bOrcKfEa",
+              "size": 93207,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/8c96635edfa270459932cf555513a786/a89f0c48",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 480,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/a19cd1840c030eed022a5fa6d49ca9da/b72d501c",
+                  "width": 640
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/c32003389fc4d2de3da63713804966a6/3d58afa2",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/0c1713fc55699729784ac6d883a2f734/7cfad60c/ceiling-damage08.jpg"
+            },
+            {
+              "filename": "ceiling-damage09.jpg",
+              "id": "att9JP6gc0Z82PvBB",
+              "size": 65502,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/4ecd4907631514b6e94a0879f958dafb/30100956",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 480,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/2c2d215360ec9b86ab6aa3e49eed0b99/c7cf5e1b",
+                  "width": 640
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/645b713e97bab2ad16314983777bc103/00183401",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/10b2eb814e13407e04a1f49b1a154b7f/59faf11a/ceiling-damage09.jpg"
+            },
+            {
+              "filename": "ceiling-damage12.jpg",
+              "id": "att0yrvuEE8SUh9Ye",
+              "size": 91184,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/eed88d57394ca2976335391b27b9edcc/fd02a61b",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 480,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/69c54a876031d2c8cd7670fdbc1be021/081dc517",
+                  "width": 640
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/bbed057a6d457ad16a4f39c4b3664695/81095a65",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/2f665d568261999c8ec0c526b0707426/88d329c6/ceiling-damage12.jpg"
+            },
+            {
+              "filename": "roof-repair01.jpg",
+              "id": "att6Cwr0MY69ro08f",
+              "size": 120995,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/6d69d41238a4e6d1fc9e8cb7621d6f27/9f0b01d4",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 480,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/0965ebe5eaaef072c6a1433c0ffe3c71/2d926476",
+                  "width": 640
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/109aeb36c302b4a011185767edae100d/c86ad857",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/461b82f6d00b59f9efb79d1b7fecbbd3/e2bf0488/roof-repair01.jpg"
+            },
+            {
+              "filename": "roof-damage03.jpg",
+              "id": "atttCY4d6yAEGQonY",
+              "size": 127890,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/847fc89c73f1125163b15c8a4f565e5e/a986ab56",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 480,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/e8619be4f376dbf93dac6fef9085d75a/cd7a4cf9",
+                  "width": 640
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9f938033448bf6c74fc78dd761e4f1e6/ae60674b",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/1ed51b5c37f30002405a2ff37a69102e/006f3077/roof-damage03.jpg"
+            },
+            {
+              "filename": "roof-damage02.jpg",
+              "id": "attyopuYq3LKpmFE6",
+              "size": 101945,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/0a977222643507627e4c64d02fe30736/8fd8936a",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 480,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/5ab50e8b2537e475604e9a2ef790c68c/b9203fdb",
+                  "width": 640
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/8cc16df08b622b5370a27f80070d9249/a49e7408",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/0914115b3bf1b6824793b5da8d20fa9b/39b8c0b9/roof-damage02.jpg"
+            },
+            {
+              "filename": "roof-repair02.jpg",
+              "id": "attlSQ93cIZDozZyL",
+              "size": 91151,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/144ddeea46fbe9c10b9645b1b4ac3fd8/065c636e",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 480,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/94a5bec5f8d432acbf9a71eae502d4a7/8847be38",
+                  "width": 640
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/1b0a4eaba82d6af3adf4a6c768a7c4ba/ab2b14b9",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/9e937c0cbe5a4ed59d2e00ecb8f20934/80ca51af/roof-repair02.jpg"
+            },
+            {
+              "filename": "roof-damage01.jpg",
+              "id": "attvDUlws9mRdWTPx",
+              "size": 122713,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/de7678e35eb4198478d010dda950b549/8fad0eab",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 480,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/394d7243c87c657fecd1350ead6c1b03/d951b95f",
+                  "width": 640
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/b393c852038ed16d5125b5d4129ce6e1/e1e8fcf5",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/f95ed4419b2fb1cdb36476cbb989989d/475c6b24/roof-damage01.jpg"
+            },
+            {
+              "filename": "roof-repair03.jpg",
+              "id": "attbRXHyURDsPFm80",
+              "size": 109705,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/95e6e0e20a1deae07417de818f2835ad/07993e93",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 480,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/fae1bf96ff2989887acb647f468a8d78/9af966f7",
+                  "width": 640
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9c3b5ced5d52b29f202d32cffbabd2e7/e490b149",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/bdeed568d5a433e99a6a49f0e2e12dd2/38e11a1a/roof-repair03.jpg"
+            },
+            {
+              "filename": "roof-repair04.jpg",
+              "id": "attFKVLpwbB6vpZqO",
+              "size": 109705,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/41ece54c5849880765448e212fe4e76c/34b3c62b",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 480,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/757cb317f0c7bdb5ae3695f6f30fd2a8/02b8f1af",
+                  "width": 640
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/b72e854b5d30752f6c10f2df4aca6f79/7722745b",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/925afd8b2e428d0139757aa1a9a7d949/097f52e5/roof-repair04.jpg"
+            },
+            {
+              "filename": "roof-damage04.jpg",
+              "id": "attX2a9R7wITnEwyr",
+              "size": 106011,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/684c2cdd2a8b7cca5aff35131ae5d0c6/948801d3",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 480,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/6fce9b8d09c5ec385a04d573083cd761/60a50155",
+                  "width": 640
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/6c81002624e27f0b6c4ff698d1f49e7f/b040dc33",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/80701bc9b842b242a8c5a98d8274ab06/cf179bac/roof-damage04.jpg"
+            }
+          ],
           "Owner": "Jessie Montgomery",
           "Owner Phone (7 digit)": "448-2320",
           "Photo of front": [
