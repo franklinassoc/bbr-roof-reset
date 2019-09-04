@@ -6215,7 +6215,7 @@
           "Applicant_FirstName": "Jessie",
           "Applicant_LastName": "Montgomery",
           "AutoNum": 9,
-          "Case_Status": "Construction",
+          "Case_Status": "Inspection",
           "ContactPhoneNumber": "(225) 448-2320",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -6770,7 +6770,7 @@
             "recfk8RZSGi5ZwMNW"
           ],
           "Right-of-Entry": true,
-          "Status": "Construction",
+          "Status": "Inspection",
           "Total Bid Amount": 7200,
           "caseID": "R9_1542 Kaufman Ave_MONTGOMERY",
           "contractor_name": "Redstick Remodeling",
