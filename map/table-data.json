@@ -230,9 +230,10 @@
           "Applicant_FirstName": "Arthur",
           "Applicant_LastName": "Antwine",
           "AutoNum": 90,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2259261516",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "Description": "2252522865",
           "FullPropertyAddress": "1713 N 49th St, Baton Rouge LA 70802",
@@ -246,7 +247,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R90_1713 N 49th St_ANTWINE",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -263,9 +264,10 @@
           "Applicant_FirstName": "Erika",
           "Applicant_LastName": "Allen",
           "AutoNum": 85,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2256032869",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-09-03",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "2834 Iberia St, Baton Rouge LA 70805",
           "Inspection (initial)": "Requested",
@@ -278,7 +280,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R85_2834 Iberia St_ALLEN",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -356,9 +358,10 @@
           "Applicant_FirstName": "Michelle",
           "Applicant_LastName": "Bell",
           "AutoNum": 131,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2252795895",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "2860 Eaton St, Baton Rouge LA 70805",
           "Inspection (initial)": "Requested",
@@ -371,7 +374,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R131_2860 Eaton St_BELL",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -858,9 +861,10 @@
           "Applicant_FirstName": "Marner ",
           "Applicant_LastName": "Lewis",
           "AutoNum": 88,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253831659",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "3156 Washington Ave, Baton Rouge LA 70802",
           "Inspection (initial)": "Requested",
@@ -873,7 +877,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R88_3156 Washington Ave_LEWIS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1108,9 +1112,10 @@
           "Applicant_FirstName": "Gustina ",
           "Applicant_LastName": "Carter",
           "AutoNum": 124,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2257750687",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "Description": "2259310894",
           "FullPropertyAddress": "404 Elmer Ave, Baton Rouge LA 70807",
@@ -1124,7 +1129,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R124_404 Elmer Ave_CARTER",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1202,9 +1207,10 @@
           "Applicant_FirstName": "Charlean ",
           "Applicant_LastName": "Reed",
           "AutoNum": 102,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253550953",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "Description": "2256032549",
           "FullPropertyAddress": "5562 Adams Ave, Baton Rouge LA 70806",
@@ -1218,7 +1224,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R102_5562 Adams Ave_REED",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1235,9 +1241,10 @@
           "Applicant_FirstName": "Joseph ",
           "Applicant_LastName": "Taylor",
           "AutoNum": 93,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2257267901",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "Description": "2252299768",
           "FullPropertyAddress": "11227 Flamingo Dr, Baton Rouge LA 70814",
@@ -1251,7 +1258,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R93_11227 Flamingo Dr_TAYLOR",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1481,9 +1488,10 @@
           "Applicant_FirstName": "Adele",
           "Applicant_LastName": "Reed",
           "AutoNum": 100,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2252781179",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "13952 Alsen Heights  Pkwy, Baton Rouge LA 70807",
           "Inspection (initial)": "Requested",
@@ -1496,7 +1504,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R100_13952 Alsen Heights  Pkwy_REED",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1513,9 +1521,10 @@
           "Applicant_FirstName": "Ida",
           "Applicant_LastName": "Banks",
           "AutoNum": 107,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253571522",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "Description": "2259363398",
           "FullPropertyAddress": "5309 Jackson Ave, Baton Rouge LA 70806",
@@ -1529,7 +1538,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R107_5309 Jackson Ave_BANKS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1732,9 +1741,10 @@
           "Applicant_FirstName": "Loretta",
           "Applicant_LastName": "Brown ",
           "AutoNum": 126,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2258924236",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "517 N 17th St, Baton Rouge LA 70802",
           "Inspection (initial)": "Requested",
@@ -1747,7 +1757,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R126_517 N 17th St_BROWN ",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -1830,9 +1840,10 @@
           "Applicant_FirstName": "Mable",
           "Applicant_LastName": "Jackson",
           "AutoNum": 129,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2252700045",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "8727 Thelma St, Baton Rouge LA 70807",
           "Inspection (initial)": "Requested",
@@ -1845,7 +1856,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R129_8727 Thelma St_JACKSON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2169,9 +2180,10 @@
           "Applicant_FirstName": "Linda",
           "Applicant_LastName": "Johnson ",
           "AutoNum": 132,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2259363370",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "3142 Chippewa Street , Baton Rouge LA 70805",
           "Inspection (initial)": "Requested",
@@ -2184,7 +2196,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R132_3142 Chippewa Street _JOHNSON ",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2201,9 +2213,10 @@
           "Applicant_FirstName": "Lynda",
           "Applicant_LastName": "Allen",
           "AutoNum": 106,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253433922",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "Description": "2259782585",
           "FullPropertyAddress": "743 N 37th St, Baton Rouge LA 70802",
@@ -2217,7 +2230,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R106_743 N 37th St_ALLEN",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2234,9 +2247,10 @@
           "Applicant_FirstName": "Lionel and Earlean ",
           "Applicant_LastName": "Early",
           "AutoNum": 83,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2255886461",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "147 Van Buren St. , Baton Rouge LA 70802",
           "Inspection (initial)": "Requested",
@@ -2249,7 +2263,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R83_147 Van Buren St. _EARLY",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2758,9 +2772,10 @@
           "Applicant_FirstName": "Johnnie ",
           "Applicant_LastName": "Cage",
           "AutoNum": 92,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2252790562",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-09-04",
           "DateOrdered": "2019-08-21",
           "Description": "2252271615",
           "FullPropertyAddress": "4866 Oaklan Dr, Baton Rouge LA 70811",
@@ -2774,7 +2789,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R92_4866 Oaklan Dr_CAGE",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2791,9 +2806,10 @@
           "Applicant_FirstName": "Lizzie",
           "Applicant_LastName": "Jackson",
           "AutoNum": 121,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253558063",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "2100 N 39th St, Baton Rouge LA 70802",
           "Inspection (initial)": "Requested",
@@ -2806,7 +2822,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R121_2100 N 39th St_JACKSON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -3104,9 +3120,10 @@
           "Applicant_FirstName": "Eric",
           "Applicant_LastName": "Brown",
           "AutoNum": 91,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2259381636",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "2015 N Acadian Thwy E, Baton Rouge LA 70802",
           "Inspection (initial)": "Requested",
@@ -3119,7 +3136,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R91_2015 N Acadian Thwy E_BROWN",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -3228,9 +3245,10 @@
           "Applicant_FirstName": "Rose",
           "Applicant_LastName": "Betz",
           "AutoNum": 120,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253435866",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "Description": "2254394012",
           "FullPropertyAddress": "214 S Eugene St, Baton Rouge LA 70806",
@@ -3244,7 +3262,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R120_214 S Eugene St_BETZ",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -3718,9 +3736,10 @@
           "Applicant_FirstName": "Estella",
           "Applicant_LastName": "Ezebunwo",
           "AutoNum": 127,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2259609348",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "2544 Elvin Dr, Baton Rouge LA 70810",
           "Inspection (initial)": "Requested",
@@ -3733,7 +3752,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R127_2544 Elvin Dr_EZEBUNWO",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -3750,9 +3769,10 @@
           "Applicant_FirstName": "Bernadine ",
           "Applicant_LastName": "Collins",
           "AutoNum": 113,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2252740170",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "4235 Thames Dr, Baton Rouge LA 70814",
           "Inspection (initial)": "Requested",
@@ -3765,7 +3785,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R113_4235 Thames Dr_COLLINS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -3814,9 +3834,10 @@
           "Applicant_FirstName": "Leola ",
           "Applicant_LastName": "Herbert",
           "AutoNum": 123,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253022507",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "13465 Briar Hollow Ave, Baton Rouge LA 70810",
           "Inspection (initial)": "Requested",
@@ -3829,7 +3850,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R123_13465 Briar Hollow Ave_HERBERT",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -4081,9 +4102,10 @@
           "Applicant_FirstName": "Verna ",
           "Applicant_LastName": "Turner",
           "AutoNum": 101,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2255082509",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "8380 S Essen Heights, Baton Rouge LA 70809",
           "Inspection (initial)": "Requested",
@@ -4096,7 +4118,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R101_8380 S Essen Heights_TURNER",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -4145,9 +4167,10 @@
           "Applicant_FirstName": "Dena",
           "Applicant_LastName": "Owens",
           "AutoNum": 96,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "3183761144",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "5122 Fullerton Ave, Baker LA 70714",
           "Inspection (initial)": "Requested",
@@ -4160,7 +4183,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R96_5122 Fullerton Ave_OWENS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -4272,9 +4295,10 @@
           "Applicant_FirstName": "Mandy",
           "Applicant_LastName": "Fields",
           "AutoNum": 89,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2259534220",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "5025 Hermitage Dr, Baton Rouge LA 70806",
           "Inspection (initial)": "Requested",
@@ -4287,7 +4311,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R89_5025 Hermitage Dr_FIELDS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -4336,9 +4360,10 @@
           "Applicant_FirstName": "Artie",
           "Applicant_LastName": "Sylvan",
           "AutoNum": 86,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "9098384313",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-09-04",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "6821 Sumrall Dr, Baton Rouge LA 70812",
           "Inspection (initial)": "Requested",
@@ -4351,7 +4376,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R86_6821 Sumrall Dr_SYLVAN",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -4368,9 +4393,10 @@
           "Applicant_FirstName": "Vanessa ",
           "Applicant_LastName": "Archille",
           "AutoNum": 81,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253644422",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "Description": "2253644440",
           "FullPropertyAddress": "724 N. 47th Street, Baton Rouge LA 70802",
@@ -4384,7 +4410,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R81_724 N. 47th Street_ARCHILLE",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -4494,9 +4520,10 @@
           "Applicant_FirstName": "Estelle",
           "Applicant_LastName": "Walker",
           "AutoNum": 117,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2257664078",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "Description": "2259781449",
           "FullPropertyAddress": "7724 Wimbeldon Ave, Baton Rouge LA 70810",
@@ -4510,7 +4537,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R117_7724 Wimbeldon Ave_WALKER",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -4588,9 +4615,10 @@
           "Applicant_FirstName": "Virginia",
           "Applicant_LastName": "Sterling",
           "AutoNum": 111,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2258881427",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "1412 N 31st St, Baton Rouge LA 70802",
           "Inspection (initial)": "Requested",
@@ -4603,7 +4631,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R111_1412 N 31st St_STERLING",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -4620,9 +4648,10 @@
           "Applicant_FirstName": "Jan",
           "Applicant_LastName": "Varnado",
           "AutoNum": 110,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2252845861",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "1950 Stafford Dr, Baton Rouge LA 70810",
           "Inspection (initial)": "Requested",
@@ -4635,7 +4664,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R110_1950 Stafford Dr_VARNADO",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -4869,9 +4898,10 @@
           "Applicant_FirstName": "Sheena",
           "Applicant_LastName": "Dunbar",
           "AutoNum": 82,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2259331726",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "3809 Dalton St. , Baton Rouge LA 70805",
           "Inspection (initial)": "Requested",
@@ -4884,7 +4914,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R82_3809 Dalton St. _DUNBAR",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -5285,9 +5315,10 @@
           "Applicant_FirstName": "Margot Ann",
           "Applicant_LastName": "Fleet",
           "AutoNum": 84,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2252477640",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "5821 Tarrytown Avenue, Baton Rouge LA 70808",
           "Inspection (initial)": "Requested",
@@ -5300,7 +5331,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R84_5821 Tarrytown Avenue_FLEET",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -5377,9 +5408,10 @@
           "Applicant_FirstName": "Lois ",
           "Applicant_LastName": "Washington",
           "AutoNum": 98,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2254211436",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "Description": "5044526076",
           "FullPropertyAddress": "2277 Spain St, Baton Rouge LA 70806",
@@ -5393,7 +5425,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R98_2277 Spain St_WASHINGTON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -5778,9 +5810,10 @@
           "Applicant_FirstName": "Olevia",
           "Applicant_LastName": "Albert",
           "AutoNum": 122,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253835108",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "3956 Provost St, Baton Rouge LA 70802",
           "Inspection (initial)": "Requested",
@@ -5793,7 +5826,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R122_3956 Provost St_ALBERT",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -5966,9 +5999,10 @@
           "Applicant_FirstName": "Barbara",
           "Applicant_LastName": "Picot",
           "AutoNum": 104,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2254784910",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "Description": "2253265542",
           "FullPropertyAddress": "4075 Noah St, Baton Rouge LA 70802",
@@ -5982,7 +6016,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R104_4075 Noah St_PICOT",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -6061,9 +6095,10 @@
           "Applicant_FirstName": "William",
           "Applicant_LastName": "Early",
           "AutoNum": 87,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253579924",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "Description": "2252780356",
           "FullPropertyAddress": "2725 Michelli Dr , Baton Rouge LA 70805",
@@ -6077,7 +6112,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R87_2725 Michelli Dr _EARLY",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -6789,9 +6824,10 @@
           "Applicant_FirstName": "Warren ",
           "Applicant_LastName": "Scott",
           "AutoNum": 112,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253447942",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "309 Ingleside Dr, Baton Rouge LA 70806",
           "Inspection (initial)": "Requested",
@@ -6804,7 +6840,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R112_309 Ingleside Dr_SCOTT",
           "email-of-staff": [
             "tsaunders@ebrra.org"
