@@ -6830,6 +6830,248 @@
           "Status": "Inspection",
           "Total Bid Amount": 7200,
           "caseID": "R9_1542 Kaufman Ave_MONTGOMERY",
+          "completion_photos": [
+            {
+              "filename": "completed_roof_05-tn.jpg",
+              "id": "attXK39Wlb7XiNF5T",
+              "size": 415883,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/30974e7b9d5d309e8dc0b81735e7cff0/494d2eb3",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/da91bca7fe97d6f78e20c8ad725e7187/7184974e",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3d0f6569a9703126edc710292b7f9122/dfae0cc7",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/ea490c7de25bc02e9e774bd5c711f386/73855170/completed_roof_05-tn.jpg"
+            },
+            {
+              "filename": "completed_roof_02-tn.jpg",
+              "id": "attAqAsJJmAuUPsoP",
+              "size": 456239,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/75faf92171203cace3468b17a4cb8a08/dbb49c33",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/8ba521cc9594ba31d1e620bd8c7faa2a/41249715",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/615ba396679f67f2004408cd63644504/c9cdc253",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/2208e1fe7196ca41b079288c72232769/16371378/completed_roof_02-tn.jpg"
+            },
+            {
+              "filename": "completed_roof_04-tn.jpg",
+              "id": "attnoxrQT0RjFpXlH",
+              "size": 483185,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3eddd077cf476397247610b09d10028d/728fd6e5",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/cff4a5d0ba1f2445fc8d0f3f64695cf7/c266ce40",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d54ba67489493c78eb3da7dd0aedf64e/610a25f8",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/79a4073d39aad21fe8acaad4317d83de/38306bee/completed_roof_04-tn.jpg"
+            },
+            {
+              "filename": "completed_roof_01-tn.jpg",
+              "id": "attFAVf4ND67vsYBg",
+              "size": 586708,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/af5758649541f4b13793a6cba61175cd/4b276132",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/1ae3e0345f0e605164bd51b4ea60a3b3/58f04eb6",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/042086c68d63916f9e71d096d3114179/dd9c5f01",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/b809e038f0b1286da855e231757fd165/51b4fa1a/completed_roof_01-tn.jpg"
+            },
+            {
+              "filename": "completed_roof_07-tn.jpg",
+              "id": "attvlWG9dP8P63jx0",
+              "size": 516494,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d55202767aed8904c10a931a53a0d6f8/ab1c5a79",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3675aa1be0240033b915e0e7a802be0f/e42b1e1e",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/df5023d36b78f0359386ed61bf08cf4c/e6c2d83b",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/9d3611e83996d366e34a16c40f5fdef8/6aae2061/completed_roof_07-tn.jpg"
+            },
+            {
+              "filename": "completed_roof_08-tn.jpg",
+              "id": "att4v4swre8JXzYt8",
+              "size": 531694,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/ea821c21d95a74f826cb020ba117cc04/12e63f8f",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/292e38998c5d1f3ccd0a67bcf422720d/85435348",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/6ec469aaaf8f608a0094c670a7139be5/fd998885",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/140c4073e5681ffae08e0e1776ebde6b/70431e9e/completed_roof_08-tn.jpg"
+            },
+            {
+              "filename": "ceiling-repair_02-tn.jpg",
+              "id": "att8fzKD4uoFuMO8T",
+              "size": 215918,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/68465796e1c582dd3808e0677e9f5ee3/113f3971",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/abe877827d783ca1166c99598aca2ad4/a37a0864",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/0ad87edb011cc0e115cad8d5bd12e0cd/81fdc3aa",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/edfb2517e08cea409539a0ae798cecc0/df313beb/ceiling-repair_02-tn.jpg"
+            },
+            {
+              "filename": "ceiling-repair_01-tn.jpg",
+              "id": "att60uCXPOybAB4Vw",
+              "size": 210941,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/8e4e442c7ec71a30dc6c7ed59672860a/895ee0d6",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/97dc8ceb10217b0bb3108fbca8fed4a4/c9c16e13",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/251d71fc21aa9d9b8428c475be485539/40303ae0",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/7728e1f7c96247bb1c3ffeb968951d08/adaf3c91/ceiling-repair_01-tn.jpg"
+            },
+            {
+              "filename": "completed_roof_03-tn.jpg",
+              "id": "attGGW1LuKoTyTOpO",
+              "size": 359878,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/c775098906d9bfa96bd0355b72b25814/5ad78e34",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3b632c062d2d537e710c6b577aff48a0/4d807495",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/7700484ed9334337e0c9f522cf6f97f7/fd4c8622",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/805f1cad09c6fdd723f8a588622ca7a9/45926b39/completed_roof_03-tn.jpg"
+            },
+            {
+              "filename": "completed_roof_06-tn.jpg",
+              "id": "attTJBpfbAqABYPFd",
+              "size": 640252,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d3ae88c026af27deb92d60b4b8630e40/4f37bff8",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/0684253e5039aad5f23829f1ac92e29d/a884e884",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/20d08bf399c0e70c3ce398394bb7e458/a6f174dd",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/c214fc0edaa4f7753ba5825bc7d87b3e/a6e37003/completed_roof_06-tn.jpg"
+            }
+          ],
           "contractor_name": "Redstick Remodeling",
           "email-of-staff": [
             "james@franklinassoc.com"
