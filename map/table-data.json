@@ -57,7 +57,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.386306",
-          "longitude": "-91.10943"
+          "longitude": "-91.10943",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -124,7 +125,8 @@
             "james@franklinassoc.com"
           ],
           "latitude": "30.4837833",
-          "longitude": "-91.1564275"
+          "longitude": "-91.1564275",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -185,7 +187,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4916485",
-          "longitude": "-91.0448298"
+          "longitude": "-91.0448298",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -254,7 +257,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4642522",
-          "longitude": "-91.1416554"
+          "longitude": "-91.1416554",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -348,7 +352,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4864601",
-          "longitude": "-91.1609646"
+          "longitude": "-91.1609646",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -442,7 +447,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4686642",
-          "longitude": "-91.1516279"
+          "longitude": "-91.1516279",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -605,7 +611,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.34675",
-          "longitude": "-91.1278254"
+          "longitude": "-91.1278254",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -666,7 +673,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4895941",
-          "longitude": "-91.0457835"
+          "longitude": "-91.0457835",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -727,7 +735,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5115432",
-          "longitude": "-91.1658783"
+          "longitude": "-91.1658783",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -887,7 +896,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4651996",
-          "longitude": "-91.156765"
+          "longitude": "-91.156765",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1076,7 +1086,8 @@
             "james@franklinassoc.com"
           ],
           "latitude": "30.5246542",
-          "longitude": "-91.1376446"
+          "longitude": "-91.1376446",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1204,7 +1215,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4781594",
-          "longitude": "-91.143661"
+          "longitude": "-91.143661",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1333,7 +1345,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4916115",
-          "longitude": "-91.1396593"
+          "longitude": "-91.1396593",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1393,7 +1406,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4922476",
-          "longitude": "-91.1279043"
+          "longitude": "-91.1279043",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1426,7 +1440,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.502506",
-          "longitude": "-91.146147"
+          "longitude": "-91.146147",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1486,7 +1501,8 @@
             "bclark@ebrra.org"
           ],
           "latitude": "30.4958622",
-          "longitude": "-91.1319009"
+          "longitude": "-91.1319009",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1674,7 +1690,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5308046",
-          "longitude": "-91.1297835"
+          "longitude": "-91.1297835",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1741,7 +1758,8 @@
             "james@franklinassoc.com"
           ],
           "latitude": "30.514905",
-          "longitude": "-91.1620902"
+          "longitude": "-91.1620902",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1774,7 +1792,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.452465",
-          "longitude": "-91.1720676"
+          "longitude": "-91.1720676",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1841,7 +1860,8 @@
             "james@franklinassoc.com"
           ],
           "latitude": "30.5560381",
-          "longitude": "-91.1223547"
+          "longitude": "-91.1223547",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1935,7 +1955,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5154652",
-          "longitude": "-91.1236661"
+          "longitude": "-91.1236661",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2062,7 +2083,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5010897",
-          "longitude": "-91.1424426"
+          "longitude": "-91.1424426",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2122,7 +2144,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4921585",
-          "longitude": "-91.1336436"
+          "longitude": "-91.1336436",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2182,7 +2205,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5136029",
-          "longitude": "-91.1362203"
+          "longitude": "-91.1362203",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2343,7 +2367,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4571961",
-          "longitude": "-91.1424071"
+          "longitude": "-91.1424071",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2403,7 +2428,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4664248",
-          "longitude": "-91.1349835"
+          "longitude": "-91.1349835",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2470,7 +2496,8 @@
             "james@franklinassoc.com"
           ],
           "latitude": "30.4638992",
-          "longitude": "-91.1714674"
+          "longitude": "-91.1714674",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2563,7 +2590,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4664885",
-          "longitude": "-91.1444763"
+          "longitude": "-91.1444763",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2624,7 +2652,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.469333",
-          "longitude": "-91.133754"
+          "longitude": "-91.133754",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2684,7 +2713,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4697849",
-          "longitude": "-91.1508124"
+          "longitude": "-91.1508124",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2776,7 +2806,8 @@
             "bclark@ebrra.org"
           ],
           "latitude": "30.458692",
-          "longitude": "-91.158484"
+          "longitude": "-91.158484",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3126,7 +3157,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4800483",
-          "longitude": "-91.066377"
+          "longitude": "-91.066377",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3219,7 +3251,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5552758",
-          "longitude": "-91.1683539"
+          "longitude": "-91.1683539",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3346,7 +3379,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4683725",
-          "longitude": "-91.1592025"
+          "longitude": "-91.1592025",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3407,7 +3441,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5084953",
-          "longitude": "-91.1182333"
+          "longitude": "-91.1182333",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3467,7 +3502,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.463328",
-          "longitude": "-91.0270759"
+          "longitude": "-91.0270759",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3587,7 +3623,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4589296",
-          "longitude": "-91.0273918"
+          "longitude": "-91.0273918",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3744,7 +3781,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5109921",
-          "longitude": "-91.1620902"
+          "longitude": "-91.1620902",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3930,7 +3968,8 @@
           "Status": "Contracting",
           "caseID": "R21_2980 Sherwood St. _BEALS ",
           "latitude": "30.4894903",
-          "longitude": "-91.1598192"
+          "longitude": "-91.1598192",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3990,7 +4029,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4947864",
-          "longitude": "-91.1288466"
+          "longitude": "-91.1288466",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4051,7 +4091,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4460438",
-          "longitude": "-91.1632645"
+          "longitude": "-91.1632645",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4111,7 +4152,8 @@
             "bclark@ebrra.org"
           ],
           "latitude": "30.4745057",
-          "longitude": "-91.1729684"
+          "longitude": "-91.1729684",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4271,7 +4313,8 @@
             "bclark@ebrra.org"
           ],
           "latitude": "30.4991377",
-          "longitude": "-91.1649032"
+          "longitude": "-91.1649032",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4404,7 +4447,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5140765",
-          "longitude": "-91.1230291"
+          "longitude": "-91.1230291",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4438,7 +4482,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4549776",
-          "longitude": "-91.1422927"
+          "longitude": "-91.1422927",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4586,7 +4631,7 @@
           "Description": "2256921604 - cancelled because duplicate entry",
           "FullPropertyAddress": "2548 Hollywood St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjU0OCBIb2xseXdvb2QgU3QsIEJhdG9uIFJvdWdlIExBIDcwODA1IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIyNTQ4IEhvbGx5d29vZCBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ5OTEzNzcsImxuZyI6LTkxLjE2NDkwMzIwMDAwMDAzfSwiZSI6MTU2NzE5MjE2MDYyN30=",
-          "Inspection (initial)": "None",
+          "Inspection (initial)": "Completed",
           "Owner": "Alfreda  Watson",
           "Owner Phone (7 digit)": "407-6638",
           "Photo of front": [
@@ -4628,7 +4673,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4991377",
-          "longitude": "-91.1649032"
+          "longitude": "-91.1649032",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4754,7 +4800,8 @@
             "bclark@ebrra.org"
           ],
           "latitude": "30.4657694",
-          "longitude": "-91.1736432"
+          "longitude": "-91.1736432",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4815,7 +4862,8 @@
             "bclark@ebrra.org"
           ],
           "latitude": "30.4667707",
-          "longitude": "-91.1469413"
+          "longitude": "-91.1469413",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4911,7 +4959,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4610183",
-          "longitude": "-91.0550409"
+          "longitude": "-91.0550409",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5046,7 +5095,8 @@
             "james@franklinassoc.com"
           ],
           "latitude": "30.492988",
-          "longitude": "-91.1532777"
+          "longitude": "-91.1532777",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5113,7 +5163,8 @@
             "james@franklinassoc.com"
           ],
           "latitude": "30.4738168",
-          "longitude": "-91.1540651"
+          "longitude": "-91.1540651",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5174,7 +5225,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4293483",
-          "longitude": "-91.1377273"
+          "longitude": "-91.1377273",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5234,7 +5286,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4308742",
-          "longitude": "-91.1709797"
+          "longitude": "-91.1709797",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5330,7 +5383,8 @@
             "bclark@ebrra.org"
           ],
           "latitude": "30.4590879",
-          "longitude": "-91.1504564"
+          "longitude": "-91.1504564",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5674,7 +5728,8 @@
             "james@franklinassoc.com"
           ],
           "latitude": "30.4733218",
-          "longitude": "-91.159165"
+          "longitude": "-91.159165",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5735,7 +5790,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4509329",
-          "longitude": "-91.1625317"
+          "longitude": "-91.1625317",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5956,7 +6012,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5167358",
-          "longitude": "-91.1231287"
+          "longitude": "-91.1231287",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -6017,7 +6074,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4889408",
-          "longitude": "-91.1167722"
+          "longitude": "-91.1167722",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -6208,7 +6266,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4858325",
-          "longitude": "-91.046438"
+          "longitude": "-91.046438",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -6269,7 +6328,8 @@
             "james@franklinassoc.com"
           ],
           "latitude": "30.4608717",
-          "longitude": "-91.1371574"
+          "longitude": "-91.1371574",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -7086,7 +7146,8 @@
             "james@franklinassoc.com"
           ],
           "latitude": "30.5095179",
-          "longitude": "-91.1760817"
+          "longitude": "-91.1760817",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
