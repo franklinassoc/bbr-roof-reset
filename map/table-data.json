@@ -291,7 +291,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.495554",
-          "longitude": "-91.16219"
+          "longitude": "-91.16219",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -386,7 +387,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4743507",
-          "longitude": "-91.1456802"
+          "longitude": "-91.1456802",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -481,7 +483,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5154353",
-          "longitude": "-91.1271509"
+          "longitude": "-91.1271509",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -515,7 +518,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4772676",
-          "longitude": "-91.1219238"
+          "longitude": "-91.1219238",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1120,7 +1124,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4883281",
-          "longitude": "-91.1421896"
+          "longitude": "-91.1421896",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1154,7 +1159,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.537476",
-          "longitude": "-91.1949379"
+          "longitude": "-91.1949379",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1250,7 +1256,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4693613",
-          "longitude": "-91.1335967"
+          "longitude": "-91.1335967",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1284,7 +1291,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4858399",
-          "longitude": "-91.0567525"
+          "longitude": "-91.0567525",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1535,7 +1543,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5726974",
-          "longitude": "-91.204257"
+          "longitude": "-91.204257",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1569,7 +1578,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4669056",
-          "longitude": "-91.1360314"
+          "longitude": "-91.1360314",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1894,7 +1904,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5264443",
-          "longitude": "-91.1755454"
+          "longitude": "-91.1755454",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2023,7 +2034,8 @@
             "james@franklinassoc.com"
           ],
           "latitude": "30.4692959",
-          "longitude": "-91.1359579"
+          "longitude": "-91.1359579",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2239,7 +2251,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4730332",
-          "longitude": "-91.1574928"
+          "longitude": "-91.1574928",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2273,7 +2286,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4552231",
-          "longitude": "-91.152809"
+          "longitude": "-91.152809",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2306,7 +2320,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4296758",
-          "longitude": "-91.1827525"
+          "longitude": "-91.1827525",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2530,7 +2545,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5082357",
-          "longitude": "-91.1128623"
+          "longitude": "-91.1128623",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2841,7 +2857,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5119563",
-          "longitude": "-91.1422565"
+          "longitude": "-91.1422565",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2874,7 +2891,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4674534",
-          "longitude": "-91.1511779"
+          "longitude": "-91.1511779",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2934,7 +2952,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4806451",
-          "longitude": "-91.1653532"
+          "longitude": "-91.1653532",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2968,7 +2987,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5024584",
-          "longitude": "-91.1651576"
+          "longitude": "-91.1651576",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3002,7 +3022,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.499157",
-          "longitude": "-91.131561"
+          "longitude": "-91.131561",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3097,7 +3118,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4732195",
-          "longitude": "-91.1273841"
+          "longitude": "-91.1273841",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3191,7 +3213,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4665921",
-          "longitude": "-91.1555791"
+          "longitude": "-91.1555791",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3285,7 +3308,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5057065",
-          "longitude": "-91.1659627"
+          "longitude": "-91.1659627",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3319,7 +3343,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4467613",
-          "longitude": "-91.1607026"
+          "longitude": "-91.1607026",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3563,7 +3588,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.495994",
-          "longitude": "-91.1413368"
+          "longitude": "-91.1413368",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3815,7 +3841,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.3443821",
-          "longitude": "-91.1308609"
+          "longitude": "-91.1308609",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3848,7 +3875,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4898494",
-          "longitude": "-91.0447924"
+          "longitude": "-91.0447924",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3881,7 +3909,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4804262",
-          "longitude": "-91.1075947"
+          "longitude": "-91.1075947",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3914,7 +3943,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.358949",
-          "longitude": "-91.0746846"
+          "longitude": "-91.0746846",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4186,7 +4216,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4070116",
-          "longitude": "-91.0990183"
+          "longitude": "-91.0990183",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4219,7 +4250,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5162669",
-          "longitude": "-91.1658543"
+          "longitude": "-91.1658543",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4252,7 +4284,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5832736",
-          "longitude": "-91.1440546"
+          "longitude": "-91.1440546",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4381,7 +4414,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4608092",
-          "longitude": "-91.1391814"
+          "longitude": "-91.1391814",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4414,7 +4448,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.495247",
-          "longitude": "-91.1521528"
+          "longitude": "-91.1521528",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4578,7 +4613,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.51082",
-          "longitude": "-91.128885"
+          "longitude": "-91.128885",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4612,7 +4648,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.379508",
-          "longitude": "-91.0878605"
+          "longitude": "-91.0878605",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4707,7 +4744,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4617981",
-          "longitude": "-91.1574662"
+          "longitude": "-91.1574662",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4740,7 +4778,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.3644589",
-          "longitude": "-91.0693465"
+          "longitude": "-91.0693465",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4993,7 +5032,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4742019",
-          "longitude": "-91.1524809"
+          "longitude": "-91.1524809",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5417,7 +5457,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4161309",
-          "longitude": "-91.1250712"
+          "longitude": "-91.1250712",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5512,7 +5553,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.445326",
-          "longitude": "-91.16449"
+          "longitude": "-91.16449",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5634,7 +5676,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5258536",
-          "longitude": "-91.1662162"
+          "longitude": "-91.1662162",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5651,7 +5694,7 @@
           "DateOrdered": "2019-08-21",
           "Description": "2257730439",
           "FullPropertyAddress": "4849 Paige St, Baton Rouge LA 70811",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Cherlyn Jackson",
           "Owner Phone (7 digit)": "357-1941",
           "Program": "Roofing Initiative",
@@ -5667,7 +5710,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.51721",
-          "longitude": "-91.142737"
+          "longitude": "-91.142737",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5824,7 +5868,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5130282",
-          "longitude": "-91.1350584"
+          "longitude": "-91.1350584",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5917,7 +5962,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.459954",
-          "longitude": "-91.150758"
+          "longitude": "-91.150758",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -6109,7 +6155,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.462881",
-          "longitude": "-91.149796"
+          "longitude": "-91.149796",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -6205,7 +6252,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4735545",
-          "longitude": "-91.1273383"
+          "longitude": "-91.1273383",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -7180,7 +7228,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4463913",
-          "longitude": "-91.1452074"
+          "longitude": "-91.1452074",
+          "scope-narrative": true
         },
         "type": "Feature"
       }
