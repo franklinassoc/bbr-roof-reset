@@ -4966,7 +4966,9 @@
           "caseID": "R133_9907 Avenue A_THOMAS",
           "email-of-staff": [
             "bclark@ebrra.org"
-          ]
+          ],
+          "latitude": "30.5346472",
+          "longitude": "-91.1906884"
         },
         "type": "Feature"
       },
