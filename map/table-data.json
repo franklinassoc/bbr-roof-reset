@@ -4943,6 +4943,35 @@
       },
       {
         "geometry": null,
+        "id": "recpDC7yYeUwcZV5u",
+        "properties": {
+          "Applicant_FirstName": "Tommy Lee",
+          "Applicant_LastName": "Thomas",
+          "AutoNum": 133,
+          "Case_Status": "Inspection",
+          "ContactPhoneNumber": "(225) 485-8565",
+          "DateOrdered": "2019-09-18",
+          "Description": "Applicant says rainwater is leaking through roof into her home.",
+          "FullPropertyAddress": "9907 Avenue A, Baton Rouge LA 70807",
+          "Owner": "Tommy Lee Thomas",
+          "Owner Phone (7 digit)": "485-8565",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "9907 Avenue A",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70807",
+          "Requested_By": [
+            "recauLE1grMkv8LYi"
+          ],
+          "Status": "Inspection",
+          "caseID": "R133_9907 Avenue A_THOMAS",
+          "email-of-staff": [
+            "bclark@ebrra.org"
+          ]
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recpQy2aGZzM7QcvE",
         "properties": {
           "Applicant_FirstName": "Marilyn",
