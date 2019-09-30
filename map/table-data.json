@@ -69,7 +69,7 @@
           "Applicant_FirstName": "Patricia",
           "Applicant_LastName": "Burkhalter",
           "AutoNum": 3,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "(225) 397-0858",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -117,7 +117,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "Total Bid Amount": 4370,
           "caseID": "R3_3822 N Acadian Thruway East_BURKHALTER",
           "contractor_name": "EDR Contruction",
@@ -1034,7 +1034,7 @@
           "Applicant_FirstName": "Charmaine",
           "Applicant_LastName": "Valentine",
           "AutoNum": 5,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "(225) 200-6770",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -1082,7 +1082,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "Total Bid Amount": 5875,
           "caseID": "R5_8379 McClelland Dr_VALENTINE",
           "contractor_name": "EDR Contruction",
@@ -1978,7 +1978,7 @@
           "Applicant_FirstName": "Dianne",
           "Applicant_LastName": "Harris",
           "AutoNum": 10,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "(225) 356-9008",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -2026,7 +2026,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "Total Bid Amount": 9050,
           "caseID": "R10_5336 Adams Ave_HARRIS",
           "contractor_name": "Public Construction Inc.",
@@ -5110,7 +5110,7 @@
           "Applicant_FirstName": "Peter",
           "Applicant_LastName": "Ketchens",
           "AutoNum": 6,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "(225) 937-6093",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -5158,7 +5158,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "Total Bid Amount": 14229,
           "caseID": "R6_3645 Evangeline St_KETCHENS",
           "contractor_name": "Public Construction Inc.",
@@ -5178,7 +5178,7 @@
           "Applicant_FirstName": "Janice",
           "Applicant_LastName": "Harris",
           "AutoNum": 2,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "(225) 357-7930",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -5226,7 +5226,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "Total Bid Amount": 9250,
           "caseID": "R2_3560 Dalton St_HARRIS",
           "contractor_name": "Affordable R",
@@ -6419,7 +6419,7 @@
           "Applicant_FirstName": "Jessie",
           "Applicant_LastName": "Montgomery",
           "AutoNum": 9,
-          "Case_Status": "Inspection",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "(225) 448-2320",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -6975,7 +6975,7 @@
             "recfk8RZSGi5ZwMNW"
           ],
           "Right-of-Entry": true,
-          "Status": "Inspection",
+          "Status": "Approved",
           "Total Bid Amount": 7200,
           "caseID": "R9_1542 Kaufman Ave_MONTGOMERY",
           "completion_photos": [
