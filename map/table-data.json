@@ -76,6 +76,7 @@
             "recQUZVQRMaOXvAUg"
           ],
           "Date Initial Inspection": "2019-03-11",
+          "Date of NTP": "2019-09-25",
           "DateOrdered": "2019-07-03",
           "Description": "case 96 Rehab program",
           "FullPropertyAddress": "3822 N Acadian Thruway East, Baton Rouge LA 70805",
@@ -113,7 +114,6 @@
           "PropertyAddress_Line1": "3822 N Acadian Thruway East",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
-          "RequestedDueDate": "2019-07-31",
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
@@ -1041,6 +1041,7 @@
             "recQUZVQRMaOXvAUg"
           ],
           "Date Initial Inspection": "2019-03-12",
+          "Date of NTP": "2019-09-25",
           "DateOrdered": "2019-07-03",
           "Description": "case 102 Rehab program",
           "FullPropertyAddress": "8379 McClelland Dr, Baton Rouge LA 70811",
@@ -1078,7 +1079,6 @@
           "PropertyAddress_Line1": "8379 McClelland Dr",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70811",
-          "RequestedDueDate": "2019-07-31",
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
@@ -1756,7 +1756,6 @@
           "PropertyAddress_Line1": "2843 72nd Ave",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70807",
-          "RequestedDueDate": "2019-07-31",
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
@@ -1858,7 +1857,6 @@
           "PropertyAddress_Line1": "6655 Brownfields Dr",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70811",
-          "RequestedDueDate": "2019-07-31",
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
@@ -1985,6 +1983,7 @@
             "recN6hhn7SFQIJ1XI"
           ],
           "Date Initial Inspection": "2019-03-13",
+          "Date of NTP": "2019-08-30",
           "DateOrdered": "2019-07-03",
           "Description": "case 114 Rehab program",
           "FullPropertyAddress": "5336 Adams Ave, Baton Rouge LA 70806",
@@ -2022,7 +2021,6 @@
           "PropertyAddress_Line1": "5336 Adams Ave",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70806",
-          "RequestedDueDate": "2019-07-31",
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
@@ -2499,7 +2497,6 @@
           "PropertyAddress_Line1": "1745 N 18th Street",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70802",
-          "RequestedDueDate": "2019-07-31",
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
@@ -5111,12 +5108,16 @@
           "Applicant_LastName": "Ketchens",
           "AutoNum": 6,
           "Case_Status": "Construction",
+          "Comments": [
+            "rec4jwndaQd2UoW85"
+          ],
           "ContactPhoneNumber": "(225) 937-6093",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recN6hhn7SFQIJ1XI"
           ],
           "Date Initial Inspection": "2019-03-09",
+          "Date of NTP": "2019-09-25",
           "DateOrdered": "2019-07-03",
           "Description": "case 103 Rehab program",
           "FullPropertyAddress": "3645 Evangeline St, Baton Rouge LA 70805",
@@ -5154,7 +5155,6 @@
           "PropertyAddress_Line1": "3645 Evangeline St",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
-          "RequestedDueDate": "2019-07-31",
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
@@ -5185,6 +5185,7 @@
             "recSiY21mfIlA9zfG"
           ],
           "Date Initial Inspection": "2019-03-11",
+          "Date of NTP": "2019-09-25",
           "DateOrdered": "2019-07-03",
           "Description": "case 95 Rehab program",
           "FullPropertyAddress": "3560 Dalton St, Baton Rouge LA 70805",
@@ -5222,7 +5223,6 @@
           "PropertyAddress_Line1": "3560 Dalton St",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
-          "RequestedDueDate": "2019-07-31",
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
@@ -6239,11 +6239,11 @@
           "PropertyAddress_Line1": "2840 Elgin St",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
-          "RequestedDueDate": "2019-07-31",
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
           "Status": "Cancelled",
+          "Work_Began": "2019-07-31",
           "caseID": "R8_2840 Elgin St_LEBEOUF",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -6420,12 +6420,16 @@
           "Applicant_LastName": "Montgomery",
           "AutoNum": 9,
           "Case_Status": "Approved",
+          "Comments": [
+            "recNh8e0eJrIvLnPV"
+          ],
           "ContactPhoneNumber": "(225) 448-2320",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "reck2e1ecRQQmOpn5"
           ],
           "Date Initial Inspection": "2019-03-14",
+          "Date of NTP": "2019-09-25",
           "DateOrdered": "2019-07-03",
           "Delay reason": "08-26 - Roof is complete but the work caused interior sheetrock ceiling to collapse (due to previous water damage.) Contractor is repairing interior sheetrock. Completion anticipated 8-28-19",
           "Description": "case 113 Rehab program\nConstruction to begin 8/14/2019\nRoof completed 8/16; but work caused water damaged drywall ceiling to collapse inside the home. Contractor is making sheet rock repairs.",
@@ -6970,7 +6974,6 @@
           "PropertyAddress_Line1": "1542 Kaufman Ave",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70807",
-          "RequestedDueDate": "2019-08-14",
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
