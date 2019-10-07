@@ -4792,7 +4792,7 @@
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-08-05",
           "DateOrdered": "2019-07-24",
-          "FullPropertyAddress": "200 N 16th Street, Baton Rouge LA 70802",
+          "FullPropertyAddress": "2005 N 16th Street, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMjAwIE4gMTZ0aCBTdHJlZXQsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIyMDAgTiAxNnRoIFN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDIsIFVTQSIsImxhdCI6MzAuNDQ4NzYzOCwibG5nIjotOTEuMTcyMzk2ODk5OTk5OTd9LCJlIjoxNTY4OTA4NTIwODA5fQ==",
           "Inspection (initial)": "Completed",
           "Owner": "Theresa Gray",
@@ -4824,14 +4824,14 @@
             }
           ],
           "Program": "Roofing Initiative",
-          "PropertyAddress_Line1": "200 N 16th Street",
+          "PropertyAddress_Line1": "2005 N 16th Street",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70802",
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
           "Status": "Contracting",
-          "caseID": "R30_200 N 16th Street_GRAY",
+          "caseID": "R30_2005 N 16th Street_GRAY",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
