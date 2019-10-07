@@ -755,7 +755,7 @@
           "Applicant_FirstName": "Juanita",
           "Applicant_LastName": "Carter",
           "AutoNum": 17,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "(225) 356-7203",
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-03-18",
@@ -799,7 +799,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R17_3423 Dalton St_CARTER",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -5267,6 +5267,8 @@
           ],
           "Status": "Construction",
           "Total Bid Amount": 9250,
+          "Work_Began": "2019-10-03",
+          "Work_Completed": "2019-10-07",
           "caseID": "R2_3560 Dalton St_HARRIS",
           "contractor_name": "Affordable R",
           "email-of-staff": [
