@@ -402,6 +402,9 @@
           "Case_Status": "Contracting",
           "ContactPhoneNumber": "2252844148",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-07",
           "DateOrdered": "2019-07-31",
           "Description": "2253546326",
@@ -445,6 +448,7 @@
           ],
           "Status": "Contracting",
           "caseID": "R69_3836 Adams Ave_SCOTT, SR",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -2047,6 +2051,9 @@
           "Case_Status": "Contracting",
           "ContactPhoneNumber": "2255328873",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-04",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "5624 Robertson Ave, Baton Rouge LA 70805",
@@ -2089,6 +2096,7 @@
           ],
           "Status": "Contracting",
           "caseID": "R35_5624 Robertson Ave_MEARIDY",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -2333,6 +2341,9 @@
           "Case_Status": "Contracting",
           "ContactPhoneNumber": "2259298910",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-07",
           "DateOrdered": "2019-07-31",
           "Description": "2253546326",
@@ -2376,6 +2387,7 @@
           ],
           "Status": "Contracting",
           "caseID": "R67_970 N. 47th St_BOWMAN",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -2618,6 +2630,9 @@
           "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253550223",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recLq1mY602uzmPSK"
+          ],
           "Date Initial Inspection": "2019-08-10",
           "DateOrdered": "2019-07-31",
           "Description": "2252059588",
@@ -2661,6 +2676,7 @@
           ],
           "Status": "Contracting",
           "caseID": "R53_5556 Adams Ave_THOMPSON",
+          "contractor_name": "Turnkey Construction",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -2680,6 +2696,9 @@
           "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253566427",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-10",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "3961 Monroe Ave, Baton Rouge LA 70802",
@@ -2722,6 +2741,7 @@
           ],
           "Status": "Contracting",
           "caseID": "R73_3961 Monroe Ave_MASON",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -2773,6 +2793,9 @@
           "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 938-1738",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-11",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "3027 Newton St , Baton Rouge LA 70802",
@@ -2815,6 +2838,7 @@
           ],
           "Status": "Contracting",
           "caseID": "R29_3027 Newton St _SCOTT",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
@@ -4355,9 +4379,12 @@
           "Applicant_FirstName": "Emile",
           "Applicant_LastName": "Chauvin",
           "AutoNum": 40,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253621280",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "DateOrdered": "2019-07-31",
           "Delay reason": "This is a townhome. Applicant resides in half of it. Ownership isn't confirmed.",
           "FullPropertyAddress": "9929 Groner Ave, Baton Rouge LA 70809",
@@ -4372,8 +4399,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R40_9929 Groner Ave_CHAUVIN",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -4790,6 +4818,9 @@
           "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 772-4256",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-05",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "2005 N 16th Street, Baton Rouge LA 70802",
@@ -4832,6 +4863,7 @@
           ],
           "Status": "Contracting",
           "caseID": "R30_2005 N 16th Street_GRAY",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
@@ -4851,6 +4883,9 @@
           "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 357-4498",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-07",
           "DateOrdered": "2019-07-24",
           "Description": "225-692-1604",
@@ -4894,6 +4929,7 @@
           ],
           "Status": "Contracting",
           "caseID": "R24_2041 West Belfair Dr. _DAVIS",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
@@ -5160,6 +5196,8 @@
           ],
           "Status": "Construction",
           "Total Bid Amount": 14229,
+          "Work_Began": "2019-10-03",
+          "Work_Completed": "2019-10-05",
           "caseID": "R6_3645 Evangeline St_KETCHENS",
           "contractor_name": "Public Construction Inc.",
           "email-of-staff": [
@@ -5407,6 +5445,9 @@
           "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 387-4648",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-07",
           "DateOrdered": "2019-07-24",
           "Description": "225-692-1604",
@@ -5450,6 +5491,7 @@
           ],
           "Status": "Contracting",
           "caseID": "R26_831 N 40th St_RUSS",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
