@@ -5145,6 +5145,7 @@
           "Applicant_LastName": "Ketchens",
           "AutoNum": 6,
           "Case_Status": "Construction",
+          "ChangeOrders": 0,
           "Comments": [
             "rec4jwndaQd2UoW85"
           ],
@@ -5157,6 +5158,7 @@
           "Date of NTP": "2019-09-25",
           "DateOrdered": "2019-07-03",
           "Description": "case 103 Rehab program",
+          "Final Project Cost": 14229,
           "FullPropertyAddress": "3645 Evangeline St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzY0NSBFdmFuZ2VsaW5lIFN0LCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMzY0NSBFdmFuZ2VsaW5lIFN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDkyOTg3OTk5OTk5OTksImxuZyI6LTkxLjE1MzI3NzY5OTk5OTk5fSwiZSI6MTU2NjQxNzc1NTcxNn0=",
           "Inspection (initial)": "Completed",
