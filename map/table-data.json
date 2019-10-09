@@ -1655,10 +1655,14 @@
           "Applicant_FirstName": "Lois ",
           "Applicant_LastName": "Paul",
           "AutoNum": 42,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2259214624",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-07",
+          "Date of NTP": "2019-10-08",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "8782 Sharon Hills , Baton Rouge LA 70811",
           "GeocodeCache": "🔵 eyJpIjoiODc4MiBTaGFyb24gSGlsbHMgLCBCYXRvbiBSb3VnZSBMQSA3MDgxMSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiODc4MiBTaGFyb24gSGlsbHMgQmx2ZCwgQmF0b24gUm91Z2UsIExBIDcwODExLCBVU0EiLCJsYXQiOjMwLjUzMDgwNDYsImxuZyI6LTkxLjEyOTc4MzUwMDAwMDAzfSwiZSI6MTU2NzE5MjE5MTMzOH0=",
@@ -1698,8 +1702,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R42_8782 Sharon Hills _PAUL",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -1918,10 +1923,14 @@
           "Applicant_FirstName": "Shirley",
           "Applicant_LastName": "Jarrell",
           "AutoNum": 44,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2252184410",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-07",
+          "Date of NTP": "2019-10-08",
           "DateOrdered": "2019-07-31",
           "Description": "2253242404",
           "FullPropertyAddress": "6822 E Upland Ave, Baton Rouge LA 70812",
@@ -1962,8 +1971,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R44_6822 E Upland Ave_JARRELL",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -2174,10 +2184,14 @@
           "Applicant_FirstName": "Tezana ",
           "Applicant_LastName": "Richard",
           "AutoNum": 43,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2253577837",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-05",
+          "Date of NTP": "2019-10-08",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "5455 Sumrall Dr, Baton Rouge LA 70811",
           "GeocodeCache": "🔵 eyJpIjoiNTQ1NSBTdW1yYWxsIERyLCBCYXRvbiBSb3VnZSBMQSA3MDgxMSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiNTQ1NSBTdW1yYWxsIERyLCBCYXRvbiBSb3VnZSwgTEEgNzA4MTEsIFVTQSIsImxhdCI6MzAuNTEzNjAyOSwibG5nIjotOTEuMTM2MjIwMjk5OTk5OTl9LCJlIjoxNTY3MTkyMTc5OTYwfQ==",
@@ -2217,8 +2231,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R43_5455 Sumrall Dr_RICHARD",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
