@@ -1991,6 +1991,9 @@
           "Applicant_LastName": "Harris",
           "AutoNum": 10,
           "Case_Status": "Construction",
+          "Comments": [
+            "rechrJhRxILxs60gY"
+          ],
           "ContactPhoneNumber": "(225) 356-9008",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -5164,7 +5167,8 @@
           "Case_Status": "Construction",
           "ChangeOrders": 0,
           "Comments": [
-            "rec4jwndaQd2UoW85"
+            "rec4jwndaQd2UoW85",
+            "recrQfxOqdClnCalM"
           ],
           "ContactPhoneNumber": "(225) 937-6093",
           "Contact_MailingAddress_State": "LA",
