@@ -5003,6 +5003,9 @@
           "Applicant_LastName": "Thomas",
           "AutoNum": 133,
           "Case_Status": "Inspection",
+          "Comments": [
+            "rec29lnOzj3lV28H6"
+          ],
           "ContactPhoneNumber": "(225) 485-8565",
           "DateOrdered": "2019-09-18",
           "Description": "Applicant says rainwater is leaking through roof into her home.",
