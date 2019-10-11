@@ -816,7 +816,7 @@
           "Applicant_FirstName": "Christine ",
           "Applicant_LastName": "Hart",
           "AutoNum": 116,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2252353427",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
@@ -831,7 +831,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R116_11866 Baylor St_HART",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2778,7 +2778,7 @@
           "Applicant_FirstName": "Margaret ",
           "Applicant_LastName": "Sterling",
           "AutoNum": 94,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253717939",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
@@ -2793,7 +2793,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R94_3000 Slate St_STERLING",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -5002,7 +5002,7 @@
           "Applicant_FirstName": "Tommy Lee",
           "Applicant_LastName": "Thomas",
           "AutoNum": 133,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "Comments": [
             "rec29lnOzj3lV28H6"
           ],
@@ -5019,7 +5019,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R133_9907 Avenue B_THOMAS",
           "email-of-staff": [
             "bclark@ebrra.org"
@@ -5790,7 +5790,7 @@
           "Applicant_FirstName": "Cherlyn",
           "Applicant_LastName": "Jackson",
           "AutoNum": 130,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253571941",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
@@ -5806,7 +5806,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R130_4849 Paige St_JACKSON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
