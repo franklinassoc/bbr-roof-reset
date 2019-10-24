@@ -1038,7 +1038,7 @@
           "Applicant_FirstName": "Charmaine",
           "Applicant_LastName": "Valentine",
           "AutoNum": 5,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "(225) 200-6770",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -1048,9 +1048,11 @@
           "Date of NTP": "2019-09-25",
           "DateOrdered": "2019-07-03",
           "Description": "case 102 Rehab program",
+          "Final Project Cost": 5857,
           "FullPropertyAddress": "8379 McClelland Dr, Baton Rouge LA 70811",
           "GeocodeCache": "🔵 eyJpIjoiODM3OSBNY0NsZWxsYW5kIERyLCBCYXRvbiBSb3VnZSBMQSA3MDgxMSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiODM3OSBNY0NsZWxsYW5kIERyLCBCYXRvbiBSb3VnZSwgTEEgNzA4MTEsIFVTQSIsImxhdCI6MzAuNTI0NjU0MiwibG5nIjotOTEuMTM3NjQ0NTk5OTk5OTl9LCJlIjoxNTY2NDE3NzQwMTkyfQ==",
           "Inspection (initial)": "Completed",
+          "Invoice Date": "2019-10-24",
           "Owner": "Charmaine Valentine",
           "Owner Phone (7 digit)": "200-6770",
           "Photo of front": [
@@ -1086,8 +1088,9 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
           "Total Bid Amount": 5875,
+          "Work_Completed": "2019-10-24",
           "caseID": "R5_8379 McClelland Dr_VALENTINE",
           "contractor_name": "EDR Contruction",
           "email-of-staff": [
@@ -5243,12 +5246,13 @@
           "Applicant_FirstName": "Janice",
           "Applicant_LastName": "Harris",
           "AutoNum": 2,
-          "Case_Status": "Construction",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "(225) 357-7930",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recSiY21mfIlA9zfG"
           ],
+          "Date Final Inspection": "2019-10-15",
           "Date Initial Inspection": "2019-03-11",
           "Date of NTP": "2019-09-25",
           "DateOrdered": "2019-07-03",
@@ -5291,7 +5295,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Construction",
+          "Status": "Approved",
           "Total Bid Amount": 9250,
           "Work_Began": "2019-10-03",
           "Work_Completed": "2019-10-07",
