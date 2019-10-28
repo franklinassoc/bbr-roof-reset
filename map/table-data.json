@@ -119,6 +119,7 @@
           ],
           "Status": "Construction",
           "Total Bid Amount": 4370,
+          "Work_Began": "2019-10-29",
           "caseID": "R3_3822 N Acadian Thruway East_BURKHALTER",
           "contractor_name": "EDR Contruction",
           "email-of-staff": [
@@ -755,9 +756,12 @@
           "Applicant_FirstName": "Juanita",
           "Applicant_LastName": "Carter",
           "AutoNum": 17,
-          "Case_Status": "Construction",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "(225) 356-7203",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recSiY21mfIlA9zfG"
+          ],
           "Date Initial Inspection": "2019-03-18",
           "DateOrdered": "2019-07-25",
           "Description": "case 125 Rehab program",
@@ -799,8 +803,9 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Construction",
+          "Status": "Approved",
           "caseID": "R17_3423 Dalton St_CARTER",
+          "contractor_name": "Affordable R",
           "email-of-staff": [
             "james@franklinassoc.com"
           ],
@@ -1993,7 +1998,7 @@
           "Applicant_FirstName": "Dianne",
           "Applicant_LastName": "Harris",
           "AutoNum": 10,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "Comments": [
             "rechrJhRxILxs60gY"
           ],
@@ -2044,7 +2049,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
           "Total Bid Amount": 9050,
           "Work_Began": "2019-10-07",
           "Work_Completed": "2019-10-09",
@@ -5170,7 +5175,7 @@
           "Applicant_FirstName": "Peter",
           "Applicant_LastName": "Ketchens",
           "AutoNum": 6,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "ChangeOrders": 0,
           "Comments": [
             "rec4jwndaQd2UoW85",
@@ -5224,7 +5229,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
           "Total Bid Amount": 14229,
           "Work_Began": "2019-10-03",
           "Work_Completed": "2019-10-05",
