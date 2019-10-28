@@ -756,7 +756,7 @@
           "Applicant_FirstName": "Juanita",
           "Applicant_LastName": "Carter",
           "AutoNum": 17,
-          "Case_Status": "Approved",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "(225) 356-7203",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -803,7 +803,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Approved",
+          "Status": "Complete, needs Inspection",
           "caseID": "R17_3423 Dalton St_CARTER",
           "contractor_name": "Affordable R",
           "email-of-staff": [
@@ -1044,7 +1044,7 @@
           "Applicant_LastName": "Valentine",
           "AutoNum": 5,
           "Case_Status": "Complete, needs Inspection",
-          "ContactPhoneNumber": "(225) 200-6770",
+          "ContactPhoneNumber": "(225) 428-6117",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recQUZVQRMaOXvAUg"
@@ -1059,7 +1059,7 @@
           "Inspection (initial)": "Completed",
           "Invoice Date": "2019-10-24",
           "Owner": "Charmaine Valentine",
-          "Owner Phone (7 digit)": "200-6770",
+          "Owner Phone (7 digit)": "428-6117",
           "Photo of front": [
             {
               "filename": "8379_McClelland_Dr.jpg",
@@ -1998,7 +1998,7 @@
           "Applicant_FirstName": "Dianne",
           "Applicant_LastName": "Harris",
           "AutoNum": 10,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "Comments": [
             "rechrJhRxILxs60gY"
           ],
@@ -2049,7 +2049,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
           "Total Bid Amount": 9050,
           "Work_Began": "2019-10-07",
           "Work_Completed": "2019-10-09",
@@ -5175,7 +5175,7 @@
           "Applicant_FirstName": "Peter",
           "Applicant_LastName": "Ketchens",
           "AutoNum": 6,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "ChangeOrders": 0,
           "Comments": [
             "rec4jwndaQd2UoW85",
@@ -5229,7 +5229,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
           "Total Bid Amount": 14229,
           "Work_Began": "2019-10-03",
           "Work_Completed": "2019-10-05",
@@ -6499,7 +6499,7 @@
           "Applicant_FirstName": "Jessie",
           "Applicant_LastName": "Montgomery",
           "AutoNum": 9,
-          "Case_Status": "Approved",
+          "Case_Status": "Complete, needs Inspection",
           "ChangeOrders": 8615,
           "Comments": [
             "recNh8e0eJrIvLnPV"
@@ -6512,7 +6512,7 @@
           "Date Initial Inspection": "2019-03-14",
           "Date of NTP": "2019-08-25",
           "DateOrdered": "2019-07-03",
-          "Delay reason": "08-26 - Roof is complete but the work caused interior sheetrock ceiling to collapse (due to previous water damage.) Contractor is repairing interior sheetrock. Completion anticipated 8-28-19",
+          "Delay reason": "08-26 - Roof is complete but the work caused interior sheetrock ceiling to collapse (due to previous water damage.) Contractor is repairing interior sheetrock. Completion anticipated 8-28-19\n2019-10-28 - Can't close out until change order to repair interior is approved.",
           "Description": "case 113 Rehab program\nConstruction to begin 8/14/2019\nRoof completed 8/16; but work caused water damaged drywall ceiling to collapse inside the home. Contractor is making sheet rock repairs.",
           "Final Project Cost": 15815,
           "FullPropertyAddress": "1542 Kaufman Ave, Baton Rouge LA 70807",
@@ -7060,7 +7060,7 @@
             "recfk8RZSGi5ZwMNW"
           ],
           "Right-of-Entry": true,
-          "Status": "Approved",
+          "Status": "Complete, needs Inspection",
           "Total Bid Amount": 7200,
           "Work_Began": "2019-08-26",
           "Work_Completed": "2019-09-04",
