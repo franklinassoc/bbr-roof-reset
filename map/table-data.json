@@ -756,7 +756,7 @@
           "Applicant_FirstName": "Juanita",
           "Applicant_LastName": "Carter",
           "AutoNum": 17,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Follow-Up",
           "ContactPhoneNumber": "(225) 356-7203",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -803,7 +803,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Follow-Up",
           "caseID": "R17_3423 Dalton St_CARTER",
           "contractor_name": "Affordable R",
           "email-of-staff": [
