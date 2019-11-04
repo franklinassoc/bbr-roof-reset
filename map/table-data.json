@@ -1832,7 +1832,7 @@
           "Applicant_FirstName": "Lucille",
           "Applicant_LastName": "Anderson",
           "AutoNum": 1,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "(225) 775-6272",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -1879,7 +1879,7 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
           "Total Bid Amount": 9000,
           "caseID": "R1_6655 Brownfields Dr_ANDERSON",
           "contractor_name": "Redstick Remodeling",
