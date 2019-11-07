@@ -1832,12 +1832,13 @@
           "Applicant_FirstName": "Lucille",
           "Applicant_LastName": "Anderson",
           "AutoNum": 1,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "(225) 775-6272",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "reck2e1ecRQQmOpn5"
           ],
+          "Date Final Inspection": "2019-11-06",
           "Date Initial Inspection": "2019-03-12",
           "DateOrdered": "2019-07-03",
           "Description": "case 94 Rehab program",
@@ -1879,8 +1880,10 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
           "Total Bid Amount": 9000,
+          "Work_Began": "2019-11-01",
+          "Work_Completed": "2019-11-05",
           "caseID": "R1_6655 Brownfields Dr_ANDERSON",
           "contractor_name": "Redstick Remodeling",
           "email-of-staff": [
@@ -2009,6 +2012,7 @@
           "Contractor Name": [
             "recN6hhn7SFQIJ1XI"
           ],
+          "Date Final Inspection": "2019-10-15",
           "Date Initial Inspection": "2019-03-13",
           "Date of NTP": "2019-08-30",
           "DateOrdered": "2019-07-03",
