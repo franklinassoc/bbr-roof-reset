@@ -1731,7 +1731,7 @@
           "Applicant_FirstName": "Maggie",
           "Applicant_LastName": "Hollins",
           "AutoNum": 7,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "(225) 773-3404",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -1778,8 +1778,9 @@
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "Total Bid Amount": 4800,
+          "Work_Began": "2019-11-18",
           "caseID": "R7_2843 72nd Ave_HOLLINS",
           "contractor_name": "Redstick Remodeling",
           "email-of-staff": [
