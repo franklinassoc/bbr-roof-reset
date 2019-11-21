@@ -2002,6 +2002,7 @@
         "geometry": null,
         "id": "recIdLNKa3J8gYszy",
         "properties": {
+          "30-day closeout": "2019-11-21",
           "Applicant_FirstName": "Dianne",
           "Applicant_LastName": "Harris",
           "AutoNum": 10,
