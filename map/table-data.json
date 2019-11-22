@@ -5017,17 +5017,19 @@
         "id": "recpDC7yYeUwcZV5u",
         "properties": {
           "Applicant_FirstName": "Tommy Lee",
-          "Applicant_LastName": "Thomas",
+          "Applicant_LastName": "Thompson",
           "AutoNum": 133,
           "Case_Status": "Contracting",
           "Comments": [
             "rec29lnOzj3lV28H6"
           ],
           "ContactPhoneNumber": "(225) 485-8565",
+          "Date Initial Inspection": "2019-09-20",
           "DateOrdered": "2019-09-18",
-          "Description": "Applicant says rainwater is leaking through roof into her home.",
+          "Description": "Applicant says rainwater is leaking through roof into her home.\nApplicant contacted news media and a story ran on WAFB:\nhttps://www.wafb.com/2019/09/14/action-jackson-helps-woman-staying-unlivable-conditions/\n",
           "FullPropertyAddress": "9907 Avenue B, Baton Rouge LA 70807",
-          "Owner": "Tommy Lee Thomas",
+          "Inspection (initial)": "Completed",
+          "Owner": "Tommy Lee Thompson",
           "Owner Phone (7 digit)": "485-8565",
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "9907 Avenue B",
@@ -5037,7 +5039,7 @@
             "recauLE1grMkv8LYi"
           ],
           "Status": "Contracting",
-          "caseID": "R133_9907 Avenue B_THOMAS",
+          "caseID": "R133_9907 Avenue B_THOMPSON",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
