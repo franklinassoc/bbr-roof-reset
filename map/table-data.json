@@ -1945,8 +1945,9 @@
             "recGXP2Fwj9U1qlkE"
           ],
           "Date Initial Inspection": "2019-08-07",
-          "Date of NTP": "2019-10-08",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
+          "Delay reason": "Initial NTP 10/8/19 but haulted.",
           "Description": "2253242404",
           "FullPropertyAddress": "6822 E Upland Ave, Baton Rouge LA 70812",
           "GeocodeCache": "🔵 eyJpIjoiNjgyMiBFIFVwbGFuZCBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODEyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI2ODIyIEUgVXBsYW5kIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODEyLCBVU0EiLCJsYXQiOjMwLjUxNTQ2NTIsImxuZyI6LTkxLjEyMzY2NjA5OTk5OTk4fSwiZSI6MTU2NzE5MjE3MTYzOH0=",
@@ -2603,10 +2604,14 @@
           "Applicant_FirstName": "Lawrence ",
           "Applicant_LastName": "Smith",
           "AutoNum": 34,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2253573227",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-07",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "1974 Mission Dr, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMTk3NCBNaXNzaW9uIERyLCBCYXRvbiBSb3VnZSBMQSA3MDgwMiIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMTk3NCBNaXNzaW9uIERyLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDIsIFVTQSIsImxhdCI6MzAuNDY2NDg4NSwibG5nIjotOTEuMTQ0NDc2MzAwMDAwMDF9LCJlIjoxNTY3MTkyMTUzODQ2fQ==",
@@ -2646,8 +2651,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R34_1974 Mission Dr_SMITH",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -2664,13 +2670,14 @@
           "Applicant_FirstName": "Zenetta",
           "Applicant_LastName": "Thompson",
           "AutoNum": 53,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2253550223",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recLq1mY602uzmPSK"
           ],
           "Date Initial Inspection": "2019-08-10",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "Description": "2252059588",
           "FullPropertyAddress": "5556 Adams Ave, Baton Rouge LA 70806",
@@ -2711,7 +2718,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R53_5556 Adams Ave_THOMPSON",
           "contractor_name": "Turnkey Construction",
           "email-of-staff": [
@@ -2730,13 +2737,14 @@
           "Applicant_FirstName": "Joannah",
           "Applicant_LastName": "Mason",
           "AutoNum": 73,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2253566427",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recGXP2Fwj9U1qlkE"
           ],
           "Date Initial Inspection": "2019-08-10",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "3961 Monroe Ave, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMzk2MSBNb25yb2UgQXZlLCBCYXRvbiBSb3VnZSBMQSA3MDgwMiIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMzk2MSBNb25yb2UgQXZlLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDIsIFVTQSIsImxhdCI6MzAuNDY5Nzg0OSwibG5nIjotOTEuMTUwODEyNH0sImUiOjE1NjcxOTIxNTc0Njl9",
@@ -2776,7 +2784,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R73_3961 Monroe Ave_MASON",
           "contractor_name": "Chatmon Construction",
           "email-of-staff": [
@@ -2961,10 +2969,14 @@
           "Applicant_FirstName": "Annie",
           "Applicant_LastName": "Wright",
           "AutoNum": 79,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2253370813",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-05",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "3563 Osceola Ave, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzU2MyBPc2Nlb2xhIEF2ZSwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjM1NjMgT3NjZW9sYSBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ4MDY0NTEsImxuZyI6LTkxLjE2NTM1MzIwMDAwMDAzfSwiZSI6MTU2NzE5MjE1OTQwNH0=",
@@ -3004,8 +3016,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R79_3563 Osceola Ave_WRIGHT",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -3283,10 +3296,14 @@
           "Applicant_FirstName": "Angela",
           "Applicant_LastName": "Williams",
           "AutoNum": 31,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2254396382",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-11",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "2251 Plantation Dr, Baton Rouge LA 70807",
           "GeocodeCache": "🔵 eyJpIjoiMjI1MSBQbGFudGF0aW9uIERyLCBCYXRvbiBSb3VnZSBMQSA3MDgwNyIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMjI1MSBQbGFudGF0aW9uIERyLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDcsIFVTQSIsImxhdCI6MzAuNTU1Mjc1OCwibG5nIjotOTEuMTY4MzUzOX0sImUiOjE1NjcxOTIxNTIzODl9",
@@ -3326,8 +3343,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R31_2251 Plantation Dr_WILLIAMS",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -3658,11 +3676,16 @@
           "Applicant_FirstName": "Myra Lou",
           "Applicant_LastName": "Engram",
           "AutoNum": 75,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "3379625558",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-11",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
+          "Delay reason": "Originally input as #4279 Acacia. Actually #14279.",
           "FullPropertyAddress": "4279 Acacia St, Baton Rouge LA 70819",
           "GeocodeCache": "🔵 eyJpIjoiNDI3OSBBY2FjaWEgU3QsIEJhdG9uIFJvdWdlIExBIDcwODE5IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiJBY2FjaWEgU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgxOSwgVVNBIiwibGF0IjozMC40NTg5Mjk2LCJsbmciOi05MS4wMjczOTE3OTk5OTk5OH0sImUiOjE1NjcxOTIxNzM0Mzd9",
           "Inspection (initial)": "Completed",
@@ -3701,8 +3724,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R75_4279 Acacia St_ENGRAM",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -3815,10 +3839,14 @@
           "Applicant_FirstName": "Juanita ",
           "Applicant_LastName": "Allen",
           "AutoNum": 52,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2253528532",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-11",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "Description": "2259386681",
           "FullPropertyAddress": "6660 Cambridge St, Baton Rouge LA 70807",
@@ -3859,8 +3887,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R52_6660 Cambridge St_ALLEN",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -4013,12 +4042,17 @@
           "Applicant_FirstName": "Lois Marie",
           "Applicant_LastName": "Beals ",
           "AutoNum": 21,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "(225) 444-7447",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "reclO50i225iC0tTc"
+          ],
           "Date Initial Inspection": "2019-08-11",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-17",
-          "FullPropertyAddress": "2980 Sherwood St. , Baton Rouge LA 70805",
+          "Delay reason": "Initially input as house #2980. Actually #2908.\n",
+          "FullPropertyAddress": "2908 Sherwood St. , Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjk4MCBTaGVyd29vZCBTdC4gLCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMjk4MCBTaGVyd29vZCBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ4OTQ5MDMsImxuZyI6LTkxLjE1OTgxOTIwMDAwMDAyfSwiZSI6MTU2NzE5MjE1NDQxN30=",
           "Inspection (initial)": "Completed",
           "Owner": "Lois Marie Beals ",
@@ -4050,13 +4084,14 @@
             }
           ],
           "Program": "Roofing Initiative",
-          "PropertyAddress_Line1": "2980 Sherwood St. ",
+          "PropertyAddress_Line1": "2908 Sherwood St. ",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
-          "Status": "Contracting",
-          "caseID": "R21_2980 Sherwood St. _BEALS ",
-          "latitude": "30.4894903",
-          "longitude": "-91.1598192",
+          "Status": "Construction",
+          "caseID": "R21_2908 Sherwood St. _BEALS ",
+          "contractor_name": "Terence R Williams Enterprises, LLC",
+          "latitude": "30.489371",
+          "longitude": "-91.160612",
           "scope-narrative": true
         },
         "type": "Feature"
@@ -4068,10 +4103,14 @@
           "Applicant_FirstName": "Ernest ",
           "Applicant_LastName": "Jones",
           "AutoNum": 36,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2253580962",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-11",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "6125 Byron St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiNjEyNSBCeXJvbiBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjYxMjUgQnlyb24gQXZlLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDk0Nzg2NCwibG5nIjotOTEuMTI4ODQ2NTk5OTk5OTd9LCJlIjoxNTY3MTkyMTQ5OTMyfQ==",
@@ -4111,8 +4150,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R36_6125 Byron St_JONES",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -4129,10 +4169,14 @@
           "Applicant_FirstName": "Shirley",
           "Applicant_LastName": "Williams",
           "AutoNum": 51,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2252468971",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "reclO50i225iC0tTc"
+          ],
           "Date Initial Inspection": "2019-08-06",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "Description": "2259753250",
           "FullPropertyAddress": "224 Evergreen Dr, Baton Rouge LA 70806",
@@ -4173,8 +4217,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R51_224 Evergreen Dr_WILLIAMS",
+          "contractor_name": "Terence R Williams Enterprises, LLC",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -4191,10 +4236,14 @@
           "Applicant_FirstName": "Willie ",
           "Applicant_LastName": "Christopher",
           "AutoNum": 23,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "(225) 614-0898",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-04",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "2950 Linwood St , Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjk1MCBMaW53b29kIFN0ICwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjI5NTAgTGlud29vZCBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ3NDUwNTcsImxuZyI6LTkxLjE3Mjk2ODR9LCJlIjoxNTY3MTkyMTQ0NjU5fQ==",
@@ -4234,8 +4283,9 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R23_2950 Linwood St _CHRISTOPHER",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
@@ -4416,13 +4466,14 @@
           "Applicant_FirstName": "Emile",
           "Applicant_LastName": "Chauvin",
           "AutoNum": 40,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2253621280",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recGXP2Fwj9U1qlkE"
           ],
           "Date Initial Inspection": "2019-09-18",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "Delay reason": "This is a townhome. Applicant resides in half of it. Ownership isn't confirmed.",
           "FullPropertyAddress": "9929 Groner Ave, Baton Rouge LA 70809",
@@ -4437,7 +4488,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R40_9929 Groner Ave_CHAUVIN",
           "contractor_name": "Chatmon Construction",
           "email-of-staff": [
@@ -4853,13 +4904,14 @@
           "Applicant_FirstName": "Theresa",
           "Applicant_LastName": "Gray",
           "AutoNum": 30,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "(225) 772-4256",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recGXP2Fwj9U1qlkE"
           ],
           "Date Initial Inspection": "2019-08-05",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "2005 N 16th Street, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMjAwIE4gMTZ0aCBTdHJlZXQsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIyMDAgTiAxNnRoIFN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDIsIFVTQSIsImxhdCI6MzAuNDQ4NzYzOCwibG5nIjotOTEuMTcyMzk2ODk5OTk5OTd9LCJlIjoxNTY4OTA4NTIwODA5fQ==",
@@ -4899,7 +4951,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R30_2005 N 16th Street_GRAY",
           "contractor_name": "Chatmon Construction",
           "email-of-staff": [
@@ -4918,13 +4970,14 @@
           "Applicant_FirstName": "Celestine",
           "Applicant_LastName": "Davis",
           "AutoNum": 24,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "(225) 357-4498",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recGXP2Fwj9U1qlkE"
           ],
           "Date Initial Inspection": "2019-08-07",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-24",
           "Description": "225-692-1604",
           "FullPropertyAddress": "2041 West Belfair Dr. , Baton Rouge LA 70805",
@@ -4965,7 +5018,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R24_2041 West Belfair Dr. _DAVIS",
           "contractor_name": "Chatmon Construction",
           "email-of-staff": [
@@ -5333,10 +5386,14 @@
           "Applicant_FirstName": "Carol ",
           "Applicant_LastName": "Miller",
           "AutoNum": 55,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2256145987",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-07",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "Description": "2258061908",
           "FullPropertyAddress": "4943 Bardwell Dr , Baton Rouge LA 70808",
@@ -5377,8 +5434,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R55_4943 Bardwell Dr _MILLER",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -5491,13 +5549,14 @@
           "Applicant_FirstName": "Julia",
           "Applicant_LastName": "Russ",
           "AutoNum": 26,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "(225) 387-4648",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recGXP2Fwj9U1qlkE"
           ],
           "Date Initial Inspection": "2019-08-07",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-24",
           "Description": "225-692-1604",
           "FullPropertyAddress": "831 N 40th St, Baton Rouge LA 70802",
@@ -5538,7 +5597,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R26_831 N 40th St_RUSS",
           "contractor_name": "Chatmon Construction",
           "email-of-staff": [
@@ -6002,10 +6061,14 @@
           "Applicant_FirstName": "Veronica",
           "Applicant_LastName": "Magee",
           "AutoNum": 32,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2252506725",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "reclO50i225iC0tTc"
+          ],
           "Date Initial Inspection": "2019-08-06",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "640 Arlington Ave, Baton Rouge LA 70806",
           "GeocodeCache": "🔵 eyJpIjoiNjQwIEFybGluZ3RvbiBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODA2IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI2NDAgQXJsaW5ndG9uIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODA2LCBVU0EiLCJsYXQiOjMwLjQ0MjY1NjYsImxuZyI6LTkxLjE1OTI1ODc5OTk5OTk4fSwiZSI6MTU2NzE5MjE0NTk3NH0=",
@@ -6045,8 +6108,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R32_640 Arlington Ave_MAGEE",
+          "contractor_name": "Terence R Williams Enterprises, LLC",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
