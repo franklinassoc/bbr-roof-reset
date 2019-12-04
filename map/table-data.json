@@ -6575,7 +6575,7 @@
           "Applicant_FirstName": "Jessie",
           "Applicant_LastName": "Montgomery",
           "AutoNum": 9,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "ChangeOrders": 8615,
           "Comments": [
             "recNh8e0eJrIvLnPV"
@@ -6588,7 +6588,7 @@
           "Date Initial Inspection": "2019-03-14",
           "Date of NTP": "2019-08-25",
           "DateOrdered": "2019-07-03",
-          "Delay reason": "08-26 - Roof is complete but the work caused interior sheet rock ceiling to collapse (due to previous water damage.) Contractor is repairing interior sheet rock. Completion anticipated 8-28-19\n2019-10-28 - Can't close out until change order to repair interior is approved.",
+          "Delay reason": "08-26 - Roof is complete but the work caused interior sheet rock ceiling to collapse (due to previous water damage.) Contractor is repairing interior sheet rock. Completion anticipated 8-28-19\n2019-10-28 - Can't close out until change order to repair interior is approved.\n2019-11-26: Home is fully repaired but contractor hasn't been paid for interior work because change order hasn't been approved. This prevents full closeout of the case.",
           "Description": "case 113 Rehab program\nConstruction to begin 8/14/2019\nRoof completed 8/16; but work caused water damaged drywall ceiling to collapse inside the home. Contractor is making sheet rock repairs.",
           "Final Project Cost": 15815,
           "FullPropertyAddress": "1542 Kaufman Ave, Baton Rouge LA 70807",
@@ -7136,7 +7136,7 @@
             "recfk8RZSGi5ZwMNW"
           ],
           "Right-of-Entry": true,
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
           "Total Bid Amount": 7200,
           "Work_Began": "2019-08-26",
           "Work_Completed": "2019-09-04",
