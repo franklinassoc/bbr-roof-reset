@@ -57,7 +57,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.386306",
-          "longitude": "-91.10943"
+          "longitude": "-91.10943",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -68,12 +69,14 @@
           "Applicant_FirstName": "Patricia",
           "Applicant_LastName": "Burkhalter",
           "AutoNum": 3,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "(225) 397-0858",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recQUZVQRMaOXvAUg"
           ],
+          "Date Initial Inspection": "2019-03-11",
+          "Date of NTP": "2019-09-25",
           "DateOrdered": "2019-07-03",
           "Description": "case 96 Rehab program",
           "FullPropertyAddress": "3822 N Acadian Thruway East, Baton Rouge LA 70805",
@@ -111,19 +114,20 @@
           "PropertyAddress_Line1": "3822 N Acadian Thruway East",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
-          "RequestedDueDate": "2019-07-31",
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "Total Bid Amount": 4370,
+          "Work_Began": "2019-10-29",
           "caseID": "R3_3822 N Acadian Thruway East_BURKHALTER",
           "contractor_name": "EDR Contruction",
           "email-of-staff": [
             "james@franklinassoc.com"
           ],
           "latitude": "30.4837833",
-          "longitude": "-91.1564275"
+          "longitude": "-91.1564275",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -184,7 +188,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4916485",
-          "longitude": "-91.0448298"
+          "longitude": "-91.0448298",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -230,13 +235,14 @@
           "Applicant_FirstName": "Arthur",
           "Applicant_LastName": "Antwine",
           "AutoNum": 90,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2259261516",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "Description": "2252522865",
           "FullPropertyAddress": "1713 N 49th St, Baton Rouge LA 70802",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Arthur Antwine",
           "Owner Phone (7 digit)": "926-1516",
           "Program": "Roofing Initiative",
@@ -246,13 +252,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R90_1713 N 49th St_ANTWINE",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4642522",
-          "longitude": "-91.1416554"
+          "longitude": "-91.1416554",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -263,12 +270,13 @@
           "Applicant_FirstName": "Erika",
           "Applicant_LastName": "Allen",
           "AutoNum": 85,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2256032869",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-09-03",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "2834 Iberia St, Baton Rouge LA 70805",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Erika Allen",
           "Owner Phone (7 digit)": "603-2869",
           "Program": "Roofing Initiative",
@@ -278,13 +286,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R85_2834 Iberia St_ALLEN",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.495554",
-          "longitude": "-91.16219"
+          "longitude": "-91.16219",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -345,7 +354,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4864601",
-          "longitude": "-91.1609646"
+          "longitude": "-91.1609646",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -356,12 +366,13 @@
           "Applicant_FirstName": "Michelle",
           "Applicant_LastName": "Bell",
           "AutoNum": 131,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2252795895",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "2860 Eaton St, Baton Rouge LA 70805",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Michelle Bell",
           "Owner Phone (7 digit)": "279-5895",
           "Program": "Roofing Initiative",
@@ -371,13 +382,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R131_2860 Eaton St_BELL",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4743507",
-          "longitude": "-91.1456802"
+          "longitude": "-91.1456802",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -391,6 +403,9 @@
           "Case_Status": "Contracting",
           "ContactPhoneNumber": "2252844148",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-07",
           "DateOrdered": "2019-07-31",
           "Description": "2253546326",
@@ -434,11 +449,13 @@
           ],
           "Status": "Contracting",
           "caseID": "R69_3836 Adams Ave_SCOTT, SR",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4686642",
-          "longitude": "-91.1516279"
+          "longitude": "-91.1516279",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -449,12 +466,13 @@
           "Applicant_FirstName": "Anthony",
           "Applicant_LastName": "Singleton",
           "AutoNum": 95,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253711318",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-09-04",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "7035 N Buttonwood Dr, Baton Rouge LA 70812",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Anthony Singleton",
           "Owner Phone (7 digit)": "371-1318",
           "Program": "Roofing Initiative",
@@ -464,13 +482,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R95_7035 N Buttonwood Dr_SINGLETON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5154353",
-          "longitude": "-91.1271509"
+          "longitude": "-91.1271509",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -481,13 +500,14 @@
           "Applicant_FirstName": "Gloria",
           "Applicant_LastName": "Collins",
           "AutoNum": 109,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253565813",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-09-03",
           "DateOrdered": "2019-08-21",
           "Description": "2254005009",
           "FullPropertyAddress": "3055 Juban Ave, Baton Rouge LA 70805",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Gloria Collins",
           "Owner Phone (7 digit)": "356-5813",
           "Program": "Roofing Initiative",
@@ -497,13 +517,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R109_3055 Juban Ave_COLLINS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4772676",
-          "longitude": "-91.1219238"
+          "longitude": "-91.1219238",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -599,7 +620,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.34675",
-          "longitude": "-91.1278254"
+          "longitude": "-91.1278254",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -660,7 +682,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4895941",
-          "longitude": "-91.0457835"
+          "longitude": "-91.0457835",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -721,7 +744,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5115432",
-          "longitude": "-91.1658783"
+          "longitude": "-91.1658783",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -735,8 +759,12 @@
           "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 356-7203",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recSiY21mfIlA9zfG"
+          ],
           "Date Initial Inspection": "2019-03-18",
           "DateOrdered": "2019-07-25",
+          "Description": "case 125 Rehab program",
           "FullPropertyAddress": "3423 Dalton St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzQyMyBEYWx0b24gU3QsIEJhdG9uIFJvdWdlIExBIDcwODA1IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNDIzIERhbHRvbiBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ3NDE2NTc5OTk5OTk5LCJsbmciOi05MS4xNTUzMDI1fSwiZSI6MTU2NjQxNzc1MjM0M30=",
           "Inspection (initial)": "Completed",
@@ -777,6 +805,7 @@
           ],
           "Status": "Contracting",
           "caseID": "R17_3423 Dalton St_CARTER",
+          "contractor_name": "Affordable R",
           "email-of-staff": [
             "james@franklinassoc.com"
           ],
@@ -792,7 +821,7 @@
           "Applicant_FirstName": "Christine ",
           "Applicant_LastName": "Hart",
           "AutoNum": 116,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2252353427",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
@@ -807,7 +836,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R116_11866 Baylor St_HART",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -858,12 +887,13 @@
           "Applicant_FirstName": "Marner ",
           "Applicant_LastName": "Lewis",
           "AutoNum": 88,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253831659",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "3156 Washington Ave, Baton Rouge LA 70802",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Marner  Lewis",
           "Owner Phone (7 digit)": "383-1659",
           "Program": "Roofing Initiative",
@@ -873,13 +903,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R88_3156 Washington Ave_LEWIS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4651996",
-          "longitude": "-91.156765"
+          "longitude": "-91.156765",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -895,6 +926,7 @@
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-03-18",
           "DateOrdered": "2019-07-25",
+          "Description": "case 88 Rehab program",
           "FullPropertyAddress": "3869 Pontiac St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzg2OSBQb250aWFjIFN0LCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMzg2OSBQb250aWFjIFN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDgzOTIsImxuZyI6LTkxLjE2NzY1MDZ9LCJlIjoxNTY2NDE3NzQ3MTgyfQ==",
           "Inspection (initial)": "Completed",
@@ -955,6 +987,7 @@
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-03-21",
           "DateOrdered": "2019-07-25",
+          "Description": "case 126 Rehab program",
           "FullPropertyAddress": "3425 Adams Ave, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMzQyNSBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNDI1IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODAyLCBVU0EiLCJsYXQiOjMwLjQ2ODg4ODIsImxuZyI6LTkxLjE1NDkxNzJ9LCJlIjoxNTY2NDE3NzUxMzMwfQ==",
           "Inspection (initial)": "Completed",
@@ -1010,19 +1043,24 @@
           "Applicant_FirstName": "Charmaine",
           "Applicant_LastName": "Valentine",
           "AutoNum": 5,
-          "Case_Status": "Contracting",
-          "ContactPhoneNumber": "(225) 200-6770",
+          "Case_Status": "Approved",
+          "ContactPhoneNumber": "(225) 428-6117",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recQUZVQRMaOXvAUg"
           ],
+          "Date Final Inspection": "2019-10-29",
+          "Date Initial Inspection": "2019-03-12",
+          "Date of NTP": "2019-09-25",
           "DateOrdered": "2019-07-03",
           "Description": "case 102 Rehab program",
+          "Final Project Cost": 5857,
           "FullPropertyAddress": "8379 McClelland Dr, Baton Rouge LA 70811",
           "GeocodeCache": "🔵 eyJpIjoiODM3OSBNY0NsZWxsYW5kIERyLCBCYXRvbiBSb3VnZSBMQSA3MDgxMSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiODM3OSBNY0NsZWxsYW5kIERyLCBCYXRvbiBSb3VnZSwgTEEgNzA4MTEsIFVTQSIsImxhdCI6MzAuNTI0NjU0MiwibG5nIjotOTEuMTM3NjQ0NTk5OTk5OTl9LCJlIjoxNTY2NDE3NzQwMTkyfQ==",
           "Inspection (initial)": "Completed",
+          "Invoice Date": "2019-10-24",
           "Owner": "Charmaine Valentine",
-          "Owner Phone (7 digit)": "200-6770",
+          "Owner Phone (7 digit)": "428-6117",
           "Photo of front": [
             {
               "filename": "8379_McClelland_Dr.jpg",
@@ -1053,19 +1091,21 @@
           "PropertyAddress_Line1": "8379 McClelland Dr",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70811",
-          "RequestedDueDate": "2019-07-31",
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Contracting",
+          "Status": "Approved",
           "Total Bid Amount": 5875,
+          "Work_Began": "2019-10-21",
+          "Work_Completed": "2019-10-24",
           "caseID": "R5_8379 McClelland Dr_VALENTINE",
           "contractor_name": "EDR Contruction",
           "email-of-staff": [
             "james@franklinassoc.com"
           ],
           "latitude": "30.5246542",
-          "longitude": "-91.1376446"
+          "longitude": "-91.1376446",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1076,12 +1116,13 @@
           "Applicant_FirstName": "Toye",
           "Applicant_LastName": "Davis",
           "AutoNum": 108,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2252350319",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-09-03",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "4151 Joseph St, Baton Rouge LA 70805",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Toye Davis",
           "Owner Phone (7 digit)": "235-0319",
           "Program": "Roofing Initiative",
@@ -1091,13 +1132,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R108_4151 Joseph St_DAVIS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4883281",
-          "longitude": "-91.1421896"
+          "longitude": "-91.1421896",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1108,13 +1150,14 @@
           "Applicant_FirstName": "Gustina ",
           "Applicant_LastName": "Carter",
           "AutoNum": 124,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2257750687",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "Description": "2259310894",
           "FullPropertyAddress": "404 Elmer Ave, Baton Rouge LA 70807",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Gustina  Carter",
           "Owner Phone (7 digit)": "775-0687",
           "Program": "Roofing Initiative",
@@ -1124,13 +1167,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R124_404 Elmer Ave_CARTER",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.537476",
-          "longitude": "-91.1949379"
+          "longitude": "-91.1949379",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1191,7 +1235,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4781594",
-          "longitude": "-91.143661"
+          "longitude": "-91.143661",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1202,13 +1247,14 @@
           "Applicant_FirstName": "Charlean ",
           "Applicant_LastName": "Reed",
           "AutoNum": 102,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253550953",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "Description": "2256032549",
           "FullPropertyAddress": "5562 Adams Ave, Baton Rouge LA 70806",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Charlean  Reed",
           "Owner Phone (7 digit)": "355-0953",
           "Program": "Roofing Initiative",
@@ -1218,13 +1264,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R102_5562 Adams Ave_REED",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4693613",
-          "longitude": "-91.1335967"
+          "longitude": "-91.1335967",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1235,13 +1282,14 @@
           "Applicant_FirstName": "Joseph ",
           "Applicant_LastName": "Taylor",
           "AutoNum": 93,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2257267901",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "Description": "2252299768",
           "FullPropertyAddress": "11227 Flamingo Dr, Baton Rouge LA 70814",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Joseph  Taylor",
           "Owner Phone (7 digit)": "726-7901",
           "Program": "Roofing Initiative",
@@ -1251,13 +1299,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R93_11227 Flamingo Dr_TAYLOR",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4858399",
-          "longitude": "-91.0567525"
+          "longitude": "-91.0567525",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1318,7 +1367,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4916115",
-          "longitude": "-91.1396593"
+          "longitude": "-91.1396593",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1378,7 +1428,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4922476",
-          "longitude": "-91.1279043"
+          "longitude": "-91.1279043",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1389,12 +1440,13 @@
           "Applicant_FirstName": "Gloria",
           "Applicant_LastName": "Breckenridge",
           "AutoNum": 125,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2252468074",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-09-03",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "5755 Dutton Ave, Baton Rouge LA 70805",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Gloria Breckenridge",
           "Owner Phone (7 digit)": "246-8074",
           "Program": "Roofing Initiative",
@@ -1404,13 +1456,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R125_5755 Dutton Ave_BRECKENRIDGE",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.502506",
-          "longitude": "-91.146147"
+          "longitude": "-91.146147",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1470,7 +1523,8 @@
             "bclark@ebrra.org"
           ],
           "latitude": "30.4958622",
-          "longitude": "-91.1319009"
+          "longitude": "-91.1319009",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1481,12 +1535,13 @@
           "Applicant_FirstName": "Adele",
           "Applicant_LastName": "Reed",
           "AutoNum": 100,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2252781179",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "13952 Alsen Heights  Pkwy, Baton Rouge LA 70807",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Adele Reed",
           "Owner Phone (7 digit)": "278-1179",
           "Program": "Roofing Initiative",
@@ -1496,13 +1551,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R100_13952 Alsen Heights  Pkwy_REED",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5726974",
-          "longitude": "-91.204257"
+          "longitude": "-91.204257",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1513,13 +1569,14 @@
           "Applicant_FirstName": "Ida",
           "Applicant_LastName": "Banks",
           "AutoNum": 107,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253571522",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "Description": "2259363398",
           "FullPropertyAddress": "5309 Jackson Ave, Baton Rouge LA 70806",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Ida Banks",
           "Owner Phone (7 digit)": "357-1522",
           "Program": "Roofing Initiative",
@@ -1529,13 +1586,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R107_5309 Jackson Ave_BANKS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4669056",
-          "longitude": "-91.1360314"
+          "longitude": "-91.1360314",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1551,6 +1609,7 @@
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-02-18",
           "DateOrdered": "2019-07-25",
+          "Description": "case 75 Rehab program",
           "FullPropertyAddress": "2358 Valley St, Baton Rouge LA 70808",
           "GeocodeCache": "🔵 eyJpIjoiMjM1OCBWYWxsZXkgU3QsIEJhdG9uIFJvdWdlIExBIDcwODA4IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIyMzU4IFZhbGxleSBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA4LCBVU0EiLCJsYXQiOjMwLjQyNjk2NTEsImxuZyI6LTkxLjE0NDc2Njg5OTk5OTk4fSwiZSI6MTU2NjQxNzc0ODI0M30=",
           "Inspection (initial)": "Completed",
@@ -1606,10 +1665,14 @@
           "Applicant_FirstName": "Lois ",
           "Applicant_LastName": "Paul",
           "AutoNum": 42,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2259214624",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-07",
+          "Date of NTP": "2019-10-08",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "8782 Sharon Hills , Baton Rouge LA 70811",
           "GeocodeCache": "🔵 eyJpIjoiODc4MiBTaGFyb24gSGlsbHMgLCBCYXRvbiBSb3VnZSBMQSA3MDgxMSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiODc4MiBTaGFyb24gSGlsbHMgQmx2ZCwgQmF0b24gUm91Z2UsIExBIDcwODExLCBVU0EiLCJsYXQiOjMwLjUzMDgwNDYsImxuZyI6LTkxLjEyOTc4MzUwMDAwMDAzfSwiZSI6MTU2NzE5MjE5MTMzOH0=",
@@ -1649,13 +1712,15 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R42_8782 Sharon Hills _PAUL",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5308046",
-          "longitude": "-91.1297835"
+          "longitude": "-91.1297835",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1666,12 +1731,14 @@
           "Applicant_FirstName": "Maggie",
           "Applicant_LastName": "Hollins",
           "AutoNum": 7,
-          "Case_Status": "Contracting",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "(225) 773-3404",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "reck2e1ecRQQmOpn5"
           ],
+          "Date Final Inspection": "2019-11-20",
+          "Date Initial Inspection": "2019-03-12",
           "DateOrdered": "2019-07-03",
           "Description": "case 104 Rehab program",
           "FullPropertyAddress": "2843 72nd Ave, Baton Rouge LA 70807",
@@ -1709,19 +1776,21 @@
           "PropertyAddress_Line1": "2843 72nd Ave",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70807",
-          "RequestedDueDate": "2019-07-31",
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Contracting",
+          "Status": "Approved",
           "Total Bid Amount": 4800,
+          "Work_Began": "2019-11-18",
+          "Work_Completed": "2019-11-18",
           "caseID": "R7_2843 72nd Ave_HOLLINS",
           "contractor_name": "Redstick Remodeling",
           "email-of-staff": [
             "james@franklinassoc.com"
           ],
           "latitude": "30.514905",
-          "longitude": "-91.1620902"
+          "longitude": "-91.1620902",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1732,12 +1801,13 @@
           "Applicant_FirstName": "Loretta",
           "Applicant_LastName": "Brown ",
           "AutoNum": 126,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2258924236",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "517 N 17th St, Baton Rouge LA 70802",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Loretta Brown ",
           "Owner Phone (7 digit)": "892-4236",
           "Program": "Roofing Initiative",
@@ -1747,13 +1817,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R126_517 N 17th St_BROWN ",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.452465",
-          "longitude": "-91.1720676"
+          "longitude": "-91.1720676",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1764,12 +1835,14 @@
           "Applicant_FirstName": "Lucille",
           "Applicant_LastName": "Anderson",
           "AutoNum": 1,
-          "Case_Status": "Contracting",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "(225) 775-6272",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "reck2e1ecRQQmOpn5"
           ],
+          "Date Final Inspection": "2019-11-06",
+          "Date Initial Inspection": "2019-03-12",
           "DateOrdered": "2019-07-03",
           "Description": "case 94 Rehab program",
           "FullPropertyAddress": "6655 Brownfields Dr, Baton Rouge LA 70811",
@@ -1807,19 +1880,21 @@
           "PropertyAddress_Line1": "6655 Brownfields Dr",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70811",
-          "RequestedDueDate": "2019-07-31",
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Contracting",
+          "Status": "Approved",
           "Total Bid Amount": 9000,
+          "Work_Began": "2019-11-01",
+          "Work_Completed": "2019-11-05",
           "caseID": "R1_6655 Brownfields Dr_ANDERSON",
           "contractor_name": "Redstick Remodeling",
           "email-of-staff": [
             "james@franklinassoc.com"
           ],
           "latitude": "30.5560381",
-          "longitude": "-91.1223547"
+          "longitude": "-91.1223547",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1830,12 +1905,13 @@
           "Applicant_FirstName": "Mable",
           "Applicant_LastName": "Jackson",
           "AutoNum": 129,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2252700045",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "8727 Thelma St, Baton Rouge LA 70807",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Mable Jackson",
           "Owner Phone (7 digit)": "270-0045",
           "Program": "Roofing Initiative",
@@ -1845,13 +1921,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R129_8727 Thelma St_JACKSON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5264443",
-          "longitude": "-91.1755454"
+          "longitude": "-91.1755454",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1862,11 +1939,16 @@
           "Applicant_FirstName": "Shirley",
           "Applicant_LastName": "Jarrell",
           "AutoNum": 44,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2252184410",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-07",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
+          "Delay reason": "Initial NTP 10/8/19 but haulted.",
           "Description": "2253242404",
           "FullPropertyAddress": "6822 E Upland Ave, Baton Rouge LA 70812",
           "GeocodeCache": "🔵 eyJpIjoiNjgyMiBFIFVwbGFuZCBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODEyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI2ODIyIEUgVXBsYW5kIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODEyLCBVU0EiLCJsYXQiOjMwLjUxNTQ2NTIsImxuZyI6LTkxLjEyMzY2NjA5OTk5OTk4fSwiZSI6MTU2NzE5MjE3MTYzOH0=",
@@ -1906,13 +1988,15 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R44_6822 E Upland Ave_JARRELL",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5154652",
-          "longitude": "-91.1236661"
+          "longitude": "-91.1236661",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1920,15 +2004,22 @@
         "geometry": null,
         "id": "recIdLNKa3J8gYszy",
         "properties": {
+          "30-day closeout": "2019-11-21",
           "Applicant_FirstName": "Dianne",
           "Applicant_LastName": "Harris",
           "AutoNum": 10,
-          "Case_Status": "Contracting",
+          "Case_Status": "Approved",
+          "Comments": [
+            "rechrJhRxILxs60gY"
+          ],
           "ContactPhoneNumber": "(225) 356-9008",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recN6hhn7SFQIJ1XI"
           ],
+          "Date Final Inspection": "2019-10-15",
+          "Date Initial Inspection": "2019-03-13",
+          "Date of NTP": "2019-08-30",
           "DateOrdered": "2019-07-03",
           "Description": "case 114 Rehab program",
           "FullPropertyAddress": "5336 Adams Ave, Baton Rouge LA 70806",
@@ -1966,19 +2057,21 @@
           "PropertyAddress_Line1": "5336 Adams Ave",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70806",
-          "RequestedDueDate": "2019-07-31",
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Contracting",
+          "Status": "Approved",
           "Total Bid Amount": 9050,
+          "Work_Began": "2019-10-07",
+          "Work_Completed": "2019-10-09",
           "caseID": "R10_5336 Adams Ave_HARRIS",
           "contractor_name": "Public Construction Inc.",
           "email-of-staff": [
             "james@franklinassoc.com"
           ],
           "latitude": "30.4692959",
-          "longitude": "-91.1359579"
+          "longitude": "-91.1359579",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -1992,6 +2085,9 @@
           "Case_Status": "Contracting",
           "ContactPhoneNumber": "2255328873",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-04",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "5624 Robertson Ave, Baton Rouge LA 70805",
@@ -2034,11 +2130,13 @@
           ],
           "Status": "Contracting",
           "caseID": "R35_5624 Robertson Ave_MEARIDY",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5010897",
-          "longitude": "-91.1424426"
+          "longitude": "-91.1424426",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2098,7 +2196,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4921585",
-          "longitude": "-91.1336436"
+          "longitude": "-91.1336436",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2109,10 +2208,14 @@
           "Applicant_FirstName": "Tezana ",
           "Applicant_LastName": "Richard",
           "AutoNum": 43,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2253577837",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-05",
+          "Date of NTP": "2019-10-08",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "5455 Sumrall Dr, Baton Rouge LA 70811",
           "GeocodeCache": "🔵 eyJpIjoiNTQ1NSBTdW1yYWxsIERyLCBCYXRvbiBSb3VnZSBMQSA3MDgxMSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiNTQ1NSBTdW1yYWxsIERyLCBCYXRvbiBSb3VnZSwgTEEgNzA4MTEsIFVTQSIsImxhdCI6MzAuNTEzNjAyOSwibG5nIjotOTEuMTM2MjIwMjk5OTk5OTl9LCJlIjoxNTY3MTkyMTc5OTYwfQ==",
@@ -2152,13 +2255,15 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R43_5455 Sumrall Dr_RICHARD",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5136029",
-          "longitude": "-91.1362203"
+          "longitude": "-91.1362203",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2169,12 +2274,13 @@
           "Applicant_FirstName": "Linda",
           "Applicant_LastName": "Johnson ",
           "AutoNum": 132,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2259363370",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "3142 Chippewa Street , Baton Rouge LA 70805",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Linda Johnson ",
           "Owner Phone (7 digit)": "936-3370",
           "Program": "Roofing Initiative",
@@ -2184,13 +2290,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R132_3142 Chippewa Street _JOHNSON ",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4730332",
-          "longitude": "-91.1574928"
+          "longitude": "-91.1574928",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2201,13 +2308,14 @@
           "Applicant_FirstName": "Lynda",
           "Applicant_LastName": "Allen",
           "AutoNum": 106,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253433922",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "Description": "2259782585",
           "FullPropertyAddress": "743 N 37th St, Baton Rouge LA 70802",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Lynda Allen",
           "Owner Phone (7 digit)": "343-3922",
           "Program": "Roofing Initiative",
@@ -2217,13 +2325,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R106_743 N 37th St_ALLEN",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4552231",
-          "longitude": "-91.152809"
+          "longitude": "-91.152809",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2234,12 +2343,13 @@
           "Applicant_FirstName": "Lionel and Earlean ",
           "Applicant_LastName": "Early",
           "AutoNum": 83,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2255886461",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "147 Van Buren St. , Baton Rouge LA 70802",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Lionel and Earlean  Early",
           "Owner Phone (7 digit)": "588-6461",
           "Program": "Roofing Initiative",
@@ -2249,13 +2359,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R83_147 Van Buren St. _EARLY",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4296758",
-          "longitude": "-91.1827525"
+          "longitude": "-91.1827525",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2269,6 +2380,9 @@
           "Case_Status": "Contracting",
           "ContactPhoneNumber": "2259298910",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-07",
           "DateOrdered": "2019-07-31",
           "Description": "2253546326",
@@ -2312,11 +2426,13 @@
           ],
           "Status": "Contracting",
           "caseID": "R67_970 N. 47th St_BOWMAN",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4571961",
-          "longitude": "-91.1424071"
+          "longitude": "-91.1424071",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2376,7 +2492,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4664248",
-          "longitude": "-91.1349835"
+          "longitude": "-91.1349835",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2393,6 +2510,7 @@
           "Contractor Name": [
             "recT4RWARnMszNoI0"
           ],
+          "Date Initial Inspection": "2019-03-09",
           "DateOrdered": "2019-07-03",
           "Description": "case 97 Rehab program",
           "FullPropertyAddress": "1745 N 18th Street, Baton Rouge LA 70802",
@@ -2430,7 +2548,6 @@
           "PropertyAddress_Line1": "1745 N 18th Street",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70802",
-          "RequestedDueDate": "2019-07-31",
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
@@ -2442,7 +2559,8 @@
             "james@franklinassoc.com"
           ],
           "latitude": "30.4638992",
-          "longitude": "-91.1714674"
+          "longitude": "-91.1714674",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2453,12 +2571,13 @@
           "Applicant_FirstName": "Mary Lee",
           "Applicant_LastName": "Johnson",
           "AutoNum": 119,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2254392339",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-09-04",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "6168 Calion Dr, Baton Rouge LA 70812",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Mary Lee Johnson",
           "Owner Phone (7 digit)": "439-2339",
           "Program": "Roofing Initiative",
@@ -2468,13 +2587,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R119_6168 Calion Dr_JOHNSON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5082357",
-          "longitude": "-91.1128623"
+          "longitude": "-91.1128623",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2485,10 +2605,14 @@
           "Applicant_FirstName": "Lawrence ",
           "Applicant_LastName": "Smith",
           "AutoNum": 34,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2253573227",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-07",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "1974 Mission Dr, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMTk3NCBNaXNzaW9uIERyLCBCYXRvbiBSb3VnZSBMQSA3MDgwMiIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMTk3NCBNaXNzaW9uIERyLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDIsIFVTQSIsImxhdCI6MzAuNDY2NDg4NSwibG5nIjotOTEuMTQ0NDc2MzAwMDAwMDF9LCJlIjoxNTY3MTkyMTUzODQ2fQ==",
@@ -2528,13 +2652,15 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R34_1974 Mission Dr_SMITH",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4664885",
-          "longitude": "-91.1444763"
+          "longitude": "-91.1444763",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2545,10 +2671,14 @@
           "Applicant_FirstName": "Zenetta",
           "Applicant_LastName": "Thompson",
           "AutoNum": 53,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2253550223",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recLq1mY602uzmPSK"
+          ],
           "Date Initial Inspection": "2019-08-10",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "Description": "2252059588",
           "FullPropertyAddress": "5556 Adams Ave, Baton Rouge LA 70806",
@@ -2589,13 +2719,15 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R53_5556 Adams Ave_THOMPSON",
+          "contractor_name": "Turnkey Construction",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.469333",
-          "longitude": "-91.133754"
+          "longitude": "-91.133754",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2606,10 +2738,14 @@
           "Applicant_FirstName": "Joannah",
           "Applicant_LastName": "Mason",
           "AutoNum": 73,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2253566427",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-10",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "3961 Monroe Ave, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMzk2MSBNb25yb2UgQXZlLCBCYXRvbiBSb3VnZSBMQSA3MDgwMiIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMzk2MSBNb25yb2UgQXZlLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDIsIFVTQSIsImxhdCI6MzAuNDY5Nzg0OSwibG5nIjotOTEuMTUwODEyNH0sImUiOjE1NjcxOTIxNTc0Njl9",
@@ -2649,13 +2785,15 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R73_3961 Monroe Ave_MASON",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4697849",
-          "longitude": "-91.1508124"
+          "longitude": "-91.1508124",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2666,7 +2804,7 @@
           "Applicant_FirstName": "Margaret ",
           "Applicant_LastName": "Sterling",
           "AutoNum": 94,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253717939",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
@@ -2681,7 +2819,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R94_3000 Slate St_STERLING",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2701,6 +2839,9 @@
           "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 938-1738",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-11",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "3027 Newton St , Baton Rouge LA 70802",
@@ -2743,11 +2884,13 @@
           ],
           "Status": "Contracting",
           "caseID": "R29_3027 Newton St _SCOTT",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
           "latitude": "30.458692",
-          "longitude": "-91.158484"
+          "longitude": "-91.158484",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2758,13 +2901,14 @@
           "Applicant_FirstName": "Johnnie ",
           "Applicant_LastName": "Cage",
           "AutoNum": 92,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2252790562",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-09-04",
           "DateOrdered": "2019-08-21",
           "Description": "2252271615",
           "FullPropertyAddress": "4866 Oaklan Dr, Baton Rouge LA 70811",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Johnnie  Cage",
           "Owner Phone (7 digit)": "279-0562",
           "Program": "Roofing Initiative",
@@ -2774,13 +2918,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R92_4866 Oaklan Dr_CAGE",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5119563",
-          "longitude": "-91.1422565"
+          "longitude": "-91.1422565",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2791,12 +2936,13 @@
           "Applicant_FirstName": "Lizzie",
           "Applicant_LastName": "Jackson",
           "AutoNum": 121,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253558063",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "2100 N 39th St, Baton Rouge LA 70802",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Lizzie Jackson",
           "Owner Phone (7 digit)": "355-8063",
           "Program": "Roofing Initiative",
@@ -2806,13 +2952,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R121_2100 N 39th St_JACKSON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4674534",
-          "longitude": "-91.1511779"
+          "longitude": "-91.1511779",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2823,10 +2970,14 @@
           "Applicant_FirstName": "Annie",
           "Applicant_LastName": "Wright",
           "AutoNum": 79,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2253370813",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-05",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "3563 Osceola Ave, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzU2MyBPc2Nlb2xhIEF2ZSwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjM1NjMgT3NjZW9sYSBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ4MDY0NTEsImxuZyI6LTkxLjE2NTM1MzIwMDAwMDAzfSwiZSI6MTU2NzE5MjE1OTQwNH0=",
@@ -2866,13 +3017,15 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R79_3563 Osceola Ave_WRIGHT",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4806451",
-          "longitude": "-91.1653532"
+          "longitude": "-91.1653532",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2883,13 +3036,14 @@
           "Applicant_FirstName": "Sarah ",
           "Applicant_LastName": "Price",
           "AutoNum": 97,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253576049",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-09-03",
           "DateOrdered": "2019-08-21",
           "Description": "2252298684",
           "FullPropertyAddress": "2550 Chaney Dr, Baton Rouge LA 70805",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Sarah  Price",
           "Owner Phone (7 digit)": "357-6049",
           "Program": "Roofing Initiative",
@@ -2899,13 +3053,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R97_2550 Chaney Dr_PRICE",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5024584",
-          "longitude": "-91.1651576"
+          "longitude": "-91.1651576",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -2916,13 +3071,14 @@
           "Applicant_FirstName": "Lynda",
           "Applicant_LastName": "Carter",
           "AutoNum": 118,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253578181",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-09-03",
           "DateOrdered": "2019-08-21",
           "Description": "2256501121",
           "FullPropertyAddress": "5927 St Katherine Ave, Baton Rouge LA 70805",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Lynda Carter",
           "Owner Phone (7 digit)": "357-8181",
           "Program": "Roofing Initiative",
@@ -2932,13 +3088,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R118_5927 St Katherine Ave_CARTER",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.499157",
-          "longitude": "-91.131561"
+          "longitude": "-91.131561",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3033,7 +3190,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4732195",
-          "longitude": "-91.1273841"
+          "longitude": "-91.1273841",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3093,7 +3251,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4800483",
-          "longitude": "-91.066377"
+          "longitude": "-91.066377",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3104,12 +3263,13 @@
           "Applicant_FirstName": "Eric",
           "Applicant_LastName": "Brown",
           "AutoNum": 91,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2259381636",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "2015 N Acadian Thwy E, Baton Rouge LA 70802",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Eric Brown",
           "Owner Phone (7 digit)": "938-1636",
           "Program": "Roofing Initiative",
@@ -3119,13 +3279,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R91_2015 N Acadian Thwy E_BROWN",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4665921",
-          "longitude": "-91.1555791"
+          "longitude": "-91.1555791",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3136,10 +3297,14 @@
           "Applicant_FirstName": "Angela",
           "Applicant_LastName": "Williams",
           "AutoNum": 31,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2254396382",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-11",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "2251 Plantation Dr, Baton Rouge LA 70807",
           "GeocodeCache": "🔵 eyJpIjoiMjI1MSBQbGFudGF0aW9uIERyLCBCYXRvbiBSb3VnZSBMQSA3MDgwNyIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMjI1MSBQbGFudGF0aW9uIERyLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDcsIFVTQSIsImxhdCI6MzAuNTU1Mjc1OCwibG5nIjotOTEuMTY4MzUzOX0sImUiOjE1NjcxOTIxNTIzODl9",
@@ -3179,13 +3344,15 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R31_2251 Plantation Dr_WILLIAMS",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5552758",
-          "longitude": "-91.1683539"
+          "longitude": "-91.1683539",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3196,12 +3363,13 @@
           "Applicant_FirstName": "Andre",
           "Applicant_LastName": "Moton",
           "AutoNum": 99,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "(225) 439-4922",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-09-03",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "6208 Casper St, Baton Rouge LA 70805",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Andre Moton",
           "Owner Phone (7 digit)": "439-4922",
           "Program": "Roofing Initiative",
@@ -3211,13 +3379,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R99_6208 Casper St_MOTON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5057065",
-          "longitude": "-91.1659627"
+          "longitude": "-91.1659627",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3228,13 +3397,14 @@
           "Applicant_FirstName": "Rose",
           "Applicant_LastName": "Betz",
           "AutoNum": 120,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253435866",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "Description": "2254394012",
           "FullPropertyAddress": "214 S Eugene St, Baton Rouge LA 70806",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Rose Betz",
           "Owner Phone (7 digit)": "343-5866",
           "Program": "Roofing Initiative",
@@ -3244,13 +3414,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R120_214 S Eugene St_BETZ",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4467613",
-          "longitude": "-91.1607026"
+          "longitude": "-91.1607026",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3310,7 +3481,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4683725",
-          "longitude": "-91.1592025"
+          "longitude": "-91.1592025",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3371,7 +3543,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5084953",
-          "longitude": "-91.1182333"
+          "longitude": "-91.1182333",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3431,7 +3604,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.463328",
-          "longitude": "-91.0270759"
+          "longitude": "-91.0270759",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3491,7 +3665,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.495994",
-          "longitude": "-91.1413368"
+          "longitude": "-91.1413368",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3502,11 +3677,16 @@
           "Applicant_FirstName": "Myra Lou",
           "Applicant_LastName": "Engram",
           "AutoNum": 75,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "3379625558",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-11",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
+          "Delay reason": "Originally input as #4279 Acacia. Actually #14279.",
           "FullPropertyAddress": "4279 Acacia St, Baton Rouge LA 70819",
           "GeocodeCache": "🔵 eyJpIjoiNDI3OSBBY2FjaWEgU3QsIEJhdG9uIFJvdWdlIExBIDcwODE5IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiJBY2FjaWEgU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgxOSwgVVNBIiwibGF0IjozMC40NTg5Mjk2LCJsbmciOi05MS4wMjczOTE3OTk5OTk5OH0sImUiOjE1NjcxOTIxNzM0Mzd9",
           "Inspection (initial)": "Completed",
@@ -3545,13 +3725,15 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R75_4279 Acacia St_ENGRAM",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4589296",
-          "longitude": "-91.0273918"
+          "longitude": "-91.0273918",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3567,6 +3749,7 @@
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-03-08",
           "DateOrdered": "2019-07-25",
+          "Description": "case 81 Rehab program",
           "FullPropertyAddress": "3563 Wyandotte St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzU2MyBXeWFuZG90dGUgU3QsIEJhdG9uIFJvdWdlIExBIDcwODA1IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNTYzIFd5YW5kb3R0ZSBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ4MjYzNDUsImxuZyI6LTkxLjE1NDA2NTEwMDAwMDAzfSwiZSI6MTU2NjQxNzc0NDk4OX0=",
           "Inspection (initial)": "Completed",
@@ -3657,10 +3840,14 @@
           "Applicant_FirstName": "Juanita ",
           "Applicant_LastName": "Allen",
           "AutoNum": 52,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2253528532",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-11",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "Description": "2259386681",
           "FullPropertyAddress": "6660 Cambridge St, Baton Rouge LA 70807",
@@ -3701,13 +3888,15 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R52_6660 Cambridge St_ALLEN",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5109921",
-          "longitude": "-91.1620902"
+          "longitude": "-91.1620902",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3718,12 +3907,13 @@
           "Applicant_FirstName": "Estella",
           "Applicant_LastName": "Ezebunwo",
           "AutoNum": 127,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2259609348",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "2544 Elvin Dr, Baton Rouge LA 70810",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Estella Ezebunwo",
           "Owner Phone (7 digit)": "960-9348",
           "Program": "Roofing Initiative",
@@ -3733,13 +3923,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R127_2544 Elvin Dr_EZEBUNWO",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.3443821",
-          "longitude": "-91.1308609"
+          "longitude": "-91.1308609",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3750,12 +3941,13 @@
           "Applicant_FirstName": "Bernadine ",
           "Applicant_LastName": "Collins",
           "AutoNum": 113,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2252740170",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "4235 Thames Dr, Baton Rouge LA 70814",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Bernadine  Collins",
           "Owner Phone (7 digit)": "274-0170",
           "Program": "Roofing Initiative",
@@ -3765,13 +3957,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R113_4235 Thames Dr_COLLINS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4898494",
-          "longitude": "-91.0447924"
+          "longitude": "-91.0447924",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3782,12 +3975,13 @@
           "Applicant_FirstName": "Vanessa",
           "Applicant_LastName": "Hamilton",
           "AutoNum": 103,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2255887654",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-09-03",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "3345 Gerlando Dr, Baton Rouge LA 70814",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Vanessa Hamilton",
           "Owner Phone (7 digit)": "588-7654",
           "Program": "Roofing Initiative",
@@ -3797,13 +3991,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R103_3345 Gerlando Dr_HAMILTON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4804262",
-          "longitude": "-91.1075947"
+          "longitude": "-91.1075947",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3814,12 +4009,13 @@
           "Applicant_FirstName": "Leola ",
           "Applicant_LastName": "Herbert",
           "AutoNum": 123,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253022507",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "13465 Briar Hollow Ave, Baton Rouge LA 70810",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Leola  Herbert",
           "Owner Phone (7 digit)": "302-2507",
           "Program": "Roofing Initiative",
@@ -3829,13 +4025,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R123_13465 Briar Hollow Ave_HERBERT",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.358949",
-          "longitude": "-91.0746846"
+          "longitude": "-91.0746846",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3846,12 +4043,17 @@
           "Applicant_FirstName": "Lois Marie",
           "Applicant_LastName": "Beals ",
           "AutoNum": 21,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "(225) 444-7447",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "reclO50i225iC0tTc"
+          ],
           "Date Initial Inspection": "2019-08-11",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-17",
-          "FullPropertyAddress": "2980 Sherwood St. , Baton Rouge LA 70805",
+          "Delay reason": "Initially input as house #2980. Actually #2908.\n",
+          "FullPropertyAddress": "2908 Sherwood St. , Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjk4MCBTaGVyd29vZCBTdC4gLCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMjk4MCBTaGVyd29vZCBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ4OTQ5MDMsImxuZyI6LTkxLjE1OTgxOTIwMDAwMDAyfSwiZSI6MTU2NzE5MjE1NDQxN30=",
           "Inspection (initial)": "Completed",
           "Owner": "Lois Marie Beals ",
@@ -3883,13 +4085,15 @@
             }
           ],
           "Program": "Roofing Initiative",
-          "PropertyAddress_Line1": "2980 Sherwood St. ",
+          "PropertyAddress_Line1": "2908 Sherwood St. ",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
-          "Status": "Contracting",
-          "caseID": "R21_2980 Sherwood St. _BEALS ",
-          "latitude": "30.4894903",
-          "longitude": "-91.1598192"
+          "Status": "Construction",
+          "caseID": "R21_2908 Sherwood St. _BEALS ",
+          "contractor_name": "Terence R Williams Enterprises, LLC",
+          "latitude": "30.489371",
+          "longitude": "-91.160612",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3900,10 +4104,14 @@
           "Applicant_FirstName": "Ernest ",
           "Applicant_LastName": "Jones",
           "AutoNum": 36,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2253580962",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-11",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "6125 Byron St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiNjEyNSBCeXJvbiBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjYxMjUgQnlyb24gQXZlLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDk0Nzg2NCwibG5nIjotOTEuMTI4ODQ2NTk5OTk5OTd9LCJlIjoxNTY3MTkyMTQ5OTMyfQ==",
@@ -3943,13 +4151,15 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R36_6125 Byron St_JONES",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4947864",
-          "longitude": "-91.1288466"
+          "longitude": "-91.1288466",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -3960,10 +4170,14 @@
           "Applicant_FirstName": "Shirley",
           "Applicant_LastName": "Williams",
           "AutoNum": 51,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2252468971",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "reclO50i225iC0tTc"
+          ],
           "Date Initial Inspection": "2019-08-06",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "Description": "2259753250",
           "FullPropertyAddress": "224 Evergreen Dr, Baton Rouge LA 70806",
@@ -4004,13 +4218,15 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R51_224 Evergreen Dr_WILLIAMS",
+          "contractor_name": "Terence R Williams Enterprises, LLC",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4460438",
-          "longitude": "-91.1632645"
+          "longitude": "-91.1632645",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4021,10 +4237,14 @@
           "Applicant_FirstName": "Willie ",
           "Applicant_LastName": "Christopher",
           "AutoNum": 23,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "(225) 614-0898",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-04",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "2950 Linwood St , Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjk1MCBMaW53b29kIFN0ICwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjI5NTAgTGlud29vZCBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ3NDUwNTcsImxuZyI6LTkxLjE3Mjk2ODR9LCJlIjoxNTY3MTkyMTQ0NjU5fQ==",
@@ -4064,13 +4284,15 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R23_2950 Linwood St _CHRISTOPHER",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
           "latitude": "30.4745057",
-          "longitude": "-91.1729684"
+          "longitude": "-91.1729684",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4081,12 +4303,13 @@
           "Applicant_FirstName": "Verna ",
           "Applicant_LastName": "Turner",
           "AutoNum": 101,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2255082509",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "8380 S Essen Heights, Baton Rouge LA 70809",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Verna  Turner",
           "Owner Phone (7 digit)": "508-2509",
           "Program": "Roofing Initiative",
@@ -4096,13 +4319,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R101_8380 S Essen Heights_TURNER",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4070116",
-          "longitude": "-91.0990183"
+          "longitude": "-91.0990183",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4113,12 +4337,13 @@
           "Applicant_FirstName": "Rosie",
           "Applicant_LastName": "Wyre",
           "AutoNum": 105,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2252883902",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-09-03",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "2569 74th Ave, Baton Rouge LA 70807",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Rosie Wyre",
           "Owner Phone (7 digit)": "288-3902",
           "Program": "Roofing Initiative",
@@ -4128,13 +4353,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R105_2569 74th Ave_WYRE",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5162669",
-          "longitude": "-91.1658543"
+          "longitude": "-91.1658543",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4145,12 +4371,13 @@
           "Applicant_FirstName": "Dena",
           "Applicant_LastName": "Owens",
           "AutoNum": 96,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "3183761144",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "5122 Fullerton Ave, Baker LA 70714",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Dena Owens",
           "Owner Phone (7 digit)": "376-1144",
           "Program": "Roofing Initiative",
@@ -4160,13 +4387,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R96_5122 Fullerton Ave_OWENS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5832736",
-          "longitude": "-91.1440546"
+          "longitude": "-91.1440546",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4227,7 +4455,8 @@
             "bclark@ebrra.org"
           ],
           "latitude": "30.4991377",
-          "longitude": "-91.1649032"
+          "longitude": "-91.1649032",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4238,9 +4467,14 @@
           "Applicant_FirstName": "Emile",
           "Applicant_LastName": "Chauvin",
           "AutoNum": 40,
-          "Case_Status": "Inspection",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2253621280",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
+          "Date Initial Inspection": "2019-09-18",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "Delay reason": "This is a townhome. Applicant resides in half of it. Ownership isn't confirmed.",
           "FullPropertyAddress": "9929 Groner Ave, Baton Rouge LA 70809",
@@ -4255,8 +4489,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Construction",
           "caseID": "R40_9929 Groner Ave_CHAUVIN",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -4272,12 +4507,13 @@
           "Applicant_FirstName": "Mandy",
           "Applicant_LastName": "Fields",
           "AutoNum": 89,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2259534220",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "5025 Hermitage Dr, Baton Rouge LA 70806",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Mandy Fields",
           "Owner Phone (7 digit)": "953-4220",
           "Program": "Roofing Initiative",
@@ -4287,13 +4523,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R89_5025 Hermitage Dr_FIELDS",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4608092",
-          "longitude": "-91.1391814"
+          "longitude": "-91.1391814",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4304,12 +4541,13 @@
           "Applicant_FirstName": "Rosa",
           "Applicant_LastName": "Blonia",
           "AutoNum": 114,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2254075639",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-09-04",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "3714 Beech St, Baton Rouge LA 70805",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Rosa Blonia",
           "Owner Phone (7 digit)": "407-5639",
           "Program": "Roofing Initiative",
@@ -4319,13 +4557,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R114_3714 Beech St_BLONIA",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.495247",
-          "longitude": "-91.1521528"
+          "longitude": "-91.1521528",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4336,12 +4575,13 @@
           "Applicant_FirstName": "Artie",
           "Applicant_LastName": "Sylvan",
           "AutoNum": 86,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "9098384313",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-09-04",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "6821 Sumrall Dr, Baton Rouge LA 70812",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Artie Sylvan",
           "Owner Phone (7 digit)": "838-4313",
           "Program": "Roofing Initiative",
@@ -4351,13 +4591,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R86_6821 Sumrall Dr_SYLVAN",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5140765",
-          "longitude": "-91.1230291"
+          "longitude": "-91.1230291",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4368,13 +4609,14 @@
           "Applicant_FirstName": "Vanessa ",
           "Applicant_LastName": "Archille",
           "AutoNum": 81,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253644422",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "Description": "2253644440",
           "FullPropertyAddress": "724 N. 47th Street, Baton Rouge LA 70802",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Vanessa  Archille",
           "Owner Phone (7 digit)": "364-4422",
           "Program": "Roofing Initiative",
@@ -4384,13 +4626,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R81_724 N. 47th Street_ARCHILLE",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4549776",
-          "longitude": "-91.1422927"
+          "longitude": "-91.1422927",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4406,6 +4649,7 @@
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-03-09",
           "DateOrdered": "2019-07-25",
+          "Description": "case 86 Rehab program",
           "FullPropertyAddress": "3940 Oswego St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzk0MCBPc3dlZ28gU3QsIEJhdG9uIFJvdWdlIExBIDcwODA1IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzOTQwIE9zd2VnbyBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ4MDQ2NDEsImxuZyI6LTkxLjE1MDIwMzF9LCJlIjoxNTY2NDE3NzU2ODQxfQ==",
           "Inspection (initial)": "Completed",
@@ -4461,13 +4705,14 @@
           "Applicant_FirstName": "Qunitha",
           "Applicant_LastName": "Scott",
           "AutoNum": 115,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253579808",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-09-04",
           "DateOrdered": "2019-08-21",
           "Description": "2259360065",
           "FullPropertyAddress": "6136 Glen Oaks Dr, Baton Rouge LA 70811",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Qunitha Scott",
           "Owner Phone (7 digit)": "357-9808",
           "Program": "Roofing Initiative",
@@ -4477,13 +4722,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R115_6136 Glen Oaks Dr_SCOTT",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.51082",
-          "longitude": "-91.128885"
+          "longitude": "-91.128885",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4494,13 +4740,14 @@
           "Applicant_FirstName": "Estelle",
           "Applicant_LastName": "Walker",
           "AutoNum": 117,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2257664078",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "Description": "2259781449",
           "FullPropertyAddress": "7724 Wimbeldon Ave, Baton Rouge LA 70810",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Estelle Walker",
           "Owner Phone (7 digit)": "766-4078",
           "Program": "Roofing Initiative",
@@ -4510,13 +4757,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R117_7724 Wimbeldon Ave_WALKER",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.379508",
-          "longitude": "-91.0878605"
+          "longitude": "-91.0878605",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4535,7 +4783,7 @@
           "Description": "2256921604 - cancelled because duplicate entry",
           "FullPropertyAddress": "2548 Hollywood St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjU0OCBIb2xseXdvb2QgU3QsIEJhdG9uIFJvdWdlIExBIDcwODA1IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIyNTQ4IEhvbGx5d29vZCBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ5OTEzNzcsImxuZyI6LTkxLjE2NDkwMzIwMDAwMDAzfSwiZSI6MTU2NzE5MjE2MDYyN30=",
-          "Inspection (initial)": "None",
+          "Inspection (initial)": "Completed",
           "Owner": "Alfreda  Watson",
           "Owner Phone (7 digit)": "407-6638",
           "Photo of front": [
@@ -4577,7 +4825,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4991377",
-          "longitude": "-91.1649032"
+          "longitude": "-91.1649032",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4588,12 +4837,13 @@
           "Applicant_FirstName": "Virginia",
           "Applicant_LastName": "Sterling",
           "AutoNum": 111,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2258881427",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "1412 N 31st St, Baton Rouge LA 70802",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Virginia Sterling",
           "Owner Phone (7 digit)": "888-1427",
           "Program": "Roofing Initiative",
@@ -4603,13 +4853,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R111_1412 N 31st St_STERLING",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4617981",
-          "longitude": "-91.1574662"
+          "longitude": "-91.1574662",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4620,12 +4871,13 @@
           "Applicant_FirstName": "Jan",
           "Applicant_LastName": "Varnado",
           "AutoNum": 110,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2252845861",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "1950 Stafford Dr, Baton Rouge LA 70810",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Jan Varnado",
           "Owner Phone (7 digit)": "284-5861",
           "Program": "Roofing Initiative",
@@ -4635,13 +4887,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R110_1950 Stafford Dr_VARNADO",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.3644589",
-          "longitude": "-91.0693465"
+          "longitude": "-91.0693465",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4652,12 +4905,16 @@
           "Applicant_FirstName": "Theresa",
           "Applicant_LastName": "Gray",
           "AutoNum": 30,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "(225) 772-4256",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-05",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-24",
-          "FullPropertyAddress": "200 N 16th Street, Baton Rouge LA 70802",
+          "FullPropertyAddress": "2005 N 16th Street, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMjAwIE4gMTZ0aCBTdHJlZXQsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIyMDAgTiAxNnRoIFN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDIsIFVTQSIsImxhdCI6MzAuNDQ4NzYzOCwibG5nIjotOTEuMTcyMzk2ODk5OTk5OTd9LCJlIjoxNTY4OTA4NTIwODA5fQ==",
           "Inspection (initial)": "Completed",
           "Owner": "Theresa Gray",
@@ -4689,19 +4946,21 @@
             }
           ],
           "Program": "Roofing Initiative",
-          "PropertyAddress_Line1": "200 N 16th Street",
+          "PropertyAddress_Line1": "2005 N 16th Street",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70802",
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Contracting",
-          "caseID": "R30_200 N 16th Street_GRAY",
+          "Status": "Construction",
+          "caseID": "R30_2005 N 16th Street_GRAY",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
           "latitude": "30.4657694",
-          "longitude": "-91.1736432"
+          "longitude": "-91.1736432",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4712,10 +4971,14 @@
           "Applicant_FirstName": "Celestine",
           "Applicant_LastName": "Davis",
           "AutoNum": 24,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "(225) 357-4498",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-07",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-24",
           "Description": "225-692-1604",
           "FullPropertyAddress": "2041 West Belfair Dr. , Baton Rouge LA 70805",
@@ -4756,13 +5019,15 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R24_2041 West Belfair Dr. _DAVIS",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
           "latitude": "30.4667707",
-          "longitude": "-91.1469413"
+          "longitude": "-91.1469413",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4798,6 +5063,42 @@
           ],
           "latitude": "30.4561544",
           "longitude": "-91.1505124"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recpDC7yYeUwcZV5u",
+        "properties": {
+          "Applicant_FirstName": "Tommy Lee",
+          "Applicant_LastName": "Thompson",
+          "AutoNum": 133,
+          "Case_Status": "Contracting",
+          "Comments": [
+            "rec29lnOzj3lV28H6"
+          ],
+          "ContactPhoneNumber": "(225) 485-8565",
+          "Date Initial Inspection": "2019-09-20",
+          "DateOrdered": "2019-09-18",
+          "Description": "Applicant says rainwater is leaking through roof into her home.\nApplicant contacted news media and a story ran on WAFB:\nhttps://www.wafb.com/2019/09/14/action-jackson-helps-woman-staying-unlivable-conditions/\n",
+          "FullPropertyAddress": "9907 Avenue B, Baton Rouge LA 70807",
+          "Inspection (initial)": "Completed",
+          "Owner": "Tommy Lee Thompson",
+          "Owner Phone (7 digit)": "485-8565",
+          "Program": "Roofing Initiative",
+          "PropertyAddress_Line1": "9907 Avenue B",
+          "Property_City": "Baton Rouge",
+          "Property_ZipCode": "70807",
+          "Requested_By": [
+            "recauLE1grMkv8LYi"
+          ],
+          "Status": "Contracting",
+          "caseID": "R133_9907 Avenue B_THOMPSON",
+          "email-of-staff": [
+            "bclark@ebrra.org"
+          ],
+          "latitude": "30.5346472",
+          "longitude": "-91.1906884"
         },
         "type": "Feature"
       },
@@ -4858,7 +5159,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4610183",
-          "longitude": "-91.0550409"
+          "longitude": "-91.0550409",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4869,12 +5171,13 @@
           "Applicant_FirstName": "Sheena",
           "Applicant_LastName": "Dunbar",
           "AutoNum": 82,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2259331726",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "3809 Dalton St. , Baton Rouge LA 70805",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Sheena Dunbar",
           "Owner Phone (7 digit)": "933-1726",
           "Program": "Roofing Initiative",
@@ -4884,13 +5187,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R82_3809 Dalton St. _DUNBAR",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4742019",
-          "longitude": "-91.1524809"
+          "longitude": "-91.1524809",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -4936,14 +5240,22 @@
           "Applicant_FirstName": "Peter",
           "Applicant_LastName": "Ketchens",
           "AutoNum": 6,
-          "Case_Status": "Contracting",
+          "Case_Status": "Approved",
+          "ChangeOrders": 0,
+          "Comments": [
+            "rec4jwndaQd2UoW85",
+            "recrQfxOqdClnCalM"
+          ],
           "ContactPhoneNumber": "(225) 937-6093",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recN6hhn7SFQIJ1XI"
           ],
+          "Date Initial Inspection": "2019-03-09",
+          "Date of NTP": "2019-09-25",
           "DateOrdered": "2019-07-03",
           "Description": "case 103 Rehab program",
+          "Final Project Cost": 14229,
           "FullPropertyAddress": "3645 Evangeline St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzY0NSBFdmFuZ2VsaW5lIFN0LCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMzY0NSBFdmFuZ2VsaW5lIFN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDkyOTg3OTk5OTk5OTksImxuZyI6LTkxLjE1MzI3NzY5OTk5OTk5fSwiZSI6MTU2NjQxNzc1NTcxNn0=",
           "Inspection (initial)": "Completed",
@@ -4979,19 +5291,21 @@
           "PropertyAddress_Line1": "3645 Evangeline St",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
-          "RequestedDueDate": "2019-07-31",
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Contracting",
+          "Status": "Approved",
           "Total Bid Amount": 14229,
+          "Work_Began": "2019-10-03",
+          "Work_Completed": "2019-10-05",
           "caseID": "R6_3645 Evangeline St_KETCHENS",
           "contractor_name": "Public Construction Inc.",
           "email-of-staff": [
             "james@franklinassoc.com"
           ],
           "latitude": "30.492988",
-          "longitude": "-91.1532777"
+          "longitude": "-91.1532777",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5002,12 +5316,15 @@
           "Applicant_FirstName": "Janice",
           "Applicant_LastName": "Harris",
           "AutoNum": 2,
-          "Case_Status": "Contracting",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "(225) 357-7930",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recSiY21mfIlA9zfG"
           ],
+          "Date Final Inspection": "2019-10-15",
+          "Date Initial Inspection": "2019-03-11",
+          "Date of NTP": "2019-09-25",
           "DateOrdered": "2019-07-03",
           "Description": "case 95 Rehab program",
           "FullPropertyAddress": "3560 Dalton St, Baton Rouge LA 70805",
@@ -5045,19 +5362,21 @@
           "PropertyAddress_Line1": "3560 Dalton St",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
-          "RequestedDueDate": "2019-07-31",
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
-          "Status": "Contracting",
+          "Status": "Approved",
           "Total Bid Amount": 9250,
+          "Work_Began": "2019-10-03",
+          "Work_Completed": "2019-10-07",
           "caseID": "R2_3560 Dalton St_HARRIS",
           "contractor_name": "Affordable R",
           "email-of-staff": [
             "james@franklinassoc.com"
           ],
           "latitude": "30.4738168",
-          "longitude": "-91.1540651"
+          "longitude": "-91.1540651",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5068,10 +5387,14 @@
           "Applicant_FirstName": "Carol ",
           "Applicant_LastName": "Miller",
           "AutoNum": 55,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2256145987",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-07",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "Description": "2258061908",
           "FullPropertyAddress": "4943 Bardwell Dr , Baton Rouge LA 70808",
@@ -5112,13 +5435,15 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R55_4943 Bardwell Dr _MILLER",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4293483",
-          "longitude": "-91.1377273"
+          "longitude": "-91.1377273",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5178,7 +5503,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4308742",
-          "longitude": "-91.1709797"
+          "longitude": "-91.1709797",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5224,10 +5550,14 @@
           "Applicant_FirstName": "Julia",
           "Applicant_LastName": "Russ",
           "AutoNum": 26,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "(225) 387-4648",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recGXP2Fwj9U1qlkE"
+          ],
           "Date Initial Inspection": "2019-08-07",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-24",
           "Description": "225-692-1604",
           "FullPropertyAddress": "831 N 40th St, Baton Rouge LA 70802",
@@ -5268,13 +5598,15 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R26_831 N 40th St_RUSS",
+          "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
           "latitude": "30.4590879",
-          "longitude": "-91.1504564"
+          "longitude": "-91.1504564",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5285,12 +5617,13 @@
           "Applicant_FirstName": "Margot Ann",
           "Applicant_LastName": "Fleet",
           "AutoNum": 84,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2252477640",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "5821 Tarrytown Avenue, Baton Rouge LA 70808",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Margot Ann Fleet",
           "Owner Phone (7 digit)": "247-7640",
           "Program": "Roofing Initiative",
@@ -5300,13 +5633,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R84_5821 Tarrytown Avenue_FLEET",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4161309",
-          "longitude": "-91.1250712"
+          "longitude": "-91.1250712",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5322,6 +5656,7 @@
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-03-04",
           "DateOrdered": "2019-07-25",
+          "Description": "case 90 Rehab program",
           "FullPropertyAddress": "336 McCastle Ave, Baton Rouge LA 70807",
           "GeocodeCache": "🔵 eyJpIjoiMzM2IE1jQ2FzdGxlIEF2ZSwgQmF0b24gUm91Z2UgTEEgNzA4MDciLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjMzNiBNY0Nhc3RsZSBBdmUsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNywgVVNBIiwibGF0IjozMC41NzY1MjksImxuZyI6LTkxLjIwMzk2NDk5OTk5OTk4fSwiZSI6MTU2NjQxNzc1NDY5MX0=",
           "Inspection (initial)": "Completed",
@@ -5377,13 +5712,14 @@
           "Applicant_FirstName": "Lois ",
           "Applicant_LastName": "Washington",
           "AutoNum": 98,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2254211436",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "Description": "5044526076",
           "FullPropertyAddress": "2277 Spain St, Baton Rouge LA 70806",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Lois  Washington",
           "Owner Phone (7 digit)": "421-1436",
           "Program": "Roofing Initiative",
@@ -5393,13 +5729,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R98_2277 Spain St_WASHINGTON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.445326",
-          "longitude": "-91.16449"
+          "longitude": "-91.16449",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5415,7 +5752,7 @@
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-02-14",
           "DateOrdered": "2019-07-25",
-          "Description": "2256921604",
+          "Description": "case 73 Rehab program. 225-692-1604",
           "FullPropertyAddress": "3415 Adams Ave, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMzQxNSBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODAyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiIzNDE1IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODAyLCBVU0EiLCJsYXQiOjMwLjQ2ODkwMjcsImxuZyI6LTkxLjE1NTE2MTl9LCJlIjoxNTY2NDE3NzUzNjAyfQ==",
           "Inspection (initial)": "Completed",
@@ -5521,7 +5858,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5258536",
-          "longitude": "-91.1662162"
+          "longitude": "-91.1662162",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5532,13 +5870,13 @@
           "Applicant_FirstName": "Cherlyn",
           "Applicant_LastName": "Jackson",
           "AutoNum": 130,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253571941",
           "Contact_MailingAddress_State": "LA",
           "DateOrdered": "2019-08-21",
           "Description": "2257730439",
           "FullPropertyAddress": "4849 Paige St, Baton Rouge LA 70811",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Cherlyn Jackson",
           "Owner Phone (7 digit)": "357-1941",
           "Program": "Roofing Initiative",
@@ -5548,13 +5886,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R130_4849 Paige St_JACKSON",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.51721",
-          "longitude": "-91.142737"
+          "longitude": "-91.142737",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5570,6 +5909,7 @@
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-04-09",
           "DateOrdered": "2019-07-25",
+          "Description": "case 139 Rehab program",
           "FullPropertyAddress": "2937 Chippewa St, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjkzNyBDaGlwcGV3YSBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjI5MzcgQ2hpcHBld2EgU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNSwgVVNBIiwibGF0IjozMC40NzMzMjE4LCJsbmciOi05MS4xNTkxNjUwMDAwMDAwM30sImUiOjE1NjY0MTc3NDIwNTd9",
           "Inspection (initial)": "Completed",
@@ -5614,7 +5954,8 @@
             "james@franklinassoc.com"
           ],
           "latitude": "30.4733218",
-          "longitude": "-91.159165"
+          "longitude": "-91.159165",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5675,7 +6016,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4509329",
-          "longitude": "-91.1625317"
+          "longitude": "-91.1625317",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5686,12 +6028,13 @@
           "Applicant_FirstName": "Gloria",
           "Applicant_LastName": "Brumskill",
           "AutoNum": 128,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2258034025",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-09-04",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "6836 Oakwood Dr, Baton Rouge LA 70811",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Gloria Brumskill",
           "Owner Phone (7 digit)": "803-4025",
           "Program": "Roofing Initiative",
@@ -5701,13 +6044,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R128_6836 Oakwood Dr_BRUMSKILL",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5130282",
-          "longitude": "-91.1350584"
+          "longitude": "-91.1350584",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5718,10 +6062,14 @@
           "Applicant_FirstName": "Veronica",
           "Applicant_LastName": "Magee",
           "AutoNum": 32,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2252506725",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "reclO50i225iC0tTc"
+          ],
           "Date Initial Inspection": "2019-08-06",
+          "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "640 Arlington Ave, Baton Rouge LA 70806",
           "GeocodeCache": "🔵 eyJpIjoiNjQwIEFybGluZ3RvbiBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODA2IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI2NDAgQXJsaW5ndG9uIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODA2LCBVU0EiLCJsYXQiOjMwLjQ0MjY1NjYsImxuZyI6LTkxLjE1OTI1ODc5OTk5OTk4fSwiZSI6MTU2NzE5MjE0NTk3NH0=",
@@ -5761,8 +6109,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
           "caseID": "R32_640 Arlington Ave_MAGEE",
+          "contractor_name": "Terence R Williams Enterprises, LLC",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -5778,12 +6127,13 @@
           "Applicant_FirstName": "Olevia",
           "Applicant_LastName": "Albert",
           "AutoNum": 122,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253835108",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "3956 Provost St, Baton Rouge LA 70802",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Olevia Albert",
           "Owner Phone (7 digit)": "383-5108",
           "Program": "Roofing Initiative",
@@ -5793,13 +6143,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R122_3956 Provost St_ALBERT",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.459954",
-          "longitude": "-91.150758"
+          "longitude": "-91.150758",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5894,7 +6245,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.5167358",
-          "longitude": "-91.1231287"
+          "longitude": "-91.1231287",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5955,7 +6307,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4889408",
-          "longitude": "-91.1167722"
+          "longitude": "-91.1167722",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -5966,13 +6319,14 @@
           "Applicant_FirstName": "Barbara",
           "Applicant_LastName": "Picot",
           "AutoNum": 104,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2254784910",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-29",
           "DateOrdered": "2019-08-21",
           "Description": "2253265542",
           "FullPropertyAddress": "4075 Noah St, Baton Rouge LA 70802",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Barbara Picot",
           "Owner Phone (7 digit)": "478-4910",
           "Program": "Roofing Initiative",
@@ -5982,13 +6336,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R104_4075 Noah St_PICOT",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.462881",
-          "longitude": "-91.149796"
+          "longitude": "-91.149796",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -6040,11 +6395,11 @@
           "PropertyAddress_Line1": "2840 Elgin St",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
-          "RequestedDueDate": "2019-07-31",
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
           "Status": "Cancelled",
+          "Work_Began": "2019-07-31",
           "caseID": "R8_2840 Elgin St_LEBEOUF",
           "email-of-staff": [
             "james@franklinassoc.com"
@@ -6061,13 +6416,14 @@
           "Applicant_FirstName": "William",
           "Applicant_LastName": "Early",
           "AutoNum": 87,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253579924",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "Description": "2252780356",
           "FullPropertyAddress": "2725 Michelli Dr , Baton Rouge LA 70805",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "William Early",
           "Owner Phone (7 digit)": "357-9924",
           "Program": "Roofing Initiative",
@@ -6077,13 +6433,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R87_2725 Michelli Dr _EARLY",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4735545",
-          "longitude": "-91.1273383"
+          "longitude": "-91.1273383",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -6144,7 +6501,8 @@
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4858325",
-          "longitude": "-91.046438"
+          "longitude": "-91.046438",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -6160,6 +6518,7 @@
           "Contact_MailingAddress_State": "LA",
           "Date Initial Inspection": "2019-03-25",
           "DateOrdered": "2019-07-25",
+          "Description": "case 134 Rehab program",
           "FullPropertyAddress": "5165 Hermitage Dr, Baton Rouge LA 70806",
           "GeocodeCache": "🔵 eyJpIjoiNTE2NSBIZXJtaXRhZ2UgRHIsIEJhdG9uIFJvdWdlIExBIDcwODA2IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI1MTY1IEhlcm1pdGFnZSBEciwgQmF0b24gUm91Z2UsIExBIDcwODA2LCBVU0EiLCJsYXQiOjMwLjQ2MDg3MTcsImxuZyI6LTkxLjEzNzE1NzM5OTk5OTk4fSwiZSI6MTU2NjQxNzc0NDAwOX0=",
           "Inspection (initial)": "Completed",
@@ -6204,7 +6563,8 @@
             "james@franklinassoc.com"
           ],
           "latitude": "30.4608717",
-          "longitude": "-91.1371574"
+          "longitude": "-91.1371574",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -6215,15 +6575,22 @@
           "Applicant_FirstName": "Jessie",
           "Applicant_LastName": "Montgomery",
           "AutoNum": 9,
-          "Case_Status": "Construction",
+          "Case_Status": "Approved",
+          "ChangeOrders": 8615,
+          "Comments": [
+            "recNh8e0eJrIvLnPV"
+          ],
           "ContactPhoneNumber": "(225) 448-2320",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "reck2e1ecRQQmOpn5"
           ],
+          "Date Initial Inspection": "2019-03-14",
+          "Date of NTP": "2019-08-25",
           "DateOrdered": "2019-07-03",
-          "Delay reason": "08-26 - Roof is complete but the work caused interior sheetrock ceiling to collapse (due to previous water damage.) Contractor is repairing interior sheetrock. Completion anticipated 8-28-19",
+          "Delay reason": "08-26 - Roof is complete but the work caused interior sheet rock ceiling to collapse (due to previous water damage.) Contractor is repairing interior sheet rock. Completion anticipated 8-28-19\n2019-10-28 - Can't close out until change order to repair interior is approved.\n2019-11-26: Home is fully repaired but contractor hasn't been paid for interior work because change order hasn't been approved. This prevents full closeout of the case.",
           "Description": "case 113 Rehab program\nConstruction to begin 8/14/2019\nRoof completed 8/16; but work caused water damaged drywall ceiling to collapse inside the home. Contractor is making sheet rock repairs.",
+          "Final Project Cost": 15815,
           "FullPropertyAddress": "1542 Kaufman Ave, Baton Rouge LA 70807",
           "GeocodeCache": "🔵 eyJpIjoiMTU0MiBLYXVmbWFuIEF2ZSwgQmF0b24gUm91Z2UgTEEgNzA4MDciLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjE1NDIgS2F1Zm1hbiBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA3LCBVU0EiLCJsYXQiOjMwLjUwOTUxNzksImxuZyI6LTkxLjE3NjA4MTd9LCJlIjoxNTY2NDE3NzQ2MTM2fQ==",
           "Inspection (initial)": "Completed",
@@ -6765,20 +7132,264 @@
           "PropertyAddress_Line1": "1542 Kaufman Ave",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70807",
-          "RequestedDueDate": "2019-08-14",
           "Requested_By": [
             "recfk8RZSGi5ZwMNW"
           ],
           "Right-of-Entry": true,
-          "Status": "Construction",
+          "Status": "Approved",
           "Total Bid Amount": 7200,
+          "Work_Began": "2019-08-26",
+          "Work_Completed": "2019-09-04",
           "caseID": "R9_1542 Kaufman Ave_MONTGOMERY",
+          "completion_photos": [
+            {
+              "filename": "completed_roof_05-tn.jpg",
+              "id": "attXK39Wlb7XiNF5T",
+              "size": 415883,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/30974e7b9d5d309e8dc0b81735e7cff0/494d2eb3",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/da91bca7fe97d6f78e20c8ad725e7187/7184974e",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3d0f6569a9703126edc710292b7f9122/dfae0cc7",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/ea490c7de25bc02e9e774bd5c711f386/73855170/completed_roof_05-tn.jpg"
+            },
+            {
+              "filename": "completed_roof_02-tn.jpg",
+              "id": "attAqAsJJmAuUPsoP",
+              "size": 456239,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/75faf92171203cace3468b17a4cb8a08/dbb49c33",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/8ba521cc9594ba31d1e620bd8c7faa2a/41249715",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/615ba396679f67f2004408cd63644504/c9cdc253",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/2208e1fe7196ca41b079288c72232769/16371378/completed_roof_02-tn.jpg"
+            },
+            {
+              "filename": "completed_roof_04-tn.jpg",
+              "id": "attnoxrQT0RjFpXlH",
+              "size": 483185,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3eddd077cf476397247610b09d10028d/728fd6e5",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/cff4a5d0ba1f2445fc8d0f3f64695cf7/c266ce40",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d54ba67489493c78eb3da7dd0aedf64e/610a25f8",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/79a4073d39aad21fe8acaad4317d83de/38306bee/completed_roof_04-tn.jpg"
+            },
+            {
+              "filename": "completed_roof_01-tn.jpg",
+              "id": "attFAVf4ND67vsYBg",
+              "size": 586708,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/af5758649541f4b13793a6cba61175cd/4b276132",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/1ae3e0345f0e605164bd51b4ea60a3b3/58f04eb6",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/042086c68d63916f9e71d096d3114179/dd9c5f01",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/b809e038f0b1286da855e231757fd165/51b4fa1a/completed_roof_01-tn.jpg"
+            },
+            {
+              "filename": "completed_roof_07-tn.jpg",
+              "id": "attvlWG9dP8P63jx0",
+              "size": 516494,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d55202767aed8904c10a931a53a0d6f8/ab1c5a79",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3675aa1be0240033b915e0e7a802be0f/e42b1e1e",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/df5023d36b78f0359386ed61bf08cf4c/e6c2d83b",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/9d3611e83996d366e34a16c40f5fdef8/6aae2061/completed_roof_07-tn.jpg"
+            },
+            {
+              "filename": "completed_roof_08-tn.jpg",
+              "id": "att4v4swre8JXzYt8",
+              "size": 531694,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/ea821c21d95a74f826cb020ba117cc04/12e63f8f",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/292e38998c5d1f3ccd0a67bcf422720d/85435348",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/6ec469aaaf8f608a0094c670a7139be5/fd998885",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/140c4073e5681ffae08e0e1776ebde6b/70431e9e/completed_roof_08-tn.jpg"
+            },
+            {
+              "filename": "ceiling-repair_02-tn.jpg",
+              "id": "att8fzKD4uoFuMO8T",
+              "size": 215918,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/68465796e1c582dd3808e0677e9f5ee3/113f3971",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/abe877827d783ca1166c99598aca2ad4/a37a0864",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/0ad87edb011cc0e115cad8d5bd12e0cd/81fdc3aa",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/edfb2517e08cea409539a0ae798cecc0/df313beb/ceiling-repair_02-tn.jpg"
+            },
+            {
+              "filename": "ceiling-repair_01-tn.jpg",
+              "id": "att60uCXPOybAB4Vw",
+              "size": 210941,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/8e4e442c7ec71a30dc6c7ed59672860a/895ee0d6",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/97dc8ceb10217b0bb3108fbca8fed4a4/c9c16e13",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/251d71fc21aa9d9b8428c475be485539/40303ae0",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/7728e1f7c96247bb1c3ffeb968951d08/adaf3c91/ceiling-repair_01-tn.jpg"
+            },
+            {
+              "filename": "completed_roof_03-tn.jpg",
+              "id": "attGGW1LuKoTyTOpO",
+              "size": 359878,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/c775098906d9bfa96bd0355b72b25814/5ad78e34",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3b632c062d2d537e710c6b577aff48a0/4d807495",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/7700484ed9334337e0c9f522cf6f97f7/fd4c8622",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/805f1cad09c6fdd723f8a588622ca7a9/45926b39/completed_roof_03-tn.jpg"
+            },
+            {
+              "filename": "completed_roof_06-tn.jpg",
+              "id": "attTJBpfbAqABYPFd",
+              "size": 640252,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d3ae88c026af27deb92d60b4b8630e40/4f37bff8",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/0684253e5039aad5f23829f1ac92e29d/a884e884",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/20d08bf399c0e70c3ce398394bb7e458/a6f174dd",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/c214fc0edaa4f7753ba5825bc7d87b3e/a6e37003/completed_roof_06-tn.jpg"
+            }
+          ],
           "contractor_name": "Redstick Remodeling",
           "email-of-staff": [
             "james@franklinassoc.com"
           ],
           "latitude": "30.5095179",
-          "longitude": "-91.1760817"
+          "longitude": "-91.1760817",
+          "scope-narrative": true
         },
         "type": "Feature"
       },
@@ -6789,12 +7400,13 @@
           "Applicant_FirstName": "Warren ",
           "Applicant_LastName": "Scott",
           "AutoNum": 112,
-          "Case_Status": "Inspection",
+          "Case_Status": "Contracting",
           "ContactPhoneNumber": "2253447942",
           "Contact_MailingAddress_State": "LA",
+          "Date Initial Inspection": "2019-08-27",
           "DateOrdered": "2019-08-21",
           "FullPropertyAddress": "309 Ingleside Dr, Baton Rouge LA 70806",
-          "Inspection (initial)": "Requested",
+          "Inspection (initial)": "Completed",
           "Owner": "Warren  Scott",
           "Owner Phone (7 digit)": "344-7942",
           "Program": "Roofing Initiative",
@@ -6804,13 +7416,14 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Inspection",
+          "Status": "Contracting",
           "caseID": "R112_309 Ingleside Dr_SCOTT",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
           "latitude": "30.4463913",
-          "longitude": "-91.1452074"
+          "longitude": "-91.1452074",
+          "scope-narrative": true
         },
         "type": "Feature"
       }
