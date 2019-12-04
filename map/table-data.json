@@ -2786,6 +2786,7 @@
             "recVCx96GTaDBiBwC"
           ],
           "Status": "Construction",
+          "Work_Began": "2019-12-11",
           "caseID": "R73_3961 Monroe Ave_MASON",
           "contractor_name": "Chatmon Construction",
           "email-of-staff": [
@@ -3018,6 +3019,7 @@
             "recVCx96GTaDBiBwC"
           ],
           "Status": "Construction",
+          "Work_Began": "2019-12-07",
           "caseID": "R79_3563 Osceola Ave_WRIGHT",
           "contractor_name": "Chatmon Construction",
           "email-of-staff": [
@@ -5548,7 +5550,7 @@
         "id": "recqiShNNkZZ6be5k",
         "properties": {
           "Applicant_FirstName": "Julia",
-          "Applicant_LastName": "Russ",
+          "Applicant_LastName": "Ross",
           "AutoNum": 26,
           "Case_Status": "Construction",
           "ContactPhoneNumber": "(225) 387-4648",
@@ -5563,7 +5565,7 @@
           "FullPropertyAddress": "831 N 40th St, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiODMxIE4gNDB0aCBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDIiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjgzMSBOIDQwdGggU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NTYxNTQ0LCJsbmciOi05MS4xNTA1MTI0MDAwMDAwM30sImUiOjE1Njg5MDg1MjAxNjR9",
           "Inspection (initial)": "Completed",
-          "Owner": "Julia Russ",
+          "Owner": "Julia Ross",
           "Owner Phone (7 digit)": "387-4648",
           "Photo of front": [
             {
@@ -5599,7 +5601,8 @@
             "recauLE1grMkv8LYi"
           ],
           "Status": "Construction",
-          "caseID": "R26_831 N 40th St_RUSS",
+          "Work_Began": "2019-12-05",
+          "caseID": "R26_831 N 40th St_ROSS",
           "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "bclark@ebrra.org"
