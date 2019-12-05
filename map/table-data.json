@@ -2672,6 +2672,9 @@
           "Applicant_LastName": "Thompson",
           "AutoNum": 53,
           "Case_Status": "Construction",
+          "Comments": [
+            "rec1uHZBImbOA8dUz"
+          ],
           "ContactPhoneNumber": "2253550223",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
