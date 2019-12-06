@@ -4112,6 +4112,9 @@
           "Applicant_LastName": "Jones",
           "AutoNum": 36,
           "Case_Status": "Construction",
+          "Comments": [
+            "recra9RYyXkmeu2Hw"
+          ],
           "ContactPhoneNumber": "2253580962",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -4321,6 +4324,7 @@
           ],
           "Status": "Construction",
           "Work_Began": "2019-12-06",
+          "Work_Completed": "2019-12-06",
           "caseID": "R23_2950 Linwood St _CHRISTOPHER",
           "contractor_name": "Living Solutions",
           "email-of-staff": [
