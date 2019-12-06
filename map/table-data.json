@@ -2653,6 +2653,7 @@
             "recVCx96GTaDBiBwC"
           ],
           "Status": "Construction",
+          "Work_Began": "2019-12-09",
           "caseID": "R34_1974 Mission Dr_SMITH",
           "contractor_name": "Living Solutions",
           "email-of-staff": [
@@ -3692,7 +3693,7 @@
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "Delay reason": "Originally input as #4279 Acacia. Actually #14279.",
-          "FullPropertyAddress": "4279 Acacia St, Baton Rouge LA 70819",
+          "FullPropertyAddress": "14279 Acacia St, Baton Rouge LA 70819",
           "GeocodeCache": "🔵 eyJpIjoiNDI3OSBBY2FjaWEgU3QsIEJhdG9uIFJvdWdlIExBIDcwODE5IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiJBY2FjaWEgU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgxOSwgVVNBIiwibGF0IjozMC40NTg5Mjk2LCJsbmciOi05MS4wMjczOTE3OTk5OTk5OH0sImUiOjE1NjcxOTIxNzM0Mzd9",
           "Inspection (initial)": "Completed",
           "Owner": "Myra Lou Engram",
@@ -3724,14 +3725,15 @@
             }
           ],
           "Program": "Roofing Initiative",
-          "PropertyAddress_Line1": "4279 Acacia St",
+          "PropertyAddress_Line1": "14279 Acacia St",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70819",
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
           "Status": "Construction",
-          "caseID": "R75_4279 Acacia St_ENGRAM",
+          "Work_Began": "2019-12-11",
+          "caseID": "R75_14279 Acacia St_ENGRAM",
           "contractor_name": "Living Solutions",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -4157,6 +4159,7 @@
             "recVCx96GTaDBiBwC"
           ],
           "Status": "Construction",
+          "Work_Began": "2019-12-11",
           "caseID": "R36_6125 Byron St_JONES",
           "contractor_name": "Living Solutions",
           "email-of-staff": [
@@ -4290,6 +4293,7 @@
             "recauLE1grMkv8LYi"
           ],
           "Status": "Construction",
+          "Work_Began": "2019-12-06",
           "caseID": "R23_2950 Linwood St _CHRISTOPHER",
           "contractor_name": "Living Solutions",
           "email-of-staff": [
