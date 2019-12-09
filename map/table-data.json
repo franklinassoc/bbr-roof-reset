@@ -2685,11 +2685,109 @@
           "Date Initial Inspection": "2019-08-10",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
-          "Delay reason": "Contractor wasn't aware or very large southern pine tree that had to be removed. Contractor encountered much more rot and termite damage in the flat roof areas than indicated in the scope of work - requires change order.",
+          "Delay reason": "Contractor wasn't aware or very large southern pine tree that had to be removed. Contractor encountered much more rot and termite damage in the flat roof areas than indicated in the scope of work - requires change order.\n2019-12-09: on-site inspection revealed tree totally removed. Most cleanup completed. Rear fence requires repair.",
           "Description": "2252059588",
           "FullPropertyAddress": "5556 Adams Ave, Baton Rouge LA 70806",
           "GeocodeCache": "🔵 eyJpIjoiNTU1NiBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODA2IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI1NTU2IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODA2LCBVU0EiLCJsYXQiOjMwLjQ2OTMzMywibG5nIjotOTEuMTMzNzU0MDAwMDAwMDF9LCJlIjoxNTY3MTkyMTc3OTY4fQ==",
           "Inspection (initial)": "Completed",
+          "Inspection Photos": [
+            {
+              "filename": "5556_Adams_termite-damage_05-tn.jpg",
+              "id": "attRnwVy2Tf0ETbzi",
+              "size": 212689,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/90cb326e78b3f962ed2b9fd30a72980a/4e2cce89",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/f2179c6d774b4f02d50a01ee1eb23ced/babb99b7",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/1a606687272e3455b81c52a3f3ffcb0a/f00350ac",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/fe259e903984cc2cb1b3149271965ac2/0716c9f9/5556_Adams_termite-damage_05-tn.jpg"
+            },
+            {
+              "filename": "5556_Adams_termite-damage_09-tn.jpg",
+              "id": "attSQESlsSlXAJAah",
+              "size": 350088,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/c7ff386de423d7f67fb4ae3fda9705a2/d07d2ec7",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/198f3c0ab291a423dc5796caab5ee47b/21516d1f",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/4373d631428ddb68e7249e164ebe67d5/7de2867c",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/9167b6464386fa06b817d030d97d11f1/180de916/5556_Adams_termite-damage_09-tn.jpg"
+            },
+            {
+              "filename": "5556_Adams_termite-damage_11-tn.jpg",
+              "id": "atttOd8PSTwIOkjPK",
+              "size": 361112,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/40b89b280cd48489666618f933aed7e7/16729fc9",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/c7d94bc348ee83d423d6773cc8867c21/196e45b8",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/e02921cdcf3c98e90c772e375f55dbad/1bfe5b73",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/fde4e526d7d35e3c475390cb9186cd06/f92e24a7/5556_Adams_termite-damage_11-tn.jpg"
+            },
+            {
+              "filename": "5556_Adams_tree_16-tn.jpg",
+              "id": "attGdQAuc6Ye99Flc",
+              "size": 291338,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/c1a96ba3fa28bda73a0077b41ff09988/e0933aea",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 683,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/e21076f8aa018939aea5729df9b95ea1/b6260a2a",
+                  "width": 512
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3e472f3b22613b104771dc422daaa864/94f50862",
+                  "width": 27
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/58b9216681b79b62c49446c410a1997b/af60f408/5556_Adams_tree_16-tn.jpg"
+            }
+          ],
           "Owner": "Zenetta Thompson",
           "Owner Phone (7 digit)": "355-0223",
           "Photo of front": [
@@ -2729,6 +2827,80 @@
           "Work_Began": "2019-12-05",
           "Work_Completed": "2019-12-09",
           "caseID": "R53_5556 Adams Ave_THOMPSON",
+          "completion_photos": [
+            {
+              "filename": "5556_Adams_tree-removed-tn.jpg",
+              "id": "attlrquSP1QWD7DbV",
+              "size": 327807,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3592a6f8606043114e58b8f28296ff41/4cf58135",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/8a41ed4c9ac91db08075e8d58d211af2/9ef87786",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/2394c3f7781312226706a0ec0f6e54c5/dd467773",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/835310b0a50c97a55bfc28f5ee3e322e/f7bb787b/5556_Adams_tree-removed-tn.jpg"
+            },
+            {
+              "filename": "5556_Adams_completed_front-tn.jpg",
+              "id": "att3sYmW4FZYyriS6",
+              "size": 355308,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/eef1d32b6f5ab0420725f4894c4b20c9/1e2ea121",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/2a0214870a1d4d7bfe2056432b8efc56/2fd5b186",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/48628b3d59fcbfab7ffe5fb293841bc0/151a88c2",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/461787ac413fbae834f8a4d61e851901/d56ce39f/5556_Adams_completed_front-tn.jpg"
+            },
+            {
+              "filename": "5556_Adams_repaired-tn.jpg",
+              "id": "attXTGB5rMva4OfR0",
+              "size": 341172,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/af2e1049456fc5d5a5a70dd02f7684d8/403e097a",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/197de21a5544ffad261d24875b7c29ab/254db2f3",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/e73abac544fb47857b14f59e56061fc0/ad86105b",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/aa7caa7dbd63d2bbeb718806b90c129a/438b566f/5556_Adams_repaired-tn.jpg"
+            }
+          ],
           "contractor_name": "Turnkey Construction",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -4364,6 +4536,7 @@
           "Contractor Name": [
             "recyPfAKIENmUrHOa"
           ],
+          "Date Final Inspection": "2019-12-09",
           "Date Initial Inspection": "2019-08-04",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-24",
@@ -4468,6 +4641,7 @@
               "url": "https://dl.airtable.com/.attachments/beff930da9a21ae8674f33e34ec8ee41/04a98a3e/2950_Linwood_roof_replaced_03-tn.jpg"
             }
           ],
+          "Invoice Date": "2019-12-09",
           "Owner": "Willie  Christopher",
           "Owner Phone (7 digit)": "614-0898",
           "Photo of front": [
