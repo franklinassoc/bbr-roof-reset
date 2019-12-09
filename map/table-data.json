@@ -2672,7 +2672,7 @@
           "Applicant_FirstName": "Zenetta",
           "Applicant_LastName": "Thompson",
           "AutoNum": 53,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "Comments": [
             "rec1uHZBImbOA8dUz"
           ],
@@ -2681,9 +2681,11 @@
           "Contractor Name": [
             "recLq1mY602uzmPSK"
           ],
+          "Date Final Inspection": "2019-12-11",
           "Date Initial Inspection": "2019-08-10",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
+          "Delay reason": "Contractor wasn't aware or very large southern pine tree that had to be removed. Contractor encountered much more rot and termite damage in the flat roof areas than indicated in the scope of work - requires change order.",
           "Description": "2252059588",
           "FullPropertyAddress": "5556 Adams Ave, Baton Rouge LA 70806",
           "GeocodeCache": "🔵 eyJpIjoiNTU1NiBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODA2IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI1NTU2IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODA2LCBVU0EiLCJsYXQiOjMwLjQ2OTMzMywibG5nIjotOTEuMTMzNzU0MDAwMDAwMDF9LCJlIjoxNTY3MTkyMTc3OTY4fQ==",
@@ -2723,7 +2725,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
+          "Work_Began": "2019-12-05",
+          "Work_Completed": "2019-12-09",
           "caseID": "R53_5556 Adams Ave_THOMPSON",
           "contractor_name": "Turnkey Construction",
           "email-of-staff": [
@@ -2742,12 +2746,13 @@
           "Applicant_FirstName": "Joannah",
           "Applicant_LastName": "Mason",
           "AutoNum": 73,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "2253566427",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recGXP2Fwj9U1qlkE"
           ],
+          "Date Final Inspection": "2019-12-11",
           "Date Initial Inspection": "2019-08-10",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
@@ -2789,8 +2794,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
           "Work_Began": "2019-12-11",
+          "Work_Completed": "2019-12-09",
           "caseID": "R73_3961 Monroe Ave_MASON",
           "contractor_name": "Chatmon Construction",
           "email-of-staff": [
@@ -2975,15 +2981,17 @@
           "Applicant_FirstName": "Annie",
           "Applicant_LastName": "Wright",
           "AutoNum": 79,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "2253370813",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recGXP2Fwj9U1qlkE"
           ],
+          "Date Final Inspection": "2019-12-11",
           "Date Initial Inspection": "2019-08-05",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
+          "Delay reason": "Contractor encountered 100 sq ft additional rotted roof decking that had to be replaced. Not covered in scope. Change order required.",
           "FullPropertyAddress": "3563 Osceola Ave, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzU2MyBPc2Nlb2xhIEF2ZSwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjM1NjMgT3NjZW9sYSBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ4MDY0NTEsImxuZyI6LTkxLjE2NTM1MzIwMDAwMDAzfSwiZSI6MTU2NzE5MjE1OTQwNH0=",
           "Inspection (initial)": "Completed",
@@ -3022,8 +3030,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
           "Work_Began": "2019-12-07",
+          "Work_Completed": "2019-12-09",
           "caseID": "R79_3563 Osceola Ave_WRIGHT",
           "contractor_name": "Chatmon Construction",
           "email-of-staff": [
@@ -5590,12 +5599,13 @@
           "Applicant_FirstName": "Julia",
           "Applicant_LastName": "Ross",
           "AutoNum": 26,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "(225) 387-4648",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recGXP2Fwj9U1qlkE"
           ],
+          "Date Final Inspection": "2019-12-11",
           "Date Initial Inspection": "2019-08-07",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-24",
@@ -5638,8 +5648,9 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
           "Work_Began": "2019-12-05",
+          "Work_Completed": "2019-12-09",
           "caseID": "R26_831 N 40th St_ROSS",
           "contractor_name": "Chatmon Construction",
           "email-of-staff": [
