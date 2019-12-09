@@ -4877,6 +4877,32 @@
           "Inspection (initial)": "Requested",
           "Owner": "Emile Chauvin",
           "Owner Phone (7 digit)": "362-1280",
+          "Photo of front": [
+            {
+              "filename": "9929_Groner_Ave_street_view.jpg",
+              "id": "attU9qkvLYX8OLMsS",
+              "size": 653954,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/f5facc164ce0af140a9f97f9647222ea/573a70ec",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/94531cbb66c995550500a55a8c352e03/19e5807b",
+                  "width": 1124
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/2a802afdc1ebc3e76d17f76d13f431c7/70345455",
+                  "width": 79
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/4bcd7b3df3ae12a9993ea62194e8ea3b/167470e6/9929_Groner_Ave_street_view.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "9929 Groner Ave",
           "Property_City": "Baton Rouge",
