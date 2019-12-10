@@ -3582,12 +3582,13 @@
           "Applicant_FirstName": "Angela",
           "Applicant_LastName": "Williams",
           "AutoNum": 31,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "2254396382",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recyPfAKIENmUrHOa"
           ],
+          "Date Final Inspection": "2019-12-12",
           "Date Initial Inspection": "2019-08-11",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
@@ -3629,7 +3630,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
+          "Work_Began": "2019-12-06",
+          "Work_Completed": "2019-12-09",
           "caseID": "R31_2251 Plantation Dr_WILLIAMS",
           "contractor_name": "Living Solutions",
           "email-of-staff": [
@@ -4329,7 +4332,7 @@
           "Applicant_FirstName": "Lois Marie",
           "Applicant_LastName": "Beals ",
           "AutoNum": 21,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "(225) 444-7447",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -4374,7 +4377,7 @@
           "PropertyAddress_Line1": "2908 Sherwood St. ",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
           "caseID": "R21_2908 Sherwood St. _BEALS ",
           "contractor_name": "Terence R Williams Enterprises, LLC",
           "latitude": "30.489371",
@@ -4390,7 +4393,7 @@
           "Applicant_FirstName": "Ernest ",
           "Applicant_LastName": "Jones",
           "AutoNum": 36,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "Comments": [
             "recra9RYyXkmeu2Hw"
           ],
@@ -4399,6 +4402,7 @@
           "Contractor Name": [
             "recyPfAKIENmUrHOa"
           ],
+          "Date Final Inspection": "2019-12-12",
           "Date Initial Inspection": "2019-08-11",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
@@ -4440,8 +4444,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Construction",
-          "Work_Began": "2019-12-11",
+          "Status": "Complete, needs Inspection",
+          "Work_Began": "2019-12-06",
+          "Work_Completed": "2019-12-09",
           "caseID": "R36_6125 Byron St_JONES",
           "contractor_name": "Living Solutions",
           "email-of-staff": [
@@ -4460,7 +4465,7 @@
           "Applicant_FirstName": "Shirley",
           "Applicant_LastName": "Williams",
           "AutoNum": 51,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "2252468971",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -4508,7 +4513,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
           "caseID": "R51_224 Evergreen Dr_WILLIAMS",
           "contractor_name": "Terence R Williams Enterprises, LLC",
           "email-of-staff": [
@@ -6486,7 +6491,7 @@
           "Applicant_FirstName": "Veronica",
           "Applicant_LastName": "Magee",
           "AutoNum": 32,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "Comments": [
             "recSFmUup6wVufcfw"
           ],
@@ -6536,7 +6541,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
           "caseID": "R32_640 Arlington Ave_MAGEE",
           "contractor_name": "Terence R Williams Enterprises, LLC",
           "email-of-staff": [
