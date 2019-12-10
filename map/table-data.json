@@ -2653,6 +2653,7 @@
             "recVCx96GTaDBiBwC"
           ],
           "Status": "Construction",
+          "Work_Began": "2019-12-09",
           "caseID": "R34_1974 Mission Dr_SMITH",
           "contractor_name": "Living Solutions",
           "email-of-staff": [
@@ -2671,19 +2672,122 @@
           "Applicant_FirstName": "Zenetta",
           "Applicant_LastName": "Thompson",
           "AutoNum": 53,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
+          "Comments": [
+            "rec1uHZBImbOA8dUz"
+          ],
           "ContactPhoneNumber": "2253550223",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recLq1mY602uzmPSK"
           ],
+          "Date Final Inspection": "2019-12-11",
           "Date Initial Inspection": "2019-08-10",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
+          "Delay reason": "Contractor wasn't aware or very large southern pine tree that had to be removed. Contractor encountered much more rot and termite damage in the flat roof areas than indicated in the scope of work - requires change order.\n2019-12-09: on-site inspection revealed tree totally removed. Most cleanup completed. Rear fence requires repair.",
           "Description": "2252059588",
           "FullPropertyAddress": "5556 Adams Ave, Baton Rouge LA 70806",
           "GeocodeCache": "🔵 eyJpIjoiNTU1NiBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODA2IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI1NTU2IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODA2LCBVU0EiLCJsYXQiOjMwLjQ2OTMzMywibG5nIjotOTEuMTMzNzU0MDAwMDAwMDF9LCJlIjoxNTY3MTkyMTc3OTY4fQ==",
           "Inspection (initial)": "Completed",
+          "Inspection Photos": [
+            {
+              "filename": "5556_Adams_termite-damage_05-tn.jpg",
+              "id": "attRnwVy2Tf0ETbzi",
+              "size": 212689,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/90cb326e78b3f962ed2b9fd30a72980a/4e2cce89",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/f2179c6d774b4f02d50a01ee1eb23ced/babb99b7",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/1a606687272e3455b81c52a3f3ffcb0a/f00350ac",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/fe259e903984cc2cb1b3149271965ac2/0716c9f9/5556_Adams_termite-damage_05-tn.jpg"
+            },
+            {
+              "filename": "5556_Adams_termite-damage_09-tn.jpg",
+              "id": "attSQESlsSlXAJAah",
+              "size": 350088,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/c7ff386de423d7f67fb4ae3fda9705a2/d07d2ec7",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/198f3c0ab291a423dc5796caab5ee47b/21516d1f",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/4373d631428ddb68e7249e164ebe67d5/7de2867c",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/9167b6464386fa06b817d030d97d11f1/180de916/5556_Adams_termite-damage_09-tn.jpg"
+            },
+            {
+              "filename": "5556_Adams_termite-damage_11-tn.jpg",
+              "id": "atttOd8PSTwIOkjPK",
+              "size": 361112,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/40b89b280cd48489666618f933aed7e7/16729fc9",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/c7d94bc348ee83d423d6773cc8867c21/196e45b8",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/e02921cdcf3c98e90c772e375f55dbad/1bfe5b73",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/fde4e526d7d35e3c475390cb9186cd06/f92e24a7/5556_Adams_termite-damage_11-tn.jpg"
+            },
+            {
+              "filename": "5556_Adams_tree_16-tn.jpg",
+              "id": "attGdQAuc6Ye99Flc",
+              "size": 291338,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/c1a96ba3fa28bda73a0077b41ff09988/e0933aea",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 683,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/e21076f8aa018939aea5729df9b95ea1/b6260a2a",
+                  "width": 512
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3e472f3b22613b104771dc422daaa864/94f50862",
+                  "width": 27
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/58b9216681b79b62c49446c410a1997b/af60f408/5556_Adams_tree_16-tn.jpg"
+            }
+          ],
           "Owner": "Zenetta Thompson",
           "Owner Phone (7 digit)": "355-0223",
           "Photo of front": [
@@ -2719,8 +2823,84 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
+          "Work_Began": "2019-12-05",
+          "Work_Completed": "2019-12-09",
           "caseID": "R53_5556 Adams Ave_THOMPSON",
+          "completion_photos": [
+            {
+              "filename": "5556_Adams_tree-removed-tn.jpg",
+              "id": "attlrquSP1QWD7DbV",
+              "size": 327807,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/3592a6f8606043114e58b8f28296ff41/4cf58135",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/8a41ed4c9ac91db08075e8d58d211af2/9ef87786",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/2394c3f7781312226706a0ec0f6e54c5/dd467773",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/835310b0a50c97a55bfc28f5ee3e322e/f7bb787b/5556_Adams_tree-removed-tn.jpg"
+            },
+            {
+              "filename": "5556_Adams_completed_front-tn.jpg",
+              "id": "att3sYmW4FZYyriS6",
+              "size": 355308,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/eef1d32b6f5ab0420725f4894c4b20c9/1e2ea121",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/2a0214870a1d4d7bfe2056432b8efc56/2fd5b186",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/48628b3d59fcbfab7ffe5fb293841bc0/151a88c2",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/461787ac413fbae834f8a4d61e851901/d56ce39f/5556_Adams_completed_front-tn.jpg"
+            },
+            {
+              "filename": "5556_Adams_repaired-tn.jpg",
+              "id": "attXTGB5rMva4OfR0",
+              "size": 341172,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/af2e1049456fc5d5a5a70dd02f7684d8/403e097a",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/197de21a5544ffad261d24875b7c29ab/254db2f3",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/e73abac544fb47857b14f59e56061fc0/ad86105b",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/aa7caa7dbd63d2bbeb718806b90c129a/438b566f/5556_Adams_repaired-tn.jpg"
+            }
+          ],
           "contractor_name": "Turnkey Construction",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -2738,12 +2918,13 @@
           "Applicant_FirstName": "Joannah",
           "Applicant_LastName": "Mason",
           "AutoNum": 73,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "2253566427",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recGXP2Fwj9U1qlkE"
           ],
+          "Date Final Inspection": "2019-12-11",
           "Date Initial Inspection": "2019-08-10",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
@@ -2785,7 +2966,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
+          "Work_Began": "2019-12-11",
+          "Work_Completed": "2019-12-09",
           "caseID": "R73_3961 Monroe Ave_MASON",
           "contractor_name": "Chatmon Construction",
           "email-of-staff": [
@@ -2970,18 +3153,118 @@
           "Applicant_FirstName": "Annie",
           "Applicant_LastName": "Wright",
           "AutoNum": 79,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "2253370813",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recGXP2Fwj9U1qlkE"
           ],
+          "Date Final Inspection": "2019-12-11",
           "Date Initial Inspection": "2019-08-05",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
+          "Delay reason": "Contractor encountered 100 sq ft additional rotted roof decking that had to be replaced. Not covered in scope. Change order required.",
           "FullPropertyAddress": "3563 Osceola Ave, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMzU2MyBPc2Nlb2xhIEF2ZSwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjM1NjMgT3NjZW9sYSBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ4MDY0NTEsImxuZyI6LTkxLjE2NTM1MzIwMDAwMDAzfSwiZSI6MTU2NzE5MjE1OTQwNH0=",
           "Inspection (initial)": "Completed",
+          "Inspection Photos": [
+            {
+              "filename": "3563_Osceola_roof_repair_06-tn.jpg",
+              "id": "attRBi2RnbfHCd1Ta",
+              "size": 218141,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/a439cce5fe9d314e8b668a60513bbd8d/5aa793b9",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/70dbc32fc311840518e35ee586d61f81/27e591e8",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/71df8e842c3f92261069196a5586cd47/9e4852dc",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/c0af3c0e84e574d9619cfcd50c88e781/69a8f228/3563_Osceola_roof_repair_06-tn.jpg"
+            },
+            {
+              "filename": "3563_Osceola_roof_repair_08-tn.jpg",
+              "id": "attEPmnfdIrqA91kv",
+              "size": 350843,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/8247fc5fa7169f2ef67cb7e595ce5732/72598d7e",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/18ddd897bf9c537cf87accdfa4614e21/3fcd0770",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/1f97de10f35453b22b58f893cd867a2b/4aef1db4",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/ac4e53887c3e456c5ca9c77f681a142f/15245523/3563_Osceola_roof_repair_08-tn.jpg"
+            },
+            {
+              "filename": "3563_Osceola_roof_repair_02-tn.jpg",
+              "id": "attTKMBpWWdHTtBB5",
+              "size": 400314,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/c97a72400384e0f88861b2a80868d239/b68ba38d",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9e3f83d572aa005a33d4fdbcbfc0ccbf/5fc91ed4",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/be2f995df4bc7556a566e161df3a7af9/7b5987c9",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/1280b27db6a226fe9e0222a649c7694a/06e7d1f2/3563_Osceola_roof_repair_02-tn.jpg"
+            },
+            {
+              "filename": "3563_Osceola_roof_repair_05-tn.jpg",
+              "id": "attjArfZM3JyD68ZG",
+              "size": 247785,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/1a4d7cf59562e979678c127a6deb0911/5573e35a",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/5deed7cc4cf0dc7a8a8d279e32c76f18/ba7e27e6",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/e2f72d6ade5b36d0620e62af18fba574/c6c5e31a",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/af4a31922b79c93f5525d2824160ee78/f38d86b7/3563_Osceola_roof_repair_05-tn.jpg"
+            }
+          ],
           "Owner": "Annie Wright",
           "Owner Phone (7 digit)": "337-0813",
           "Photo of front": [
@@ -3017,7 +3300,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
+          "Work_Began": "2019-12-07",
+          "Work_Completed": "2019-12-09",
           "caseID": "R79_3563 Osceola Ave_WRIGHT",
           "contractor_name": "Chatmon Construction",
           "email-of-staff": [
@@ -3297,12 +3582,13 @@
           "Applicant_FirstName": "Angela",
           "Applicant_LastName": "Williams",
           "AutoNum": 31,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "2254396382",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recyPfAKIENmUrHOa"
           ],
+          "Date Final Inspection": "2019-12-12",
           "Date Initial Inspection": "2019-08-11",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
@@ -3344,7 +3630,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
+          "Work_Began": "2019-12-06",
+          "Work_Completed": "2019-12-09",
           "caseID": "R31_2251 Plantation Dr_WILLIAMS",
           "contractor_name": "Living Solutions",
           "email-of-staff": [
@@ -3687,7 +3975,7 @@
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
           "Delay reason": "Originally input as #4279 Acacia. Actually #14279.",
-          "FullPropertyAddress": "4279 Acacia St, Baton Rouge LA 70819",
+          "FullPropertyAddress": "14279 Acacia St, Baton Rouge LA 70819",
           "GeocodeCache": "🔵 eyJpIjoiNDI3OSBBY2FjaWEgU3QsIEJhdG9uIFJvdWdlIExBIDcwODE5IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiJBY2FjaWEgU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgxOSwgVVNBIiwibGF0IjozMC40NTg5Mjk2LCJsbmciOi05MS4wMjczOTE3OTk5OTk5OH0sImUiOjE1NjcxOTIxNzM0Mzd9",
           "Inspection (initial)": "Completed",
           "Owner": "Myra Lou Engram",
@@ -3719,14 +4007,15 @@
             }
           ],
           "Program": "Roofing Initiative",
-          "PropertyAddress_Line1": "4279 Acacia St",
+          "PropertyAddress_Line1": "14279 Acacia St",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70819",
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
           "Status": "Construction",
-          "caseID": "R75_4279 Acacia St_ENGRAM",
+          "Work_Began": "2019-12-11",
+          "caseID": "R75_14279 Acacia St_ENGRAM",
           "contractor_name": "Living Solutions",
           "email-of-staff": [
             "tsaunders@ebrra.org"
@@ -4043,7 +4332,7 @@
           "Applicant_FirstName": "Lois Marie",
           "Applicant_LastName": "Beals ",
           "AutoNum": 21,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "(225) 444-7447",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -4088,7 +4377,7 @@
           "PropertyAddress_Line1": "2908 Sherwood St. ",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
           "caseID": "R21_2908 Sherwood St. _BEALS ",
           "contractor_name": "Terence R Williams Enterprises, LLC",
           "latitude": "30.489371",
@@ -4104,12 +4393,16 @@
           "Applicant_FirstName": "Ernest ",
           "Applicant_LastName": "Jones",
           "AutoNum": 36,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
+          "Comments": [
+            "recra9RYyXkmeu2Hw"
+          ],
           "ContactPhoneNumber": "2253580962",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recyPfAKIENmUrHOa"
           ],
+          "Date Final Inspection": "2019-12-12",
           "Date Initial Inspection": "2019-08-11",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
@@ -4151,7 +4444,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
+          "Work_Began": "2019-12-06",
+          "Work_Completed": "2019-12-09",
           "caseID": "R36_6125 Byron St_JONES",
           "contractor_name": "Living Solutions",
           "email-of-staff": [
@@ -4170,7 +4465,7 @@
           "Applicant_FirstName": "Shirley",
           "Applicant_LastName": "Williams",
           "AutoNum": 51,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "2252468971",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -4218,7 +4513,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
           "caseID": "R51_224 Evergreen Dr_WILLIAMS",
           "contractor_name": "Terence R Williams Enterprises, LLC",
           "email-of-staff": [
@@ -4237,18 +4532,121 @@
           "Applicant_FirstName": "Willie ",
           "Applicant_LastName": "Christopher",
           "AutoNum": 23,
-          "Case_Status": "Construction",
+          "Case_Status": "Approved",
+          "Comments": [
+            "rec53eCMsD9o7idf7"
+          ],
           "ContactPhoneNumber": "(225) 614-0898",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recyPfAKIENmUrHOa"
           ],
+          "Date Final Inspection": "2019-12-09",
           "Date Initial Inspection": "2019-08-04",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "2950 Linwood St , Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjk1MCBMaW53b29kIFN0ICwgQmF0b24gUm91Z2UgTEEgNzA4MDUiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjI5NTAgTGlud29vZCBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ3NDUwNTcsImxuZyI6LTkxLjE3Mjk2ODR9LCJlIjoxNTY3MTkyMTQ0NjU5fQ==",
           "Inspection (initial)": "Completed",
+          "Inspection Photos": [
+            {
+              "filename": "2950_Linwood_roof_replaced_02-thumb.jpg",
+              "id": "attGisDyg6WtlE80s",
+              "size": 389829,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9426ce54118373e5ab284608b456d569/381d7e51",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/6d0b9e42d68b74142c850ec46e0d9cfc/6606f7cb",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/12694c3e8a489f813ed4f643a4582bec/6410c965",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/5b6df9c6229272dc7871c7ae77179879/b7c40deb/2950_Linwood_roof_replaced_02-thumb.jpg"
+            },
+            {
+              "filename": "2950_Linwood_roof_completed_05-tn.jpg",
+              "id": "attBHAfEZwXlcXzAv",
+              "size": 329384,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/fc1fd0e18ff7c36261af75dddaf1f43d/22ab296d",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/f519e3ac9ac7801dc96e3248d96066ff/c69aeffb",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/4ded653ed25d286c9622bbbf7b5d5794/64ab9213",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/fa9aec82d6b4f8cbb7710f6900ccaa2a/60e4e5bd/2950_Linwood_roof_completed_05-tn.jpg"
+            },
+            {
+              "filename": "2950_Linwood_roof_completed_06-tn.jpg",
+              "id": "attDtkth6WiJQWMeL",
+              "size": 283527,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/629185918f624d298d2321751f90a06a/3f10e30c",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/cddd7b1d798745bc3c73b3bd9f1b82df/3a9fcec9",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/b659added837069ec945f41b016ade20/ae6b8faf",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/025dfb46800f0723ae20f2f8734903cb/bc69e6b6/2950_Linwood_roof_completed_06-tn.jpg"
+            },
+            {
+              "filename": "2950_Linwood_roof_replaced_03-tn.jpg",
+              "id": "att9x9WvNJBdIur5n",
+              "size": 360622,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/bf39916097c853d2be620679e1aa9c4c/e23485ef",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/e7b04d3b132c83c70e61954e39419b8d/57cf27bf",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/6b79f672dc625181a410b1f5048d152b/e77db670",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/beff930da9a21ae8674f33e34ec8ee41/04a98a3e/2950_Linwood_roof_replaced_03-tn.jpg"
+            }
+          ],
+          "Invoice Date": "2019-12-09",
           "Owner": "Willie  Christopher",
           "Owner Phone (7 digit)": "614-0898",
           "Photo of front": [
@@ -4284,7 +4682,9 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Construction",
+          "Status": "Approved",
+          "Work_Began": "2019-12-06",
+          "Work_Completed": "2019-12-06",
           "caseID": "R23_2950 Linwood St _CHRISTOPHER",
           "contractor_name": "Living Solutions",
           "email-of-staff": [
@@ -4482,6 +4882,32 @@
           "Inspection (initial)": "Requested",
           "Owner": "Emile Chauvin",
           "Owner Phone (7 digit)": "362-1280",
+          "Photo of front": [
+            {
+              "filename": "9929_Groner_Ave_street_view.jpg",
+              "id": "attU9qkvLYX8OLMsS",
+              "size": 653954,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/f5facc164ce0af140a9f97f9647222ea/573a70ec",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/94531cbb66c995550500a55a8c352e03/19e5807b",
+                  "width": 1124
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/2a802afdc1ebc3e76d17f76d13f431c7/70345455",
+                  "width": 79
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/4bcd7b3df3ae12a9993ea62194e8ea3b/167470e6/9929_Groner_Ave_street_view.jpg"
+            }
+          ],
           "Program": "Roofing Initiative",
           "PropertyAddress_Line1": "9929 Groner Ave",
           "Property_City": "Baton Rouge",
@@ -5548,14 +5974,15 @@
         "id": "recqiShNNkZZ6be5k",
         "properties": {
           "Applicant_FirstName": "Julia",
-          "Applicant_LastName": "Russ",
+          "Applicant_LastName": "Ross",
           "AutoNum": 26,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "(225) 387-4648",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recGXP2Fwj9U1qlkE"
           ],
+          "Date Final Inspection": "2019-12-11",
           "Date Initial Inspection": "2019-08-07",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-24",
@@ -5563,7 +5990,7 @@
           "FullPropertyAddress": "831 N 40th St, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiODMxIE4gNDB0aCBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDIiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjgzMSBOIDQwdGggU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NTYxNTQ0LCJsbmciOi05MS4xNTA1MTI0MDAwMDAwM30sImUiOjE1Njg5MDg1MjAxNjR9",
           "Inspection (initial)": "Completed",
-          "Owner": "Julia Russ",
+          "Owner": "Julia Ross",
           "Owner Phone (7 digit)": "387-4648",
           "Photo of front": [
             {
@@ -5598,8 +6025,10 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Construction",
-          "caseID": "R26_831 N 40th St_RUSS",
+          "Status": "Complete, needs Inspection",
+          "Work_Began": "2019-12-05",
+          "Work_Completed": "2019-12-09",
+          "caseID": "R26_831 N 40th St_ROSS",
           "contractor_name": "Chatmon Construction",
           "email-of-staff": [
             "bclark@ebrra.org"
@@ -6062,7 +6491,10 @@
           "Applicant_FirstName": "Veronica",
           "Applicant_LastName": "Magee",
           "AutoNum": 32,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
+          "Comments": [
+            "recSFmUup6wVufcfw"
+          ],
           "ContactPhoneNumber": "2252506725",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -6109,7 +6541,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
           "caseID": "R32_640 Arlington Ave_MAGEE",
           "contractor_name": "Terence R Williams Enterprises, LLC",
           "email-of-staff": [
