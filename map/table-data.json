@@ -2672,7 +2672,7 @@
           "Applicant_FirstName": "Zenetta",
           "Applicant_LastName": "Thompson",
           "AutoNum": 53,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "Comments": [
             "rec1uHZBImbOA8dUz"
           ],
@@ -2685,7 +2685,7 @@
           "Date Initial Inspection": "2019-08-10",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
-          "Delay reason": "Contractor wasn't aware or very large southern pine tree that had to be removed. Contractor encountered much more rot and termite damage in the flat roof areas than indicated in the scope of work - requires change order.\n2019-12-09: on-site inspection revealed tree totally removed. Most cleanup completed. Rear fence requires repair.",
+          "Delay reason": "Contractor wasn't aware or very large southern pine tree that had to be removed. Contractor encountered much more rot and termite damage in the flat roof areas than indicated in the scope of work - requires change order.\n2019-12-09: on-site inspection revealed tree totally removed. Most cleanup completed. Rear fence requires repair.\n2019-12-11: contractor agrees to paint newly installed fascia boards. (Couldn't yesterday due to rain.)",
           "Description": "2252059588",
           "FullPropertyAddress": "5556 Adams Ave, Baton Rouge LA 70806",
           "GeocodeCache": "🔵 eyJpIjoiNTU1NiBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODA2IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI1NTU2IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODA2LCBVU0EiLCJsYXQiOjMwLjQ2OTMzMywibG5nIjotOTEuMTMzNzU0MDAwMDAwMDF9LCJlIjoxNTY3MTkyMTc3OTY4fQ==",
@@ -2788,6 +2788,7 @@
               "url": "https://dl.airtable.com/.attachments/58b9216681b79b62c49446c410a1997b/af60f408/5556_Adams_tree_16-tn.jpg"
             }
           ],
+          "Invoice Date": "2019-12-11",
           "Owner": "Zenetta Thompson",
           "Owner Phone (7 digit)": "355-0223",
           "Photo of front": [
@@ -2823,7 +2824,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
           "Work_Began": "2019-12-05",
           "Work_Completed": "2019-12-09",
           "caseID": "R53_5556 Adams Ave_THOMPSON",
@@ -2918,7 +2919,7 @@
           "Applicant_FirstName": "Joannah",
           "Applicant_LastName": "Mason",
           "AutoNum": 73,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "2253566427",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -2931,6 +2932,7 @@
           "FullPropertyAddress": "3961 Monroe Ave, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMzk2MSBNb25yb2UgQXZlLCBCYXRvbiBSb3VnZSBMQSA3MDgwMiIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMzk2MSBNb25yb2UgQXZlLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDIsIFVTQSIsImxhdCI6MzAuNDY5Nzg0OSwibG5nIjotOTEuMTUwODEyNH0sImUiOjE1NjcxOTIxNTc0Njl9",
           "Inspection (initial)": "Completed",
+          "Invoice Date": "2019-12-11",
           "Owner": "Joannah Mason",
           "Owner Phone (7 digit)": "356-6427",
           "Photo of front": [
@@ -2966,7 +2968,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
           "Work_Began": "2019-12-11",
           "Work_Completed": "2019-12-09",
           "caseID": "R73_3961 Monroe Ave_MASON",
@@ -3153,7 +3155,7 @@
           "Applicant_FirstName": "Annie",
           "Applicant_LastName": "Wright",
           "AutoNum": 79,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "2253370813",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -3265,6 +3267,7 @@
               "url": "https://dl.airtable.com/.attachments/af4a31922b79c93f5525d2824160ee78/f38d86b7/3563_Osceola_roof_repair_05-tn.jpg"
             }
           ],
+          "Invoice Date": "2019-12-11",
           "Owner": "Annie Wright",
           "Owner Phone (7 digit)": "337-0813",
           "Photo of front": [
@@ -3300,7 +3303,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
           "Work_Began": "2019-12-07",
           "Work_Completed": "2019-12-09",
           "caseID": "R79_3563 Osceola Ave_WRIGHT",
@@ -5976,7 +5979,7 @@
           "Applicant_FirstName": "Julia",
           "Applicant_LastName": "Ross",
           "AutoNum": 26,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "(225) 387-4648",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -5990,6 +5993,7 @@
           "FullPropertyAddress": "831 N 40th St, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiODMxIE4gNDB0aCBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDIiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjgzMSBOIDQwdGggU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NTYxNTQ0LCJsbmciOi05MS4xNTA1MTI0MDAwMDAwM30sImUiOjE1Njg5MDg1MjAxNjR9",
           "Inspection (initial)": "Completed",
+          "Invoice Date": "2019-12-11",
           "Owner": "Julia Ross",
           "Owner Phone (7 digit)": "387-4648",
           "Photo of front": [
@@ -6025,7 +6029,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
           "Work_Began": "2019-12-05",
           "Work_Completed": "2019-12-09",
           "caseID": "R26_831 N 40th St_ROSS",
