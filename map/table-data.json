@@ -2675,7 +2675,8 @@
           "AutoNum": 53,
           "Case_Status": "Approved",
           "Comments": [
-            "rec1uHZBImbOA8dUz"
+            "rec1uHZBImbOA8dUz",
+            "rec54vxEcc8gMP2NH"
           ],
           "ContactPhoneNumber": "2253550223",
           "Contact_MailingAddress_State": "LA",
@@ -4345,7 +4346,7 @@
           "Date Initial Inspection": "2019-08-11",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-17",
-          "Delay reason": "Initially input as house #2980. Actually #2908.\n",
+          "Delay reason": "Initially input as house #2980. Actually #2908.\n2019-12-12: initial close-out inspection failed due to: 1) missing flashing on rear of a gable roof extension, 2) omitted ridge vent, 3) roofing debris remaining in valleys of roof and some on the ground. Contractor remedying today.",
           "FullPropertyAddress": "2908 Sherwood St. , Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjk4MCBTaGVyd29vZCBTdC4gLCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMjk4MCBTaGVyd29vZCBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ4OTQ5MDMsImxuZyI6LTkxLjE1OTgxOTIwMDAwMDAyfSwiZSI6MTU2NzE5MjE1NDQxN30=",
           "Inspection (initial)": "Completed",
@@ -4478,6 +4479,7 @@
           "Date Initial Inspection": "2019-08-06",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
+          "Delay reason": "2019-12-12: initial close-out inspection failed due to: 1) incomplete flashing on rear where carport attaches. Also omitted ridge vent but this was agreed unnecessary since two whirly-bird vents were installed.",
           "Description": "2259753250",
           "FullPropertyAddress": "224 Evergreen Dr, Baton Rouge LA 70806",
           "GeocodeCache": "🔵 eyJpIjoiMjI0IEV2ZXJncmVlbiBEciwgQmF0b24gUm91Z2UgTEEgNzA4MDYiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjIyNCBFdmVyZ3JlZW4gRHIsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNiwgVVNBIiwibGF0IjozMC40NDYwNDM4LCJsbmciOi05MS4xNjMyNjQ0OTk5OTk5N30sImUiOjE1NjcxOTIxNDUyNjd9",
@@ -6508,6 +6510,7 @@
           "Date Initial Inspection": "2019-08-06",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
+          "Delay reason": "2019-12-12: initial close-out inspection failed due to: 1) Incomplete flashing at rear, 2) roofing debris left on roof - visible from front of house.",
           "FullPropertyAddress": "640 Arlington Ave, Baton Rouge LA 70806",
           "GeocodeCache": "🔵 eyJpIjoiNjQwIEFybGluZ3RvbiBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODA2IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI2NDAgQXJsaW5ndG9uIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODA2LCBVU0EiLCJsYXQiOjMwLjQ0MjY1NjYsImxuZyI6LTkxLjE1OTI1ODc5OTk5OTk4fSwiZSI6MTU2NzE5MjE0NTk3NH0=",
           "Inspection (initial)": "Completed",
