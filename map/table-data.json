@@ -2605,7 +2605,7 @@
           "Applicant_FirstName": "Lawrence ",
           "Applicant_LastName": "Smith",
           "AutoNum": 34,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "2253573227",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -2652,7 +2652,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
           "Work_Began": "2019-12-09",
           "Work_Completed": "2019-12-12",
           "caseID": "R34_1974 Mission Dr_SMITH",
@@ -3586,7 +3586,7 @@
           "Applicant_FirstName": "Angela",
           "Applicant_LastName": "Williams",
           "AutoNum": 31,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "2254396382",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -3634,7 +3634,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
           "Work_Began": "2019-12-06",
           "Work_Completed": "2019-12-09",
           "caseID": "R31_2251 Plantation Dr_WILLIAMS",
@@ -4397,7 +4397,7 @@
           "Applicant_FirstName": "Ernest ",
           "Applicant_LastName": "Jones",
           "AutoNum": 36,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "Comments": [
             "recra9RYyXkmeu2Hw"
           ],
@@ -4448,7 +4448,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
           "Work_Began": "2019-12-06",
           "Work_Completed": "2019-12-09",
           "caseID": "R36_6125 Byron St_JONES",
