@@ -4347,6 +4347,7 @@
           "Contractor Name": [
             "reclO50i225iC0tTc"
           ],
+          "Date Final Inspection": "2019-12-13",
           "Date Initial Inspection": "2019-08-11",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-17",
@@ -4480,6 +4481,7 @@
           "Contractor Name": [
             "reclO50i225iC0tTc"
           ],
+          "Date Final Inspection": "2019-12-13",
           "Date Initial Inspection": "2019-08-06",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
@@ -5690,9 +5692,11 @@
           "Contractor Name": [
             "recN6hhn7SFQIJ1XI"
           ],
+          "Date Final Inspection": "2019-10-16",
           "Date Initial Inspection": "2019-03-09",
           "Date of NTP": "2019-09-25",
           "DateOrdered": "2019-07-03",
+          "Delay reason": "Ask Ted date of close-out inspection. Week of Oct. 14.",
           "Description": "case 103 Rehab program",
           "Final Project Cost": 14229,
           "FullPropertyAddress": "3645 Evangeline St, Baton Rouge LA 70805",
@@ -6514,6 +6518,7 @@
           "Contractor Name": [
             "reclO50i225iC0tTc"
           ],
+          "Date Final Inspection": "2019-12-13",
           "Date Initial Inspection": "2019-08-06",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
@@ -7022,7 +7027,7 @@
           "Applicant_FirstName": "Jessie",
           "Applicant_LastName": "Montgomery",
           "AutoNum": 9,
-          "Case_Status": "Approved",
+          "Case_Status": "Complete, needs Inspection",
           "ChangeOrders": 8615,
           "Comments": [
             "recNh8e0eJrIvLnPV"
@@ -7583,7 +7588,7 @@
             "recfk8RZSGi5ZwMNW"
           ],
           "Right-of-Entry": true,
-          "Status": "Approved",
+          "Status": "Complete, needs Inspection",
           "Total Bid Amount": 7200,
           "Work_Began": "2019-08-26",
           "Work_Completed": "2019-09-04",
