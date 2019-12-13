@@ -1939,7 +1939,7 @@
           "Applicant_FirstName": "Shirley",
           "Applicant_LastName": "Jarrell",
           "AutoNum": 44,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "2252184410",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -1989,7 +1989,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
           "Work_Began": "2019-12-11",
           "Work_Completed": "2019-12-13",
           "caseID": "R44_6822 E Upland Ave_JARRELL",
@@ -4341,7 +4341,7 @@
           "Applicant_FirstName": "Lois Marie",
           "Applicant_LastName": "Beals ",
           "AutoNum": 21,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "(225) 444-7447",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -4387,7 +4387,9 @@
           "PropertyAddress_Line1": "2908 Sherwood St. ",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
+          "Work_Began": "2019-12-09",
+          "Work_Completed": "2019-12-13",
           "caseID": "R21_2908 Sherwood St. _BEALS ",
           "contractor_name": "Terence R Williams Enterprises, LLC",
           "latitude": "30.489371",
@@ -4475,7 +4477,7 @@
           "Applicant_FirstName": "Shirley",
           "Applicant_LastName": "Williams",
           "AutoNum": 51,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "2252468971",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -4525,7 +4527,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
+          "Work_Began": "2019-12-09",
+          "Work_Completed": "2019-12-13",
           "caseID": "R51_224 Evergreen Dr_WILLIAMS",
           "contractor_name": "Terence R Williams Enterprises, LLC",
           "email-of-staff": [
@@ -5343,7 +5347,7 @@
           "Applicant_FirstName": "Theresa",
           "Applicant_LastName": "Gray",
           "AutoNum": 30,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "(225) 772-4256",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -5391,7 +5395,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
           "Work_Began": "2019-12-12",
           "Work_Completed": "2019-12-14",
           "caseID": "R30_2005 N 16th Street_GRAY",
@@ -5830,7 +5834,7 @@
           "Applicant_FirstName": "Carol ",
           "Applicant_LastName": "Miller",
           "AutoNum": 55,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "2256145987",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -5878,7 +5882,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
           "caseID": "R55_4943 Bardwell Dr _MILLER",
           "contractor_name": "Living Solutions",
           "email-of-staff": [
@@ -6509,7 +6513,7 @@
           "Applicant_FirstName": "Veronica",
           "Applicant_LastName": "Magee",
           "AutoNum": 32,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "Comments": [
             "recSFmUup6wVufcfw"
           ],
@@ -6561,7 +6565,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
+          "Work_Began": "2019-12-10",
+          "Work_Completed": "2019-12-13",
           "caseID": "R32_640 Arlington Ave_MAGEE",
           "contractor_name": "Terence R Williams Enterprises, LLC",
           "email-of-staff": [
