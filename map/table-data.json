@@ -1485,9 +1485,12 @@
           "Applicant_FirstName": "Angela",
           "Applicant_LastName": "Bynum",
           "AutoNum": 22,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "(225) 615-4947",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-04",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "5852 St. Gerard Ave , Baton Rouge LA 70805",
@@ -1528,8 +1531,10 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
+          "Work_Began": "2019-12-18",
           "caseID": "R22_5852 St. Gerard Ave _BYNUM",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
@@ -5904,6 +5909,8 @@
             "recVCx96GTaDBiBwC"
           ],
           "Status": "Complete, needs Inspection",
+          "Work_Began": "2019-12-11",
+          "Work_Completed": "2019-12-13",
           "caseID": "R55_4943 Bardwell Dr _MILLER",
           "contractor_name": "Living Solutions",
           "email-of-staff": [
