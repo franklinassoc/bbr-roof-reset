@@ -1379,9 +1379,12 @@
           "Applicant_FirstName": "Joyce",
           "Applicant_LastName": "McKay",
           "AutoNum": 37,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2252393806",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-05",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "4544 E Brookstown Dr, Baton Rouge LA 70805",
@@ -1422,8 +1425,10 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
+          "Work_Began": "2019-12-16",
           "caseID": "R37_4544 E Brookstown Dr_MCKAY",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
