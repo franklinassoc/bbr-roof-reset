@@ -694,9 +694,13 @@
           "Applicant_FirstName": "Ezekiel ",
           "Applicant_LastName": "Young Jr",
           "AutoNum": 54,
-          "Case_Status": "Contracting",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "2253540723",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "reclO50i225iC0tTc"
+          ],
+          "Date Final Inspection": "2019-12-19",
           "Date Initial Inspection": "2019-08-10",
           "DateOrdered": "2019-07-31",
           "Description": "2258061908",
@@ -738,8 +742,10 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Complete, needs Inspection",
+          "Work_Completed": "2019-12-16",
           "caseID": "R54_2532 68th Ave_YOUNG JR",
+          "contractor_name": "Terence R Williams Enterprises, LLC",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -5916,9 +5922,13 @@
           "Applicant_FirstName": "Patricia",
           "Applicant_LastName": "Bird",
           "AutoNum": 70,
-          "Case_Status": "Contracting",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "2253445191",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "reclO50i225iC0tTc"
+          ],
+          "Date Final Inspection": "2019-12-19",
           "Date Initial Inspection": "2019-08-06",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "1826 Arkansas St, Baton Rouge LA 70802",
@@ -5959,8 +5969,10 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Complete, needs Inspection",
+          "Work_Completed": "2019-12-17",
           "caseID": "R70_1826 Arkansas St_BIRD",
+          "contractor_name": "Terence R Williams Enterprises, LLC",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -6274,9 +6286,13 @@
           "Applicant_FirstName": "Rosa Lee",
           "Applicant_LastName": "Davis",
           "AutoNum": 80,
-          "Case_Status": "Contracting",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "2257754283",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "reclO50i225iC0tTc"
+          ],
+          "Date Final Inspection": "2019-12-19",
           "Date Initial Inspection": "2019-08-11",
           "DateOrdered": "2019-07-31",
           "Description": "2253280721",
@@ -6318,8 +6334,10 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Complete, needs Inspection",
+          "Work_Completed": "2019-12-16",
           "caseID": "R80_2640 Jay St_DAVIS",
+          "contractor_name": "Terence R Williams Enterprises, LLC",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
