@@ -2150,11 +2150,18 @@
           "Applicant_FirstName": "Shantele ",
           "Applicant_LastName": "Paul",
           "AutoNum": 38,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
+          "Comments": [
+            "recfUhoPexxkmiYox"
+          ],
           "ContactPhoneNumber": "2252842413",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-04",
           "DateOrdered": "2019-07-31",
+          "Delay reason": "Discovered very thin decking beneath 2 layers of old shingles.",
           "FullPropertyAddress": "5645 Shelley Ct, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiNTY0NSBTaGVsbGV5IEN0LCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiNTY0NSBTaGVsbGV5IEN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDkyMTU4NSwibG5nIjotOTEuMTMzNjQzNjAwMDAwMDN9LCJlIjoxNTY3MTkyMTU4MDY0fQ==",
           "Inspection (initial)": "Completed",
@@ -2193,8 +2200,10 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
+          "Work_Began": "2019-12-17",
           "caseID": "R38_5645 Shelley Ct_PAUL",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -2680,7 +2689,8 @@
           "Case_Status": "Approved",
           "Comments": [
             "rec1uHZBImbOA8dUz",
-            "rec54vxEcc8gMP2NH"
+            "rec54vxEcc8gMP2NH",
+            "recIHCX9rEWXMgiIQ"
           ],
           "ContactPhoneNumber": "2253550223",
           "Contact_MailingAddress_State": "LA",
