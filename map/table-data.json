@@ -1386,7 +1386,7 @@
           "Applicant_FirstName": "Joyce",
           "Applicant_LastName": "McKay",
           "AutoNum": 37,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "2252393806",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -1432,8 +1432,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
           "Work_Began": "2019-12-16",
+          "Work_Completed": "2019-12-18",
           "caseID": "R37_4544 E Brookstown Dr_MCKAY",
           "contractor_name": "Living Solutions",
           "email-of-staff": [
@@ -1486,7 +1487,7 @@
           "Applicant_FirstName": "Angela",
           "Applicant_LastName": "Bynum",
           "AutoNum": 22,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "(225) 615-4947",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -1532,8 +1533,9 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
           "Work_Began": "2019-12-18",
+          "Work_Completed": "2019-12-18",
           "caseID": "R22_5852 St. Gerard Ave _BYNUM",
           "contractor_name": "Living Solutions",
           "email-of-staff": [
@@ -1957,6 +1959,7 @@
           "Applicant_LastName": "Jarrell",
           "AutoNum": 44,
           "Case_Status": "Complete, needs Inspection",
+          "ChangeOrder": true,
           "ContactPhoneNumber": "2252184410",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -1971,6 +1974,128 @@
           "FullPropertyAddress": "6822 E Upland Ave, Baton Rouge LA 70812",
           "GeocodeCache": "🔵 eyJpIjoiNjgyMiBFIFVwbGFuZCBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODEyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI2ODIyIEUgVXBsYW5kIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODEyLCBVU0EiLCJsYXQiOjMwLjUxNTQ2NTIsImxuZyI6LTkxLjEyMzY2NjA5OTk5OTk4fSwiZSI6MTU2NzE5MjE3MTYzOH0=",
           "Inspection (initial)": "Completed",
+          "Inspection Photos": [
+            {
+              "filename": "IMG_2675-tn.jpg",
+              "id": "attCCx2HHuT4vwGWW",
+              "size": 367625,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/60c8d9810111140349692c4d17713356/110350ea",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9d19cb6d2ed7f78229754d509c0661c6/7f8b773b",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/e9f1212dd710f65ab13f3d9f0e3fb08d/f2274cca",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/2377c59c0b6391f6499838ee982387dd/cd23c063/IMG_2675-tn.jpg"
+            },
+            {
+              "filename": "IMG_2677-tn.jpg",
+              "id": "attzkrRKoeViSgjkK",
+              "size": 325653,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d44f46e85342d95171762be026382a91/b436d614",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d22d0e9c4fb5d52f3bc649b0d723ac37/2c0c060a",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/1770959a3b0539430a28ef4cff4da7dd/824fed48",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/a99cbb36be628ac40f7949054ee84fa4/5c02de74/IMG_2677-tn.jpg"
+            },
+            {
+              "filename": "IMG_2682-tn.jpg",
+              "id": "attfjZQgwxtoplEKK",
+              "size": 140037,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/674857667c56a62435b60da4dc486f8c/2065a500",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/263c9dffc765b95e22c0dd14c6b05a04/e974e917",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/aed28b18aafba92a6d78e3384c64685f/c699ae16",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/870b70505ff7c7747090fb8a9eec8394/ea8f02a2/IMG_2682-tn.jpg"
+            },
+            {
+              "filename": "IMG_2688-tn.jpg",
+              "id": "attbIzLdbTzKr0Cv6",
+              "size": 331788,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/4482ab4e78b6b684ef2143f03a5f07a6/9ee58c25",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/6098ba4ddcc549f12533477958580e07/12edc488",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9b07defa487ef8c61e1363e4e588fc86/f417f6a4",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/af0ff03dc7414c68766db32e67e63013/0bd6d4c1/IMG_2688-tn.jpg"
+            },
+            {
+              "filename": "IMG_2687-tn.jpg",
+              "id": "attiMntgbBMXFAyEI",
+              "size": 160373,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/47cfd6a830b5ed04a6de081acf20db71/c50c183e",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/65fb81b97f9b782414c7092ccbd65669/324c7932",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/656c7000476fde8bf3d6f1253ad6531b/51e525fa",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/445e9cb5ff6abd5e6f35fead1d94ed28/1675f011/IMG_2687-tn.jpg"
+            }
+          ],
           "Owner": "Shirley Jarrell",
           "Owner Phone (7 digit)": "218-4410",
           "Photo of front": [
@@ -2167,7 +2292,8 @@
           "Applicant_FirstName": "Shantele ",
           "Applicant_LastName": "Paul",
           "AutoNum": 38,
-          "Case_Status": "Construction",
+          "Case_Status": "Complete, needs Inspection",
+          "ChangeOrder": true,
           "Comments": [
             "recfUhoPexxkmiYox"
           ],
@@ -2217,8 +2343,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Construction",
+          "Status": "Complete, needs Inspection",
           "Work_Began": "2019-12-17",
+          "Work_Completed": "2019-12-18",
           "caseID": "R38_5645 Shelley Ct_PAUL",
           "contractor_name": "Living Solutions",
           "email-of-staff": [
@@ -2704,6 +2831,7 @@
           "Applicant_LastName": "Thompson",
           "AutoNum": 53,
           "Case_Status": "Approved",
+          "ChangeOrder": true,
           "Comments": [
             "rec1uHZBImbOA8dUz",
             "rec54vxEcc8gMP2NH",
@@ -3189,6 +3317,7 @@
           "Applicant_LastName": "Wright",
           "AutoNum": 79,
           "Case_Status": "Approved",
+          "ChangeOrder": true,
           "ContactPhoneNumber": "2253370813",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -7077,6 +7206,7 @@
           "Applicant_LastName": "Montgomery",
           "AutoNum": 9,
           "Case_Status": "Complete, needs Inspection",
+          "ChangeOrder": true,
           "ChangeOrders": 8615,
           "Comments": [
             "recNh8e0eJrIvLnPV"
