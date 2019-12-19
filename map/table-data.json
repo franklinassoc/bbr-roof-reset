@@ -5842,7 +5842,7 @@
           "Applicant_LastName": "Ketchens",
           "AutoNum": 6,
           "Case_Status": "Approved",
-          "ChangeOrders": 0,
+          "ChangeOrderAmt": 0,
           "Comments": [
             "rec4jwndaQd2UoW85",
             "recrQfxOqdClnCalM"
@@ -7207,7 +7207,7 @@
           "AutoNum": 9,
           "Case_Status": "Complete, needs Inspection",
           "ChangeOrder": true,
-          "ChangeOrders": 8615,
+          "ChangeOrderAmt": 8615,
           "Comments": [
             "recNh8e0eJrIvLnPV"
           ],
