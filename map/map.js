@@ -46,7 +46,7 @@ $.getJSON(url, function(Cases){
             <h3>${caseData['caseID']}</h3>
 			<h4>Homeowner: ${caseData['Owner']}</h4>
             <h4>Contractor: ${caseData['contractor_name']}</h4>
-            <h4>Status: ${caseData['Case_Status']}</h4>
+            <h4>Status: ${caseData['Status']}</h4>
         </div>`;
 
 // locate the markers and place them	
