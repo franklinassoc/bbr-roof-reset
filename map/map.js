@@ -29,11 +29,11 @@ var url = "table-data.json";
 var markers = L.markerClusterGroup();
 $.getJSON(url, function(result){
     $.each(result.features, function(index){
-        var caseData = result.features[index]["properties"];
+        var caseData = result.features[index]['properties'];
         var popupContent = `
         <div>
             <h3>${caseData['caseID']}</h3>
-			// <h4>Homeowner: ${caseData['Owner']}</h4>
+			<h4>Homeowner: ${caseData['Owner']}</h4>
             <h4>Contractor: ${caseData['contractor_name']}</h4>
             <h4>Status: ${caseData['Status']}</h4>
         </div>`;
