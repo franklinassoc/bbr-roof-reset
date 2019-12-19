@@ -138,9 +138,13 @@
           "Applicant_FirstName": "Fannietta",
           "Applicant_LastName": "Anderson",
           "AutoNum": 49,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2252728238",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "reclO50i225iC0tTc"
+          ],
+          "Date Final Inspection": "2019-12-23",
           "Date Initial Inspection": "2019-08-08",
           "DateOrdered": "2019-07-31",
           "Description": "2259753250",
@@ -182,8 +186,11 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
+          "Work_Began": "2019-12-19",
+          "Work_Completed": "2019-12-21",
           "caseID": "R49_4515 Thames Dr_ANDERSON",
+          "contractor_name": "Terence R Williams Enterprises, LLC",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -1330,6 +1337,7 @@
           "Contractor Name": [
             "reclO50i225iC0tTc"
           ],
+          "Date Final Inspection": "2019-12-23",
           "Date Initial Inspection": "2019-08-06",
           "DateOrdered": "2019-07-31",
           "Description": "2253546326",
@@ -1372,6 +1380,7 @@
             "recVCx96GTaDBiBwC"
           ],
           "Status": "Complete, needs Inspection",
+          "Work_Began": "2019-12-18",
           "Work_Completed": "2019-12-18",
           "caseID": "R68_5055 Clayton Dr_JONES",
           "contractor_name": "Terence R Williams Enterprises, LLC",
