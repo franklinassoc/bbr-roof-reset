@@ -26,7 +26,7 @@ var url = "table-data.json";
 
 // get table contents and create cluster layer from it
 var markers = L.markerClusterGroup();
-$.getJSON(url, function(result){
+// $.getJSON(url, function(result){
 //    $.each(result.records, function(index){
 //        var recordData = result.records[index]["fields"];
 //        var popupContent = `
@@ -38,7 +38,8 @@ $.getJSON(url, function(result){
 //        </div>`;
 
 // customize to pull from BBR roof reset json		
-    $.each(result.Cases.features, function(index){
+$.getJSON(url, function(Cases){
+    $.each(Cases.features, function(index){
         var caseData = Cases.features[index]["properties"];
         var popupContent = `
         <div>
