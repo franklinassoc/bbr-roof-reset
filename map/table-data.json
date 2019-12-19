@@ -2619,6 +2619,7 @@
           "Contractor Name": [
             "recyPfAKIENmUrHOa"
           ],
+          "Date Final Inspection": "2019-12-23",
           "Date Initial Inspection": "2019-08-07",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "5431 Washington Ave, Baton Rouge LA 70806",
@@ -2661,6 +2662,7 @@
           ],
           "Status": "Construction",
           "Work_Began": "2019-12-19",
+          "Work_Completed": "2019-12-20",
           "caseID": "R65_5431 Washington Ave_CHRISTOPHER ",
           "contractor_name": "Living Solutions",
           "email-of-staff": [
@@ -4088,9 +4090,13 @@
           "Applicant_FirstName": "Rose",
           "Applicant_LastName": "Stevens",
           "AutoNum": 78,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2254216988",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
+          "Date Final Inspection": "2019-12-23",
           "Date Initial Inspection": "2019-08-07",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "4935 Beech St, Baton Rouge LA 70805",
@@ -4131,8 +4137,11 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
+          "Work_Began": "2019-12-20",
+          "Work_Completed": "2019-12-21",
           "caseID": "R78_4935 Beech St_STEVENS",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -6912,6 +6921,7 @@
           "Contractor Name": [
             "recyPfAKIENmUrHOa"
           ],
+          "Date Final Inspection": "2019-12-23",
           "Date Initial Inspection": "2019-08-10",
           "DateOrdered": "2019-07-31",
           "Description": "2253242238",
@@ -6955,6 +6965,7 @@
           ],
           "Status": "Construction",
           "Work_Began": "2019-12-19",
+          "Work_Completed": "2019-12-20",
           "caseID": "R72_7295 Prescott Rd_AUSTIN",
           "contractor_name": "Living Solutions",
           "email-of-staff": [
