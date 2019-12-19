@@ -694,10 +694,15 @@
           "Applicant_FirstName": "Ezekiel ",
           "Applicant_LastName": "Young Jr",
           "AutoNum": 54,
-          "Case_Status": "Contracting",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "2253540723",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "reclO50i225iC0tTc"
+          ],
+          "Date Final Inspection": "2019-12-19",
           "Date Initial Inspection": "2019-08-10",
+          "Date of NTP": "2019-12-11",
           "DateOrdered": "2019-07-31",
           "Description": "2258061908",
           "FullPropertyAddress": "2532 68th Ave, Baton Rouge LA 70807",
@@ -738,8 +743,10 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Approved",
+          "Work_Completed": "2019-12-16",
           "caseID": "R54_2532 68th Ave_YOUNG JR",
+          "contractor_name": "Terence R Williams Enterprises, LLC",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -1317,9 +1324,12 @@
           "Applicant_FirstName": "Toni",
           "Applicant_LastName": "Jones",
           "AutoNum": 68,
-          "Case_Status": "Contracting",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "2253675676",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "reclO50i225iC0tTc"
+          ],
           "Date Initial Inspection": "2019-08-06",
           "DateOrdered": "2019-07-31",
           "Description": "2253546326",
@@ -1361,8 +1371,10 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Complete, needs Inspection",
+          "Work_Completed": "2019-12-18",
           "caseID": "R68_5055 Clayton Dr_JONES",
+          "contractor_name": "Terence R Williams Enterprises, LLC",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -1379,9 +1391,12 @@
           "Applicant_FirstName": "Joyce",
           "Applicant_LastName": "McKay",
           "AutoNum": 37,
-          "Case_Status": "Contracting",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "2252393806",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-05",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "4544 E Brookstown Dr, Baton Rouge LA 70805",
@@ -1422,8 +1437,11 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Complete, needs Inspection",
+          "Work_Began": "2019-12-16",
+          "Work_Completed": "2019-12-18",
           "caseID": "R37_4544 E Brookstown Dr_MCKAY",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -1474,9 +1492,12 @@
           "Applicant_FirstName": "Angela",
           "Applicant_LastName": "Bynum",
           "AutoNum": 22,
-          "Case_Status": "Contracting",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "(225) 615-4947",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-04",
           "DateOrdered": "2019-07-24",
           "FullPropertyAddress": "5852 St. Gerard Ave , Baton Rouge LA 70805",
@@ -1517,8 +1538,11 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Contracting",
+          "Status": "Complete, needs Inspection",
+          "Work_Began": "2019-12-18",
+          "Work_Completed": "2019-12-18",
           "caseID": "R22_5852 St. Gerard Ave _BYNUM",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "bclark@ebrra.org"
           ],
@@ -1939,12 +1963,14 @@
           "Applicant_FirstName": "Shirley",
           "Applicant_LastName": "Jarrell",
           "AutoNum": 44,
-          "Case_Status": "Construction",
+          "Case_Status": "Approved",
+          "ChangeOrder": true,
           "ContactPhoneNumber": "2252184410",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recGXP2Fwj9U1qlkE"
           ],
+          "Date Final Inspection": "2019-12-17",
           "Date Initial Inspection": "2019-08-07",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
@@ -1953,6 +1979,128 @@
           "FullPropertyAddress": "6822 E Upland Ave, Baton Rouge LA 70812",
           "GeocodeCache": "🔵 eyJpIjoiNjgyMiBFIFVwbGFuZCBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODEyIiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI2ODIyIEUgVXBsYW5kIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODEyLCBVU0EiLCJsYXQiOjMwLjUxNTQ2NTIsImxuZyI6LTkxLjEyMzY2NjA5OTk5OTk4fSwiZSI6MTU2NzE5MjE3MTYzOH0=",
           "Inspection (initial)": "Completed",
+          "Inspection Photos": [
+            {
+              "filename": "IMG_2675-tn.jpg",
+              "id": "attCCx2HHuT4vwGWW",
+              "size": 367625,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/60c8d9810111140349692c4d17713356/110350ea",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9d19cb6d2ed7f78229754d509c0661c6/7f8b773b",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/e9f1212dd710f65ab13f3d9f0e3fb08d/f2274cca",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/2377c59c0b6391f6499838ee982387dd/cd23c063/IMG_2675-tn.jpg"
+            },
+            {
+              "filename": "IMG_2677-tn.jpg",
+              "id": "attzkrRKoeViSgjkK",
+              "size": 325653,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d44f46e85342d95171762be026382a91/b436d614",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/d22d0e9c4fb5d52f3bc649b0d723ac37/2c0c060a",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/1770959a3b0539430a28ef4cff4da7dd/824fed48",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/a99cbb36be628ac40f7949054ee84fa4/5c02de74/IMG_2677-tn.jpg"
+            },
+            {
+              "filename": "IMG_2682-tn.jpg",
+              "id": "attfjZQgwxtoplEKK",
+              "size": 140037,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/674857667c56a62435b60da4dc486f8c/2065a500",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/263c9dffc765b95e22c0dd14c6b05a04/e974e917",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/aed28b18aafba92a6d78e3384c64685f/c699ae16",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/870b70505ff7c7747090fb8a9eec8394/ea8f02a2/IMG_2682-tn.jpg"
+            },
+            {
+              "filename": "IMG_2688-tn.jpg",
+              "id": "attbIzLdbTzKr0Cv6",
+              "size": 331788,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/4482ab4e78b6b684ef2143f03a5f07a6/9ee58c25",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/6098ba4ddcc549f12533477958580e07/12edc488",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9b07defa487ef8c61e1363e4e588fc86/f417f6a4",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/af0ff03dc7414c68766db32e67e63013/0bd6d4c1/IMG_2688-tn.jpg"
+            },
+            {
+              "filename": "IMG_2687-tn.jpg",
+              "id": "attiMntgbBMXFAyEI",
+              "size": 160373,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/47cfd6a830b5ed04a6de081acf20db71/c50c183e",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 512,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/65fb81b97f9b782414c7092ccbd65669/324c7932",
+                  "width": 683
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/656c7000476fde8bf3d6f1253ad6531b/51e525fa",
+                  "width": 48
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/445e9cb5ff6abd5e6f35fead1d94ed28/1675f011/IMG_2687-tn.jpg"
+            }
+          ],
           "Owner": "Shirley Jarrell",
           "Owner Phone (7 digit)": "218-4410",
           "Photo of front": [
@@ -1988,7 +2136,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Construction",
+          "Status": "Approved",
+          "Work_Began": "2019-12-11",
+          "Work_Completed": "2019-12-13",
           "caseID": "R44_6822 E Upland Ave_JARRELL",
           "contractor_name": "Chatmon Construction",
           "email-of-staff": [
@@ -2147,11 +2297,19 @@
           "Applicant_FirstName": "Shantele ",
           "Applicant_LastName": "Paul",
           "AutoNum": 38,
-          "Case_Status": "Contracting",
+          "Case_Status": "Complete, needs Inspection",
+          "ChangeOrder": true,
+          "Comments": [
+            "recfUhoPexxkmiYox"
+          ],
           "ContactPhoneNumber": "2252842413",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-04",
           "DateOrdered": "2019-07-31",
+          "Delay reason": "Discovered very thin decking beneath 2 layers of old shingles.",
           "FullPropertyAddress": "5645 Shelley Ct, Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiNTY0NSBTaGVsbGV5IEN0LCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiNTY0NSBTaGVsbGV5IEN0LCBCYXRvbiBSb3VnZSwgTEEgNzA4MDUsIFVTQSIsImxhdCI6MzAuNDkyMTU4NSwibG5nIjotOTEuMTMzNjQzNjAwMDAwMDN9LCJlIjoxNTY3MTkyMTU4MDY0fQ==",
           "Inspection (initial)": "Completed",
@@ -2190,8 +2348,11 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Complete, needs Inspection",
+          "Work_Began": "2019-12-17",
+          "Work_Completed": "2019-12-18",
           "caseID": "R38_5645 Shelley Ct_PAUL",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -2443,9 +2604,12 @@
           "Applicant_FirstName": "Mary",
           "Applicant_LastName": "Christopher ",
           "AutoNum": 65,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2259608741",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-07",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "5431 Washington Ave, Baton Rouge LA 70806",
@@ -2486,8 +2650,10 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
+          "Work_Began": "2019-12-19",
           "caseID": "R65_5431 Washington Ave_CHRISTOPHER ",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -2605,12 +2771,13 @@
           "Applicant_FirstName": "Lawrence ",
           "Applicant_LastName": "Smith",
           "AutoNum": 34,
-          "Case_Status": "Construction",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "2253573227",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recyPfAKIENmUrHOa"
           ],
+          "Date Final Inspection": "2019-12-17",
           "Date Initial Inspection": "2019-08-07",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
@@ -2652,8 +2819,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Construction",
+          "Status": "Approved",
           "Work_Began": "2019-12-09",
+          "Work_Completed": "2019-12-12",
           "caseID": "R34_1974 Mission Dr_SMITH",
           "contractor_name": "Living Solutions",
           "email-of-staff": [
@@ -2672,9 +2840,12 @@
           "Applicant_FirstName": "Zenetta",
           "Applicant_LastName": "Thompson",
           "AutoNum": 53,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
+          "ChangeOrder": true,
           "Comments": [
-            "rec1uHZBImbOA8dUz"
+            "rec1uHZBImbOA8dUz",
+            "rec54vxEcc8gMP2NH",
+            "recIHCX9rEWXMgiIQ"
           ],
           "ContactPhoneNumber": "2253550223",
           "Contact_MailingAddress_State": "LA",
@@ -2685,7 +2856,7 @@
           "Date Initial Inspection": "2019-08-10",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
-          "Delay reason": "Contractor wasn't aware or very large southern pine tree that had to be removed. Contractor encountered much more rot and termite damage in the flat roof areas than indicated in the scope of work - requires change order.\n2019-12-09: on-site inspection revealed tree totally removed. Most cleanup completed. Rear fence requires repair.",
+          "Delay reason": "Contractor wasn't aware or very large southern pine tree that had to be removed. Contractor encountered much more rot and termite damage in the flat roof areas than indicated in the scope of work - requires change order.\n2019-12-09: on-site inspection revealed tree totally removed. Most cleanup completed. Rear fence requires repair.\n2019-12-11: contractor agrees to paint newly installed fascia boards. (Couldn't yesterday due to rain.)",
           "Description": "2252059588",
           "FullPropertyAddress": "5556 Adams Ave, Baton Rouge LA 70806",
           "GeocodeCache": "🔵 eyJpIjoiNTU1NiBBZGFtcyBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODA2IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI1NTU2IEFkYW1zIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODA2LCBVU0EiLCJsYXQiOjMwLjQ2OTMzMywibG5nIjotOTEuMTMzNzU0MDAwMDAwMDF9LCJlIjoxNTY3MTkyMTc3OTY4fQ==",
@@ -2788,6 +2959,7 @@
               "url": "https://dl.airtable.com/.attachments/58b9216681b79b62c49446c410a1997b/af60f408/5556_Adams_tree_16-tn.jpg"
             }
           ],
+          "Invoice Date": "2019-12-11",
           "Owner": "Zenetta Thompson",
           "Owner Phone (7 digit)": "355-0223",
           "Photo of front": [
@@ -2823,7 +2995,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
           "Work_Began": "2019-12-05",
           "Work_Completed": "2019-12-09",
           "caseID": "R53_5556 Adams Ave_THOMPSON",
@@ -2918,7 +3090,7 @@
           "Applicant_FirstName": "Joannah",
           "Applicant_LastName": "Mason",
           "AutoNum": 73,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "2253566427",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -2931,6 +3103,7 @@
           "FullPropertyAddress": "3961 Monroe Ave, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMzk2MSBNb25yb2UgQXZlLCBCYXRvbiBSb3VnZSBMQSA3MDgwMiIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMzk2MSBNb25yb2UgQXZlLCBCYXRvbiBSb3VnZSwgTEEgNzA4MDIsIFVTQSIsImxhdCI6MzAuNDY5Nzg0OSwibG5nIjotOTEuMTUwODEyNH0sImUiOjE1NjcxOTIxNTc0Njl9",
           "Inspection (initial)": "Completed",
+          "Invoice Date": "2019-12-11",
           "Owner": "Joannah Mason",
           "Owner Phone (7 digit)": "356-6427",
           "Photo of front": [
@@ -2966,7 +3139,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
           "Work_Began": "2019-12-11",
           "Work_Completed": "2019-12-09",
           "caseID": "R73_3961 Monroe Ave_MASON",
@@ -3153,7 +3326,8 @@
           "Applicant_FirstName": "Annie",
           "Applicant_LastName": "Wright",
           "AutoNum": 79,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
+          "ChangeOrder": true,
           "ContactPhoneNumber": "2253370813",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -3265,6 +3439,7 @@
               "url": "https://dl.airtable.com/.attachments/af4a31922b79c93f5525d2824160ee78/f38d86b7/3563_Osceola_roof_repair_05-tn.jpg"
             }
           ],
+          "Invoice Date": "2019-12-11",
           "Owner": "Annie Wright",
           "Owner Phone (7 digit)": "337-0813",
           "Photo of front": [
@@ -3300,7 +3475,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
           "Work_Began": "2019-12-07",
           "Work_Completed": "2019-12-09",
           "caseID": "R79_3563 Osceola Ave_WRIGHT",
@@ -3582,7 +3757,7 @@
           "Applicant_FirstName": "Angela",
           "Applicant_LastName": "Williams",
           "AutoNum": 31,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "2254396382",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -3630,7 +3805,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
           "Work_Began": "2019-12-06",
           "Work_Completed": "2019-12-09",
           "caseID": "R31_2251 Plantation Dr_WILLIAMS",
@@ -4332,16 +4507,17 @@
           "Applicant_FirstName": "Lois Marie",
           "Applicant_LastName": "Beals ",
           "AutoNum": 21,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "(225) 444-7447",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "reclO50i225iC0tTc"
           ],
+          "Date Final Inspection": "2019-12-13",
           "Date Initial Inspection": "2019-08-11",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-17",
-          "Delay reason": "Initially input as house #2980. Actually #2908.\n",
+          "Delay reason": "Initially input as house #2980. Actually #2908.\n2019-12-12: initial close-out inspection failed due to: 1) missing flashing on rear of a gable roof extension, 2) omitted ridge vent, 3) roofing debris remaining in valleys of roof and some on the ground. Contractor remedying today.",
           "FullPropertyAddress": "2908 Sherwood St. , Baton Rouge LA 70805",
           "GeocodeCache": "🔵 eyJpIjoiMjk4MCBTaGVyd29vZCBTdC4gLCBCYXRvbiBSb3VnZSBMQSA3MDgwNSIsIm8iOnsic3RhdHVzIjoiT0siLCJmb3JtYXR0ZWRBZGRyZXNzIjoiMjk4MCBTaGVyd29vZCBTdCwgQmF0b24gUm91Z2UsIExBIDcwODA1LCBVU0EiLCJsYXQiOjMwLjQ4OTQ5MDMsImxuZyI6LTkxLjE1OTgxOTIwMDAwMDAyfSwiZSI6MTU2NzE5MjE1NDQxN30=",
           "Inspection (initial)": "Completed",
@@ -4377,7 +4553,9 @@
           "PropertyAddress_Line1": "2908 Sherwood St. ",
           "Property_City": "Baton Rouge",
           "Property_ZipCode": "70805",
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
+          "Work_Began": "2019-12-09",
+          "Work_Completed": "2019-12-13",
           "caseID": "R21_2908 Sherwood St. _BEALS ",
           "contractor_name": "Terence R Williams Enterprises, LLC",
           "latitude": "30.489371",
@@ -4393,7 +4571,7 @@
           "Applicant_FirstName": "Ernest ",
           "Applicant_LastName": "Jones",
           "AutoNum": 36,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "Comments": [
             "recra9RYyXkmeu2Hw"
           ],
@@ -4444,7 +4622,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
           "Work_Began": "2019-12-06",
           "Work_Completed": "2019-12-09",
           "caseID": "R36_6125 Byron St_JONES",
@@ -4465,15 +4643,17 @@
           "Applicant_FirstName": "Shirley",
           "Applicant_LastName": "Williams",
           "AutoNum": 51,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "2252468971",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "reclO50i225iC0tTc"
           ],
+          "Date Final Inspection": "2019-12-13",
           "Date Initial Inspection": "2019-08-06",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
+          "Delay reason": "2019-12-12: initial close-out inspection failed due to: 1) incomplete flashing on rear where carport attaches. Also omitted ridge vent but this was agreed unnecessary since two whirly-bird vents were installed.",
           "Description": "2259753250",
           "FullPropertyAddress": "224 Evergreen Dr, Baton Rouge LA 70806",
           "GeocodeCache": "🔵 eyJpIjoiMjI0IEV2ZXJncmVlbiBEciwgQmF0b24gUm91Z2UgTEEgNzA4MDYiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjIyNCBFdmVyZ3JlZW4gRHIsIEJhdG9uIFJvdWdlLCBMQSA3MDgwNiwgVVNBIiwibGF0IjozMC40NDYwNDM4LCJsbmciOi05MS4xNjMyNjQ0OTk5OTk5N30sImUiOjE1NjcxOTIxNDUyNjd9",
@@ -4513,7 +4693,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
+          "Work_Began": "2019-12-09",
+          "Work_Completed": "2019-12-13",
           "caseID": "R51_224 Evergreen Dr_WILLIAMS",
           "contractor_name": "Terence R Williams Enterprises, LLC",
           "email-of-staff": [
@@ -5331,12 +5513,13 @@
           "Applicant_FirstName": "Theresa",
           "Applicant_LastName": "Gray",
           "AutoNum": 30,
-          "Case_Status": "Construction",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "(225) 772-4256",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
             "recGXP2Fwj9U1qlkE"
           ],
+          "Date Final Inspection": "2019-12-17",
           "Date Initial Inspection": "2019-08-05",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-24",
@@ -5378,7 +5561,9 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Construction",
+          "Status": "Approved",
+          "Work_Began": "2019-12-12",
+          "Work_Completed": "2019-12-14",
           "caseID": "R30_2005 N 16th Street_GRAY",
           "contractor_name": "Chatmon Construction",
           "email-of-staff": [
@@ -5667,7 +5852,7 @@
           "Applicant_LastName": "Ketchens",
           "AutoNum": 6,
           "Case_Status": "Approved",
-          "ChangeOrders": 0,
+          "ChangeOrderAmt": 0,
           "Comments": [
             "rec4jwndaQd2UoW85",
             "recrQfxOqdClnCalM"
@@ -5677,9 +5862,11 @@
           "Contractor Name": [
             "recN6hhn7SFQIJ1XI"
           ],
+          "Date Final Inspection": "2019-10-16",
           "Date Initial Inspection": "2019-03-09",
           "Date of NTP": "2019-09-25",
           "DateOrdered": "2019-07-03",
+          "Delay reason": "Ask Ted date of close-out inspection. Week of Oct. 14.",
           "Description": "case 103 Rehab program",
           "Final Project Cost": 14229,
           "FullPropertyAddress": "3645 Evangeline St, Baton Rouge LA 70805",
@@ -5813,7 +6000,7 @@
           "Applicant_FirstName": "Carol ",
           "Applicant_LastName": "Miller",
           "AutoNum": 55,
-          "Case_Status": "Construction",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "2256145987",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -5861,7 +6048,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Construction",
+          "Status": "Approved",
+          "Work_Began": "2019-12-11",
+          "Work_Completed": "2019-12-13",
           "caseID": "R55_4943 Bardwell Dr _MILLER",
           "contractor_name": "Living Solutions",
           "email-of-staff": [
@@ -5880,10 +6069,15 @@
           "Applicant_FirstName": "Patricia",
           "Applicant_LastName": "Bird",
           "AutoNum": 70,
-          "Case_Status": "Contracting",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "2253445191",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "reclO50i225iC0tTc"
+          ],
+          "Date Final Inspection": "2019-12-19",
           "Date Initial Inspection": "2019-08-06",
+          "Date of NTP": "2019-12-09",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "1826 Arkansas St, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiMTgyNiBBcmthbnNhcyBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDIiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjE4MjYgQXJrYW5zYXMgU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40MzA4NzQyLCJsbmciOi05MS4xNzA5Nzk2OTk5OTk5OH0sImUiOjE1NjcxOTIxNDY2NDB9",
@@ -5923,8 +6117,10 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Approved",
+          "Work_Completed": "2019-12-17",
           "caseID": "R70_1826 Arkansas St_BIRD",
+          "contractor_name": "Terence R Williams Enterprises, LLC",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -5976,7 +6172,7 @@
           "Applicant_FirstName": "Julia",
           "Applicant_LastName": "Ross",
           "AutoNum": 26,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "(225) 387-4648",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -5990,6 +6186,7 @@
           "FullPropertyAddress": "831 N 40th St, Baton Rouge LA 70802",
           "GeocodeCache": "🔵 eyJpIjoiODMxIE4gNDB0aCBTdCwgQmF0b24gUm91Z2UgTEEgNzA4MDIiLCJvIjp7InN0YXR1cyI6Ik9LIiwiZm9ybWF0dGVkQWRkcmVzcyI6IjgzMSBOIDQwdGggU3QsIEJhdG9uIFJvdWdlLCBMQSA3MDgwMiwgVVNBIiwibGF0IjozMC40NTYxNTQ0LCJsbmciOi05MS4xNTA1MTI0MDAwMDAwM30sImUiOjE1Njg5MDg1MjAxNjR9",
           "Inspection (initial)": "Completed",
+          "Invoice Date": "2019-12-11",
           "Owner": "Julia Ross",
           "Owner Phone (7 digit)": "387-4648",
           "Photo of front": [
@@ -6025,7 +6222,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
           "Work_Began": "2019-12-05",
           "Work_Completed": "2019-12-09",
           "caseID": "R26_831 N 40th St_ROSS",
@@ -6237,10 +6434,15 @@
           "Applicant_FirstName": "Rosa Lee",
           "Applicant_LastName": "Davis",
           "AutoNum": 80,
-          "Case_Status": "Contracting",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "2257754283",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "reclO50i225iC0tTc"
+          ],
+          "Date Final Inspection": "2019-12-19",
           "Date Initial Inspection": "2019-08-11",
+          "Date of NTP": "2019-12-09",
           "DateOrdered": "2019-07-31",
           "Description": "2253280721",
           "FullPropertyAddress": "2640 Jay St, Baton Rouge LA 70807",
@@ -6281,8 +6483,10 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Approved",
+          "Work_Completed": "2019-12-16",
           "caseID": "R80_2640 Jay St_DAVIS",
+          "contractor_name": "Terence R Williams Enterprises, LLC",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -6491,7 +6695,7 @@
           "Applicant_FirstName": "Veronica",
           "Applicant_LastName": "Magee",
           "AutoNum": 32,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "Comments": [
             "recSFmUup6wVufcfw"
           ],
@@ -6500,9 +6704,11 @@
           "Contractor Name": [
             "reclO50i225iC0tTc"
           ],
+          "Date Final Inspection": "2019-12-13",
           "Date Initial Inspection": "2019-08-06",
           "Date of NTP": "2019-11-27",
           "DateOrdered": "2019-07-31",
+          "Delay reason": "2019-12-12: initial close-out inspection failed due to: 1) Incomplete flashing at rear, 2) roofing debris left on roof - visible from front of house.",
           "FullPropertyAddress": "640 Arlington Ave, Baton Rouge LA 70806",
           "GeocodeCache": "🔵 eyJpIjoiNjQwIEFybGluZ3RvbiBBdmUsIEJhdG9uIFJvdWdlIExBIDcwODA2IiwibyI6eyJzdGF0dXMiOiJPSyIsImZvcm1hdHRlZEFkZHJlc3MiOiI2NDAgQXJsaW5ndG9uIEF2ZSwgQmF0b24gUm91Z2UsIExBIDcwODA2LCBVU0EiLCJsYXQiOjMwLjQ0MjY1NjYsImxuZyI6LTkxLjE1OTI1ODc5OTk5OTk4fSwiZSI6MTU2NzE5MjE0NTk3NH0=",
           "Inspection (initial)": "Completed",
@@ -6541,7 +6747,9 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
+          "Work_Began": "2019-12-10",
+          "Work_Completed": "2019-12-13",
           "caseID": "R32_640 Arlington Ave_MAGEE",
           "contractor_name": "Terence R Williams Enterprises, LLC",
           "email-of-staff": [
@@ -6689,9 +6897,12 @@
           "Applicant_FirstName": "Kenneth ",
           "Applicant_LastName": "Austin",
           "AutoNum": 72,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2253555520",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-10",
           "DateOrdered": "2019-07-31",
           "Description": "2253242238",
@@ -6733,8 +6944,10 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
+          "Work_Began": "2019-12-19",
           "caseID": "R72_7295 Prescott Rd_AUSTIN",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -7007,8 +7220,9 @@
           "Applicant_FirstName": "Jessie",
           "Applicant_LastName": "Montgomery",
           "AutoNum": 9,
-          "Case_Status": "Approved",
-          "ChangeOrders": 8615,
+          "Case_Status": "Complete, needs Inspection",
+          "ChangeOrder": true,
+          "ChangeOrderAmt": 8615,
           "Comments": [
             "recNh8e0eJrIvLnPV"
           ],
@@ -7568,7 +7782,7 @@
             "recfk8RZSGi5ZwMNW"
           ],
           "Right-of-Entry": true,
-          "Status": "Approved",
+          "Status": "Complete, needs Inspection",
           "Total Bid Amount": 7200,
           "Work_Began": "2019-08-26",
           "Work_Completed": "2019-09-04",
