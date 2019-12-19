@@ -1,5 +1,3 @@
-{
-  "Cases": {
     "features": [
       {
         "geometry": null,
@@ -8093,7 +8091,3 @@
         },
         "type": "Feature"
       }
-    ],
-    "type": "FeatureCollection"
-  }
-}
