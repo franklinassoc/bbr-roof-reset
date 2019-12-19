@@ -694,7 +694,7 @@
           "Applicant_FirstName": "Ezekiel ",
           "Applicant_LastName": "Young Jr",
           "AutoNum": 54,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "2253540723",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -743,7 +743,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
           "Work_Completed": "2019-12-16",
           "caseID": "R54_2532 68th Ave_YOUNG JR",
           "contractor_name": "Terence R Williams Enterprises, LLC",
@@ -1963,7 +1963,7 @@
           "Applicant_FirstName": "Shirley",
           "Applicant_LastName": "Jarrell",
           "AutoNum": 44,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "ChangeOrder": true,
           "ContactPhoneNumber": "2252184410",
           "Contact_MailingAddress_State": "LA",
@@ -2136,7 +2136,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
           "Work_Began": "2019-12-11",
           "Work_Completed": "2019-12-13",
           "caseID": "R44_6822 E Upland Ave_JARRELL",
@@ -2604,9 +2604,12 @@
           "Applicant_FirstName": "Mary",
           "Applicant_LastName": "Christopher ",
           "AutoNum": 65,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2259608741",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-07",
           "DateOrdered": "2019-07-31",
           "FullPropertyAddress": "5431 Washington Ave, Baton Rouge LA 70806",
@@ -2647,8 +2650,10 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
+          "Work_Began": "2019-12-19",
           "caseID": "R65_5431 Washington Ave_CHRISTOPHER ",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
@@ -2766,7 +2771,7 @@
           "Applicant_FirstName": "Lawrence ",
           "Applicant_LastName": "Smith",
           "AutoNum": 34,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "2253573227",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -2814,7 +2819,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
           "Work_Began": "2019-12-09",
           "Work_Completed": "2019-12-12",
           "caseID": "R34_1974 Mission Dr_SMITH",
@@ -5508,7 +5513,7 @@
           "Applicant_FirstName": "Theresa",
           "Applicant_LastName": "Gray",
           "AutoNum": 30,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "(225) 772-4256",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -5556,7 +5561,7 @@
           "Requested_By": [
             "recauLE1grMkv8LYi"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
           "Work_Began": "2019-12-12",
           "Work_Completed": "2019-12-14",
           "caseID": "R30_2005 N 16th Street_GRAY",
@@ -5995,7 +6000,7 @@
           "Applicant_FirstName": "Carol ",
           "Applicant_LastName": "Miller",
           "AutoNum": 55,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "2256145987",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -6043,7 +6048,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
           "Work_Began": "2019-12-11",
           "Work_Completed": "2019-12-13",
           "caseID": "R55_4943 Bardwell Dr _MILLER",
@@ -6064,7 +6069,7 @@
           "Applicant_FirstName": "Patricia",
           "Applicant_LastName": "Bird",
           "AutoNum": 70,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "2253445191",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -6112,7 +6117,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
           "Work_Completed": "2019-12-17",
           "caseID": "R70_1826 Arkansas St_BIRD",
           "contractor_name": "Terence R Williams Enterprises, LLC",
@@ -6429,7 +6434,7 @@
           "Applicant_FirstName": "Rosa Lee",
           "Applicant_LastName": "Davis",
           "AutoNum": 80,
-          "Case_Status": "Complete, needs Inspection",
+          "Case_Status": "Approved",
           "ContactPhoneNumber": "2257754283",
           "Contact_MailingAddress_State": "LA",
           "Contractor Name": [
@@ -6478,7 +6483,7 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Complete, needs Inspection",
+          "Status": "Approved",
           "Work_Completed": "2019-12-16",
           "caseID": "R80_2640 Jay St_DAVIS",
           "contractor_name": "Terence R Williams Enterprises, LLC",
@@ -6892,9 +6897,12 @@
           "Applicant_FirstName": "Kenneth ",
           "Applicant_LastName": "Austin",
           "AutoNum": 72,
-          "Case_Status": "Contracting",
+          "Case_Status": "Construction",
           "ContactPhoneNumber": "2253555520",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "recyPfAKIENmUrHOa"
+          ],
           "Date Initial Inspection": "2019-08-10",
           "DateOrdered": "2019-07-31",
           "Description": "2253242238",
@@ -6936,8 +6944,10 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Construction",
+          "Work_Began": "2019-12-19",
           "caseID": "R72_7295 Prescott Rd_AUSTIN",
+          "contractor_name": "Living Solutions",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
