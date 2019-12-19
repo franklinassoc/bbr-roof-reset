@@ -38,7 +38,7 @@ var markers = L.markerClusterGroup();
 //        </div>`;
 
 // customize to pull from BBR roof reset json		
-$.getJSON(url, function(Cases){
+$.getJSON(url, function(result){
     $.each(Cases.features, function(index){
         var caseData = Cases.features[index]["properties"];
         var popupContent = `

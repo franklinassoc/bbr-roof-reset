@@ -1,4 +1,6 @@
 # airtable-github-export
+Source:
+https://github.com/digidem/airtable-github-export
 
 > Export airtable tables to json/geojson in Github
 
