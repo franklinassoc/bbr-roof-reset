@@ -1324,9 +1324,12 @@
           "Applicant_FirstName": "Toni",
           "Applicant_LastName": "Jones",
           "AutoNum": 68,
-          "Case_Status": "Contracting",
+          "Case_Status": "Complete, needs Inspection",
           "ContactPhoneNumber": "2253675676",
           "Contact_MailingAddress_State": "LA",
+          "Contractor Name": [
+            "reclO50i225iC0tTc"
+          ],
           "Date Initial Inspection": "2019-08-06",
           "DateOrdered": "2019-07-31",
           "Description": "2253546326",
@@ -1368,8 +1371,10 @@
           "Requested_By": [
             "recVCx96GTaDBiBwC"
           ],
-          "Status": "Contracting",
+          "Status": "Complete, needs Inspection",
+          "Work_Completed": "2019-12-18",
           "caseID": "R68_5055 Clayton Dr_JONES",
+          "contractor_name": "Terence R Williams Enterprises, LLC",
           "email-of-staff": [
             "tsaunders@ebrra.org"
           ],
