@@ -25,7 +25,7 @@
 <body>
 
   <!-- Display the map and title with HTML division tags  -->
-  <div id="map-title">Roof Reset Cases</br>July 1, 2019</div>
+  <div id="map-title">Roof Reset Cases</br>December 2019</div>
   <div id="map"></div>
 
   <!-- Create the map content with JavaScript (.js) -->
@@ -60,18 +60,27 @@
   // L.marker([41.77, -72.69]).addTo(map) // EDIT latitude, longitude to re-position marker
   //.bindPopup("Insert pop-up text here"); // EDIT pop-up text message
 
-  /* Upload Latitude/Longitude markers from data.csv file, show Title in pop-up, and override initial center and zoom to fit all in map */
-   var customLayer = L.geoJson(null, {
+  /* Upload Latitude/Longitude markers from data.csv file, show caseID in pop-up, and override initial center and zoom to fit all in map */
+ 
+  var customLayer = L.geoJson(null, {
     onEachFeature: function(feature, layer) {
-      layer.bindPopup(feature.properties.Title);
+   //   layer.bindPopup(feature.properties.caseID);
+   layer.bindPopup(popupContent, {
+            width: "350px"
+        });
     }
    });
-   var runLayer = omnivore.csv('data.csv', null, customLayer)
+ var runLayer = omnivore.csv('data.csv', null, customLayer)
    .on('ready', function() {
     map.fitBounds(runLayer.getBounds());
    }).addTo(map);
    controlLayers.addOverlay(customLayer, 'Roof Reset Cases');
-
+ var popupContent = '
+        <div>
+            <h3>${feature.properties.caseID}</h3>
+			<h4>Contractor: ${feature.properties.contractor_name}</h4>
+            <h4>Status: ${feature.properties.Status}</h4>
+        </div>';
   </script>
 
 </body>
