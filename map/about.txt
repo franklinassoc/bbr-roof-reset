@@ -1,2 +1,5 @@
-Developed by Legion GIS
+the point plotting portion was developed by Legion GIS
 https://github.com/legiongis/leaflet-airtable
+
+The Heroku bot "airtable-export.js" hourly pulling data from Airtable to table-data JSON file stored in GitHub is by Digidem.
+https://github.com/digidem/airtable-github-export
