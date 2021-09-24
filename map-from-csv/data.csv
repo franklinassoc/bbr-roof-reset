@@ -1,123 +1,165 @@
-﻿caseID,Owner,FullPropertyAddress,latitude,longitude,contractor_name,Status
-R1_6655 Brownfields Dr_ANDERSON,Lucille Anderson,"6655 Brownfields Dr, Baton Rouge LA 70811",30.5560381,-91.1223547,Redstick Remodeling,Approved
-R2_3560 Dalton St_HARRIS,Janice Harris,"3560 Dalton St, Baton Rouge LA 70805",30.4738168,-91.1540651,Affordable R,Approved
-R3_3822 N Acadian Thruway East_BURKHALTER,Patricia Burkhalter,"3822 N Acadian Thruway East, Baton Rouge LA 70805",30.4837833,-91.1564275,EDR Contruction,Construction
-R4_1745 N 18th Street_TILLMAN,Minnie Lee Tillman,"1745 N 18th Street, Baton Rouge LA 70802",30.4638992,-91.1714674,Go Day Enterprises,Contracting
-R5_8379 McClelland Dr_VALENTINE,Charmaine Valentine,"8379 McClelland Dr, Baton Rouge LA 70811",30.5246542,-91.1376446,EDR Contruction,Approved
-R6_3645 Evangeline St_KETCHENS,Peter Ketchens,"3645 Evangeline St, Baton Rouge LA 70805",30.492988,-91.1532777,Public Construction Inc.,Approved
-R7_2843 72nd Ave_HOLLINS,Maggie Hollins,"2843 72nd Ave, Baton Rouge LA 70807",30.514905,-91.1620902,Redstick Remodeling,Approved
-R9_1542 Kaufman Ave_MONTGOMERY,Jessie Montgomery,"1542 Kaufman Ave, Baton Rouge LA 70807",30.5095179,-91.1760817,Redstick Remodeling,"Complete, needs Inspection"
-R10_5336 Adams Ave_HARRIS,Dianne Harris,"5336 Adams Ave, Baton Rouge LA 70806",30.4692959,-91.1359579,Public Construction Inc.,Approved
-R11_3415 Adams Ave_SALIM,Helen Salim,"3415 Adams Ave, Baton Rouge LA 70802",30.4689027,-91.1551619,,Contracting
-R12_2358 Valley St_DOYLE,Delouise Doyle,"2358 Valley St, Baton Rouge LA 70808",30.4269651,-91.1447669,,Contracting
-R13_3563 Wyandotte St_HAYES,Yolanda Hayes,"3563 Wyandotte St, Baton Rouge LA 70805",30.4826345,-91.1540651,,Contracting
-R14_3940 Oswego St_EALEM,Elizabeth Ealem,"3940 Oswego St, Baton Rouge LA 70805",30.4804641,-91.1502031,,Contracting
-R15_3869 Pontiac St_ROBERTSON,Martha Robertson,"3869 Pontiac St, Baton Rouge LA 70805",30.48392,-91.1676506,,Contracting
-R16_336 McCastle Ave_JEFFERSON,Bettie Jefferson,"336 McCastle Ave, Baton Rouge LA 70807",30.576529,-91.203965,,Contracting
-R17_3423 Dalton St_CARTER,Juanita Carter,"3423 Dalton St, Baton Rouge LA 70805",30.4741658,-91.1553025,Affordable R,Contracting
-R18_3425 Adams Ave_THOMAS,Wanda Thomas,"3425 Adams Ave, Baton Rouge LA 70802",30.4688882,-91.1549172,,Contracting
-R19_5165 Hermitage Dr_MILLER,Dorothy Miller,"5165 Hermitage Dr, Baton Rouge LA 70806",30.4608717,-91.1371574,,Contracting
-R20_2937 Chippewa St_DUNBAR,Bobby Ray Dunbar,"2937 Chippewa St, Baton Rouge LA 70805",30.4733218,-91.159165,,Contracting
-R21_2908 Sherwood St. _BEALS ,Lois Marie Beals ,"2908 Sherwood St. , Baton Rouge LA 70805",30.489371,-91.160612,"Terence R Williams Enterprises, LLC",Approved
-R22_5852 St. Gerard Ave _BYNUM,Angela Bynum,"5852 St. Gerard Ave , Baton Rouge LA 70805",30.4958622,-91.1319009,Living Solutions,Approved
-R23_2950 Linwood St _CHRISTOPHER,Willie  Christopher,"2950 Linwood St , Baton Rouge LA 70805",30.4745057,-91.1729684,Living Solutions,Approved
-R24_2041 West Belfair Dr. _DAVIS,Celestine Davis,"2041 West Belfair Dr. , Baton Rouge LA 70805",30.4667707,-91.1469413,Chatmon Construction,Construction
-R25_2548 Hollywood St. _WATSON ,Alfreda  Watson ,"2548 Hollywood St. , Baton Rouge LA 70805",30.4991377,-91.1649032,,Contracting
-R26_831 N 40th St_ROSS,Julia Ross,"831 N 40th St, Baton Rouge LA 70802",30.4590879,-91.1504564,Chatmon Construction,Approved
-R29_3027 Newton St _SCOTT,Geraldine Scott,"3027 Newton St , Baton Rouge LA 70802",30.458692,-91.158484,Chatmon Construction,Contracting
-R30_2005 N 16th Street_GRAY,Theresa Gray,"2005 N 16th Street, Baton Rouge LA 70802",30.4657694,-91.1736432,Chatmon Construction,Approved
-R31_2251 Plantation Dr_WILLIAMS,Angela Williams,"2251 Plantation Dr, Baton Rouge LA 70807",30.5552758,-91.1683539,Living Solutions,Approved
-R32_640 Arlington Ave_MAGEE,Veronica Magee,"640 Arlington Ave, Baton Rouge LA 70806",30.4426566,-91.1592588,"Terence R Williams Enterprises, LLC",Approved
-R33_10562 Big Bend Ave_RAY,Sheryl Ray,"10562 Big Bend Ave, Baton Rouge LA 70814",30.4800483,-91.066377,,Contracting
-R34_1974 Mission Dr_SMITH,Lawrence  Smith,"1974 Mission Dr, Baton Rouge LA 70802",30.4664885,-91.1444763,Living Solutions,Approved
-R35_5624 Robertson Ave_MEARIDY,Evelyn Mearidy,"5624 Robertson Ave, Baton Rouge LA 70805",30.5010897,-91.1424426,Chatmon Construction,Contracting
-R36_6125 Byron St_JONES,Ernest  Jones,"6125 Byron St, Baton Rouge LA 70805",30.4947864,-91.1288466,Living Solutions,Approved
-R37_4544 E Brookstown Dr_MCKAY,Joyce McKay,"4544 E Brookstown Dr, Baton Rouge LA 70805",30.4922476,-91.1279043,Living Solutions,Approved
-R38_5645 Shelley Ct_PAUL,Shantele  Paul,"5645 Shelley Ct, Baton Rouge LA 70805",30.4921585,-91.1336436,Living Solutions,Approved
-R39_4060 Topeka St_LONDON,Edna London,"4060 Topeka St, Baton Rouge LA 70805",30.4864601,-91.1609646,,Contracting
-R40_9929 Groner Ave_CHAUVIN,Emile Chauvin,"9929 Groner Ave, Baton Rouge LA 70809",30.3951334,-91.0765559,Chatmon Construction,Construction
-R41_1619 Theron Dr_JOHNSON,Alvaina  Johnson,"1619 Theron Dr, Baton Rouge LA 70810",30.386306,-91.10943,"Terence R Williams Enterprises, LLC","Complete, needs Inspection"
-R42_8782 Sharon Hills _PAUL,Lois  Paul,"8782 Sharon Hills , Baton Rouge LA 70811",30.5308046,-91.1297835,Chatmon Construction,Construction
-R43_5455 Sumrall Dr_RICHARD,Tezana  Richard,"5455 Sumrall Dr, Baton Rouge LA 70811",30.5136029,-91.1362203,Chatmon Construction,Construction
-R44_6822 E Upland Ave_JARRELL,Shirley Jarrell,"6822 E Upland Ave, Baton Rouge LA 70812",30.5154652,-91.1236661,Chatmon Construction,Approved
-R45_6869 Monarch St_SNELL JR,Newman Snell Jr,"6869 Monarch St, Baton Rouge LA 70812",30.5167358,-91.1231287,,Contracting
-R46_7182 Aspen Pl_DAVIS,Elvira Davis,"7182 Aspen Pl, Baton Rouge LA 70812",30.5084953,-91.1182333,,Contracting
-R47_3844 W Wendover Dr_SIMMONS,Marie Simmons,"3844 W Wendover Dr, Baton Rouge LA 70814",30.4858325,-91.046438,,Contracting
-R48_4247 Norwich Dr_WILLIAMS ,Thelma Williams ,"4247 Norwich Dr, Baton Rouge LA 70814",30.4895941,-91.0457835,,Contracting
-R49_4515 Thames Dr_ANDERSON,Fannietta Anderson,"4515 Thames Dr, Baton Rouge LA 70814",30.4916485,-91.0448298,"Terence R Williams Enterprises, LLC","Complete, needs Inspection"
-R50_11564 Pamela Dr_DUGAS,Marilyn Dugas,"11564 Pamela Dr, Baton Rouge LA 70815",30.4610183,-91.0550409,,Contracting
-R51_224 Evergreen Dr_WILLIAMS,Shirley Williams,"224 Evergreen Dr, Baton Rouge LA 70806",30.4460438,-91.1632645,"Terence R Williams Enterprises, LLC",Approved
-R52_6660 Cambridge St_ALLEN,Juanita  Allen,"6660 Cambridge St, Baton Rouge LA 70807",30.5109921,-91.1620902,Living Solutions,Construction
-R53_5556 Adams Ave_THOMPSON,Zenetta Thompson,"5556 Adams Ave, Baton Rouge LA 70806",30.469333,-91.133754,Turnkey Construction,Approved
-R54_2532 68th Ave_YOUNG JR,Ezekiel  Young Jr,"2532 68th Ave, Baton Rouge LA 70807",30.5115432,-91.1658783,"Terence R Williams Enterprises, LLC",Approved
-R55_4943 Bardwell Dr _MILLER,Carol  Miller,"4943 Bardwell Dr , Baton Rouge LA 70808",30.4293483,-91.1377273,Living Solutions,Approved
-R57_2510 Laurel St_DEVOLD,Henry Devold,"2510 Laurel St, Baton Rouge LA 70802",30.4509329,-91.1625317,,Contracting
-R65_5431 Washington Ave_CHRISTOPHER ,Mary Christopher ,"5431 Washington Ave, Baton Rouge LA 70806",30.4664248,-91.1349835,Living Solutions,"Complete, needs Inspection"
-R66_4621 Bradley St_PHILSON,Audrey Philson,"4621 Bradley St, Baton Rouge LA 70805",30.4781594,-91.143661,,Contracting
-R67_970 N. 47th St_BOWMAN,Mary  Bowman,"970 N. 47th St, Baton Rouge LA 70802",30.4571961,-91.1424071,Chatmon Construction,Contracting
-R68_5055 Clayton Dr_JONES,Toni Jones,"5055 Clayton Dr, Baton Rouge LA 70805",30.4916115,-91.1396593,"Terence R Williams Enterprises, LLC","Complete, needs Inspection"
-"R69_3836 Adams Ave_SCOTT, SR","Andrew Scott, Sr","3836 Adams Ave, Baton Rouge LA 70802",30.4686642,-91.1516279,Chatmon Construction,Contracting
-R70_1826 Arkansas St_BIRD,Patricia Bird,"1826 Arkansas St, Baton Rouge LA 70802",30.4308742,-91.1709797,"Terence R Williams Enterprises, LLC",Approved
-R71_2215 Gen Cleburne Ave_PEARSON,Sandra Pearson,"2215 Gen Cleburne Ave, Baton Rouge LA 70810",30.34675,-91.1278254,,Contracting
-R72_7295 Prescott Rd_AUSTIN,Kenneth  Austin,"7295 Prescott Rd, Baton Rouge LA 70812",30.4889408,-91.1167722,Living Solutions,"Complete, needs Inspection"
-R73_3961 Monroe Ave_MASON,Joannah Mason,"3961 Monroe Ave, Baton Rouge LA 70802",30.4697849,-91.1508124,Chatmon Construction,Approved
-R74_2936 Adams Ave_JONES,John Jones,"2936 Adams Ave, Baton Rouge LA 70802",30.4683725,-91.1592025,,Contracting
-R75_14279 Acacia St_ENGRAM,Myra Lou Engram,"14279 Acacia St, Baton Rouge LA 70819",30.4589296,-91.0273918,Living Solutions,Construction
-R76_14222 Florida Blvd_WOLSEFER,April Wolsefer,"14222 Florida Blvd, Baton Rouge LA 70819",30.463328,-91.0270759,,Contracting
-R77_2703 Michelli Dr_SIMS,Lois Sims,"2703 Michelli Dr, Baton Rouge LA 70805",30.4732195,-91.1273841,,Contracting
-R78_4935 Beech St_STEVENS,Rose Stevens,"4935 Beech St, Baton Rouge LA 70805",30.495994,-91.1413368,Living Solutions,"Complete, needs Inspection"
-R79_3563 Osceola Ave_WRIGHT,Annie Wright,"3563 Osceola Ave, Baton Rouge LA 70805",30.4806451,-91.1653532,Chatmon Construction,Approved
-R80_2640 Jay St_DAVIS,Rosa Lee Davis,"2640 Jay St, Baton Rouge LA 70807",30.5258536,-91.1662162,"Terence R Williams Enterprises, LLC",Approved
-R81_724 N. 47th Street_ARCHILLE,Vanessa  Archille,"724 N. 47th Street, Baton Rouge LA 70802",30.4549776,-91.1422927,,Contracting
-R82_3809 Dalton St. _DUNBAR,Sheena Dunbar,"3809 Dalton St. , Baton Rouge LA 70805",30.4742019,-91.1524809,,Contracting
-R83_147 Van Buren St. _EARLY,Lionel and Earlean  Early,"147 Van Buren St. , Baton Rouge LA 70802",30.4296758,-91.1827525,,Contracting
-R84_5821 Tarrytown Avenue_FLEET,Margot Ann Fleet,"5821 Tarrytown Avenue, Baton Rouge LA 70808",30.4161309,-91.1250712,,Contracting
-R85_2834 Iberia St_ALLEN,Erika Allen,"2834 Iberia St, Baton Rouge LA 70805",30.495554,-91.16219,,Contracting
-R86_6821 Sumrall Dr_SYLVAN,Artie Sylvan,"6821 Sumrall Dr, Baton Rouge LA 70812",30.5140765,-91.1230291,,Contracting
-R87_2725 Michelli Dr _EARLY,William Early,"2725 Michelli Dr , Baton Rouge LA 70805",30.4735545,-91.1273383,,Contracting
-R88_3156 Washington Ave_LEWIS,Marner  Lewis,"3156 Washington Ave, Baton Rouge LA 70802",30.4651996,-91.156765,,Contracting
-R89_5025 Hermitage Dr_FIELDS,Mandy Fields,"5025 Hermitage Dr, Baton Rouge LA 70806",30.4608092,-91.1391814,,Contracting
-R90_1713 N 49th St_ANTWINE,Arthur Antwine,"1713 N 49th St, Baton Rouge LA 70802",30.4642522,-91.1416554,,Contracting
-R91_2015 N Acadian Thwy E_BROWN,Eric Brown,"2015 N Acadian Thwy E, Baton Rouge LA 70802",30.4665921,-91.1555791,,Contracting
-R92_4866 Oaklan Dr_CAGE,Johnnie  Cage,"4866 Oaklan Dr, Baton Rouge LA 70811",30.5119563,-91.1422565,,Contracting
-R93_11227 Flamingo Dr_TAYLOR,Joseph  Taylor,"11227 Flamingo Dr, Baton Rouge LA 70814",30.4858399,-91.0567525,,Contracting
-R94_3000 Slate St_STERLING,Margaret  Sterling,"3000 Slate St, Baton Rouge LA 70802",30.4600936,-91.1573277,,Contracting
-R95_7035 N Buttonwood Dr_SINGLETON,Anthony Singleton,"7035 N Buttonwood Dr, Baton Rouge LA 70812",30.5154353,-91.1271509,,Contracting
-R96_5122 Fullerton Ave_OWENS,Dena Owens,"5122 Fullerton Ave, Baker LA 70714",30.5832736,-91.1440546,,Contracting
-R97_2550 Chaney Dr_PRICE,Sarah  Price,"2550 Chaney Dr, Baton Rouge LA 70805",30.5024584,-91.1651576,,Contracting
-R98_2277 Spain St_WASHINGTON,Lois  Washington,"2277 Spain St, Baton Rouge LA 70806",30.445326,-91.16449,,Contracting
-R99_6208 Casper St_MOTON,Andre Moton,"6208 Casper St, Baton Rouge LA 70805",30.5057065,-91.1659627,,Contracting
-R100_13952 Alsen Heights  Pkwy_REED,Adele Reed,"13952 Alsen Heights  Pkwy, Baton Rouge LA 70807",30.5726974,-91.204257,,Contracting
-R101_8380 S Essen Heights_TURNER,Verna  Turner,"8380 S Essen Heights, Baton Rouge LA 70809",30.4070116,-91.0990183,,Contracting
-R102_5562 Adams Ave_REED,Charlean  Reed,"5562 Adams Ave, Baton Rouge LA 70806",30.4693613,-91.1335967,,Contracting
-R103_3345 Gerlando Dr_HAMILTON,Vanessa Hamilton,"3345 Gerlando Dr, Baton Rouge LA 70814",30.4804262,-91.1075947,,Contracting
-R104_4075 Noah St_PICOT,Barbara Picot,"4075 Noah St, Baton Rouge LA 70802",30.462881,-91.149796,,Contracting
-R105_2569 74th Ave_WYRE,Rosie Wyre,"2569 74th Ave, Baton Rouge LA 70807",30.5162669,-91.1658543,,Contracting
-R106_743 N 37th St_ALLEN,Lynda Allen,"743 N 37th St, Baton Rouge LA 70802",30.4552231,-91.152809,,Contracting
-R107_5309 Jackson Ave_BANKS,Ida Banks,"5309 Jackson Ave, Baton Rouge LA 70806",30.4669056,-91.1360314,,Contracting
-R108_4151 Joseph St_DAVIS,Toye Davis,"4151 Joseph St, Baton Rouge LA 70805",30.4883281,-91.1421896,,Contracting
-R109_3055 Juban Ave_COLLINS,Gloria Collins,"3055 Juban Ave, Baton Rouge LA 70805",30.4772676,-91.1219238,,Contracting
-R110_1950 Stafford Dr_VARNADO,Jan Varnado,"1950 Stafford Dr, Baton Rouge LA 70810",30.3644589,-91.0693465,,Contracting
-R111_1412 N 31st St_STERLING,Virginia Sterling,"1412 N 31st St, Baton Rouge LA 70802",30.4617981,-91.1574662,,Contracting
-R112_309 Ingleside Dr_SCOTT,Warren  Scott,"309 Ingleside Dr, Baton Rouge LA 70806",30.4463913,-91.1452074,,Contracting
-R113_4235 Thames Dr_COLLINS,Bernadine  Collins,"4235 Thames Dr, Baton Rouge LA 70814",30.4898494,-91.0447924,,Contracting
-R114_3714 Beech St_BLONIA,Rosa Blonia,"3714 Beech St, Baton Rouge LA 70805",30.495247,-91.1521528,,Contracting
-R115_6136 Glen Oaks Dr_SCOTT,Qunitha Scott,"6136 Glen Oaks Dr, Baton Rouge LA 70811",30.51082,-91.128885,,Contracting
-R116_11866 Baylor St_HART,Christine  Hart,"11866 Baylor St, Baton Rouge LA 70816",30.429377,-91.0507286,,Contracting
-R117_7724 Wimbeldon Ave_WALKER,Estelle Walker,"7724 Wimbeldon Ave, Baton Rouge LA 70810",30.379508,-91.0878605,,Contracting
-R118_5927 St Katherine Ave_CARTER,Lynda Carter,"5927 St Katherine Ave, Baton Rouge LA 70805",30.499157,-91.131561,,Contracting
-R119_6168 Calion Dr_JOHNSON,Mary Lee Johnson,"6168 Calion Dr, Baton Rouge LA 70812",30.5082357,-91.1128623,,Contracting
-R120_214 S Eugene St_BETZ,Rose Betz,"214 S Eugene St, Baton Rouge LA 70806",30.4467613,-91.1607026,,Contracting
-R121_2100 N 39th St_JACKSON,Lizzie Jackson,"2100 N 39th St, Baton Rouge LA 70802",30.4674534,-91.1511779,,Contracting
-R122_3956 Provost St_ALBERT,Olevia Albert,"3956 Provost St, Baton Rouge LA 70802",30.459954,-91.150758,,Contracting
-R123_13465 Briar Hollow Ave_HERBERT,Leola  Herbert,"13465 Briar Hollow Ave, Baton Rouge LA 70810",30.358949,-91.0746846,,Contracting
-R124_404 Elmer Ave_CARTER,Gustina  Carter,"404 Elmer Ave, Baton Rouge LA 70807",30.537476,-91.1949379,,Contracting
-R125_5755 Dutton Ave_BRECKENRIDGE,Gloria Breckenridge,"5755 Dutton Ave, Baton Rouge LA 70805",30.502506,-91.146147,,Contracting
-R126_517 N 17th St_BROWN ,Loretta Brown ,"517 N 17th St, Baton Rouge LA 70802",30.452465,-91.1720676,,Contracting
-R127_2544 Elvin Dr_EZEBUNWO,Estella Ezebunwo,"2544 Elvin Dr, Baton Rouge LA 70810",30.3443821,-91.1308609,,Contracting
-R128_6836 Oakwood Dr_BRUMSKILL,Gloria Brumskill,"6836 Oakwood Dr, Baton Rouge LA 70811",30.5130282,-91.1350584,,Contracting
-R129_8727 Thelma St_JACKSON,Mable Jackson,"8727 Thelma St, Baton Rouge LA 70807",30.5264443,-91.1755454,,Contracting
-R130_4849 Paige St_JACKSON,Cherlyn Jackson,"4849 Paige St, Baton Rouge LA 70811",30.51721,-91.142737,,Contracting
-R131_2860 Eaton St_BELL,Michelle Bell,"2860 Eaton St, Baton Rouge LA 70805",30.4743507,-91.1456802,,Contracting
-R132_3142 Chippewa Street _JOHNSON ,Linda Johnson ,"3142 Chippewa Street , Baton Rouge LA 70805",30.4730332,-91.1574928,,Contracting
-R133_9907 Avenue B_THOMPSON,Tommy Lee Thompson,"9907 Avenue B, Baton Rouge LA 70807",30.5346472,-91.1906884,,Contracting
+﻿Owner,FullPropertyAddrews,latitude,longitude
+Lucille Anderson,"6655 Brownfields Dr, Baton Rouge LA 70811",30.5560381,-91.1223547
+Janice Harris,"3560 Dalton St, Baton Rouge LA 70805",30.4737718,-91.1540651
+Charmaine Valentine,"8379 McClelland Dr, Baton Rouge LA 70811",30.5246542,-91.1376446
+Peter Ketchens,"3645 Evangeline St, Baton Rouge LA 70805",30.492988,-91.1532777
+Maggie Hollins,"2843 72nd Ave, Baton Rouge LA 70807",30.514905,-91.1620902
+Jessie Montgomery,"1542 Kaufman Ave, Baton Rouge LA 70807",30.5094733,-91.1760442
+Dianne Harris,"5336 Adams Ave, Baton Rouge LA 70806",30.4692956,-91.1359954
+Helen Salim,"3415 Adams Ave, Baton Rouge LA 70802",30.4689035,-91.155115
+Bettie Jefferson,"336 McCastle Ave, Baton Rouge LA 70807",30.576529,-91.203965
+Lois Marie Beals,"2908 Sherwood St. , Baton Rouge LA 70805",30.4892564,-91.1606839
+Angela Bynum,"5852 St. Gerard Ave , Baton Rouge LA 70805",30.4958733,-91.1319102
+Willie Christopher,"2950 Linwood St , Baton Rouge LA 70805",30.4745057,-91.1729684
+Celestine Davis,"2041 West Belfair Dr. , Baton Rouge LA 70805",30.4667707,-91.1469413
+Alfreda Watson,"2548 Hollywood St. , Baton Rouge LA 70805",30.4991377,-91.1649032
+Julia Ross,"831 N 40th St, Baton Rouge LA 70802",30.4561543,-91.1505311
+Geraldine Scott,"3027 Newton St , Baton Rouge LA 70802",30.4587417,-91.1585457
+Theresa Gray,"2005 N 16th Street, Baton Rouge LA 70802",30.4657694,-91.1736432
+Angela Williams,"2251 Plantation Dr, Baton Rouge LA 70807",30.5552755,-91.1683914
+Veronica Magee,"640 Arlington Ave, Baton Rouge LA 70806",30.4426566,-91.1592588
+Sheryl Ray,"10562 Big Bend Ave, Baton Rouge LA 70814",30.4800483,-91.066377
+Lawrence Smith,"1974 Mission Dr, Baton Rouge LA 70802",30.4664767,-91.1445419
+Evelyn Mearidy,"5624 Robertson Ave, Baton Rouge LA 70805",30.5010897,-91.1424426
+Ernest Jones,"6125 Byron St, Baton Rouge LA 70805",30.4947746,-91.1289122
+Joyce McKay,"4544 E Brookstown Dr, Baton Rouge LA 70805",30.4922476,-91.1279043
+Shantele Paul,"5645 Shelley Ct, Baton Rouge LA 70805",30.4921695,-91.1336717
+Edna London,"4060 Topeka St, Baton Rouge LA 70805",30.4864601,-91.1609646
+Emile Chauvin,"9929 Groner Ave, Baton Rouge LA 70809",30.3951334,-91.0765559
+Alvaina Johnson,"1619 Theron Dr, Baton Rouge LA 70810",30.386306,-91.10943
+Lois Paul,"8782 Sharon Hills , Baton Rouge LA 70811",30.5308046,-91.1297835
+Tezana Richard,"5455 Sumrall Dr, Baton Rouge LA 70811",30.5136032,-91.1361828
+Shirley Jarrell,"6822 E Upland Ave, Baton Rouge LA 70812",30.5154652,-91.1236661
+Newman Snell Jr,"6869 Monarch St, Baton Rouge LA 70812",30.5167291,-91.1231415
+Marie Simmons,"3844 W Wendover Dr, Baton Rouge LA 70814",30.4858325,-91.046438
+Thelma Williams,"4247 Norwich Dr, Baton Rouge LA 70814",30.4896161,-91.0458396
+Fannietta Anderson,"4515 Thames Dr, Baton Rouge LA 70814",30.4916711,-91.0448111
+Marilyn Dugas,"11564 Pamela Dr, Baton Rouge LA 70815",30.461018,-91.0550783
+Shirley Williams,"224 Evergreen Dr, Baton Rouge LA 70806",30.4460521,-91.1632998
+Juanita Allen,"6660 Cambridge St, Baton Rouge LA 70807",30.5109921,-91.1620902
+Zenetta Thompson,"5556 Adams Ave, Baton Rouge LA 70806",30.4693325,-91.1337698
+Ezekiel Young Jr,"2532 68th Ave, Baton Rouge LA 70807",30.5115432,-91.1658783
+Carol Miller,"4943 Bardwell Dr , Baton Rouge LA 70808",30.4293487,-91.1376952
+Henry Devold,"2510 Laurel St, Baton Rouge LA 70802",30.4509299,-91.1625403
+Mary Christopher,"5431 Washington Ave, Baton Rouge LA 70806",30.4664245,-91.1350209
+Mary Bowman,"970 N. 47th St, Baton Rouge LA 70802",30.4571961,-91.1424071
+Toni Jones,"5055 Clayton Dr, Baton Rouge LA 70805",30.4916226,-91.1396687
+"Andrew Scott, Sr","3836 Adams Ave, Baton Rouge LA 70802",30.4686642,-91.1516279
+Patricia Bird,"1826 Arkansas St, Baton Rouge LA 70802",30.4308742,-91.1709797
+Sandra Pearson,"2215 Gen Cleburne Ave, Baton Rouge LA 70810",30.34675,-91.1278254
+Kenneth Austin,"7295 Prescott Rd, Baton Rouge LA 70812",30.4889854,-91.1168097
+Joannah Mason,"3961 Monroe Ave, Baton Rouge LA 70802",30.4697849,-91.1508124
+John Jones,"2936 Adams Ave, Baton Rouge LA 70802",30.4683722,-91.15924
+April Wolsefer,"14222 Florida Blvd, Baton Rouge LA 70819",30.4633429,-91.0269736
+Lois Sims,"2703 Michelli Dr, Baton Rouge LA 70805",30.4732392,-91.1273757
+Rose Stevens,"4935 Beech St, Baton Rouge LA 70805",30.495994,-91.1413368
+Annie Wright,"3563 Osceola Ave, Baton Rouge LA 70805",30.4806451,-91.1653532
+Rosa Lee Davis,"2640 Jay St, Baton Rouge LA 70807",30.5258536,-91.1662162
+Vanessa Archille,"724 N. 47th Street, Baton Rouge LA 70802",30.4549776,-91.1422927
+Lionel and Earlean Early,"147 Van Buren St. , Baton Rouge LA 70802",30.4296734,-91.1827514
+Margot Ann Fleet,"5821 Tarrytown Avenue, Baton Rouge LA 70808",30.4161309,-91.1250712
+Erika Allen,"2834 Iberia St, Baton Rouge LA 70805",30.4956534,-91.1621652
+William Early,"2725 Michelli Dr , Baton Rouge LA 70805",30.4735545,-91.1273383
+Mandy Fields,"5025 Hermitage Dr, Baton Rouge LA 70806",30.4608092,-91.1391814
+Eric Brown,"2015 N Acadian Thwy E, Baton Rouge LA 70802",30.4665923,-91.1555756
+Jonnie Cage,"4866 Oaklan Dr, Baton Rouge LA 70811",30.5119312,-91.1422552
+Joseph Taylor,"11227 Flamingo Dr, Baton Rouge LA 70814",30.4858399,-91.0567525
+Margaret Sterling,"3000 Slate St, Baton Rouge LA 70802",30.4600936,-91.1573277
+Anthony Singleton,"7035 N Buttonwood Dr, Baton Rouge LA 70812",30.5154353,-91.1271509
+Dena Owens,"5122 Fullerton Ave, Baker LA 70714",30.5832736,-91.1440546
+Sarah Price,"2550 Chaney Dr, Baton Rouge LA 70805",30.5024639,-91.1651657
+Andre Moton,"6208 Casper St, Baton Rouge LA 70805",30.5056954,-91.1659534
+Adele Reed,"13952 Alsen Heights Pkwy, Baton Rouge LA 70807",30.5726859,-91.2042851
+Verna Turner,"8380 S Essen Heights, Baton Rouge LA 70809",30.4070113,-91.0990558
+Charlean Reed,"5562 Adams Ave, Baton Rouge LA 70806",30.4693613,-91.1335967
+Vanessa Hamilton,"3345 Gerlando Dr, Baton Rouge LA 70814",30.4804485,-91.1076134
+Barbara Picot,"4075 Noah St, Baton Rouge LA 70802",30.462881,-91.149796
+Rosie Wyre,"2569 74th Ave, Baton Rouge LA 70807",30.5162656,-91.1658783
+Ida Banks,"5309 Jackson Ave, Baton Rouge LA 70806",30.4668835,-91.1360315
+Toye Davis,"4151 Joseph St, Baton Rouge LA 70805",30.4883166,-91.1422177
+Gloria Collins,"3055 Juban Ave, Baton Rouge LA 70805",30.4772676,-91.1219238
+Jan Varnado,"1950 Stafford Dr, Baton Rouge LA 70810",30.3644589,-91.0693465
+Virginia Sterling,"1412 N 31st St, Baton Rouge LA 70802",30.4617982,-91.1574723
+Warren Scott,"309 Ingleside Dr, Baton Rouge LA 70806",30.4463575,-91.1452167
+Rosa Blonia,"3714 Beech St, Baton Rouge LA 70805",30.495247,-91.1521528
+Qunitha Scott,"6136 Glen Oaks Dr, Baton Rouge LA 70811",30.51082,-91.128885
+Christine Hart,"11866 Baylor St, Baton Rouge LA 70816",30.429377,-91.0507286
+Estelle Walker,"7724 Wimbeldon Ave, Baton Rouge LA 70810",30.379508,-91.0878605
+Lynda Carter,"5927 St Katherine Ave, Baton Rouge LA 70805",30.499157,-91.131561
+Rose Betz,"214 S Eugene St, Baton Rouge LA 70806",30.4467613,-91.1607026
+Lizzie Jackson,"2100 N 39th St, Baton Rouge LA 70802",30.4674534,-91.1511779
+Olevia Albert,"3956 Provost St, Baton Rouge LA 70802",30.4600111,-91.1507092
+Leola Herbert,"13465 Briar Hollow Ave, Baton Rouge LA 70810",30.358949,-91.0746846
+Gustina Carter,"404 Elmer Ave, Baton Rouge LA 70807",30.537476,-91.1949379
+Gloria Breckenridge,"5755 Dutton Ave, Baton Rouge LA 70805",30.5025222,-91.1459802
+Estella Ezebunwo,"2544 Elvin Dr, Baton Rouge LA 70810",30.3443821,-91.1308609
+Gloria Brumskill,"6836 Oakwood Dr, Baton Rouge LA 70811",30.5130279,-91.1350959
+Mable Jackson,"8727 Thelma St, Baton Rouge LA 70807",30.5264443,-91.1755454
+Cherlyn Jackson,"4849 Paige St, Baton Rouge LA 70811",30.51721,-91.142737
+Michelle Bell,"2860 Eaton St, Baton Rouge LA 70805",30.474295,-91.1457041
+Linda Johnson,"3142 Chippewa Street , Baton Rouge LA 70805",30.4730215,-91.157515
+Tommy Lee Thompson,"9907 Avenue B, Baton Rouge LA 70807",30.5348773,-91.191579
+Ronnie Blueford,"173 Louise Street, Baton Rouge LA 70802",30.4341066,-91.1831448
+Sophia Harris,"7374 Yorkshire St, Baton Rouge LA 70807",30.5162153,-91.1614152
+Janice Badon,"4727 Oaklon Dr, Baton Rouge LA 70811",30.5124145,-91.1435672
+Lisa White,"4253 Beech St, Baton Rouge LA 70805",30.4958296,-91.1472787
+Evanda Cole,"2557 Hollywood St, Baton Rouge LA 70805",30.4996062,-91.1644705
+Kevin Schley,"2878 78th Ave, Baton Rouge LA 70807",30.518652,-91.16261
+Theresa Batiste,"2336 E. Kaufman St, Baton Rouge LA 70807",30.5100635,-91.1678851
+Carolyn Matthews,"9922 Judson Court, Zachary LA 70791",30.700331,-91.0738238
+James Matthews,"1930 Bay Street, Baton Rouge LA 70802",30.462218,-91.1692371
+Patricia Mitchell,"310 South 17th St, Baton Rouge LA 70802",30.4443513,-91.171111
+Nancy Phillips,"2655 Washington Ave, Baton Rouge LA 70802",30.4654024,-91.161809
+Eliza Porter,"1251 N. 38th St, Baton Rouge LA 70802",30.4597833,-91.1523121
+Joe Pugh,"3170 Evangeline St, Baton Rouge LA 70805",30.4924069,-91.157965
+Eva Revish,"12254 Palmyra Dr, Baton Rouge LA 70807",30.5570121,-91.1652407
+Cynthia Wessinger,"3078 Seneca St, Baton Rouge LA 70805",30.4713079,-91.157965
+Joseph Batiste,"2258 78th Ave, Baton Rouge LA 70807",30.5183909,-91.1696293
+Joyce Lewis,"361 Elmer Ave, Baton Rouge LA 70807",30.5382576,-91.1965248
+Mary McQuarter,"5774 Fairfields Ave, Baton Rouge LA 70806",30.4676691,-91.1315729
+Deloris Turner,"7044 Coronet Dr, Baton Rouge LA 70812",30.5151781,-91.1178025
+Jessie Roe,"4033 Billops Street, Baton Rouge LA 70802",30.4609969,-91.1498762
+Shirley Roe,"2128 Vickers Dr, Baton Rouge LA 70805",30.4683226,-91.0503465
+Lillie Allen,"6432 Ingram Drive, Baton Rouge LA 70812",30.5119011,-91.1091304
+Lorinza Angel,"7314 Dan Drive, Baton Rouge LA 70812",30.5020403,-91.1169689
+Charlene Atkins,"6065 Clayton Dr. , Baton Rouge LA 70805",30.4916209,-91.1294743
+Marguerite Bernard,"3461 Oswego St. , Baton Rouge LA 70805",30.4807594,-91.1549838
+Joyce Jones,"6260 Buttonwood, LA 70812",30.5083678,-91.12614
+Lucille Fort,"3053 Bootsie Dr., Baton Rouge LA 70805",30.476563,-91.1332219
+Marcia Taylor,"1716 N. 38th, Baton Rouge LA 70802",30.4637567,-91.1520028
+Marsharae Cage,"5476 Oaklan Drive, Baton Rouge LA 70811",30.5122109,-91.1359579
+Olivia Neal,"7324 Sussex St, Baton Rouge LA 70807",30.515354,-91.160545
+Latashia Weston,"5455 Silverleaf, Baton Rouge LA 70812",30.5004727,-91.1253897
+Bertha Coates,"8655 Edwin St, Baton Rouge LA 70807",30.5261867,-91.1628403
+Alvin & Martha Penn,"4977 Beech St, Baton Rouge LA 70805",30.4960645,-91.1409807
+Grace Estes,"4164 Lorraine St, Baton Rouge LA 70805",30.4962243,-91.1484409
+Sharon E Edwards,"2615 Laurel St, Baton Rouge LA 70802",30.4513659,-91.1615839
+Tammi Williams,"13644 Broad Ct, Baton Rouge LA 70810",30.367689,-91.0653619
+Loria Robinson,"9442 Wild Valley Rd, Baton Rouge LA 70810",30.3699755,-91.1134553
+Gloria Sipplin,"3842 Beech St, Baton Rouge LA 70805",30.4953016,-91.1510654
+Mary H Cornelius,"1876 Thomas Delpit Dr., Baton Rouge LA 70802",30.4300656,-91.177104
+Ethel Jones,"12336 King Charles Ave, Baton Rouge LA 70810",30.3669919,-91.0822827
+Dianne Williams,"1172 Village Park Dr, Baton Rouge LA 70810",30.3828149,-91.1123143
+Safronia Amos,"2933 Hollywood St, Baton Rouge LA 70805",30.4997111,-91.1611151
+Joseph & Betty Ledet,"3455 Gore Rd, Baton Rouge LA 70807",30.552847,-91.158254
+Larry Emanuel,"1836 Kansas St, Baton Rouge LA 70802",30.4306145,-91.1786235
+Richard Hamilton,"706 E. Grant St., Baton Rouge LA 70802",30.4226848,-91.1758191
+Evelyn Bailey,"3556 Eleanor Dr, Baton Rouge LA 70805",30.4814653,-91.1385817
+Horace Hayes,"7022 Poinsettia Dr, Baton Rouge LA 70812",30.509132,-91.1200504
+Rose Jefferson,"3021 N Ardenwood Dr, Baton Rouge LA 70805",30.4769013,-91.1305236
+Amy Darensburg,"1055 Columbus Dunn, Baton Rouge LA 70802",30.4580184,-91.144467
+Brenda Gurvin,"2917 Laurel St, Baton Rouge LA 70802",30.4514157,-91.15849
+Brenda Hutchinson,"2924 Madison Ave, Baton Rouge LA 70802",30.4675798,-91.1595363
+Ethel Hearson,"647 N 36th St, Baton Rouge, LA 70802",30.4542266,-91.1535589
+[owner unknown],"1619 Gurlie Dr, Baton Rouge, LA 70810",30.3850669,-91.106883
+Norma Reed,"2941 Brady St, Baton Rouge, LA 70805",30.474993,-91.1596994
+Pamela Haines,"1935 N 18th St, Baton Rouge, LA 70802",30.465383,-91.1715799
+Augustus Fisher,"7072 Palace Dr, Baton Rouge, LA 70811",30.5151655,-91.13236
+Ro-Montee Willaims,"6776 E Monarch Ave, Baton Rouge, LA 70812",30.5163175,-91.1239284
+Mary Singleton,"4460 Paige St, Baton Rouge, LA 70811",30.5167513,-91.1465289
+Diana Hall,"440 Peachtree Blvd, Baton Rouge, LA 70806",30.4519216,-91.1521528
+Ferma Lee,"128 N 23rd St, Baton Rouge, LA 70806",30.4486255,-91.1639868
+Paula Franklin,"5243 Hammond St, Baton Rouge, LA 70805",30.4976373,-91.1307859
+[owner unknown],"13801 Longvue Dr, Baker, LA 70714",30.5727742,-91.1469413
+Frankie Briggs,"248 E Holly St, Baton Rouge, LA 70819",30.461129,-91.024238
+[owner unknown],"750 E Grant St, Baton Rouge, LA 70802",30.4226435,-91.1754064
