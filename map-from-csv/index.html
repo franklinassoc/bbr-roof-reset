@@ -64,14 +64,14 @@
  
   var customLayer = L.geoJson(null, {
     onEachFeature: function(feature, layer) {
-   layer.bindPopup(feature.properties.caseID);
+   layer.bindPopup(feature.properties.Owner);
     }
    });
  var runLayer = omnivore.csv('data.csv', null, customLayer)
    .on('ready', function() {
     map.fitBounds(runLayer.getBounds());
    }).addTo(map);
-   controlLayers.addOverlay(customLayer, 'Roof Reset Cases');
+   controlLayers.addOverlay(customLayer, 'Completed Roof Reset Cases');
   </script>
 
 </body>
